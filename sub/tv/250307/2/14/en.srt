@@ -1,0 +1,4989 @@
+1
+00:00:06,688 --> 00:00:09,768
+- Dr. Al-Hashimi, you OK?
+
+2
+00:00:09,808 --> 00:00:12,728
+- Did you ever notice anything
+unusual about her behavior?
+
+3
+00:00:12,768 --> 00:00:14,288
+- Um, this morning,
+
+4
+00:00:14,288 --> 00:00:16,368
+when she was checking labs
+on Baby Jane Doe,
+
+5
+00:00:16,408 --> 00:00:18,448
+it was like she zoned out
+for a few seconds.
+
+6
+00:00:18,488 --> 00:00:19,528
+[cheers]
+
+7
+00:00:19,568 --> 00:00:20,528
+- Hey.
+- All right.
+
+8
+00:00:20,568 --> 00:00:21,528
+- Not so fast.
+
+9
+00:00:21,568 --> 00:00:23,368
+Every chart from
+the last five hours
+
+10
+00:00:23,408 --> 00:00:25,568
+needs to be scanned into
+the electronic health record.
+
+11
+00:00:25,608 --> 00:00:26,648
+- Are you kidding me?
+
+12
+00:00:26,688 --> 00:00:27,968
+- That's gonna take forever.
+
+13
+00:00:28,008 --> 00:00:29,128
+- Why are you jonesing
+so hard to get out
+
+14
+00:00:29,168 --> 00:00:30,328
+and start your ride tonight?
+
+15
+00:00:30,368 --> 00:00:32,208
+- I just have to get going.
+
+16
+00:00:32,248 --> 00:00:33,968
+- You stay,
+and I'll get together
+
+17
+00:00:34,008 --> 00:00:35,448
+everything you'll need at home.
+
+18
+00:00:36,568 --> 00:00:37,528
+Orlando.
+
+19
+00:00:37,568 --> 00:00:38,808
+Oh, my God.
+
+20
+00:00:38,848 --> 00:00:40,808
+- You let him leave?
+
+21
+00:00:40,848 --> 00:00:42,048
+- He knew the risks.
+
+22
+00:00:42,088 --> 00:00:43,848
+We honored his decision
+to leave.
+
+23
+00:00:43,848 --> 00:00:46,128
+- Please, sign out all
+this shit that's bugging you
+
+24
+00:00:46,168 --> 00:00:47,328
+and get out of here.
+
+25
+00:00:47,368 --> 00:00:48,488
+- I can't.
+
+26
+00:00:48,528 --> 00:00:50,528
+- We'll all manage
+until you come back.
+
+27
+00:00:50,568 --> 00:00:51,568
+We always do.
+
+28
+00:00:51,608 --> 00:00:53,768
+- Yeah, what if
+I don't come back?
+
+29
+00:00:53,808 --> 00:00:56,168
+[tense music]
+
+30
+00:01:07,648 --> 00:01:10,688
+[indistinct chatter]
+
+31
+00:01:16,968 --> 00:01:18,768
+- What's up, Ghost Rider?
+- You good?
+
+32
+00:01:18,808 --> 00:01:19,928
+- Never better.
+
+33
+00:01:19,968 --> 00:01:21,608
+- OK, kids, bye-bye time.
+
+34
+00:01:21,648 --> 00:01:23,968
+Thanks for the trip
+down memory lane.
+
+35
+00:01:24,008 --> 00:01:25,328
+Um, where's Evans?
+
+36
+00:01:25,328 --> 00:01:27,728
+- Uh, I think
+she's by the family room.
+
+37
+00:01:27,768 --> 00:01:29,208
+- She is.
+
+38
+00:01:29,248 --> 00:01:30,608
+- Hey, hey, hey,
+where are you going?
+
+39
+00:01:30,648 --> 00:01:32,248
+I'm not gonna scan
+all this by myself.
+
+40
+00:01:32,288 --> 00:01:33,928
+- Cruz has a question
+on my cellulitis.
+
+41
+00:01:33,968 --> 00:01:35,408
+I'll be right back.
+- You better.
+
+42
+00:01:35,448 --> 00:01:36,808
+- Two minutes tops.
+- Where's Mel?
+
+43
+00:01:36,848 --> 00:01:38,208
+Where's Donnie?
+
+44
+00:01:38,248 --> 00:01:39,808
+They should be helping you.
+- I don't know.
+
+45
+00:01:39,808 --> 00:01:41,408
+- OK, day shift, listen up.
+
+46
+00:01:41,408 --> 00:01:43,488
+We're doing really well,
+but we still got a ways to go.
+
+47
+00:01:43,528 --> 00:01:45,808
+And nobody's going home
+until all these paper charts
+
+48
+00:01:45,848 --> 00:01:47,368
+are digitized, including me.
+
+49
+00:01:47,408 --> 00:01:49,528
+- And then we're free
+to celebrate our freedom?
+
+50
+00:01:49,568 --> 00:01:50,408
+- Exactly.
+
+51
+00:01:50,448 --> 00:01:51,808
+- Well, can you kick some ass
+
+52
+00:01:51,848 --> 00:01:52,928
+and get the staff to hurry up
+
+53
+00:01:52,968 --> 00:01:54,088
+on the EHR home pages?
+
+54
+00:01:54,088 --> 00:01:55,848
+- Where are Larry and Antoine?
+
+55
+00:01:55,888 --> 00:01:57,088
+- Antoine's fighting
+on the phone
+
+56
+00:01:57,088 --> 00:01:58,368
+with his girlfriend outside.
+
+57
+00:01:58,408 --> 00:02:01,208
+And Larry's on a cafeteria run.
+
+58
+00:02:01,248 --> 00:02:03,648
+- Yeah, that tracks.
+
+59
+00:02:03,688 --> 00:02:05,768
+- We've got five patients
+in beds waiting to be seen.
+
+60
+00:02:05,768 --> 00:02:07,968
+How do you want to play this--
+man to man or zone?
+
+61
+00:02:07,968 --> 00:02:09,328
+- The zone.
+
+62
+00:02:09,368 --> 00:02:11,048
+Have Cruz and Ellis split up
+the new five.
+
+63
+00:02:11,088 --> 00:02:12,368
+You take North and Central.
+
+64
+00:02:12,408 --> 00:02:14,128
+I'll take South and Trauma.
+- Cool.
+
+65
+00:02:14,168 --> 00:02:15,408
+Want to switch at 1:00 AM?
+
+66
+00:02:15,408 --> 00:02:16,288
+- Why?
+
+67
+00:02:16,328 --> 00:02:17,448
+- Variety is the spice of life.
+
+68
+00:02:17,488 --> 00:02:19,008
+- I thought that was garlic.
+
+69
+00:02:19,048 --> 00:02:22,008
+- Oh, sorry.
+
+70
+00:02:22,048 --> 00:02:23,928
+[sighs]
+I told you I'd be fast.
+
+71
+00:02:23,968 --> 00:02:26,008
+OK, let's do this
+and get out of here.
+
+72
+00:02:26,048 --> 00:02:27,088
+- What's the hurry?
+
+73
+00:02:27,128 --> 00:02:28,488
+Got some hay to pitch?
+
+74
+00:02:28,528 --> 00:02:29,848
+- Ha.
+
+75
+00:02:29,888 --> 00:02:31,248
+[bell chimes]
+
+76
+00:02:31,288 --> 00:02:33,048
+Oh, shoot.
+- What?
+
+77
+00:02:33,088 --> 00:02:35,528
+- Uh, my ID badge is missing.
+
+78
+00:02:35,568 --> 00:02:36,768
+- Oh, no.
+The one you just got?
+
+79
+00:02:36,808 --> 00:02:38,088
+How'd you lose it?
+
+80
+00:02:38,128 --> 00:02:39,088
+- I don't know.
+It must have come off.
+
+81
+00:02:39,128 --> 00:02:40,368
+- Classic.
+
+82
+00:02:40,368 --> 00:02:41,848
+Hope you remember
+your login and password.
+
+83
+00:02:41,888 --> 00:02:42,968
+- OK. Retrace your steps.
+
+84
+00:02:43,008 --> 00:02:44,368
+Where'd you have it last?
+
+85
+00:02:44,368 --> 00:02:47,088
+- Uh, I was with Ogilvie
+in the Ambulance Bay.
+
+86
+00:02:47,128 --> 00:02:49,208
+- Not with Colonel Mustard
+in the library?
+
+87
+00:02:49,248 --> 00:02:51,448
+- Who's--what?
+
+88
+00:02:51,488 --> 00:02:52,648
+No.
+
+89
+00:02:53,888 --> 00:02:56,408
+- The boy has no clue.
+
+90
+00:02:57,048 --> 00:03:00,488
+[machine dinging]
+
+91
+00:03:00,488 --> 00:03:02,728
+- Please don't do that.
+
+92
+00:03:02,768 --> 00:03:04,328
+- Oh, ma'am, I gotta go.
+
+93
+00:03:04,368 --> 00:03:07,328
+I sit here any longer,
+I'm gonna get bedsores.
+
+94
+00:03:09,248 --> 00:03:12,208
+I--I'm supposed to get
+some CT results.
+
+95
+00:03:12,248 --> 00:03:14,768
+Any idea how much longer
+that's gonna be?
+
+96
+00:03:14,808 --> 00:03:17,168
+- Shouldn't be much longer.
+
+97
+00:03:17,168 --> 00:03:19,808
+- Where's that Nurse Vivi?
+
+98
+00:03:19,848 --> 00:03:21,408
+- You don't want any of that.
+
+99
+00:03:21,408 --> 00:03:23,608
+- No?
+- No, she's out of your league.
+
+100
+00:03:23,608 --> 00:03:25,568
+- What league do you think
+I play in?
+
+101
+00:03:25,608 --> 00:03:28,408
+- Uh, old timer's night.
+- [laughs]
+
+102
+00:03:28,448 --> 00:03:29,928
+Yeah, you're probably right.
+
+103
+00:03:29,968 --> 00:03:33,248
+But some teams still appreciate
+a veteran presence.
+
+104
+00:03:33,288 --> 00:03:35,408
+- Well, don't say
+I didn't warn you.
+
+105
+00:03:35,448 --> 00:03:37,208
+You are here for your heart,
+after all.
+
+106
+00:03:37,248 --> 00:03:38,808
+- My heart's been
+broken before.
+
+107
+00:03:38,848 --> 00:03:40,248
+What's one more time?
+
+108
+00:03:40,288 --> 00:03:42,328
+- Uh, she's engaged
+to a jujitsu instructor.
+
+109
+00:03:42,328 --> 00:03:44,048
+- With a bang,
+not a whimper, baby.
+
+110
+00:03:44,088 --> 00:03:45,408
+- [laughs]
+
+111
+00:03:45,448 --> 00:03:46,968
+- And it's a cool bath
+a couple times a day
+
+112
+00:03:46,968 --> 00:03:49,768
+for two days, followed by
+aloe vera to your skin.
+
+113
+00:03:49,808 --> 00:03:51,048
+- OK, that's it?
+
+114
+00:03:51,088 --> 00:03:53,248
+- And sunscreen in your future.
+
+115
+00:03:53,288 --> 00:03:56,248
+- No, I'm never going outside
+ever again.
+
+116
+00:03:56,288 --> 00:03:59,648
+- I wouldn't swear off the sun
+entirely, you know?
+
+117
+00:03:59,648 --> 00:04:02,248
+But like most things,
+moderation.
+
+118
+00:04:02,248 --> 00:04:03,448
+- Hey, we're getting
+kind of shorthanded
+
+119
+00:04:03,488 --> 00:04:04,768
+scanning charts out here.
+
+120
+00:04:04,808 --> 00:04:06,288
+When you finish,
+can you come lend a hand?
+
+121
+00:04:06,288 --> 00:04:07,328
+- Yeah, happy to.
+
+122
+00:04:07,368 --> 00:04:08,648
+- Thank you.
+
+123
+00:04:10,408 --> 00:04:12,328
+- And by happy to,
+I mean there is nothing
+
+124
+00:04:12,368 --> 00:04:14,128
+I would rather do less.
+
+125
+00:04:14,168 --> 00:04:16,648
+- They keep you pretty busy.
+
+126
+00:04:16,688 --> 00:04:20,968
+- Yeah, and today has brought
+some new challenges.
+
+127
+00:04:20,968 --> 00:04:22,168
+This is really putting a crimp
+
+128
+00:04:22,168 --> 00:04:24,368
+in my 4th of July
+evening plans.
+
+129
+00:04:24,408 --> 00:04:26,808
+- You're going to see
+the fireworks?
+
+130
+00:04:26,808 --> 00:04:30,328
+- Uh, no, I was gonna maybe
+meet up with this guy,
+
+131
+00:04:30,368 --> 00:04:32,008
+though that's sounding
+less appealing
+
+132
+00:04:32,048 --> 00:04:34,408
+than the three Bs
+at this point.
+
+133
+00:04:34,448 --> 00:04:36,328
+- The three Bs?
+
+134
+00:04:37,088 --> 00:04:39,408
+- Book, bath, and bed.
+
+135
+00:04:39,448 --> 00:04:41,968
+- College kid with mono
+and hemorrhagic tonsils,
+
+136
+00:04:42,008 --> 00:04:43,728
+admit med-surge or observation?
+
+137
+00:04:43,768 --> 00:04:44,608
+- Uh, observation.
+
+138
+00:04:44,648 --> 00:04:46,128
+Bleeding stopped with TXA.
+
+139
+00:04:46,168 --> 00:04:47,488
+She's had steroids,
+so should be
+
+140
+00:04:47,528 --> 00:04:48,928
+ready for discharge
+in the morning.
+
+141
+00:04:48,968 --> 00:04:50,528
+- Cool.
+
+142
+00:04:50,568 --> 00:04:52,368
+How was your first shift back?
+
+143
+00:04:52,368 --> 00:04:55,088
+- Uh, slow start,
+finding my rhythm.
+
+144
+00:04:55,128 --> 00:04:56,288
+- [chuckles]
+
+145
+00:04:56,328 --> 00:04:58,168
+You a little rusty,
+Rusty James?
+
+146
+00:04:58,168 --> 00:05:00,688
+Now you won't have Motorcycle
+Boy to big brother you.
+
+147
+00:05:00,728 --> 00:05:02,608
+- Is that a "Rumble Fish"
+reference?
+
+148
+00:05:02,608 --> 00:05:03,768
+- Sure is.
+
+149
+00:05:03,808 --> 00:05:06,648
+- And Robby is my big brother
+in this analogy?
+
+150
+00:05:06,688 --> 00:05:07,648
+- Bingo.
+
+151
+00:05:07,688 --> 00:05:08,968
+- Yeah, I wouldn't say
+he's been
+
+152
+00:05:09,008 --> 00:05:10,648
+looking out for me exactly.
+
+153
+00:05:10,688 --> 00:05:12,248
+I think he'd probably prefer
+
+154
+00:05:12,288 --> 00:05:13,808
+not to see me at all
+today, actually.
+
+155
+00:05:13,848 --> 00:05:16,728
+- And you think that's
+because he's mad at you?
+
+156
+00:05:16,768 --> 00:05:21,688
+- I think he feels like
+I let him down, because I did.
+
+157
+00:05:21,728 --> 00:05:23,808
+- Jesus, with all
+the martyrs around here,
+
+158
+00:05:23,848 --> 00:05:25,408
+you'd think this was
+a passion play.
+
+159
+00:05:25,448 --> 00:05:27,368
+- What's your take?
+
+160
+00:05:29,168 --> 00:05:30,448
+- I worked with that man
+for 10 months
+
+161
+00:05:30,488 --> 00:05:31,808
+while you were gone.
+
+162
+00:05:31,848 --> 00:05:33,408
+He's not mad at you.
+
+163
+00:05:33,408 --> 00:05:36,728
+He's mad at himself
+for failing you, Rusty James.
+
+164
+00:05:36,768 --> 00:05:38,048
+- Really?
+
+165
+00:05:38,088 --> 00:05:39,248
+- [sighs]
+
+166
+00:05:39,288 --> 00:05:41,808
+Just more
+White Knight/White noise.
+
+167
+00:05:41,848 --> 00:05:43,448
+That's how it is.
+
+168
+00:05:45,488 --> 00:05:47,168
+- Share this video
+with your friends if you can.
+
+169
+00:05:47,208 --> 00:05:48,448
+Thank you so much.
+
+170
+00:05:48,488 --> 00:05:50,408
+Be kind, be safe, be brave.
+
+171
+00:05:50,448 --> 00:05:51,488
+- What you doing?
+
+172
+00:05:51,528 --> 00:05:53,048
+- Dr. Robby, sorry.
+
+173
+00:05:53,088 --> 00:05:54,048
+I was just--
+
+174
+00:05:54,088 --> 00:05:55,408
+- One of your TikToks? Yeah.
+
+175
+00:05:55,448 --> 00:05:56,888
+About those, listen,
+I'm not so sure that--
+
+176
+00:05:56,928 --> 00:05:58,768
+- No, no, I was just sharing--
+- No, I get it.
+
+177
+00:05:58,768 --> 00:06:00,368
+I just--you know,
+we do have HIPAA laws here.
+
+178
+00:06:00,368 --> 00:06:01,888
+We don't let anybody film--
+
+179
+00:06:01,928 --> 00:06:03,288
+- I would never violate
+any HIPAA laws, Dr. Robby.
+
+180
+00:06:03,328 --> 00:06:04,488
+I swear it.
+- I understand.
+
+181
+00:06:04,528 --> 00:06:05,488
+Even still,
+we're getting behind
+
+182
+00:06:05,528 --> 00:06:06,568
+on scanning patient charts.
+
+183
+00:06:06,608 --> 00:06:07,568
+So how about no TikTok
+
+184
+00:06:07,608 --> 00:06:10,448
+on the company clock, Dr. J?
+
+185
+00:06:10,488 --> 00:06:12,408
+- Dr. Robby, I think you're--
+
+186
+00:06:12,448 --> 00:06:13,768
+- Out of touch? Probably.
+
+187
+00:06:13,808 --> 00:06:15,288
+You wouldn't be the first
+to accuse me of it.
+
+188
+00:06:15,328 --> 00:06:16,848
+However, when I was
+in medical school--
+
+189
+00:06:16,888 --> 00:06:18,768
+- You didn't have cell phones
+or TikTok
+
+190
+00:06:18,808 --> 00:06:21,408
+or internet or ICE agents
+coming in here
+
+191
+00:06:21,448 --> 00:06:23,968
+and taking away patients
+and staff.
+
+192
+00:06:25,808 --> 00:06:27,448
+I get it.
+
+193
+00:06:30,928 --> 00:06:34,768
+- We did have cell phones,
+maybe not in the beginning.
+
+194
+00:06:39,248 --> 00:06:40,368
+Where do you think
+you're going?
+
+195
+00:06:40,408 --> 00:06:41,888
+- Uh, home.
+
+196
+00:06:41,928 --> 00:06:44,168
+- I kind of need you
+to hang out a little longer
+
+197
+00:06:44,208 --> 00:06:46,288
+and help digitize some of these
+analog patient records.
+
+198
+00:06:46,328 --> 00:06:47,648
+- Normally, I would, truly.
+
+199
+00:06:47,688 --> 00:06:51,968
+But I gotta get home--
+wife, baby, bed.
+
+200
+00:06:52,008 --> 00:06:53,888
+- OK.
+Go get some rest.
+
+201
+00:06:53,888 --> 00:06:55,208
+You sure you're OK
+to drive home?
+
+202
+00:06:55,248 --> 00:06:56,208
+- Absolutely.
+
+203
+00:06:56,248 --> 00:06:58,168
+Just enough in the tank.
+
+204
+00:06:58,208 --> 00:07:00,248
+- Don't tell anybody
+I let you go.
+
+205
+00:07:00,288 --> 00:07:01,488
+- Deal.
+
+206
+00:07:01,528 --> 00:07:02,888
+Safe travels.
+
+207
+00:07:02,928 --> 00:07:05,128
+Be sure to send some pictures
+from the road.
+
+208
+00:07:21,808 --> 00:07:23,608
+- Fight over at
+Zazu's Sports Bar.
+
+209
+00:07:23,648 --> 00:07:25,128
+The two combatants
+are pulling up soon.
+
+210
+00:07:25,168 --> 00:07:26,328
+One's a stabbing.
+
+211
+00:07:26,368 --> 00:07:27,328
+- Ellis, double trauma
+coming in.
+
+212
+00:07:27,368 --> 00:07:28,408
+Grab the easy one.
+
+213
+00:07:28,448 --> 00:07:29,488
+Bring the stabbing to Trauma 2.
+
+214
+00:07:29,528 --> 00:07:31,048
+We will get the room set up.
+
+215
+00:07:31,088 --> 00:07:33,288
+- All right. Roger.
+
+216
+00:07:33,328 --> 00:07:37,728
+- OK, darling, time for this
+dinosaur to head to extinction.
+
+217
+00:07:37,728 --> 00:07:39,248
+- Got us through
+a real jam today.
+
+218
+00:07:39,288 --> 00:07:41,408
+Can't thank you enough, Monica.
+
+219
+00:07:41,448 --> 00:07:42,608
+- Nice place to visit.
+
+220
+00:07:42,648 --> 00:07:44,168
+Wouldn't want to live here
+anymore.
+
+221
+00:07:44,168 --> 00:07:46,008
+- Oh, me, neither some days.
+
+222
+00:07:46,048 --> 00:07:47,248
+- But hey, Virginia Slim,
+
+223
+00:07:47,288 --> 00:07:49,248
+you've come a long way.
+
+224
+00:07:49,288 --> 00:07:51,408
+Glad I was wrong about you.
+
+225
+00:07:51,448 --> 00:07:52,848
+Keep training 'em up right.
+
+226
+00:07:52,888 --> 00:07:54,048
+- I'll try.
+
+227
+00:07:54,088 --> 00:07:55,568
+- OK, that's enough mush.
+
+228
+00:07:55,608 --> 00:07:57,488
+Back to my life
+of mahjong and margaritas.
+
+229
+00:07:57,528 --> 00:07:59,048
+Bye, Evans.
+- Get home safe.
+
+230
+00:07:59,088 --> 00:08:00,688
+- I will. See ya.
+
+231
+00:08:00,728 --> 00:08:01,768
+- Bye.
+
+232
+00:08:05,368 --> 00:08:06,968
+[sighs] She's right.
+
+233
+00:08:07,008 --> 00:08:10,288
+You are the mama bear glue
+that holds this place together.
+
+234
+00:08:14,608 --> 00:08:17,168
+Hey, you OK?
+
+235
+00:08:17,208 --> 00:08:18,568
+- No.
+
+236
+00:08:18,608 --> 00:08:21,368
+I'm sad or scared,
+
+237
+00:08:21,408 --> 00:08:25,008
+or some fucking thing.
+
+238
+00:08:25,008 --> 00:08:26,648
+I'm worried.
+
+239
+00:08:26,648 --> 00:08:28,728
+- What's going on?
+
+240
+00:08:28,768 --> 00:08:30,448
+- Robby. I got a bad feeling.
+
+241
+00:08:30,448 --> 00:08:32,048
+He's...
+
+242
+00:08:32,088 --> 00:08:34,128
+it's like I'm never going
+to see him again after tonight.
+
+243
+00:08:34,168 --> 00:08:35,408
+- Did he say something?
+
+244
+00:08:35,448 --> 00:08:36,768
+- Yeah,
+he said a lot of things.
+
+245
+00:08:36,808 --> 00:08:38,448
+You should talk to him.
+He listens to you.
+
+246
+00:08:38,488 --> 00:08:39,688
+- He's a grown-up.
+
+247
+00:08:39,728 --> 00:08:42,128
+He just needs to go
+on a vacation.
+
+248
+00:08:42,168 --> 00:08:43,808
+- Can't you at least try
+
+249
+00:08:43,848 --> 00:08:46,248
+to get him to promise
+to come back in one piece?
+
+250
+00:08:47,768 --> 00:08:50,128
+- He doesn't like to listen.
+
+251
+00:08:50,168 --> 00:08:51,808
+- So make him.
+
+252
+00:08:56,568 --> 00:08:58,088
+- [sighs]
+
+253
+00:08:58,128 --> 00:08:59,128
+- Fuck it. Check my DMs.
+
+254
+00:08:59,168 --> 00:09:00,408
+She hit me up.
+
+255
+00:09:00,448 --> 00:09:02,288
+Sure, baby.
+I didn't even respond.
+
+256
+00:09:02,328 --> 00:09:03,888
+[siren wailing]
+- Scavenger hunt?
+
+257
+00:09:03,928 --> 00:09:05,088
+- Yeah, something like that.
+
+258
+00:09:05,128 --> 00:09:06,128
+You need a hand?
+
+259
+00:09:06,168 --> 00:09:07,728
+- Nope. You do you.
+
+260
+00:09:09,968 --> 00:09:11,008
+What do we got?
+
+261
+00:09:11,048 --> 00:09:13,008
+- Barrett Dunkle, 34,
+decent vitals
+
+262
+00:09:13,048 --> 00:09:15,488
+given he has Old Glory
+jammed in his chest.
+
+263
+00:09:15,528 --> 00:09:19,168
+Satting 91 on 15 liters,
+BP 132 over 87,
+
+264
+00:09:19,168 --> 00:09:20,688
+tachy at 112.
+
+265
+00:09:20,728 --> 00:09:21,888
+- Dr. Abbot's expecting you.
+
+266
+00:09:21,928 --> 00:09:24,448
+- Whoa, whoa, whoa,
+whoa, whoa, man!
+
+267
+00:09:24,488 --> 00:09:26,888
+- What the fuck?
+- I'll call you back, baby.
+
+268
+00:09:29,288 --> 00:09:30,248
+- Shit.
+
+269
+00:09:30,288 --> 00:09:31,288
+I thought I cleared it.
+
+270
+00:09:31,328 --> 00:09:32,288
+Was it sticking out?
+
+271
+00:09:32,328 --> 00:09:34,168
+- Sticking out, my ass!
+
+272
+00:09:34,208 --> 00:09:35,448
+Man, this is on you.
+
+273
+00:09:35,488 --> 00:09:36,808
+You went wide,
+and you clipped the shit.
+
+274
+00:09:36,848 --> 00:09:38,488
+- Bikes shouldn't be
+parked there.
+
+275
+00:09:38,528 --> 00:09:40,288
+It was sticking out. Had to be.
+
+276
+00:09:40,288 --> 00:09:42,488
+- Ain't no fucking way.
+
+277
+00:09:42,528 --> 00:09:44,128
+Oh, no, you paying for this.
+
+278
+00:09:44,168 --> 00:09:46,008
+Either you or the city,
+but you paying for this!
+
+279
+00:09:46,048 --> 00:09:47,608
+- Seriously?
+We don't need this hassle.
+
+280
+00:09:47,648 --> 00:09:48,728
+- I know. I know.
+
+281
+00:09:48,728 --> 00:09:50,408
+Fuck! How bad is it?
+
+282
+00:09:50,448 --> 00:09:51,408
+- Not really good.
+
+283
+00:09:51,448 --> 00:09:52,568
+- Fuck!
+
+284
+00:09:52,568 --> 00:09:53,568
+- Is that you,
+you motherfucker?
+
+285
+00:09:53,608 --> 00:09:55,128
+- Yeah, you better believe it!
+
+286
+00:09:55,168 --> 00:09:56,728
+I'm gonna take this thing
+out of my chest
+
+287
+00:09:56,768 --> 00:09:58,648
+and shove it up
+your fucking ass!
+
+288
+00:09:58,688 --> 00:10:00,608
+- You hit me with a fucking
+Rolling Rock, man.
+
+289
+00:10:00,608 --> 00:10:01,848
+So you got Iwo Jima'd!
+
+290
+00:10:01,888 --> 00:10:03,368
+- You fucking cheated, man.
+
+291
+00:10:03,408 --> 00:10:04,568
+Every detail must be--
+
+292
+00:10:04,608 --> 00:10:06,568
+- OK, say bye-bye, gentlemen!
+
+293
+00:10:06,608 --> 00:10:08,248
+You're on different
+health journeys now.
+
+294
+00:10:08,248 --> 00:10:09,728
+- I'm going to go see Ahmad.
+
+295
+00:10:09,768 --> 00:10:12,288
+It's all gonna be
+on the security video.
+
+296
+00:10:13,568 --> 00:10:14,888
+- Robby's gonna shit.
+
+297
+00:10:14,928 --> 00:10:17,168
+[grunting]
+
+298
+00:10:17,208 --> 00:10:19,128
+OK.
+[panting]
+
+299
+00:10:19,168 --> 00:10:20,568
+Hey, a little help?
+
+300
+00:10:20,608 --> 00:10:22,128
+- All right, he's going
+straight to Trauma 2.
+
+301
+00:10:22,128 --> 00:10:23,168
+What is his story?
+
+302
+00:10:23,208 --> 00:10:24,688
+- Bottle to the face,
+strong vitals,
+
+303
+00:10:24,728 --> 00:10:25,768
+12-centimeter facial lac.
+
+304
+00:10:25,808 --> 00:10:27,168
+Yeah, where do you want us?
+
+305
+00:10:27,208 --> 00:10:29,648
+- North 4 just got cleaned.
+- To the North.
+
+306
+00:10:29,688 --> 00:10:31,888
+- Abbot, single MVA en route.
+Five away.
+
+307
+00:10:31,928 --> 00:10:33,808
+- Olive, can you find Robby
+and Al-Hashimi?
+
+308
+00:10:33,808 --> 00:10:35,088
+We may need a couple more hands
+
+309
+00:10:35,128 --> 00:10:36,648
+until we get caught up
+with these two.
+
+310
+00:10:36,688 --> 00:10:37,968
+Sir, we are gonna get you
+more pain meds...
+
+311
+00:10:38,008 --> 00:10:39,128
+- It hurts.
+
+312
+00:10:39,168 --> 00:10:40,568
+- But you need to shut
+your fucking mouth.
+
+313
+00:10:40,608 --> 00:10:41,968
+- The acronym is SMART,
+
+314
+00:10:42,008 --> 00:10:44,208
+Single Maintenance
+and Reliever Therapy.
+
+315
+00:10:44,248 --> 00:10:47,288
+It's one inhaler that combines
+an inhaled corticosteroid
+
+316
+00:10:47,288 --> 00:10:50,008
+with a fast-acting,
+long-lasting beta agonist.
+
+317
+00:10:50,048 --> 00:10:52,728
+That's fancy talk
+for an anti-inflammatory
+
+318
+00:10:52,768 --> 00:10:55,608
+and a lung muscle relaxer
+all rolled into one.
+
+319
+00:10:55,648 --> 00:10:57,928
+- But it's $400.
+And without Medicaid--
+
+320
+00:10:57,968 --> 00:10:59,928
+- We can help you look
+into coverage options.
+
+321
+00:10:59,968 --> 00:11:01,768
+- Thank you.
+- Of course.
+
+322
+00:11:01,768 --> 00:11:04,048
+- Grady should feel worlds
+better in a few hours.
+
+323
+00:11:04,088 --> 00:11:05,928
+- Thank you.
+
+324
+00:11:05,968 --> 00:11:10,128
+- So what are my chances
+of getting off the table alive?
+
+325
+00:11:10,168 --> 00:11:12,848
+- Once you're cleared by
+the heart and lung specialists
+
+326
+00:11:12,848 --> 00:11:17,008
+next week, chances of death
+are low, like 1% or 2%.
+
+327
+00:11:17,048 --> 00:11:19,608
+- And how long would I
+be in surgery for?
+
+328
+00:11:19,648 --> 00:11:22,408
+- Between three and five hours.
+
+329
+00:11:22,448 --> 00:11:23,568
+- Jeez.
+
+330
+00:11:23,608 --> 00:11:24,928
+- It's long...
+[clears throat]
+
+331
+00:11:24,968 --> 00:11:28,288
+Because they have to stop
+your heart.
+
+332
+00:11:28,328 --> 00:11:31,448
+You will be on a heart-lung
+bypass machine,
+
+333
+00:11:31,488 --> 00:11:34,528
+which will be circulating
+your blood while they repair
+
+334
+00:11:34,568 --> 00:11:36,648
+the aneurysm with the graft.
+
+335
+00:11:36,688 --> 00:11:38,768
+- Well, what's the graft
+made out of?
+
+336
+00:11:38,808 --> 00:11:43,168
+- A synthetic fabric called
+Dacron, super strong.
+
+337
+00:11:43,208 --> 00:11:44,408
+- OK.
+
+338
+00:11:44,448 --> 00:11:46,448
+New hoses, new gaskets.
+
+339
+00:11:46,488 --> 00:11:48,088
+Then what happens
+after surgery?
+
+340
+00:11:48,128 --> 00:11:50,608
+- You will be in the hospital
+for about a week.
+
+341
+00:11:50,648 --> 00:11:52,488
+No work for eight weeks
+after that,
+
+342
+00:11:52,528 --> 00:11:53,848
+no strenuous activity,
+
+343
+00:11:53,888 --> 00:11:57,128
+no lifting anything
+over 5 pounds.
+
+344
+00:11:57,168 --> 00:12:00,488
+- How am I supposed
+to take a piss?
+
+345
+00:12:00,528 --> 00:12:02,368
+- Nice.
+
+346
+00:12:02,408 --> 00:12:05,248
+- [sighs]
+
+347
+00:12:05,288 --> 00:12:08,448
+And how long till
+I'm back up to full speed?
+
+348
+00:12:08,488 --> 00:12:12,048
+- Three months, maybe more
+like six, given your age.
+
+349
+00:12:13,888 --> 00:12:16,008
+- And if I don't
+get the surgery?
+
+350
+00:12:18,088 --> 00:12:20,688
+- 50% chance of death
+within 12 months
+
+351
+00:12:20,728 --> 00:12:22,368
+if the aneurysm ruptures.
+
+352
+00:12:23,288 --> 00:12:26,528
+- What would I feel
+if it ruptured?
+
+353
+00:12:28,408 --> 00:12:30,968
+- Some chest pain,
+maybe some shortness of breath
+
+354
+00:12:31,008 --> 00:12:33,608
+for about a minute before you
+passed out from blood loss.
+
+355
+00:12:33,648 --> 00:12:35,568
+- And then?
+
+356
+00:12:35,608 --> 00:12:36,848
+The big fade out?
+
+357
+00:12:36,888 --> 00:12:39,688
+- Roll the credits.
+
+358
+00:12:39,728 --> 00:12:42,968
+- [breathes deeply]
+
+359
+00:12:45,488 --> 00:12:47,608
+Quite the coin flip.
+
+360
+00:12:47,608 --> 00:12:49,648
+- No coin flip.
+This has to happen.
+
+361
+00:12:49,688 --> 00:12:52,448
+But I do worry that you are not
+gonna make your appointments
+
+362
+00:12:52,488 --> 00:12:55,328
+or follow your aftercare
+instructions if I'm not here.
+
+363
+00:12:55,368 --> 00:12:57,408
+- Sorry, Robby,
+Abbot asked for me to grab you
+
+364
+00:12:57,448 --> 00:12:58,848
+for an MVA on route.
+
+365
+00:13:01,088 --> 00:13:02,288
+- Do what you gotta do, man.
+
+366
+00:13:02,328 --> 00:13:04,328
+I gotta sit with this
+for a minute.
+
+367
+00:13:06,088 --> 00:13:08,808
+- You go ahead and get dressed.
+
+368
+00:13:08,848 --> 00:13:10,528
+I'll come back.
+
+369
+00:13:16,568 --> 00:13:19,608
+- [speaking Spanish]
+
+370
+00:13:38,128 --> 00:13:40,128
+- Monica got an ICU bed
+upstairs
+
+371
+00:13:40,128 --> 00:13:42,488
+so we can take Orlando up now.
+
+372
+00:13:42,528 --> 00:13:44,728
+- We'll prep him for transfer.
+- Thanks, hon.
+
+373
+00:13:44,768 --> 00:13:46,608
+We need this room again
+in a minute.
+
+374
+00:13:46,648 --> 00:13:49,848
+- [crying]
+
+375
+00:13:57,928 --> 00:13:59,208
+- All good?
+
+376
+00:13:59,248 --> 00:14:01,648
+- Uh, totally.
+
+377
+00:14:01,648 --> 00:14:04,008
+- Uh, totally?
+
+378
+00:14:04,048 --> 00:14:06,288
+- Look, once more,
+I feel compelled
+
+379
+00:14:06,328 --> 00:14:11,008
+to offer some unasked for
+and probably unwanted advice.
+
+380
+00:14:11,888 --> 00:14:14,168
+Javadi wasn't making
+a TikTok video.
+
+381
+00:14:14,208 --> 00:14:15,808
+She's been posting about Jesse,
+
+382
+00:14:15,848 --> 00:14:18,128
+trying to find someone
+who knows where he is.
+
+383
+00:14:18,168 --> 00:14:20,288
+- Ah.
+
+384
+00:14:20,328 --> 00:14:23,128
+- And even if she were
+making one of her videos,
+
+385
+00:14:23,168 --> 00:14:24,488
+you ever watched one?
+
+386
+00:14:24,528 --> 00:14:25,888
+- No.
+
+387
+00:14:25,928 --> 00:14:27,648
+No, my account was suspended
+
+388
+00:14:27,688 --> 00:14:30,048
+for erotically seditious
+content.
+
+389
+00:14:30,088 --> 00:14:32,008
+- Well, they're not
+what you think.
+
+390
+00:14:32,048 --> 00:14:33,328
+They're actually kind of cool.
+
+391
+00:14:33,368 --> 00:14:35,648
+It's like this badass
+self-care.
+
+392
+00:14:35,648 --> 00:14:37,608
+- Huh.
+
+393
+00:14:37,648 --> 00:14:38,968
+- OK, that is it.
+
+394
+00:14:39,008 --> 00:14:40,568
+I'm going to bury myself
+in charting
+
+395
+00:14:40,608 --> 00:14:41,768
+and try to dig my way out.
+
+396
+00:14:41,808 --> 00:14:43,008
+- Edith Lynch, 46,
+
+397
+00:14:43,048 --> 00:14:44,608
+right-sided chest pain
+for an hour.
+
+398
+00:14:44,648 --> 00:14:45,888
+No cardiac history,
+
+399
+00:14:45,928 --> 00:14:47,328
+minimal relief
+from sublingual nitro,
+
+400
+00:14:47,368 --> 00:14:48,968
+no STEMI on the 12-lead.
+- Dana?
+
+401
+00:14:49,008 --> 00:14:51,168
+- South 15.
+
+402
+00:14:51,208 --> 00:14:52,888
+- Hi, Edith.
+I'm Dr. Al-Hashimi.
+
+403
+00:14:52,928 --> 00:14:54,848
+We'll be taking care
+of you today.
+
+404
+00:14:54,888 --> 00:14:57,168
+- Absent lung sliding
+on the right.
+
+405
+00:14:57,168 --> 00:14:58,608
+- I could have told you that
+from here.
+
+406
+00:14:58,648 --> 00:15:00,008
+God bless America.
+
+407
+00:15:00,008 --> 00:15:01,568
+- Hemodynamically stable.
+
+408
+00:15:01,608 --> 00:15:03,528
+I'll put in a 20 French,
+and then right up to the OR.
+
+409
+00:15:03,568 --> 00:15:05,288
+- Whoa, whoa, whoa!
+Hold on!
+
+410
+00:15:05,328 --> 00:15:06,248
+I need surgery?
+
+411
+00:15:06,288 --> 00:15:07,848
+- Sir, you have
+a collapsed lung.
+
+412
+00:15:07,848 --> 00:15:09,048
+We need to put a tube
+in your chest to see
+
+413
+00:15:09,088 --> 00:15:10,408
+how much internal bleeding
+there is.
+
+414
+00:15:10,448 --> 00:15:12,048
+- Oh, come on, man,
+just pull it out!
+
+415
+00:15:12,088 --> 00:15:13,488
+- Nuh-uh.
+- No.
+
+416
+00:15:13,488 --> 00:15:15,528
+- OK, everyone knows
+what to do here, right?
+
+417
+00:15:15,568 --> 00:15:18,408
+We're gonna take this at a nice
+slow pace, moving together.
+
+418
+00:15:18,448 --> 00:15:20,048
+If anyone has an issue,
+speak up.
+
+419
+00:15:20,088 --> 00:15:22,128
+There are a lot
+of moving parts here.
+
+420
+00:15:22,128 --> 00:15:23,848
+- Are they going up
+to ICU finally?
+
+421
+00:15:23,888 --> 00:15:24,848
+- Yes.
+- Great.
+
+422
+00:15:24,888 --> 00:15:26,248
+How you doing?
+
+423
+00:15:26,288 --> 00:15:27,808
+- Is that a trick question,
+or--
+
+424
+00:15:27,848 --> 00:15:29,968
+- Not intended to be, no.
+
+425
+00:15:29,968 --> 00:15:31,528
+- Then not great.
+
+426
+00:15:31,568 --> 00:15:33,248
+This one got past me.
+
+427
+00:15:33,288 --> 00:15:36,008
+- Well, listen, you tried
+to find a viable payment plan.
+
+428
+00:15:36,048 --> 00:15:37,568
+You tried to keep him here.
+
+429
+00:15:37,608 --> 00:15:39,528
+You even tried to give him
+a goodie bag, but he left.
+
+430
+00:15:39,568 --> 00:15:40,848
+I'm not sure what else
+you could have done.
+
+431
+00:15:40,888 --> 00:15:42,448
+- Been more persuasive.
+
+432
+00:15:42,448 --> 00:15:45,688
+- This was the patient's call--
+his life, his mistake.
+
+433
+00:15:45,728 --> 00:15:47,888
+- What mistake,
+getting diabetes?
+
+434
+00:15:47,888 --> 00:15:50,648
+- Not picking a higher spot
+to jump from.
+
+435
+00:16:00,848 --> 00:16:02,488
+- History of hyperlipidemia,
+
+436
+00:16:02,528 --> 00:16:04,888
+an hour of substernal
+chest pain,
+
+437
+00:16:04,928 --> 00:16:07,608
+minimal relief with nitro
+and 4 of MS.
+
+438
+00:16:07,608 --> 00:16:09,408
+EKG is negative for STEMI.
+
+439
+00:16:09,448 --> 00:16:13,848
+Heart score is 4, gave 324
+milligrams of chewable aspirin,
+
+440
+00:16:13,888 --> 00:16:15,448
+admit for new onset angina.
+
+441
+00:16:15,488 --> 00:16:17,448
+- Don't mind me.
+I'm just passing through.
+
+442
+00:16:17,488 --> 00:16:19,128
+- Seemed like you wanted
+an update.
+
+443
+00:16:19,168 --> 00:16:20,688
+- Well, as long as you feel
+like you got it covered.
+
+444
+00:16:20,728 --> 00:16:22,088
+- I do.
+
+445
+00:16:22,088 --> 00:16:23,648
+Go ahead and repeat
+the 12-lead.
+
+446
+00:16:23,688 --> 00:16:25,488
+- Since I'm here, I did want
+to ask you about something
+
+447
+00:16:25,528 --> 00:16:26,728
+I observed earlier.
+
+448
+00:16:26,768 --> 00:16:28,008
+Oh, you gotta be
+fucking kidding me.
+
+449
+00:16:28,048 --> 00:16:29,408
+- What?
+
+450
+00:16:29,448 --> 00:16:31,168
+- Look where these
+anterior leads are placed.
+
+451
+00:16:31,208 --> 00:16:33,328
+They're way too low.
+[sustained beep]
+
+452
+00:16:33,368 --> 00:16:34,568
+- Holy shit!
+What's happening?
+
+453
+00:16:34,608 --> 00:16:36,568
+Mrs. Lynch?
+V-tach!
+
+454
+00:16:36,568 --> 00:16:37,728
+- No pulse.
+
+455
+00:16:37,768 --> 00:16:40,288
+Charge to 200.
+[machine whirs]
+
+456
+00:16:40,328 --> 00:16:41,568
+- Charged.
+
+457
+00:16:41,608 --> 00:16:43,528
+And clear.
+
+458
+00:16:43,568 --> 00:16:45,688
+[rhythmic beeping]
+- OK. Normal sinus.
+
+459
+00:16:45,728 --> 00:16:48,168
+- Strong pulse. Cycle a BP.
+
+460
+00:16:49,848 --> 00:16:51,328
+- Let's repeat
+that EKG, please.
+
+461
+00:16:51,368 --> 00:16:53,488
+Put the leads
+in the right fucking place.
+
+462
+00:16:53,488 --> 00:16:56,168
+Who were the medics on this?
+- Bosco and Otero.
+
+463
+00:16:56,208 --> 00:16:57,928
+- Bosco and Otero.
+
+464
+00:16:57,968 --> 00:17:00,848
+OK, Bosco and Otero.
+
+465
+00:17:00,888 --> 00:17:02,488
+- See you on Monday.
+
+466
+00:17:02,528 --> 00:17:04,568
+May your night go smoother
+than my day.
+
+467
+00:17:04,608 --> 00:17:06,088
+Happy 4th.
+
+468
+00:17:06,128 --> 00:17:07,968
+- Heard it's been crazy.
+They shut down when ICE came.
+
+469
+00:17:08,008 --> 00:17:10,168
+- Separate events.
+Get someone else to explain.
+
+470
+00:17:10,208 --> 00:17:11,408
+I'm going home.
+
+471
+00:17:11,448 --> 00:17:13,768
+Damn, what is that?
+That smells good.
+
+472
+00:17:13,808 --> 00:17:14,968
+- Food from home.
+
+473
+00:17:15,008 --> 00:17:16,448
+I can't do the cafeteria.
+
+474
+00:17:16,488 --> 00:17:18,048
+- Oh, you gotta give me
+that recipe.
+
+475
+00:17:18,088 --> 00:17:19,848
+I'm going home.
+- Get home safe.
+
+476
+00:17:19,848 --> 00:17:20,848
+- Mm-hmm.
+
+477
+00:17:20,848 --> 00:17:24,088
+[indistinct chatter]
+
+478
+00:17:24,128 --> 00:17:26,328
+- Hey.
+- Hey.
+
+479
+00:17:26,368 --> 00:17:28,128
+- I'm starving.
+- Of course.
+
+480
+00:17:28,168 --> 00:17:30,288
+- I will give you $20
+for whatever that smell is.
+
+481
+00:17:30,328 --> 00:17:31,608
+- [chuckles]
+I'll give you some.
+
+482
+00:17:31,648 --> 00:17:32,968
+I made too much anyway.
+- Thank you.
+
+483
+00:17:33,008 --> 00:17:34,128
+- Just give me a sec.
+- Yeah.
+
+484
+00:17:34,128 --> 00:17:35,488
+- How can I help you?
+
+485
+00:17:35,528 --> 00:17:36,728
+- My granddad just about
+cut his hand off
+
+486
+00:17:36,768 --> 00:17:38,048
+with a tug-of-war rope.
+
+487
+00:17:38,088 --> 00:17:40,608
+- Hi, I--I remember you
+from earlier.
+
+488
+00:17:40,648 --> 00:17:41,968
+You're having
+a family reunion, right?
+
+489
+00:17:41,968 --> 00:17:43,168
+- Yeah.
+
+490
+00:17:43,168 --> 00:17:44,568
+- Is your hand
+actively bleeding?
+
+491
+00:17:44,568 --> 00:17:47,568
+- Oh, not so bad.
+Here, take a look.
+
+492
+00:17:47,608 --> 00:17:49,048
+- Mateo, one to come
+straight back!
+
+493
+00:17:49,088 --> 00:17:51,088
+- Oh, my God.
+- Cover that up, please.
+
+494
+00:17:51,128 --> 00:17:53,088
+I'll need to get
+a demographics from you.
+
+495
+00:17:53,128 --> 00:17:54,568
+- You got them already.
+
+496
+00:17:54,608 --> 00:17:56,648
+Hansens been in and out
+of here all day long.
+
+497
+00:17:56,648 --> 00:17:57,648
+- How did this happen?
+
+498
+00:17:57,688 --> 00:17:59,048
+- He had the rope
+wrapped around his hand,
+
+499
+00:17:59,048 --> 00:18:00,408
+cut through it like a machete.
+
+500
+00:18:00,448 --> 00:18:02,288
+- Have a seat, sir.
+I'll take you right back.
+
+501
+00:18:02,288 --> 00:18:05,168
+- And how would you rate your
+pain on a scale from 1 to 10?
+
+502
+00:18:05,208 --> 00:18:09,168
+- Oh, it's not too bad
+on account of my sugars.
+
+503
+00:18:09,208 --> 00:18:11,728
+- With his diabetes,
+his sensation's a little off.
+
+504
+00:18:11,768 --> 00:18:12,728
+- Yeah.
+
+505
+00:18:12,768 --> 00:18:13,848
+- After you.
+
+506
+00:18:13,888 --> 00:18:14,848
+- Thanks.
+
+507
+00:18:14,888 --> 00:18:17,048
+- Ow.
+What the fuck?
+
+508
+00:18:17,088 --> 00:18:18,568
+- Trigeminal nerve is good.
+
+509
+00:18:18,608 --> 00:18:21,008
+- Shit!
+You gonna fix me or torture me?
+
+510
+00:18:21,048 --> 00:18:23,248
+- Ooh, ouch!
+
+511
+00:18:23,288 --> 00:18:25,368
+- Yeah, I need
+to call plastics.
+
+512
+00:18:25,408 --> 00:18:28,048
+- I called a "kiss off the two,
+off the rail."
+
+513
+00:18:28,088 --> 00:18:29,848
+Fucker said I didn't call it.
+
+514
+00:18:29,888 --> 00:18:33,048
+Okay, yes, it was a bit noisy.
+The fourth is Styx night.
+
+515
+00:18:33,088 --> 00:18:34,888
+But I called it.
+I have witnesses.
+
+516
+00:18:34,888 --> 00:18:36,368
+- Styx, the band?
+
+517
+00:18:36,408 --> 00:18:37,168
+- Yeah.
+
+518
+00:18:37,208 --> 00:18:38,288
+- Ah, love Styx.
+
+519
+00:18:38,328 --> 00:18:39,768
+- I never heard of them.
+
+520
+00:18:39,808 --> 00:18:41,728
+- You never heard of Styx?
+
+521
+00:18:41,728 --> 00:18:42,928
+"Mr. Roboto"?
+
+522
+00:18:42,928 --> 00:18:45,368
+- My Spotify age isn't 62.
+- [sighs]
+
+523
+00:18:45,408 --> 00:18:48,088
+"Come Sail Away"?
+"Lady"? "Babe"?
+
+524
+00:18:48,128 --> 00:18:49,368
+[groaning]
+
+525
+00:18:49,408 --> 00:18:51,728
+- Yeah, maybe best
+if you don't talk.
+
+526
+00:18:51,768 --> 00:18:54,648
+Looks like there's some sort
+of foreign body in there.
+
+527
+00:18:54,688 --> 00:18:56,168
+- Mm-hmm.
+
+528
+00:18:56,208 --> 00:18:57,568
+Are you OK?
+
+529
+00:18:57,608 --> 00:18:59,808
+- Yeah, it's just
+an awkward position.
+
+530
+00:18:59,848 --> 00:19:01,928
+- Go home.
+Rest, heat, ice.
+
+531
+00:19:01,968 --> 00:19:03,128
+- Yeah, no, no, I know.
+
+532
+00:19:03,168 --> 00:19:04,808
+I'm just waiting
+for things to slow down.
+
+533
+00:19:04,848 --> 00:19:07,648
+- You know, express trains
+don't stop at your station.
+
+534
+00:19:08,768 --> 00:19:10,888
+You just gotta jump.
+
+535
+00:19:10,888 --> 00:19:11,968
+- What is that?
+
+536
+00:19:12,008 --> 00:19:13,168
+Heineken?
+
+537
+00:19:13,208 --> 00:19:14,368
+Moosehead?
+
+538
+00:19:14,408 --> 00:19:15,528
+- Oh.
+
+539
+00:19:15,568 --> 00:19:18,288
+From the glass-lined tanks
+of Old Latrobe.
+
+540
+00:19:18,328 --> 00:19:20,488
+- Ah, Rolling Rock.
+
+541
+00:19:20,528 --> 00:19:21,568
+Nice.
+
+542
+00:19:26,008 --> 00:19:27,808
+- She's had four of morphine.
+
+543
+00:19:27,848 --> 00:19:29,208
+How's the pain?
+
+544
+00:19:29,208 --> 00:19:30,408
+- Down to an 8.
+
+545
+00:19:30,448 --> 00:19:32,008
+- There it is, lateral STEMI.
+
+546
+00:19:32,008 --> 00:19:33,208
+OK, call it in.
+
+547
+00:19:33,248 --> 00:19:34,728
+- The leads were too low
+to catch it?
+
+548
+00:19:34,768 --> 00:19:36,368
+- Yeah, it's not the first time
+it's happened.
+
+549
+00:19:36,408 --> 00:19:37,808
+You get a male medic
+who's more concerned about
+
+550
+00:19:37,848 --> 00:19:39,448
+getting sued or a complaint
+for undoing a bra.
+
+551
+00:19:39,448 --> 00:19:41,008
+You see these
+anterior leads here?
+
+552
+00:19:41,048 --> 00:19:42,328
+- Code STEMI, South 15.
+
+553
+00:19:42,368 --> 00:19:43,808
+- Edith, you're having
+a heart attack
+
+554
+00:19:43,848 --> 00:19:45,208
+from a blockage in the artery
+
+555
+00:19:45,248 --> 00:19:46,768
+that brings oxygen
+to your heart muscle.
+
+556
+00:19:46,808 --> 00:19:48,928
+If we get you to the--
+- Lateral STEMI, V-tach arrest.
+
+557
+00:19:48,968 --> 00:19:51,128
+Got her back after one shock.
+She needs the cath lab.
+
+558
+00:19:51,128 --> 00:19:52,688
+- And serious heart damage.
+- Oh, my God.
+
+559
+00:19:52,728 --> 00:19:55,488
+- You're going to be OK.
+- Hello, I'm Dr. Cruz.
+
+560
+00:19:55,528 --> 00:19:57,248
+- And I'm Dr. Shen.
+How are you feeling?
+
+561
+00:19:57,288 --> 00:19:58,568
+- I'm really scared.
+
+562
+00:19:58,608 --> 00:20:00,368
+- We've got you.
+Anything else?
+
+563
+00:20:00,408 --> 00:20:02,408
+- Uh, like I got kicked
+in the chest.
+
+564
+00:20:02,448 --> 00:20:04,208
+- Normal after
+a shock to the heart.
+
+565
+00:20:04,208 --> 00:20:05,808
+Family?
+- Yeah, husband's en route.
+
+566
+00:20:05,808 --> 00:20:07,608
+- Leave the defib pads on
+and take her up in a minute.
+
+567
+00:20:07,648 --> 00:20:09,088
+I'm gonna chaperone
+a nerve block real quick.
+
+568
+00:20:09,128 --> 00:20:10,368
+- Go.
+
+569
+00:20:12,168 --> 00:20:13,888
+- Where's Dr. Al-Hashimi?
+
+570
+00:20:13,928 --> 00:20:15,848
+- She was just here.
+
+571
+00:20:25,128 --> 00:20:27,288
+- Hello, everyone.
+I'm Dr. Shen.
+
+572
+00:20:27,328 --> 00:20:29,168
+Heard a rumor someone
+needed a nerve block.
+
+573
+00:20:29,168 --> 00:20:30,888
+I'm guessing that's you.
+
+574
+00:20:30,928 --> 00:20:32,728
+- Probably so, although,
+
+575
+00:20:32,768 --> 00:20:34,408
+you know,
+I don't have much pain.
+
+576
+00:20:34,408 --> 00:20:36,448
+I guess it's my diabetes.
+
+577
+00:20:36,488 --> 00:20:40,088
+- We still need to numb you up
+to do a proper deep clean.
+
+578
+00:20:40,128 --> 00:20:41,848
+- You guys do
+whatever you gotta do.
+
+579
+00:20:41,848 --> 00:20:44,408
+- Three shots, median,
+ulnar, and radial.
+
+580
+00:20:44,448 --> 00:20:46,288
+2 grams of Ancef,
+100 milligrams of Gent
+
+581
+00:20:46,328 --> 00:20:47,688
+for gram-negative coverage.
+
+582
+00:20:47,688 --> 00:20:48,768
+How'd you do this?
+
+583
+00:20:48,808 --> 00:20:51,488
+- Oh, a family reunion
+tug-of-war.
+
+584
+00:20:51,528 --> 00:20:53,648
+I wrapped the rope around
+my hand for better grip.
+
+585
+00:20:53,688 --> 00:20:56,888
+And when we fell down, those
+bastards just kept pulling.
+
+586
+00:20:56,928 --> 00:20:58,328
+- Dirty.
+
+587
+00:20:58,328 --> 00:21:00,928
+- Nah, it's just--
+just the way we play.
+
+588
+00:21:00,968 --> 00:21:03,568
+[laughs]
+
+589
+00:21:03,608 --> 00:21:05,168
+- Michael, you got a second?
+
+590
+00:21:05,208 --> 00:21:06,648
+- Uh, not really, no.
+
+591
+00:21:06,688 --> 00:21:08,688
+- Well, how about
+showing me a little respect
+
+592
+00:21:08,728 --> 00:21:10,808
+and finding one?
+
+593
+00:21:10,848 --> 00:21:11,928
+- Sorry, Caleb.
+
+594
+00:21:11,968 --> 00:21:13,328
+Are you feeling disrespected?
+
+595
+00:21:13,368 --> 00:21:15,328
+- Given that you've been
+actively blowing me off
+
+596
+00:21:15,368 --> 00:21:17,048
+all day, yeah,
+maybe a little bit.
+
+597
+00:21:17,048 --> 00:21:18,608
+But I have a thick skin.
+
+598
+00:21:19,848 --> 00:21:21,288
+- What can I do for you?
+
+599
+00:21:21,328 --> 00:21:24,248
+- "Should have found
+a higher place to jump from."
+
+600
+00:21:24,288 --> 00:21:26,728
+It's an interesting diagnosis,
+Doctor.
+
+601
+00:21:30,688 --> 00:21:32,208
+No pithy retort?
+
+602
+00:21:32,248 --> 00:21:34,248
+Yeah, I didn't think so.
+
+603
+00:21:34,288 --> 00:21:36,688
+Uh, I just came to say goodbye.
+
+604
+00:21:36,728 --> 00:21:38,248
+I'm leaving soon.
+
+605
+00:21:38,288 --> 00:21:40,048
+I know you are too.
+
+606
+00:21:41,328 --> 00:21:43,048
+- Yes.
+
+607
+00:21:44,288 --> 00:21:46,528
+- Keep my number handy,
+just in case, huh?
+
+608
+00:21:46,568 --> 00:21:48,728
+- Yes, I promise I will.
+
+609
+00:21:48,768 --> 00:21:50,008
+Thank you, Caleb.
+
+610
+00:21:52,128 --> 00:21:54,528
+- We're gonna give you one
+Diflucan pill to take home.
+
+611
+00:21:54,568 --> 00:21:57,448
+Take it in three days
+if your symptoms persist.
+
+612
+00:21:57,488 --> 00:21:59,288
+- How do I get there?
+
+613
+00:21:59,288 --> 00:22:00,808
+- Where's that?
+
+614
+00:22:00,848 --> 00:22:02,328
+- Home.
+
+615
+00:22:02,368 --> 00:22:03,568
+- Do you know where you live?
+
+616
+00:22:03,608 --> 00:22:05,528
+- Of course I do. It's not far.
+
+617
+00:22:05,528 --> 00:22:08,048
+But I don't have
+a way to get there.
+
+618
+00:22:09,168 --> 00:22:10,688
+- How'd you get here?
+
+619
+00:22:10,728 --> 00:22:13,168
+- My--my neighbor Gwen
+dropped me off,
+
+620
+00:22:13,208 --> 00:22:15,408
+but she can't drive at night.
+
+621
+00:22:15,448 --> 00:22:18,208
+- We could call you
+an Uber or a taxi.
+
+622
+00:22:18,208 --> 00:22:20,928
+- I don't have any money.
+
+623
+00:22:20,968 --> 00:22:22,648
+- Excuse me.
+
+624
+00:22:22,688 --> 00:22:24,128
+Can I help?
+
+625
+00:22:24,168 --> 00:22:25,888
+- Mrs. Clymer has
+been discharged,
+
+626
+00:22:25,928 --> 00:22:26,888
+but has no way home.
+
+627
+00:22:26,928 --> 00:22:27,928
+- I'm so sorry.
+
+628
+00:22:27,968 --> 00:22:28,928
+I don't mean to be a burden.
+
+629
+00:22:28,968 --> 00:22:30,248
+- No burden at all.
+
+630
+00:22:30,288 --> 00:22:33,168
+Why don't we call you a Lyft?
+
+631
+00:22:33,208 --> 00:22:34,448
+- What is that?
+
+632
+00:22:34,488 --> 00:22:35,728
+- It's like a taxi service.
+
+633
+00:22:35,728 --> 00:22:37,568
+If you put your address
+in here,
+
+634
+00:22:37,608 --> 00:22:40,128
+a car will arrive in a few
+minutes to bring you home.
+
+635
+00:22:40,168 --> 00:22:41,368
+- Oh.
+- My treat.
+
+636
+00:22:41,368 --> 00:22:42,568
+- [laughs]
+
+637
+00:22:42,568 --> 00:22:46,808
+That's very kind of you, truly.
+
+638
+00:22:46,848 --> 00:22:48,288
+- Perfect.
+
+639
+00:22:48,328 --> 00:22:50,328
+OK, Olive, could you take
+Mrs. Clymer out
+
+640
+00:22:50,368 --> 00:22:52,888
+to the ambulance bay,
+where Florian will be
+
+641
+00:22:52,928 --> 00:22:55,248
+arriving in six minutes
+in a white Toyota Camry?
+
+642
+00:22:55,248 --> 00:22:56,408
+- You bet.
+
+643
+00:22:56,448 --> 00:22:57,688
+- Thank you.
+
+644
+00:22:57,728 --> 00:23:00,008
+- I could use some good karma.
+
+645
+00:23:00,048 --> 00:23:01,848
+OK.
+
+646
+00:23:04,488 --> 00:23:06,888
+Oh, uh, hey.
+
+647
+00:23:08,328 --> 00:23:09,768
+- Relax, buddy.
+
+648
+00:23:09,808 --> 00:23:11,448
+It's Advil.
+
+649
+00:23:11,488 --> 00:23:13,888
+- No, I didn't think you were--
+
+650
+00:23:13,928 --> 00:23:15,168
+[sighs]
+
+651
+00:23:15,168 --> 00:23:16,768
+Headache?
+
+652
+00:23:16,768 --> 00:23:20,008
+- Uh, I tweaked my back
+a little
+
+653
+00:23:20,008 --> 00:23:22,648
+lifting that overheated kid.
+
+654
+00:23:22,688 --> 00:23:23,928
+I guess I should get used to
+
+655
+00:23:23,968 --> 00:23:26,728
+playing through the pain
+again, huh?
+
+656
+00:23:26,768 --> 00:23:29,288
+You look like you got into
+shape since I saw you last.
+
+657
+00:23:29,328 --> 00:23:31,248
+Didn't peg you as a gym guy.
+
+658
+00:23:31,288 --> 00:23:32,608
+- Oh, no.
+
+659
+00:23:32,648 --> 00:23:35,448
+I'm maybe more of a barn guy.
+[chuckles]
+
+660
+00:23:35,488 --> 00:23:38,688
+I'm helping out a friend
+on the farm, so...
+
+661
+00:23:40,168 --> 00:23:41,248
+- Nice.
+
+662
+00:23:41,288 --> 00:23:42,808
+I'm picturing "Babe,"
+
+663
+00:23:42,848 --> 00:23:44,648
+except instead of
+Farmer Hoggett, it's you.
+
+664
+00:23:44,688 --> 00:23:46,128
+And instead of a pig--
+
+665
+00:23:46,168 --> 00:23:48,048
+- Can you cut the shit?
+
+666
+00:23:49,528 --> 00:23:50,768
+- Excuse me?
+
+667
+00:23:50,808 --> 00:23:52,968
+- The sarcasm thing,
+the--the--the--
+
+668
+00:23:53,008 --> 00:23:54,808
+the little buddy routine,
+like--like--like,
+
+669
+00:23:54,808 --> 00:23:56,688
+you're what, you're
+the Skipper, I'm Gilligan?
+
+670
+00:23:56,728 --> 00:23:58,608
+Dude, you're not the Skipper.
+
+671
+00:23:58,648 --> 00:24:00,848
+- I know I'm not the Skipper.
+Robby is the Skipper.
+
+672
+00:24:00,848 --> 00:24:02,928
+- No, Robby is the Professor.
+Dana's the Skipper.
+
+673
+00:24:02,968 --> 00:24:04,768
+- OK, somebody's watched
+a lot of Nick at Nite.
+
+674
+00:24:04,808 --> 00:24:07,088
+So who am I?
+
+675
+00:24:07,128 --> 00:24:09,248
+- Play whatever part you like.
+
+676
+00:24:09,288 --> 00:24:11,688
+Just don't pick mine for me.
+
+677
+00:24:13,088 --> 00:24:14,368
+- OK.
+
+678
+00:24:14,408 --> 00:24:16,408
+OK, that's fair.
+
+679
+00:24:16,448 --> 00:24:18,128
+You got it.
+
+680
+00:24:18,168 --> 00:24:20,328
+- Thank you.
+
+681
+00:24:20,368 --> 00:24:22,648
+- You headed home?
+
+682
+00:24:22,688 --> 00:24:25,448
+- Uh, no, I'm waiting on Robby.
+
+683
+00:24:25,488 --> 00:24:27,088
+He asked me to house-sit
+while he's gone.
+
+684
+00:24:27,128 --> 00:24:30,168
+So I'm waiting for the keys,
+the alarm code.
+
+685
+00:24:31,448 --> 00:24:32,768
+- Nice. Nice.
+
+686
+00:24:32,808 --> 00:24:34,648
+Yeah, I've--
+I've seen his place.
+
+687
+00:24:34,688 --> 00:24:37,088
+You're in for a sweet setup.
+
+688
+00:24:37,128 --> 00:24:38,968
+- Cool.
+
+689
+00:24:39,008 --> 00:24:42,848
+I'm sorry if I came across
+a little strong.
+
+690
+00:24:42,888 --> 00:24:45,288
+- Don't apologize
+for standing up for yourself.
+
+691
+00:24:45,328 --> 00:24:47,328
+It's a healthy habit.
+
+692
+00:24:47,328 --> 00:24:49,088
+- [sighs]
+
+693
+00:24:49,128 --> 00:24:51,168
+- You know, I really don't
+need to see this again.
+
+694
+00:24:51,208 --> 00:24:52,768
+- No, this is my favorite part.
+
+695
+00:24:52,808 --> 00:24:54,208
+[laughs]
+
+696
+00:24:54,248 --> 00:24:55,248
+- My hand's starting to cramp.
+
+697
+00:24:55,288 --> 00:24:56,448
+We gotta be done soon.
+
+698
+00:24:56,488 --> 00:24:58,048
+- Oh, you can be done now.
+
+699
+00:24:58,088 --> 00:25:01,528
+But if you want to the hospital
+to cover you, last one.
+
+700
+00:25:06,808 --> 00:25:09,848
+- Hey, Robby.
+It was an accident, man.
+
+701
+00:25:09,888 --> 00:25:11,488
+- What are you talking about?
+
+702
+00:25:11,528 --> 00:25:13,848
+- Your bike.
+
+703
+00:25:17,288 --> 00:25:20,528
+[sirens wailing]
+
+704
+00:25:21,528 --> 00:25:24,128
+- Son of a bitch.
+
+705
+00:25:24,128 --> 00:25:26,968
+Oh, motherfucker!
+
+706
+00:25:28,328 --> 00:25:30,328
+- Robby, GSW to the head.
+
+707
+00:25:30,368 --> 00:25:31,568
+- Somebody hit my bike.
+
+708
+00:25:31,568 --> 00:25:33,208
+- Dude, that sucks.
+
+709
+00:25:33,248 --> 00:25:34,608
+Is it still rideable?
+
+710
+00:25:34,648 --> 00:25:36,008
+[man singing
+"My Country 'Tis of Thee"]
+
+711
+00:25:36,048 --> 00:25:37,528
+- It better be.
+
+712
+00:25:37,568 --> 00:25:39,728
+- Elbridge Gerry, 25,
+stable with good vitals.
+
+713
+00:25:39,768 --> 00:25:41,208
+- ♪ Of thee I sing ♪
+
+714
+00:25:41,248 --> 00:25:42,848
+- Was shooting his
+.22 caliber pistol in the air
+
+715
+00:25:42,888 --> 00:25:44,448
+with an aluminum pot
+on his head for protection.
+
+716
+00:25:44,488 --> 00:25:45,728
+Didn't work.
+
+717
+00:25:45,768 --> 00:25:47,048
+- He's had about a quart
+of Seagrams 7
+
+718
+00:25:47,088 --> 00:25:48,488
+and will probably light up
+a tox screen
+
+719
+00:25:48,488 --> 00:25:50,728
+like a Roman candle.
+
+720
+00:25:50,768 --> 00:25:53,408
+- ♪ We start fucking ♪
+
+721
+00:25:53,448 --> 00:25:54,768
+- Real wordsmith.
+
+722
+00:25:54,808 --> 00:25:56,128
+- Entry wound
+in the frontal scalp,
+
+723
+00:25:56,128 --> 00:25:57,568
+seems to have tracked down
+the forehead.
+
+724
+00:25:57,608 --> 00:25:58,688
+As alert and oriented
+as you can be
+
+725
+00:25:58,728 --> 00:25:59,888
+after multiple bong hits.
+
+726
+00:25:59,928 --> 00:26:01,448
+Got vital satting 98
+on room air.
+
+727
+00:26:01,488 --> 00:26:02,728
+- Sorry, Robby.
+- Don't you fucking leave.
+
+728
+00:26:02,768 --> 00:26:03,928
+- I can explain.
+- I will be right back.
+
+729
+00:26:03,968 --> 00:26:04,928
+- What's this?
+
+730
+00:26:04,968 --> 00:26:06,288
+- Trauma 2.
+
+731
+00:26:06,328 --> 00:26:07,608
+- Low velocity GSW to the head,
+
+732
+00:26:07,648 --> 00:26:09,168
+seems to have
+remained extracranial.
+
+733
+00:26:09,208 --> 00:26:10,608
+- Lucky guy.
+
+734
+00:26:10,648 --> 00:26:14,728
+- ♪ Gloria, Gloria,
+here's a dollar! ♪
+
+735
+00:26:14,768 --> 00:26:17,368
+- After a fireworks
+explosion resulting
+
+736
+00:26:17,408 --> 00:26:19,648
+in the loss of two fingers.
+
+737
+00:26:19,688 --> 00:26:21,808
+- Ooh, that sounds nasty.
+
+738
+00:26:21,848 --> 00:26:24,528
+- Yeah, that was a sad one.
+
+739
+00:26:24,568 --> 00:26:25,848
+Parents were deported.
+
+740
+00:26:25,888 --> 00:26:28,368
+Big sister works
+a full-time job
+
+741
+00:26:28,408 --> 00:26:29,808
+and is the sole caregiver.
+
+742
+00:26:29,848 --> 00:26:31,528
+- Been there, done that.
+
+743
+00:26:31,568 --> 00:26:33,368
+- Your parents were deported?
+
+744
+00:26:33,408 --> 00:26:35,248
+- Oh, no.
+I thought she said departed.
+
+745
+00:26:36,728 --> 00:26:38,568
+Did either of you guys work on
+
+746
+00:26:38,608 --> 00:26:41,248
+the Revolutionary War
+reenactors earlier?
+
+747
+00:26:41,288 --> 00:26:44,208
+- Why, you didn't think you
+could pull off a tricorn hat?
+
+748
+00:26:44,248 --> 00:26:46,928
+- [chuckles]
+Maybe.
+
+749
+00:26:46,968 --> 00:26:48,448
+I've always loved history,
+
+750
+00:26:48,448 --> 00:26:52,648
+and Colonial Williamsburg
+was my favorite school trip.
+
+751
+00:26:52,688 --> 00:26:54,408
+And, you know,
+there's always the Ren Faire,
+
+752
+00:26:54,448 --> 00:26:56,728
+but that's just once a year.
+
+753
+00:26:56,768 --> 00:26:59,208
+How often do you think
+the reenactors get together?
+
+754
+00:27:00,728 --> 00:27:02,528
+- I don't know. No.
+
+755
+00:27:02,528 --> 00:27:04,408
+- You should definitely
+look into that.
+
+756
+00:27:04,448 --> 00:27:05,608
+- Yeah?
+- Yeah.
+
+757
+00:27:05,648 --> 00:27:07,048
+- OK.
+
+758
+00:27:08,768 --> 00:27:11,968
+[engine revving]
+
+759
+00:27:16,808 --> 00:27:19,168
+- Deep-throated husky
+with a touch of bitch.
+
+760
+00:27:19,208 --> 00:27:20,328
+That's her tune.
+
+761
+00:27:20,368 --> 00:27:21,808
+- That's what I thought,
+but you're the expert.
+
+762
+00:27:21,848 --> 00:27:23,688
+I just needed to make sure.
+
+763
+00:27:24,848 --> 00:27:26,648
+- I was going through
+Billings once.
+
+764
+00:27:26,688 --> 00:27:30,288
+Cop saw my colors,
+jacked me up,
+
+765
+00:27:30,328 --> 00:27:31,648
+kept me overnight.
+
+766
+00:27:31,688 --> 00:27:35,168
+They threw my sweetheart
+in the impound yard.
+
+767
+00:27:35,208 --> 00:27:37,088
+They claimed
+someone backed into it,
+
+768
+00:27:37,128 --> 00:27:40,448
+but you could see where they
+took their hammer to it, man.
+
+769
+00:27:40,488 --> 00:27:41,808
+You gotta be careful out there.
+
+770
+00:27:41,848 --> 00:27:43,088
+- This is all pretty minor,
+though, right?
+
+771
+00:27:43,128 --> 00:27:45,328
+- Yeah, shit,
+this is just cosmetic.
+
+772
+00:27:45,368 --> 00:27:47,928
+Bring it in tomorrow,
+and we'll get Bonnie right.
+
+773
+00:27:47,968 --> 00:27:49,688
+- Well, this will bend back.
+This will tighten up.
+
+774
+00:27:49,728 --> 00:27:51,448
+I can do all that myself.
+- Jesus, let me do it.
+
+775
+00:27:51,488 --> 00:27:52,648
+There's no charge.
+- What?
+
+776
+00:27:52,688 --> 00:27:53,968
+You don't owe me anything,
+except
+
+777
+00:27:54,008 --> 00:27:56,568
+take care of yourself
+while I'm gone.
+
+778
+00:27:56,608 --> 00:27:58,448
+- Boy, this record
+never stops, huh?
+
+779
+00:27:58,488 --> 00:28:01,368
+- Nah, it's dance
+till you drop!
+
+780
+00:28:01,408 --> 00:28:02,768
+- Then what?
+
+781
+00:28:02,808 --> 00:28:05,048
+- Teach the kids the steps
+before you do.
+
+782
+00:28:05,088 --> 00:28:06,128
+- And then what?
+
+783
+00:28:06,168 --> 00:28:07,728
+- Hope they make it
+farther than you.
+
+784
+00:28:07,768 --> 00:28:09,248
+- Hey, Robby,
+you're coming or going?
+
+785
+00:28:09,288 --> 00:28:11,088
+- I'm going, pretty soon.
+What have you got here?
+
+786
+00:28:11,128 --> 00:28:14,008
+- Lyman Paine, 53, single MVC.
+
+787
+00:28:14,048 --> 00:28:15,368
+Drove into a telephone pole.
+
+788
+00:28:15,368 --> 00:28:16,568
+- Passenger space intrusion?
+
+789
+00:28:16,608 --> 00:28:17,688
+- No, head on.
+
+790
+00:28:17,728 --> 00:28:18,688
+- Intoxicated?
+
+791
+00:28:18,728 --> 00:28:20,648
+- No ETOH on his breath.
+
+792
+00:28:20,688 --> 00:28:22,488
+Either syncope, seizure,
+
+793
+00:28:22,528 --> 00:28:24,888
+or he just fell asleep
+at the wheel.
+
+794
+00:28:24,928 --> 00:28:26,928
+Airbag deployed,
+unconscious at the scene,
+
+795
+00:28:26,968 --> 00:28:28,128
+but he's waking up.
+
+796
+00:28:28,168 --> 00:28:29,528
+- BP 140 over 80,
+
+797
+00:28:29,568 --> 00:28:31,368
+pulse 120, pulse ox 98,
+
+798
+00:28:31,408 --> 00:28:32,568
+no obvious injuries.
+
+799
+00:28:32,608 --> 00:28:33,568
+- Why don't you guys
+head on in?
+
+800
+00:28:33,608 --> 00:28:34,928
+I'll meet you in a minute.
+
+801
+00:28:39,528 --> 00:28:42,128
+Well, hey, buddy,
+I guess this is it.
+
+802
+00:28:42,168 --> 00:28:44,048
+Make those appointments
+next week, you know?
+
+803
+00:28:44,088 --> 00:28:46,128
+I'll call you from the road
+to make sure you do.
+
+804
+00:28:46,168 --> 00:28:47,888
+- Don't do that, man.
+- What?
+
+805
+00:28:47,928 --> 00:28:50,048
+- Don't shine me on.
+
+806
+00:28:50,088 --> 00:28:52,008
+- I'm not.
+
+807
+00:28:52,048 --> 00:28:53,368
+- Jesus.
+
+808
+00:28:53,408 --> 00:28:55,008
+I get it.
+
+809
+00:28:55,048 --> 00:28:58,208
+Hard place to leave,
+a harder place to stay.
+
+810
+00:28:59,768 --> 00:29:01,128
+- Yeah.
+
+811
+00:29:03,208 --> 00:29:06,008
+- Look, I'm not ready
+to say goodbye yet.
+
+812
+00:29:06,048 --> 00:29:09,608
+So go do what you gotta do,
+and I'll get some tools
+
+813
+00:29:09,648 --> 00:29:11,888
+from the truck
+and see if I can't make
+
+814
+00:29:11,928 --> 00:29:14,288
+Bonnie smile again for you.
+
+815
+00:29:17,768 --> 00:29:19,208
+- OK.
+
+816
+00:29:19,248 --> 00:29:20,968
+- OK, then.
+
+817
+00:29:27,568 --> 00:29:30,048
+- Robby, man, I'm so sorry.
+We've been on for 14 straight.
+
+818
+00:29:30,088 --> 00:29:31,768
+I thought I cleared it.
+- It's all right.
+
+819
+00:29:31,808 --> 00:29:33,008
+- Honestly, I feel terrible.
+
+820
+00:29:33,008 --> 00:29:34,848
+- No real harm done.
+
+821
+00:29:34,888 --> 00:29:36,688
+I was bound to nick it up
+on the road anyway.
+
+822
+00:29:36,728 --> 00:29:39,928
+First blood drawn,
+it's a good omen really.
+
+823
+00:29:39,968 --> 00:29:41,288
+- Thought he'd be more pissed.
+
+824
+00:29:41,328 --> 00:29:43,528
+- I thought you might
+get punched.
+
+825
+00:29:43,568 --> 00:29:44,928
+- Chest and belly look good.
+
+826
+00:29:44,968 --> 00:29:46,408
+Let me drag Neurosurgery
+down here to deal with
+
+827
+00:29:46,448 --> 00:29:47,568
+the C-spine before I go.
+
+828
+00:29:47,608 --> 00:29:49,968
+- You off?
+- Yep, an hour ago.
+
+829
+00:29:50,008 --> 00:29:51,928
+Can't you tell?
+- How you doing, sir?
+
+830
+00:29:51,928 --> 00:29:54,688
+- Actually, not too good.
+
+831
+00:29:54,728 --> 00:29:55,968
+The tingling is getting worse.
+
+832
+00:29:55,968 --> 00:29:57,688
+It's in both my arms now.
+
+833
+00:29:57,728 --> 00:29:59,168
+I feel like something's wrong.
+
+834
+00:29:59,208 --> 00:30:01,368
+- Hey, man.
+What are we looking at?
+
+835
+00:30:01,408 --> 00:30:04,248
+- Ran into a telephone pole,
+airbag deployed.
+
+836
+00:30:04,288 --> 00:30:05,688
+- Seizure? Stroke?
+
+837
+00:30:05,728 --> 00:30:06,968
+- Not sure.
+
+838
+00:30:07,008 --> 00:30:08,088
+Possible C-spine.
+
+839
+00:30:08,128 --> 00:30:10,608
+CT showed
+uni-facet dislocation.
+
+840
+00:30:10,648 --> 00:30:12,448
+- I'm trying not to freak out.
+
+841
+00:30:12,448 --> 00:30:13,888
+I'm having trouble breathing.
+
+842
+00:30:13,928 --> 00:30:16,208
+- Squeeze my hand.
+
+843
+00:30:16,248 --> 00:30:17,688
+Real hard.
+
+844
+00:30:17,688 --> 00:30:18,768
+Three out of five strength.
+
+845
+00:30:18,808 --> 00:30:19,888
+- OK.
+
+846
+00:30:19,888 --> 00:30:21,288
+10 milligrams dexamethasone.
+
+847
+00:30:21,328 --> 00:30:23,368
+- Dexamethasone?
+For spinal injury?
+
+848
+00:30:23,408 --> 00:30:25,048
+- It's compression
+from a jumped facet
+
+849
+00:30:25,088 --> 00:30:26,768
+and maybe some ischemia
+from a kinked vessel.
+
+850
+00:30:26,808 --> 00:30:28,088
+- What's--what's happening?
+
+851
+00:30:28,128 --> 00:30:30,768
+- Sir, you have
+a partial dislocation
+
+852
+00:30:30,768 --> 00:30:32,208
+of two vertebrae in your neck.
+
+853
+00:30:32,248 --> 00:30:34,288
+It's putting pressure
+on your spinal cord.
+
+854
+00:30:34,328 --> 00:30:35,808
+- How do you fix it?
+
+855
+00:30:35,808 --> 00:30:38,608
+- We need Neurosurgery
+to screw a clamp
+
+856
+00:30:38,608 --> 00:30:40,328
+into both sides of your skull
+
+857
+00:30:40,368 --> 00:30:43,448
+and then use traction
+under X-ray guidance
+
+858
+00:30:43,448 --> 00:30:44,848
+to get everything realigned.
+
+859
+00:30:44,888 --> 00:30:47,328
+- Like a chiropractic
+adjustment?
+
+860
+00:30:47,368 --> 00:30:50,208
+- It's a bit more
+complicated than that.
+
+861
+00:30:50,248 --> 00:30:52,088
+- I think I'm having
+a panic attack,
+
+862
+00:30:52,128 --> 00:30:55,088
+because I can't even get
+a shallow breath.
+
+863
+00:30:55,128 --> 00:30:57,728
+- Or he's losing C3, 4, and 5.
+
+864
+00:30:57,768 --> 00:30:59,528
+- Uh, page Neurosurgery.
+
+865
+00:30:59,528 --> 00:31:01,768
+- Garcia went to go get them.
+- No. Page overhead.
+
+866
+00:31:01,808 --> 00:31:04,328
+Find Robby if he's still here.
+
+867
+00:31:04,368 --> 00:31:07,168
+- Any available neurosurgeon
+to ED Trauma 1, stat!
+
+868
+00:31:07,208 --> 00:31:10,608
+Any available neurosurgeon
+to ED Trauma 1, stat!
+
+869
+00:31:10,608 --> 00:31:12,208
+[liquid trickling]
+
+870
+00:31:12,208 --> 00:31:14,368
+[knocking on door]
+- Dr. Robby?
+
+871
+00:31:14,408 --> 00:31:17,448
+- Uh, yeah?
+
+872
+00:31:17,488 --> 00:31:20,568
+[toilet flushes]
+- You're needed in Trauma 1.
+
+873
+00:31:20,608 --> 00:31:22,208
+- OK.
+
+874
+00:31:22,248 --> 00:31:23,688
+What patient?
+- Dr. Langdon's.
+
+875
+00:31:23,728 --> 00:31:25,168
+It's a neck injury.
+
+876
+00:31:28,088 --> 00:31:29,248
+- I got the fellow.
+
+877
+00:31:29,288 --> 00:31:30,728
+They could be down
+in 15 minutes.
+
+878
+00:31:30,728 --> 00:31:31,928
+- He's progressing
+too fast for that.
+
+879
+00:31:31,928 --> 00:31:33,848
+- What's going on?
+
+880
+00:31:33,888 --> 00:31:36,288
+- Uni-facet dislocation, C4/C5,
+
+881
+00:31:36,328 --> 00:31:38,288
+paresthesia
+and decreased tidal volume.
+
+882
+00:31:38,328 --> 00:31:39,368
+- Sat's 85.
+
+883
+00:31:39,368 --> 00:31:41,328
+- We need to prepare
+for intubation.
+
+884
+00:31:41,368 --> 00:31:43,088
+- Any delay in reduction
+almost guarantees
+
+885
+00:31:43,128 --> 00:31:45,368
+complete spinal cord injury.
+
+886
+00:31:45,408 --> 00:31:47,368
+- What other options
+do we have?
+
+887
+00:31:47,408 --> 00:31:51,088
+- Uh, I saw Neurosurgery do
+a closed reduction once in ICU.
+
+888
+00:31:51,128 --> 00:31:52,648
+- Blind? That's crazy risky.
+
+889
+00:31:52,688 --> 00:31:53,888
+- We gotta do something.
+
+890
+00:31:53,928 --> 00:31:55,368
+What's that procedure,
+Dr. Langdon?
+
+891
+00:31:55,408 --> 00:31:57,488
+- It's just--
+it's traction on the neck,
+
+892
+00:31:57,528 --> 00:32:00,248
+we flex the dislocated side
+and into slight extension.
+
+893
+00:32:00,288 --> 00:32:01,608
+- Quadriplegia, if done wrong.
+
+894
+00:32:01,648 --> 00:32:03,528
+- I'm sorry, what--
+did you say quadriplegic?
+
+895
+00:32:03,528 --> 00:32:04,928
+- It is a possibility, sir.
+
+896
+00:32:04,928 --> 00:32:06,768
+It's also the same possibility
+if we do nothing.
+
+897
+00:32:06,808 --> 00:32:07,968
+- You wanna try?
+
+898
+00:32:08,008 --> 00:32:09,808
+- I've never seen it done.
+You have.
+
+899
+00:32:09,848 --> 00:32:11,168
+- I can't feel my feet.
+
+900
+00:32:11,208 --> 00:32:12,808
+- Sats 79. 100% non-rebreather?
+
+901
+00:32:12,848 --> 00:32:14,088
+- He's progressing,
+Dr. Langdon.
+
+902
+00:32:14,128 --> 00:32:15,648
+What is your plan?
+
+903
+00:32:15,688 --> 00:32:17,048
+- Uh, Neuro--
+
+904
+00:32:17,088 --> 00:32:18,608
+- Fuck Neuro.
+This is right here, right now.
+
+905
+00:32:18,608 --> 00:32:20,288
+This guy's gonna be
+a living head if we do nothing.
+
+906
+00:32:20,328 --> 00:32:23,048
+- I could paralyze him.
+- Doctor the fuck up.
+
+907
+00:32:23,048 --> 00:32:24,848
+[machine beeping]
+
+908
+00:32:24,888 --> 00:32:27,248
+- [gasping]
+
+909
+00:32:27,288 --> 00:32:30,128
+- Sir, the partial dislocation
+of the two vertebrae
+
+910
+00:32:30,168 --> 00:32:32,408
+in your neck is putting
+pressure on your spinal cord.
+
+911
+00:32:32,448 --> 00:32:35,128
+I can try to move the neck
+bones back into place.
+
+912
+00:32:35,128 --> 00:32:37,088
+That could help.
+There's no guarantees.
+
+913
+00:32:37,128 --> 00:32:38,528
+If we do nothing,
+
+914
+00:32:38,528 --> 00:32:40,248
+the weakness is definitely
+going to get worse.
+
+915
+00:32:40,288 --> 00:32:42,848
+But either way, there's still
+a chance of paralysis.
+
+916
+00:32:42,888 --> 00:32:45,528
+- Do it.
+Please. Please.
+
+917
+00:32:45,568 --> 00:32:47,008
+- 50 of fentanyl IV.
+
+918
+00:32:47,048 --> 00:32:48,648
+You need to let us know
+if the weakness gets worse
+
+919
+00:32:48,688 --> 00:32:51,088
+or if there's any sudden pain,
+and we'll stop immediately.
+
+920
+00:32:51,128 --> 00:32:52,528
+Dr. Cruz, Robby,
+
+921
+00:32:52,568 --> 00:32:55,008
+hold down his shoulders
+for countertraction.
+
+922
+00:32:55,048 --> 00:32:56,968
+OK, I'm gonna pull
+on your head.
+
+923
+00:32:57,008 --> 00:32:58,928
+Your job is to try to relax,
+
+924
+00:32:58,968 --> 00:33:01,488
+breathe so we can overcome
+the muscle spasm.
+
+925
+00:33:01,488 --> 00:33:04,408
+[machine beeping]
+
+926
+00:33:06,208 --> 00:33:08,048
+Flexing to the right.
+
+927
+00:33:11,008 --> 00:33:12,208
+Any change?
+
+928
+00:33:12,248 --> 00:33:14,728
+- My legs are starting
+to tingle.
+
+929
+00:33:14,768 --> 00:33:16,408
+- Last step.
+
+930
+00:33:19,208 --> 00:33:20,608
+[bones crack]
+- Ah!
+
+931
+00:33:20,608 --> 00:33:21,968
+- I felt something click.
+- Oh, fuck! Oh, fuck!
+
+932
+00:33:22,008 --> 00:33:23,608
+- I felt it too.
+- Sir, talk to us.
+
+933
+00:33:23,648 --> 00:33:25,128
+What's going on?
+- Oh.
+
+934
+00:33:25,168 --> 00:33:27,168
+[panting]
+I think--
+
+935
+00:33:27,208 --> 00:33:28,488
+I think...
+[laughs]
+
+936
+00:33:28,528 --> 00:33:30,768
+Yeah.
+I'm starting to breathe easier.
+
+937
+00:33:30,808 --> 00:33:32,848
+- Any change
+in your hand or feet?
+
+938
+00:33:32,888 --> 00:33:34,288
+- Oh.
+
+939
+00:33:34,288 --> 00:33:35,768
+Oh, this is maybe
+a little less numb.
+
+940
+00:33:35,808 --> 00:33:37,448
+- Philadelphia collar is ready.
+
+941
+00:33:37,488 --> 00:33:38,568
+- Talk to me.
+
+942
+00:33:38,608 --> 00:33:39,808
+- Langdon just reduced
+
+943
+00:33:39,848 --> 00:33:41,488
+a uni-facet
+cervical dislocation.
+
+944
+00:33:41,528 --> 00:33:44,328
+- What? Without neurosurgery?
+Don't try this at home, kids.
+
+945
+00:33:44,328 --> 00:33:45,968
+- He was deteriorating quickly.
+
+946
+00:33:46,008 --> 00:33:47,368
+- Neuro exam is improving.
+
+947
+00:33:47,368 --> 00:33:49,568
+- Oh, my God,
+it's definitely better.
+
+948
+00:33:49,608 --> 00:33:52,448
+Oh, my God.
+
+949
+00:33:52,488 --> 00:33:54,128
+- Nice job.
+
+950
+00:33:54,168 --> 00:33:55,488
+- All right, repeat CT,
+
+951
+00:33:55,528 --> 00:33:57,088
+then Neurosurgery
+can take him up for a halo.
+
+952
+00:33:57,128 --> 00:33:58,368
+Brass balls, buddy.
+
+953
+00:33:58,408 --> 00:34:00,448
+See? You haven't lost it.
+- Um, excuse me.
+
+954
+00:34:00,488 --> 00:34:03,288
+I'm just gonna step outside
+for a second.
+
+955
+00:34:17,848 --> 00:34:20,848
+- Langdon, honey, I just got
+a call from upstairs.
+
+956
+00:34:20,888 --> 00:34:22,168
+Were you supposed to get
+a urine screen
+
+957
+00:34:22,208 --> 00:34:23,928
+and turn it in by 8:00 tonight?
+- Fuck!
+
+958
+00:34:23,968 --> 00:34:25,288
+Um...
+
+959
+00:34:26,248 --> 00:34:28,448
+Oh, no.
+Uh, ye--yes.
+
+960
+00:34:28,488 --> 00:34:30,648
+Can you just--can you tell them
+that I was in a trauma?
+
+961
+00:34:30,688 --> 00:34:32,168
+I'm going right now.
+
+962
+00:34:35,768 --> 00:34:37,368
+- Where's he off to?
+
+963
+00:34:37,408 --> 00:34:39,008
+- No idea.
+
+964
+00:34:39,048 --> 00:34:41,448
+Did you find your ID badge yet?
+
+965
+00:34:41,488 --> 00:34:43,448
+- No, I've looked everywhere.
+
+966
+00:34:43,488 --> 00:34:45,168
+Must have been thrown out
+on accident.
+
+967
+00:34:45,208 --> 00:34:46,568
+- They'll issue you a new one.
+
+968
+00:34:46,608 --> 00:34:48,008
+You just have to fill out
+a bunch of forms.
+
+969
+00:34:48,048 --> 00:34:49,568
+[notification chimes]
+- Oh, great.
+
+970
+00:34:53,528 --> 00:34:54,928
+What?
+
+971
+00:34:54,968 --> 00:34:55,928
+- Cow in labor?
+
+972
+00:34:55,968 --> 00:34:57,288
+- No, I--
+
+973
+00:34:57,328 --> 00:34:59,008
+I ordered a patient a Lyft.
+
+974
+00:34:59,048 --> 00:35:03,808
+Now I have a $250 surcharge
+and a complaint on my account.
+
+975
+00:35:03,808 --> 00:35:05,888
+- What?
+- What'd they do?
+
+976
+00:35:05,928 --> 00:35:07,248
+- It was a sweet old lady.
+
+977
+00:35:07,248 --> 00:35:09,288
+- Who apparently had
+some racist
+
+978
+00:35:09,328 --> 00:35:11,008
+and abusive things to say
+
+979
+00:35:11,048 --> 00:35:13,248
+right before puking
+in the back.
+
+980
+00:35:13,248 --> 00:35:16,008
+- You never know
+with some people.
+
+981
+00:35:16,048 --> 00:35:17,288
+- There goes my first paycheck.
+
+982
+00:35:17,328 --> 00:35:18,888
+- St. Huckleberry.
+
+983
+00:35:18,888 --> 00:35:20,288
+No good deed.
+
+984
+00:35:23,088 --> 00:35:26,128
+- I can see why you liked
+restoring this bike.
+
+985
+00:35:26,128 --> 00:35:27,888
+You're a fixer.
+
+986
+00:35:27,928 --> 00:35:29,968
+I fix bikes,
+but you fix people.
+
+987
+00:35:30,008 --> 00:35:32,528
+That's pretty damn
+impressive, man.
+
+988
+00:35:32,568 --> 00:35:34,768
+- Some people can't be fixed.
+
+989
+00:35:36,088 --> 00:35:38,248
+- Look, I'm--
+
+990
+00:35:38,288 --> 00:35:41,248
+I've done plenty of things
+I'm not proud of.
+
+991
+00:35:41,288 --> 00:35:42,248
+- Yeah, me too.
+
+992
+00:35:42,288 --> 00:35:45,008
+- No, bad things--
+
+993
+00:35:45,048 --> 00:35:47,688
+hurt people on purpose,
+
+994
+00:35:47,688 --> 00:35:49,288
+hurt myself.
+
+995
+00:35:49,328 --> 00:35:52,328
+And I did my time, but that
+doesn't wash away the regret.
+
+996
+00:35:52,368 --> 00:35:54,448
+I...
+
+997
+00:35:54,488 --> 00:35:56,888
+wish I'd done things
+differently.
+
+998
+00:35:56,928 --> 00:35:59,248
+I think about it every day.
+
+999
+00:35:59,288 --> 00:36:02,368
+- You know, they say that
+it's never too late to change.
+
+1000
+00:36:02,408 --> 00:36:06,168
+- Some things can't be changed,
+like death.
+
+1001
+00:36:06,168 --> 00:36:08,008
+Death can't be changed.
+
+1002
+00:36:08,048 --> 00:36:09,968
+- Hey, I know
+the surgery is scary.
+
+1003
+00:36:10,008 --> 00:36:12,728
+- I'm not talking about me.
+
+1004
+00:36:26,328 --> 00:36:29,608
+- Yeah, I don't know if
+I wanna be here anymore.
+
+1005
+00:36:31,408 --> 00:36:33,888
+- I don't know how you stand
+12 minutes in there,
+
+1006
+00:36:33,928 --> 00:36:38,568
+let alone 12 hours, 20 years.
+
+1007
+00:36:38,608 --> 00:36:39,608
+- No.
+
+1008
+00:36:39,648 --> 00:36:41,928
+That's the only place I can be.
+
+1009
+00:36:41,968 --> 00:36:47,288
+I have purpose in there.
+I can be distracted in there.
+
+1010
+00:36:47,328 --> 00:36:51,088
+I don't know that I wanna be...
+
+1011
+00:36:51,128 --> 00:36:55,048
+anywhere anymore.
+
+1012
+00:36:55,088 --> 00:36:57,288
+[exhales]
+
+1013
+00:37:00,008 --> 00:37:02,328
+- So what's the plan?
+
+1014
+00:37:02,368 --> 00:37:05,048
+[distant sirens wailing]
+- Ride.
+
+1015
+00:37:05,088 --> 00:37:06,928
+- Toward what?
+- I don't know.
+
+1016
+00:37:06,968 --> 00:37:08,048
+- Away from what?
+
+1017
+00:37:08,088 --> 00:37:09,808
+- Everything.
+
+1018
+00:37:09,848 --> 00:37:13,168
+- Well, that's not riding.
+That's running.
+
+1019
+00:37:13,208 --> 00:37:16,488
+Is that your final lesson
+for these kids?
+
+1020
+00:37:21,408 --> 00:37:22,808
+- What's up, Robby?
+
+1021
+00:37:22,848 --> 00:37:26,768
+- Well, if it isn't
+Medics Bosco and Otero.
+
+1022
+00:37:28,888 --> 00:37:29,928
+- You still on?
+
+1023
+00:37:29,968 --> 00:37:31,088
+- Not for much longer.
+
+1024
+00:37:31,128 --> 00:37:33,368
+I was looking for you two.
+
+1025
+00:37:33,408 --> 00:37:34,928
+- Rita Wolcott, 22.
+
+1026
+00:37:34,928 --> 00:37:37,288
+She was using a dumpster
+to climb a fire escape
+
+1027
+00:37:37,328 --> 00:37:38,688
+to get to a roof party.
+
+1028
+00:37:38,728 --> 00:37:40,528
+Slipped about 6 feet
+onto concrete.
+
+1029
+00:37:40,568 --> 00:37:42,248
+Possible tib-fib fracture.
+
+1030
+00:37:42,288 --> 00:37:43,568
+- Oh, can I please tell it?
+
+1031
+00:37:43,568 --> 00:37:45,168
+You're making me sound
+like an idiot.
+
+1032
+00:37:45,168 --> 00:37:47,048
+My friends and I were just
+trying to watch the fireworks
+
+1033
+00:37:47,088 --> 00:37:48,408
+from the roof of our building.
+
+1034
+00:37:48,448 --> 00:37:50,568
+But the roof access door
+and the stairwells stuck,
+
+1035
+00:37:50,608 --> 00:37:52,768
+so we decided to climb
+the fire escape.
+
+1036
+00:37:52,808 --> 00:37:54,968
+They were supposed to hold
+the dumpster still while I...
+
+1037
+00:37:55,728 --> 00:37:56,808
+But they didn't.
+
+1038
+00:37:56,848 --> 00:37:58,088
+Then I fell.
+
+1039
+00:37:58,128 --> 00:38:00,248
+- Like I said,
+6 feet onto concrete.
+
+1040
+00:38:00,248 --> 00:38:02,048
+- Yeah, because they didn't
+hold it still.
+
+1041
+00:38:02,088 --> 00:38:03,888
+- Well, it's a good thing
+she didn't need a 12-lead.
+
+1042
+00:38:03,928 --> 00:38:05,488
+- Why's that?
+
+1043
+00:38:05,528 --> 00:38:06,968
+- 'Cause you guys put one on
+about a half hour ago wrong
+
+1044
+00:38:07,008 --> 00:38:08,128
+and you missed the STEMI.
+
+1045
+00:38:08,168 --> 00:38:09,128
+- Bullshit.
+
+1046
+00:38:09,168 --> 00:38:10,288
+- 46-year-old woman.
+
+1047
+00:38:10,328 --> 00:38:12,128
+A minute after you left,
+V-tach.
+
+1048
+00:38:12,128 --> 00:38:14,608
+Repeat EKG showed
+a massive lateral STEMI.
+
+1049
+00:38:14,648 --> 00:38:15,568
+- No way.
+
+1050
+00:38:15,608 --> 00:38:16,968
+- Leads were so inferior,
+
+1051
+00:38:16,968 --> 00:38:18,648
+you might as well
+have not put them on at all.
+
+1052
+00:38:18,688 --> 00:38:20,288
+What were you afraid of,
+her bra?
+
+1053
+00:38:20,328 --> 00:38:21,688
+- What have we got?
+
+1054
+00:38:21,728 --> 00:38:23,968
+- We've got a 22-year-old
+probable tib-fib fracture
+
+1055
+00:38:24,008 --> 00:38:25,208
+from a 6-foot fall.
+
+1056
+00:38:25,248 --> 00:38:26,888
+Why don't you take her
+to Central 13?
+
+1057
+00:38:26,928 --> 00:38:28,248
+- Got it. Right this way.
+
+1058
+00:38:28,248 --> 00:38:29,968
+- As I was saying,
+bad data is shit data.
+
+1059
+00:38:30,008 --> 00:38:32,448
+- Maybe she was diaphoretic
+and they slid down en route.
+
+1060
+00:38:32,448 --> 00:38:33,808
+- Yeah, she was moving a lot.
+
+1061
+00:38:33,848 --> 00:38:35,368
+- Diaphoretic, my ass.
+She had big breasts.
+
+1062
+00:38:35,408 --> 00:38:36,688
+You didn't wanna move 'em
+out of the way
+
+1063
+00:38:36,728 --> 00:38:38,448
+to get under her bra line.
+- Come on, Robby.
+
+1064
+00:38:38,488 --> 00:38:39,968
+- Women are misdiagnosed
+for heart attacks all the time.
+
+1065
+00:38:40,008 --> 00:38:41,288
+This is a big reason why.
+
+1066
+00:38:41,328 --> 00:38:42,568
+Shall we put it to a vote?
+
+1067
+00:38:42,608 --> 00:38:44,888
+Hey, ladies in the room,
+show of hands.
+
+1068
+00:38:44,928 --> 00:38:47,448
+Death with modesty,
+or life with brief nudity?
+
+1069
+00:38:47,488 --> 00:38:49,928
+Death or life?
+
+1070
+00:38:49,968 --> 00:38:51,968
+Look at that--
+turns out women wanna live.
+
+1071
+00:38:51,968 --> 00:38:53,288
+- Got it.
+
+1072
+00:38:53,328 --> 00:38:54,488
+- EKG is an amazing tool
+if you use it right.
+
+1073
+00:38:54,528 --> 00:38:55,808
+- You could have told us
+in private.
+
+1074
+00:38:55,808 --> 00:38:57,288
+- I think this was
+more instructive.
+
+1075
+00:38:57,328 --> 00:38:59,128
+- Agreed.
+
+1076
+00:39:00,568 --> 00:39:03,048
+- Hey, hell of a save
+your boy made.
+
+1077
+00:39:03,088 --> 00:39:04,328
+On-the-fly reduction
+
+1078
+00:39:04,368 --> 00:39:06,208
+of a uni-facet
+cervical dislocation--
+
+1079
+00:39:06,248 --> 00:39:07,448
+that's some cowboy shit.
+
+1080
+00:39:07,488 --> 00:39:08,928
+- Yeah, it was.
+Where is he?
+
+1081
+00:39:08,968 --> 00:39:10,608
+- Ran off for a drug test.
+
+1082
+00:39:10,648 --> 00:39:13,048
+You got your wish.
+You don't have to say goodbye.
+
+1083
+00:39:18,648 --> 00:39:21,408
+- Hey, thank you
+for saying all that.
+
+1084
+00:39:21,448 --> 00:39:23,768
+I may have taken a slightly
+different approach, but--
+
+1085
+00:39:23,768 --> 00:39:25,248
+- I seem to have lost
+my filter.
+
+1086
+00:39:25,288 --> 00:39:26,648
+- I'm glad.
+
+1087
+00:39:26,688 --> 00:39:29,288
+I could use an honest
+second opinion on a case.
+
+1088
+00:39:29,328 --> 00:39:31,768
+Do you have five minutes
+to spare?
+
+1089
+00:39:33,008 --> 00:39:34,848
+- Sure. Why not?
+
+1090
+00:39:34,848 --> 00:39:35,888
+What's the case?
+
+1091
+00:39:35,928 --> 00:39:38,008
+- I have the chart
+pulled up in 8.
+
+1092
+00:39:50,128 --> 00:39:51,168
+[beep]
+
+1093
+00:39:52,688 --> 00:39:54,608
+I have some experience
+with this,
+
+1094
+00:39:54,648 --> 00:39:56,728
+but I'd appreciate
+a fresh perspective.
+
+1095
+00:39:56,768 --> 00:39:58,808
+- [chuckles]
+After 14 hours,
+
+1096
+00:39:58,848 --> 00:40:00,448
+I don't know how fresh
+my perspective is,
+
+1097
+00:40:00,488 --> 00:40:02,008
+but I will give you what I got.
+
+1098
+00:40:02,008 --> 00:40:04,568
+- Well, after working with you,
+Dr. Robinavitch,
+
+1099
+00:40:04,608 --> 00:40:08,008
+I've come to respect
+your opinion.
+
+1100
+00:40:10,128 --> 00:40:12,448
+- Thank you, Dr. Al-Hashimi.
+
+1101
+00:40:14,168 --> 00:40:16,128
+Likewise.
+
+1102
+00:40:16,168 --> 00:40:18,888
+OK, patient is a 40-year-old
+female with a history
+
+1103
+00:40:18,928 --> 00:40:20,808
+of seizure disorder
+for the past 35 years.
+
+1104
+00:40:20,848 --> 00:40:22,488
+She had no perinatal
+complications
+
+1105
+00:40:22,528 --> 00:40:24,408
+and was in excellent health
+until age five,
+
+1106
+00:40:24,448 --> 00:40:26,048
+when she had
+the onset seizure activity
+
+1107
+00:40:26,088 --> 00:40:28,688
+following prolonged illness
+with viral meningitis.
+
+1108
+00:40:28,728 --> 00:40:31,928
+Her altered mental status
+from the infec...
+
+1109
+00:40:39,608 --> 00:40:42,648
+Baran, is this you?
