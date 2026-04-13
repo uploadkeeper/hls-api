@@ -1,0 +1,971 @@
+1
+00:00:03,500 --> 00:00:04,377
+Let's get our update
+
+2
+00:00:04,401 --> 00:00:06,250
+on the Affinity Virus.
+
+3
+00:00:06,410 --> 00:00:06,927
+Nineteen years since it first emerged,
+
+4
+00:00:06,951 --> 00:00:08,726
+[Affinity B Patients']
+a definitive cure for the virus.
+
+5
+00:00:08,750 --> 00:00:10,910
+[Berserk Attack Incident]
+has yet to be developed.
+
+6
+00:00:11,120 --> 00:00:12,266
+[Raises Public Concerns]
+The Affinity Virus, however,
+
+7
+00:00:12,290 --> 00:00:14,160
+has shown no significant dangers
+
+8
+00:00:14,330 --> 00:00:16,220
+beyond mild impacts on the immune system
+
+9
+00:00:16,250 --> 00:00:17,636
+of those infected.
+
+10
+00:00:17,660 --> 00:00:18,427
+Until recently,
+
+11
+00:00:18,451 --> 00:00:21,226
+a series of berserk attack
+incidents involving the infected
+
+12
+00:00:21,250 --> 00:00:23,596
+has reignited public
+concerns over the virus.
+
+13
+00:00:23,620 --> 00:00:26,226
+Therefore, we've invited
+Professor Li, a virologist,
+
+14
+00:00:26,250 --> 00:00:27,217
+to join us, and discuss
+
+15
+00:00:27,241 --> 00:00:29,726
+the latest research
+updates on the Affinity Virus.
+
+16
+00:00:29,750 --> 00:00:32,290
+The virus has evolved
+into two subtypes, A and B.
+
+17
+00:00:32,370 --> 00:00:33,886
+Recent berserk incidents
+
+18
+00:00:33,910 --> 00:00:36,136
+seem to have occurred only among
+individuals infected with Affinity B.
+
+19
+00:00:36,160 --> 00:00:39,000
+The subtype may have
+undergone an unknown mutation,
+
+20
+00:00:39,540 --> 00:00:41,870
+leading to extreme aggression
+and antisocial behavior
+
+21
+00:00:42,000 --> 00:00:43,000
+in those infected.
+
+22
+00:00:56,140 --> 00:00:58,020
+[Urgent Mission Received]
+
+23
+00:01:09,500 --> 00:01:10,500
+Siyuan!
+
+24
+00:01:22,700 --> 00:01:24,050
+You just got that bandage
+
+25
+00:01:24,200 --> 00:01:25,320
+from tripping while running.
+
+26
+00:01:26,290 --> 00:01:27,410
+But still, reckless as ever.
+
+27
+00:01:27,790 --> 00:01:29,356
+Because I feel happy for you!
+
+28
+00:01:29,380 --> 00:01:30,540
+I heard about your promotion.
+
+29
+00:01:30,580 --> 00:01:31,260
+But Siyuan,
+
+30
+00:01:31,500 --> 00:01:34,136
+your new position at the Special
+Administration Bureau, is it dangerous?
+
+31
+00:01:34,160 --> 00:01:35,096
+It's all over the news.
+
+32
+00:01:35,120 --> 00:01:35,747
+"Affinity B infected attacking people",
+
+33
+00:01:35,771 --> 00:01:37,660
+or something like that.
+
+34
+00:01:39,460 --> 00:01:40,460
+Don't jinx it.
+
+35
+00:01:45,580 --> 00:01:48,210
+Got a normal blood test result?
+
+36
+00:01:48,460 --> 00:01:49,186
+Don't worry.
+
+37
+00:01:49,210 --> 00:01:49,977
+To this day,
+
+38
+00:01:50,001 --> 00:01:51,686
+I've always been
+
+39
+00:01:51,710 --> 00:01:53,080
+a healthy Affinity A carrier.
+
+40
+00:01:56,080 --> 00:01:56,460
+Okay now.
+
+41
+00:01:56,750 --> 00:01:58,150
+Got an urgent call from the Bureau,
+
+42
+00:01:58,420 --> 00:01:59,420
+duty calls.
+
+43
+00:02:00,210 --> 00:02:01,410
+We'll have a feast after this.
+
+44
+00:02:01,710 --> 00:02:02,596
+Join me for now.
+
+45
+00:02:02,620 --> 00:02:03,860
+We can get home together later.
+
+46
+00:02:09,460 --> 00:02:09,830
+Siyuan,
+
+47
+00:02:10,330 --> 00:02:12,186
+isn't that a Special
+Administration Bureau's vehicle?
+
+48
+00:02:12,210 --> 00:02:13,210
+Seems to be
+
+49
+00:02:13,330 --> 00:02:14,710
+a major case.
+
+50
+00:02:19,220 --> 00:02:20,926
+To date, the Affinity Virus
+is known to spread only
+
+51
+00:02:20,950 --> 00:02:22,556
+through bodily fluids
+and from mother to child.
+
+52
+00:02:22,580 --> 00:02:23,876
+There is no need for excessive panic.
+
+53
+00:02:23,900 --> 00:02:25,546
+The government has recently established
+the Special Administration Bureau,
+
+54
+00:02:25,570 --> 00:02:27,266
+launched a mandatory control program
+
+55
+00:02:27,290 --> 00:02:28,366
+targeting individuals infected
+with the Affinity B virus.
+
+56
+00:02:28,390 --> 00:02:29,297
+Meanwhile, urgent work
+
+57
+00:02:29,321 --> 00:02:30,521
+is underway to develop a cure.
+
+58
+00:02:31,110 --> 00:02:32,306
+Urgent news.
+
+59
+00:02:32,330 --> 00:02:34,846
+Receiving reports of a possible berserk
+attack involving Affinity B infected
+
+60
+00:02:34,870 --> 00:02:35,970
+at Qiuxiao Manor.
+
+61
+00:02:38,060 --> 00:02:40,646
+[Affinity]
+
+62
+00:02:40,670 --> 00:02:42,460
+Let's focus on the scene.
+
+63
+00:02:42,790 --> 00:02:44,910
+Special Administration
+Bureau forces have arrived.
+
+64
+00:02:44,960 --> 00:02:46,246
+You can see behind me
+
+65
+00:02:46,270 --> 00:02:48,586
+that control measures have
+been initiated at the scene.
+
+66
+00:02:48,610 --> 00:02:50,136
+Stay tuned to this channel
+
+67
+00:02:50,160 --> 00:02:52,350
+for further developments.
+
+68
+00:03:06,460 --> 00:03:08,220
+Mr. Wu, I'll stay right
+here and go nowhere.
+
+69
+00:03:11,910 --> 00:03:12,910
+Let's go.
+
+70
+00:03:17,250 --> 00:03:17,937
+Hello, madam.
+
+71
+00:03:17,961 --> 00:03:20,080
+Could you tell us about
+the family that lived here?
+
+72
+00:03:20,210 --> 00:03:21,346
+It was a family of three.
+
+73
+00:03:21,370 --> 00:03:23,186
+The couple was quite cultured.
+
+74
+00:03:23,210 --> 00:03:24,436
+But their boy,
+
+75
+00:03:24,460 --> 00:03:25,556
+has been quite a loner.
+
+76
+00:03:25,580 --> 00:03:26,646
+He never smiled
+
+77
+00:03:26,670 --> 00:03:27,187
+or greeted us
+
+78
+00:03:27,211 --> 00:03:28,370
+whenever he saw us.
+
+79
+00:03:28,750 --> 00:03:31,000
+He and my son had been
+in the same high school.
+
+80
+00:03:31,330 --> 00:03:32,226
+My son said
+
+81
+00:03:32,250 --> 00:03:33,227
+that the boy was found to be
+
+82
+00:03:33,251 --> 00:03:36,330
+an Affinity B carrier in a
+school physical examination.
+
+83
+00:03:36,580 --> 00:03:37,686
+Just like they said on the news.
+
+84
+00:03:37,710 --> 00:03:39,830
+They will turn crazy
+
+85
+00:03:39,960 --> 00:03:41,210
+and become antisocial.
+
+86
+00:03:41,580 --> 00:03:42,057
+Just look at this.
+
+87
+00:03:42,081 --> 00:03:43,710
+Those were his own parents...
+
+88
+00:03:44,460 --> 00:03:45,196
+- Look!
+- They're coming out!
+
+89
+00:03:45,220 --> 00:03:45,727
+Please stand back.
+
+90
+00:03:45,751 --> 00:03:46,976
+- They're coming out!
+- Bureau operation, please stand back.
+
+91
+00:03:47,000 --> 00:03:48,400
+How's the situation inside?
+
+92
+00:03:48,440 --> 00:03:50,246
+Was it because an Affinity
+B carrier went berserk?
+
+93
+00:03:50,270 --> 00:03:51,550
+We are not taking any questions.
+
+94
+00:03:51,820 --> 00:03:53,686
+Bureau operation, please stand back.
+
+95
+00:03:53,710 --> 00:03:55,226
+Will the Special Administration Bureau
+
+96
+00:03:55,250 --> 00:03:57,096
+- issue an official statement regarding this matter today?
+- Stand back.
+
+97
+00:03:57,120 --> 00:03:58,306
+We are not taking any questions.
+
+98
+00:03:58,330 --> 00:03:59,330
+Please stand back!
+
+99
+00:04:00,540 --> 00:04:01,950
+Look here!
+
+100
+00:04:02,750 --> 00:04:03,500
+Stand back!
+
+101
+00:04:03,710 --> 00:04:04,726
+Can you please give us an answer?
+
+102
+00:04:04,750 --> 00:04:06,186
+Has the Affinity Virus
+developed - We are not
+
+103
+00:04:06,210 --> 00:04:07,686
+- any uncontrollable mutations?
+- Taking any questions.
+
+104
+00:04:07,710 --> 00:04:10,430
+- Will there be more victims?
+- Bureau operation, please stand back.
+
+105
+00:04:10,690 --> 00:04:11,816
+Bureau operation, please stand back.
+
+106
+00:04:11,840 --> 00:04:12,840
+Stand back!
+
+107
+00:04:13,130 --> 00:04:14,250
+Please answer our questions!
+
+108
+00:04:14,580 --> 00:04:15,936
+- Please stand back!
+- Please answer our questions!
+
+109
+00:04:15,960 --> 00:04:16,936
+- Yeah.
+- Please answer our questions!
+
+110
+00:04:16,960 --> 00:04:18,200
+Thank you for your cooperation.
+
+111
+00:04:18,390 --> 00:04:19,186
+Stand back!
+
+112
+00:04:19,210 --> 00:04:20,147
+Please answer our questions!
+
+113
+00:04:20,171 --> 00:04:22,126
+Have the Affinity B
+infected lost their humanity?
+
+114
+00:04:22,150 --> 00:04:23,016
+Over here!
+
+115
+00:04:23,040 --> 00:04:23,766
+Please answer our questions!
+
+116
+00:04:23,790 --> 00:04:24,186
+Over here!
+
+117
+00:04:24,210 --> 00:04:25,210
+Please stand back!
+
+118
+00:04:25,790 --> 00:04:27,230
+Bureau operation, please stand back.
+
+119
+00:04:34,630 --> 00:04:35,750
+Please answer our questions!
+
+120
+00:04:36,250 --> 00:04:37,470
+Stand back!
+
+121
+00:04:37,790 --> 00:04:38,976
+Please answer our questions!
+
+122
+00:04:39,000 --> 00:04:40,760
+- Please answer our questions!
+- Stand back!
+
+123
+00:04:41,290 --> 00:04:42,057
+Stand back!
+
+124
+00:04:42,081 --> 00:04:43,186
+Please answer our questions!
+
+125
+00:04:43,210 --> 00:04:44,056
+Thank you for your cooperation.
+
+126
+00:04:44,080 --> 00:04:45,057
+Can you please answer our questions?
+
+127
+00:04:45,081 --> 00:04:46,250
+Go and check that.
+
+128
+00:04:47,210 --> 00:04:48,210
+No filming or photos!
+
+129
+00:04:49,330 --> 00:04:50,330
+Over here!
+
+130
+00:04:50,870 --> 00:04:51,807
+What's going on?
+
+131
+00:04:51,831 --> 00:04:53,370
+Don't tell me there's a bomb inside.
+
+132
+00:04:55,880 --> 00:04:57,210
+Sir, there's nothing inside.
+
+133
+00:05:11,190 --> 00:05:12,057
+He's staring at her.
+
+134
+00:05:12,081 --> 00:05:13,156
+He's staring at her.
+
+135
+00:05:13,180 --> 00:05:14,186
+He's staring at that girl.
+
+136
+00:05:14,210 --> 00:05:15,556
+Are you interested in this girl?
+
+137
+00:05:15,580 --> 00:05:17,000
+Are you in a relationship?
+
+138
+00:05:22,960 --> 00:05:23,826
+Please answer our questions.
+
+139
+00:05:23,850 --> 00:05:24,850
+What's your relationship?
+
+140
+00:05:26,420 --> 00:05:27,500
+Do you two know each other?
+
+141
+00:05:31,470 --> 00:05:32,726
+- Hello!
+- Please answer our questions!
+
+142
+00:05:32,750 --> 00:05:33,846
+Urgent notice from the bureau.
+
+143
+00:05:33,870 --> 00:05:34,687
+They wanted us to be advised.
+
+144
+00:05:34,711 --> 00:05:36,136
+The Affinity B infected
+individuals seem to be showing
+
+145
+00:05:36,160 --> 00:05:38,600
+unexplained excitement and
+fervor toward Affinity A carriers.
+
+146
+00:05:38,670 --> 00:05:39,910
+Why didn't you tell me earlier?
+
+147
+00:05:40,580 --> 00:05:41,620
+Hurry and take him inside!
+
+148
+00:05:42,040 --> 00:05:42,896
+Please answer our questions!
+
+149
+00:05:42,920 --> 00:05:43,687
+What source do you work for?
+
+150
+00:05:43,711 --> 00:05:45,151
+Bureau operation, please stand back.
+
+151
+00:05:46,580 --> 00:05:47,580
+Turn that thing off!
+
+152
+00:05:58,720 --> 00:06:04,020
+♪ The touch of your warm embrace ♪
+
+153
+00:06:04,720 --> 00:06:06,536
+♪ I'm a slave to you ♪
+
+154
+00:06:06,560 --> 00:06:09,060
+♪ Can you feel that you're my fire? ♪
+
+155
+00:06:24,710 --> 00:06:25,870
+It's already been five years,
+
+156
+00:06:26,120 --> 00:06:27,710
+yet he still haunts me in my dreams.
+
+157
+00:06:49,460 --> 00:06:50,580
+Luckily,
+
+158
+00:06:50,830 --> 00:06:53,960
+I'm leading a wonderful life now.
+
+159
+00:06:53,961 --> 00:06:59,225
+(Watch on www.kissasia.co, .be, .org, .net, .id, .xyz )
+
+160
+00:06:55,250 --> 00:06:57,870
+Hope all goes well
+
+161
+00:06:58,040 --> 00:06:59,560
+with my research institute internship.
+
+162
+00:07:12,370 --> 00:07:14,226
+Found some mushrooms growing
+near the road, stewing them now.
+
+163
+00:07:14,250 --> 00:07:15,250
+Come and have some.
+
+164
+00:07:22,670 --> 00:07:24,806
+Hope we can still make it
+for the internship registration.
+
+165
+00:07:24,830 --> 00:07:25,830
+Besides.
+
+166
+00:07:26,370 --> 00:07:28,050
+Are we really going to eat these mushrooms
+
+167
+00:07:28,210 --> 00:07:29,370
+picked near the road?
+
+168
+00:07:38,830 --> 00:07:39,370
+What's wrong?
+
+169
+00:07:39,710 --> 00:07:40,750
+You're right.
+
+170
+00:07:41,080 --> 00:07:41,937
+Shouldn't have eaten
+
+171
+00:07:41,961 --> 00:07:43,210
+those mushrooms.
+
+172
+00:07:45,830 --> 00:07:47,000
+I need to relieve myself.
+
+173
+00:08:02,960 --> 00:08:04,080
+It's so spicy.
+
+174
+00:08:14,080 --> 00:08:16,210
+Isn't that a Special
+Administration Bureau vehicle?
+
+175
+00:08:17,290 --> 00:08:19,726
+You are transporting three
+high-risk Affinity B infected individuals.
+
+176
+00:08:19,750 --> 00:08:20,936
+Proceed with extreme caution
+
+177
+00:08:20,960 --> 00:08:22,346
+while escorting them back to the Bureau.
+
+178
+00:08:22,370 --> 00:08:23,370
+Roger that.
+
+179
+00:08:27,120 --> 00:08:27,750
+What was that noise?
+
+180
+00:08:27,830 --> 00:08:29,070
+Stop the car. We'll check that.
+
+181
+00:09:01,040 --> 00:09:02,330
+They got the latest inhibitors.
+
+182
+00:09:06,250 --> 00:09:08,080
+I smell Affinity A carriers.
+
+183
+00:09:38,870 --> 00:09:40,120
+You smell great.
+
+184
+00:09:40,960 --> 00:09:42,370
+Become mine.
+
+185
+00:09:46,500 --> 00:09:48,240
+Just do your part and comfort me.
+
+186
+00:10:15,600 --> 00:10:17,186
+Three Affinity B infected individuals
+had hijacked the transport vehicle
+
+187
+00:10:17,210 --> 00:10:18,440
+on Qingqi Street and fled.
+
+188
+00:10:18,660 --> 00:10:19,880
+They got one hostage.
+
+189
+00:10:19,930 --> 00:10:20,970
+Requesting reinforcements.
+
+190
+00:10:30,140 --> 00:10:31,140
+[Connecting]
+
+191
+00:10:47,710 --> 00:10:48,687
+A6688.
+
+192
+00:10:48,711 --> 00:10:50,330
+Surrender now! Stop the vehicle!
+
+193
+00:11:05,620 --> 00:11:06,620
+Boss!
+
+194
+00:11:06,670 --> 00:11:07,830
+I'm losing control!
+
+195
+00:11:08,790 --> 00:11:09,597
+Then take an inhibitor shot.
+
+196
+00:11:09,621 --> 00:11:10,981
+Hang in there. We'll be free soon.
+
+197
+00:11:17,810 --> 00:11:18,806
+A6688.
+
+198
+00:11:18,830 --> 00:11:20,190
+Surrender now! Stop the vehicle!
+
+199
+00:11:37,710 --> 00:11:39,470
+Requesting air support,
+take out the target!
+
+200
+00:11:39,850 --> 00:11:40,850
+Roger that.
+
+201
+00:13:26,470 --> 00:13:28,680
+♪ You smell like something strange ♪
+
+202
+00:13:30,140 --> 00:13:30,696
+♪ Like wood ♪
+
+203
+00:13:30,720 --> 00:13:31,497
+♪ Like wine ♪
+
+204
+00:13:31,521 --> 00:13:33,640
+♪ Like the fading rain ♪
+
+205
+00:13:34,140 --> 00:13:37,576
+♪ It's not a problem I can fix ♪
+
+206
+00:13:37,600 --> 00:13:40,970
+♪ Maybe I'm just meant to be your toy ♪
+
+207
+00:14:39,230 --> 00:14:40,230
+It can't be!
+
+208
+00:14:40,280 --> 00:14:41,280
+No inhibitor shots left.
+
+209
+00:14:43,510 --> 00:14:44,710
+Get off if you are done here.
+
+210
+00:14:57,330 --> 00:14:58,450
+It's getting out of control.
+
+211
+00:15:00,120 --> 00:15:01,120
+What's wrong with you?
+
+212
+00:15:02,710 --> 00:15:03,870
+Did I
+
+213
+00:15:04,460 --> 00:15:05,750
+hurt you just now?
+
+214
+00:15:12,330 --> 00:15:14,000
+I already gave you a chance.
+
+215
+00:15:17,580 --> 00:15:19,120
+It's your choice to stay here.
+
+216
+00:16:35,390 --> 00:16:36,390
+Don't touch me!
+
+217
+00:16:53,720 --> 00:16:55,060
+I like your smell.
+
+218
+00:16:55,430 --> 00:16:57,470
+From now on, be mine, okay?
+
+219
+00:18:18,970 --> 00:18:21,496
+♪ Someone's choking me ♪
+
+220
+00:18:21,520 --> 00:18:24,310
+♪ I cannot breathe ♪
+
+221
+00:18:24,560 --> 00:18:27,350
+♪ Maybe I lost my mind ♪
+
+222
+00:18:27,520 --> 00:18:30,310
+♪ Trying to read your eyes ♪
+
+223
+00:18:31,100 --> 00:18:33,770
+♪ Console me and hug me ♪
+
+224
+00:18:34,020 --> 00:18:36,640
+♪ It's all just wishful thinking ♪
+
+225
+00:18:36,890 --> 00:18:39,890
+♪ I'm stuck here. There's no way to leave ♪
+
+226
+00:18:40,140 --> 00:18:42,220
+♪ The last time I touch your face ♪
+
+227
+00:18:46,060 --> 00:18:48,640
+♪ You smell like something strange ♪
+
+228
+00:18:50,100 --> 00:18:50,656
+♪ Like wood ♪
+
+229
+00:18:50,680 --> 00:18:51,447
+♪ Like wine ♪
+
+230
+00:18:51,471 --> 00:18:53,600
+♪ Like the fading rain ♪
+
+231
+00:18:54,100 --> 00:18:57,536
+♪ It's not a problem I can fix ♪
+
+232
+00:18:57,560 --> 00:19:00,930
+♪ Maybe I'm just meant to be your toy ♪
