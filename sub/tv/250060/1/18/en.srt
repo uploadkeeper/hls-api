@@ -1,0 +1,3365 @@
+1
+00:00:07,033 --> 00:00:11,233
+♪I've braved the storms, walked through the rain♪
+
+2
+00:00:11,267 --> 00:00:14,633
+♪Seen the highs and lows along the way♪
+
+3
+00:00:14,833 --> 00:00:18,033
+♪But you stay quiet, never change♪
+
+4
+00:00:18,233 --> 00:00:21,633
+♪Like a child who dreams beneath the stars♪
+
+5
+00:00:21,700 --> 00:00:25,033
+♪I've read the story in your eyes♪
+
+6
+00:00:25,267 --> 00:00:28,533
+♪And finally, nothing's left to hide♪
+
+7
+00:00:28,700 --> 00:00:32,133
+♪You won't give in to a world so cold♪
+
+8
+00:00:32,267 --> 00:00:35,733
+♪So you wander through it on your own♪
+
+9
+00:00:35,867 --> 00:00:39,333
+♪Maybe fate has drawn us near♪
+
+10
+00:00:39,433 --> 00:00:42,333
+♪Just to help you learn to believe♪
+
+11
+00:00:42,567 --> 00:00:45,500
+♪Everything you've questioned deep inside♪
+
+12
+00:00:45,633 --> 00:00:49,733
+♪I'll be the proof you need♪
+
+13
+00:00:49,867 --> 00:00:51,167
+♪I've made my choice♪
+
+14
+00:00:51,267 --> 00:00:54,133
+♪For you, I'll be brave and break the rules♪
+
+15
+00:00:54,500 --> 00:00:57,367
+♪What's there to fear even if the world is right and I am wrong?♪
+
+16
+00:00:58,067 --> 00:01:00,933
+♪One day, all of this will turn into memories♪
+
+17
+00:01:01,467 --> 00:01:04,367
+♪Every storm we faced will turn into our life's scenery♪
+
+18
+00:01:05,133 --> 00:01:08,033
+♪For you, I'll be brave and break the rules♪
+
+19
+00:01:08,333 --> 00:01:11,267
+♪What's there to fear even if the world is right and I am wrong?♪
+
+20
+00:01:11,967 --> 00:01:14,833
+♪Even if, in the end, the whole world turns against me♪
+
+21
+00:01:15,333 --> 00:01:18,267
+♪I won't regret having loved you♪
+
+22
+00:01:18,367 --> 00:01:21,933
+♪With all my heart♪
+
+23
+00:01:22,167 --> 00:01:25,767
+♪I've held you close♪
+
+24
+00:01:25,867 --> 00:01:29,467
+♪Walked by your side♪
+
+25
+00:01:29,633 --> 00:01:33,933
+♪And loved the fire that burned inside you♪
+
+26
+00:01:33,933 --> 00:01:35,467
+[The First Frost]
+
+27
+00:01:35,467 --> 00:01:36,967
+[Adapted from the novel of the same name by Zhu Yi on www.jjwxc.net]
+
+28
+00:01:37,500 --> 00:01:39,267
+[Nanwu West Station to Yihe East Station]
+Java is a powerful language.
+
+29
+00:01:39,500 --> 00:01:41,200
+It can be used to develop different types of software systems
+
+30
+00:01:41,600 --> 00:01:42,833
+[Nanwu University]
+at various levels
+
+31
+00:01:43,067 --> 00:01:45,233
+and for different application contexts.
+
+32
+00:01:45,767 --> 00:01:46,433
+In recent years,
+
+33
+00:01:46,567 --> 00:01:47,200
+cloud computing
+
+34
+00:01:47,500 --> 00:01:48,933
+and big data have become very popular.
+
+35
+00:01:49,933 --> 00:01:52,300
+Java is applied in software systems
+
+36
+00:01:52,433 --> 00:01:54,500
+with different application contexts in these fields.
+
+37
+00:01:55,067 --> 00:01:57,567
+It is known for its high fault tolerance.
+
+38
+00:01:57,800 --> 00:02:00,033
+It can be deployed on low-cost,
+
+39
+00:02:00,167 --> 00:02:01,067
+general software.
+
+40
+00:02:01,133 --> 00:02:02,267
+It is suitable for software
+
+41
+00:02:02,400 --> 00:02:04,267
+that involves storing massive amounts of data.
+
+42
+00:02:23,567 --> 00:02:26,500
+♪Whether you want it♪
+
+43
+00:02:26,933 --> 00:02:30,133
+♪I'll choose to wait♪
+
+44
+00:02:30,767 --> 00:02:33,733
+♪Waiting for you to finish♪
+
+45
+00:02:34,367 --> 00:02:37,100
+♪The long journey of adventure♪
+
+46
+00:02:37,667 --> 00:02:40,833
+♪You're not allowing me to believe blindly in eternity♪
+
+47
+00:02:41,367 --> 00:02:44,767
+♪Not allowing me to believe blindly in us♪
+
+48
+00:02:44,900 --> 00:02:51,267
+♪Not allowing me to throw myself recklessly♪
+
+49
+00:02:51,267 --> 00:02:52,967
+[Yihe University]
+
+50
+00:02:53,033 --> 00:02:56,467
+♪I want to turn invisible♪
+
+51
+00:02:56,667 --> 00:02:59,367
+♪To hide my scars♪
+
+52
+00:02:59,367 --> 00:03:01,500
+♪I want to give you my warmth♪
+
+53
+00:03:01,500 --> 00:03:04,133
+♪To help you drive away the cold♪
+
+54
+00:03:04,367 --> 00:03:07,667
+♪Even if you can't see, you can still feel my pain♪
+
+55
+00:03:08,267 --> 00:03:11,267
+♪I want to turn invisible♪
+
+56
+00:03:11,933 --> 00:03:15,367
+♪To hide tears welling up in my eyes♪
+
+57
+00:03:15,900 --> 00:03:17,167
+♪Leaving my fingerprints♪
+
+58
+00:03:17,467 --> 00:03:20,567
+♪In your chaotic world♪
+
+59
+00:03:22,567 --> 00:03:29,900
+♪A kiss with no heartfelt feeling for you♪
+
+60
+00:03:39,367 --> 00:03:44,500
+[Episode 18]
+[On My Way to You]
+
+61
+00:03:51,433 --> 00:03:52,200
+[3399 Days]
+
+62
+00:03:52,700 --> 00:03:58,067
+[Beiyu Tunnel 3 Rescue, Hour 13]
+
+63
+00:04:05,233 --> 00:04:06,000
+Everyone, hurry up.
+
+64
+00:04:06,000 --> 00:04:06,667
+Move quickly.
+
+65
+00:04:06,667 --> 00:04:08,067
+Grab your stuff and follow me, quickly!
+
+66
+00:04:08,900 --> 00:04:09,967
+- What are you guys doing? - Hello.
+
+67
+00:04:10,167 --> 00:04:11,600
+We're reporters from Nanwu TV station.
+
+68
+00:04:12,267 --> 00:04:13,167
+Hurry up!
+
+69
+00:04:13,400 --> 00:04:14,433
+Catch up, quick!
+
+70
+00:04:14,433 --> 00:04:15,600
+Don't cross the blockade line.
+
+71
+00:04:15,600 --> 00:04:16,467
+It's very dangerous there now.
+
+72
+00:04:16,467 --> 00:04:17,433
+Got it. Thank you.
+
+73
+00:04:17,433 --> 00:04:17,933
+No need.
+
+74
+00:04:17,933 --> 00:04:18,633
+Hurry up!
+
+75
+00:04:28,433 --> 00:04:29,633
+Everyone, remember this,
+
+76
+00:04:29,633 --> 00:04:30,633
+find your positions.
+
+77
+00:04:31,433 --> 00:04:32,300
+Remember this,
+
+78
+00:04:32,300 --> 00:04:33,933
+don't interfere with the rescue.
+
+79
+00:04:33,933 --> 00:04:34,867
+Stay safe.
+
+80
+00:04:35,167 --> 00:04:35,833
+Oh my god.
+
+81
+00:04:36,600 --> 00:04:38,000
+I will never watch disaster movies again.
+
+82
+00:04:38,000 --> 00:04:39,500
+This is really scary.
+
+83
+00:04:40,367 --> 00:04:42,300
+This is what being a reporter is all about.
+
+84
+00:04:42,667 --> 00:04:44,233
+We're here to show the truth
+
+85
+00:04:44,233 --> 00:04:45,167
+to our viewers.
+
+86
+00:04:54,267 --> 00:04:55,433
+A serious mudslide occurred
+
+87
+00:04:55,433 --> 00:04:56,600
+[First News, All Ears for You]
+at Beiyu Tunnel 3.
+
+88
+00:04:56,600 --> 00:04:57,367
+Currently, it is known
+
+89
+00:04:57,367 --> 00:04:59,367
+seven vehicles are trapped inside the tunnel.
+
+90
+00:04:59,467 --> 00:05:00,500
+After the incident,
+
+91
+00:05:00,600 --> 00:05:02,667
+the municipal government immediately activated the rescue plan.
+
+92
+00:05:02,733 --> 00:05:04,133
+I will now provide a deeper report.
+
+93
+00:05:04,133 --> 00:05:04,800
+Miss, please stop!
+
+94
+00:05:04,800 --> 00:05:05,567
+Yu!
+
+95
+00:05:05,567 --> 00:05:06,467
+It's dangerous ahead. You can't go in!
+
+96
+00:05:06,467 --> 00:05:07,033
+She's a family member.
+
+97
+00:05:07,033 --> 00:05:07,767
+Save my daughter!
+
+98
+00:05:07,767 --> 00:05:08,667
+Her name is Shi Jiayu!
+
+99
+00:05:08,667 --> 00:05:09,767
+Family members, please rest to the side.
+
+100
+00:05:09,767 --> 00:05:10,833
+Please stay calm.
+
+101
+00:05:10,833 --> 00:05:11,733
+Save my daughter!
+
+102
+00:05:11,733 --> 00:05:13,167
+If you go in now, it will interfere with our rescue.
+
+103
+00:05:13,467 --> 00:05:14,467
+Please rest to the side.
+
+104
+00:05:14,533 --> 00:05:15,033
+Is that okay?
+
+105
+00:05:15,367 --> 00:05:16,267
+Family members, please rest to the side.
+
+106
+00:05:16,267 --> 00:05:17,233
+Let's rest over there.
+
+107
+00:05:17,233 --> 00:05:17,867
+Is that okay?
+
+108
+00:05:27,067 --> 00:05:27,733
+Yifan,
+
+109
+00:05:28,400 --> 00:05:29,467
+let's continue...
+
+110
+00:05:30,433 --> 00:05:31,133
+Yifan?
+
+111
+00:05:32,767 --> 00:05:33,600
+What's wrong?
+
+112
+00:05:33,933 --> 00:05:34,767
+I'm fine.
+
+113
+00:05:35,167 --> 00:05:36,367
+So far,
+
+114
+00:05:36,367 --> 00:05:38,633
+[Beiyu Tunnel 3 Rescue]
+more than a dozen injured have been successfully rescued.
+
+115
+00:05:38,767 --> 00:05:40,133
+[Hour 25]
+They are being sent to the hospital for treatment.
+
+116
+00:05:40,267 --> 00:05:40,933
+It is understood
+
+117
+00:05:41,067 --> 00:05:42,167
+that the cause of the accident
+
+118
+00:05:42,167 --> 00:05:43,467
+was the continuous heavy rain.
+
+119
+00:05:43,633 --> 00:05:45,667
+This is a disaster that caught everyone by surprise.
+
+120
+00:05:46,133 --> 00:05:47,000
+Stay tuned
+
+121
+00:05:47,000 --> 00:05:48,767
+for further reports by Nanwu TV.
+
+122
+00:05:51,733 --> 00:05:52,667
+You've worked hard.
+
+123
+00:05:53,300 --> 00:05:54,233
+It's nothing.
+
+124
+00:05:54,400 --> 00:05:55,800
+I hope they're rescued soon.
+
+125
+00:05:57,400 --> 00:05:58,133
+You're taking a break?
+
+126
+00:05:58,400 --> 00:05:59,033
+Ms. Qian.
+
+127
+00:05:59,033 --> 00:05:59,767
+No need to get up.
+
+128
+00:05:59,867 --> 00:06:00,567
+Just take a break.
+
+129
+00:06:01,600 --> 00:06:02,167
+Well,
+
+130
+00:06:02,233 --> 00:06:02,800
+Fu Zhuang,
+
+131
+00:06:02,800 --> 00:06:03,400
+Yifan,
+
+132
+00:06:03,933 --> 00:06:05,833
+I'll need you both
+
+133
+00:06:06,067 --> 00:06:07,067
+to stay here a bit longer.
+
+134
+00:06:07,300 --> 00:06:08,767
+If anything happens,
+
+135
+00:06:08,933 --> 00:06:09,933
+keep in touch with me at any time.
+
+136
+00:06:10,033 --> 00:06:10,800
+Don't worry.
+
+137
+00:06:10,800 --> 00:06:11,567
+If anything happens,
+
+138
+00:06:11,567 --> 00:06:12,933
+we'll communicate in the group.
+
+139
+00:06:14,600 --> 00:06:15,933
+How come you're bleeding here?
+
+140
+00:06:17,400 --> 00:06:18,200
+Are you okay?
+
+141
+00:06:22,367 --> 00:06:23,133
+It's nothing serious.
+
+142
+00:06:23,367 --> 00:06:25,267
+It's probably a scratch from the debris.
+
+143
+00:06:25,267 --> 00:06:26,600
+Do you need to get it treated?
+
+144
+00:06:26,800 --> 00:06:27,867
+Maybe find some medicine
+
+145
+00:06:27,867 --> 00:06:28,867
+and disinfect it.
+
+146
+00:06:28,867 --> 00:06:30,200
+It's really nothing serious.
+
+147
+00:06:30,200 --> 00:06:31,300
+You can go back to the rest area now.
+
+148
+00:06:31,300 --> 00:06:31,867
+Are you really okay?
+
+149
+00:06:31,867 --> 00:06:32,633
+I'm really fine.
+
+150
+00:06:32,933 --> 00:06:33,733
+Be careful.
+
+151
+00:06:34,033 --> 00:06:34,933
+Then we'll head back first.
+
+152
+00:06:35,200 --> 00:06:36,233
+Be sure to stay safe, you two.
+
+153
+00:06:36,500 --> 00:06:37,667
+Communicate with us anytime if something happens.
+
+154
+00:06:37,667 --> 00:06:38,367
+Okay.
+
+155
+00:06:38,433 --> 00:06:39,500
+- We're leaving first. - Thank you, Yifan.
+
+156
+00:06:39,500 --> 00:06:40,267
+You've worked hard today.
+
+157
+00:06:40,267 --> 00:06:41,000
+You, too.
+
+158
+00:06:46,400 --> 00:06:47,000
+You've worked hard.
+
+159
+00:06:47,000 --> 00:06:48,000
+Rest early tonight.
+
+160
+00:06:48,033 --> 00:06:48,867
+You too, get some rest.
+
+161
+00:07:07,267 --> 00:07:08,033
+What's wrong?
+
+162
+00:07:09,133 --> 00:07:10,733
+I've never seen so much blood.
+
+163
+00:07:12,200 --> 00:07:13,167
+You'll get used to it.
+
+164
+00:07:13,267 --> 00:07:14,367
+It's inevitable in journalism.
+
+165
+00:07:23,133 --> 00:07:23,933
+Drink some water.
+
+166
+00:07:24,933 --> 00:07:25,567
+Thank you.
+
+167
+00:07:25,633 --> 00:07:27,300
+Wash up and go to bed early.
+
+168
+00:07:27,367 --> 00:07:28,367
+If you feel unwell,
+
+169
+00:07:28,367 --> 00:07:29,233
+wake me up.
+
+170
+00:07:29,233 --> 00:07:30,233
+Don't feel embarrassed.
+
+171
+00:07:30,300 --> 00:07:31,400
+Thank you, Yifan.
+
+172
+00:07:54,533 --> 00:07:56,933
+[Sang Yan: How's it going?]
+
+173
+00:08:01,633 --> 00:08:06,033
+[I'm fine, and everything's okay.]
+
+174
+00:08:17,967 --> 00:08:21,300
+[Beiyu Tunnel 3 Rescue, Hour 38]
+
+175
+00:08:30,767 --> 00:08:32,133
+Yifan, Fang Li.
+
+176
+00:08:32,200 --> 00:08:33,433
+Ms. Qian is calling us to head out.
+
+177
+00:08:34,200 --> 00:08:34,867
+Quick.
+
+178
+00:08:35,433 --> 00:08:36,200
+Let's go.
+
+179
+00:08:41,633 --> 00:08:46,933
+[Beiyu Tunnel 3 Rescue, Hour 46]
+
+180
+00:08:53,200 --> 00:08:54,967
+We've found a suspected survivor here!
+
+181
+00:08:55,800 --> 00:08:57,067
+It looks like another person was rescued!
+
+182
+00:09:09,867 --> 00:09:11,200
+Come on, dig faster!
+
+183
+00:09:12,333 --> 00:09:13,233
+Everyone, dig with your hands!
+
+184
+00:09:13,967 --> 00:09:15,267
+Come on, little one.
+
+185
+00:09:15,800 --> 00:09:17,133
+I found a little girl inside.
+
+186
+00:09:17,500 --> 00:09:18,333
+More people, come over here!
+
+187
+00:09:18,333 --> 00:09:19,000
+Come one, girl.
+
+188
+00:09:19,367 --> 00:09:20,467
+There's a child. Be careful!
+
+189
+00:09:20,533 --> 00:09:21,033
+Do it gently.
+
+190
+00:09:21,100 --> 00:09:21,600
+Come on.
+
+191
+00:09:21,767 --> 00:09:22,467
+Come on, little one.
+
+192
+00:09:22,467 --> 00:09:23,500
+- Give me your hand. - Mind her head.
+
+193
+00:09:23,500 --> 00:09:24,567
+My dad's still inside.
+
+194
+00:09:24,567 --> 00:09:25,167
+Yu!
+
+195
+00:09:26,333 --> 00:09:26,967
+- Mind her head. - Be careful.
+
+196
+00:09:26,967 --> 00:09:28,200
+Save my dad...
+
+197
+00:09:28,500 --> 00:09:29,067
+Little one.
+
+198
+00:09:29,233 --> 00:09:30,433
+Little one, lie down.
+
+199
+00:09:31,600 --> 00:09:33,433
+My dad's still inside...
+
+200
+00:09:33,867 --> 00:09:35,000
+Get the ambulance closer!
+
+201
+00:09:35,000 --> 00:09:37,033
+Your dad will be out soon.
+
+202
+00:09:37,033 --> 00:09:38,267
+The skylight's too small.
+
+203
+00:09:38,267 --> 00:09:40,500
+My dad can't crawl out...
+
+204
+00:09:43,200 --> 00:09:44,867
+Save my dad...
+
+205
+00:09:45,667 --> 00:09:46,333
+Be careful.
+
+206
+00:09:46,800 --> 00:09:47,733
+Do it gently.
+
+207
+00:09:48,067 --> 00:09:49,167
+Hurry, get her in the ambulance!
+
+208
+00:09:49,267 --> 00:09:50,233
+Dad...
+
+209
+00:09:51,233 --> 00:09:51,867
+Yu!
+
+210
+00:09:52,033 --> 00:09:52,833
+Dad...
+
+211
+00:09:53,067 --> 00:09:54,867
+- My dad's still inside... - Yu!
+
+212
+00:09:54,867 --> 00:09:56,033
+Ambulance, open the door!
+
+213
+00:09:56,033 --> 00:09:56,633
+Hurry!
+
+214
+00:09:56,767 --> 00:09:57,433
+Be careful.
+
+215
+00:09:57,433 --> 00:09:58,233
+Yu, don't be scared.
+
+216
+00:09:58,233 --> 00:09:59,367
+Mom's here, don't be scared!
+
+217
+00:09:59,367 --> 00:10:00,167
+Dad...
+
+218
+00:10:00,200 --> 00:10:01,000
+Yu!
+
+219
+00:10:01,000 --> 00:10:01,767
+Yu, don't be scared.
+
+220
+00:10:01,767 --> 00:10:02,567
+Mom's here!
+
+221
+00:10:02,567 --> 00:10:03,667
+Dad's still inside...
+
+222
+00:10:06,767 --> 00:10:08,133
+Dad...
+
+223
+00:10:12,200 --> 00:10:12,900
+Yu, don't be scared.
+
+224
+00:10:12,900 --> 00:10:14,133
+Mom's here. Don't cry.
+
+225
+00:10:16,633 --> 00:10:17,200
+Hello everyone.
+
+226
+00:10:17,200 --> 00:10:19,467
+[First News, All Ears for You]
+I'm Su Tian, a reporter from Nanwu TV.
+
+227
+00:10:19,567 --> 00:10:20,500
+We've just learned
+
+228
+00:10:20,600 --> 00:10:22,267
+that among the seventeen rescued victims,
+
+229
+00:10:22,267 --> 00:10:23,867
+fourteen have minor injuries,
+
+230
+00:10:23,867 --> 00:10:25,367
+and three have more severe injuries.
+
+231
+00:10:25,367 --> 00:10:26,800
+They are currently receiving treatment.
+
+232
+00:10:26,967 --> 00:10:28,400
+The one most people are concerned about
+
+233
+00:10:28,400 --> 00:10:29,633
+is seven-year-old girl Shi Jiayu.
+
+234
+00:10:29,767 --> 00:10:31,567
+She is still under observation in the ICU.
+
+235
+00:10:32,067 --> 00:10:33,200
+Any latest updates
+
+236
+00:10:33,200 --> 00:10:34,400
+will be brought to you as soon as possible.
+
+237
+00:10:34,400 --> 00:10:35,967
+Is Shi Jiayu still in the ICU?
+
+238
+00:10:36,067 --> 00:10:36,767
+Please wait.
+
+239
+00:10:36,767 --> 00:10:37,400
+I'll check
+
+240
+00:10:37,400 --> 00:10:38,500
+if she's been moved from the ICU
+
+241
+00:10:38,500 --> 00:10:39,967
+to a regular ward.
+
+242
+00:10:40,067 --> 00:10:40,967
+Should we do an interview?
+
+243
+00:10:41,033 --> 00:10:41,533
+Yes.
+
+244
+00:10:43,400 --> 00:10:45,067
+I originally planned to take Yu abroad
+
+245
+00:10:45,267 --> 00:10:46,633
+for immigration next month.
+
+246
+00:10:47,367 --> 00:10:48,800
+I've divorced her father.
+
+247
+00:10:49,900 --> 00:10:50,833
+This time,
+
+248
+00:10:51,200 --> 00:10:53,033
+it's a farewell trip between her and her father.
+
+249
+00:10:55,867 --> 00:10:56,567
+But...
+
+250
+00:10:57,733 --> 00:10:59,167
+I never imagined
+
+251
+00:10:59,600 --> 00:11:01,233
+we'd encounter such a disaster.
+
+252
+00:11:02,600 --> 00:11:04,833
+Now, Yu's father's life and death are still unknown.
+
+253
+00:11:06,033 --> 00:11:07,033
+I really have no idea
+
+254
+00:11:07,400 --> 00:11:08,733
+how to tell Yu about this
+
+255
+00:11:09,000 --> 00:11:10,500
+when she wakes up...
+
+256
+00:11:11,033 --> 00:11:12,233
+It's okay. Everything will be fine.
+
+257
+00:11:13,767 --> 00:11:15,133
+Your daughter's medication has been changed.
+
+258
+00:11:15,133 --> 00:11:16,333
+You can go visit her now.
+
+259
+00:11:16,467 --> 00:11:17,133
+Okay.
+
+260
+00:11:30,000 --> 00:11:30,600
+Mom.
+
+261
+00:11:31,200 --> 00:11:31,867
+Tian,
+
+262
+00:11:32,233 --> 00:11:33,367
+how's everything over there?
+
+263
+00:11:33,767 --> 00:11:35,200
+I didn't want to disturb you yesterday.
+
+264
+00:11:35,333 --> 00:11:36,467
+Is it dangerous over there?
+
+265
+00:11:37,133 --> 00:11:38,433
+It's not dangerous. Everything's fine.
+
+266
+00:11:39,867 --> 00:11:40,667
+How's the baby?
+
+267
+00:11:40,767 --> 00:11:41,433
+Let me see.
+
+268
+00:11:41,767 --> 00:11:42,367
+Okay.
+
+269
+00:11:42,500 --> 00:11:43,000
+Look.
+
+270
+00:11:43,433 --> 00:11:44,767
+Look, the baby's asleep.
+
+271
+00:11:45,500 --> 00:11:46,367
+She's asleep?
+
+272
+00:11:48,767 --> 00:11:49,967
+Mom, you've worked hard.
+
+273
+00:11:51,000 --> 00:11:51,833
+I still have some things to do.
+
+274
+00:11:51,833 --> 00:11:53,367
+I'll hang up now.
+
+275
+00:11:53,867 --> 00:11:55,267
+Okay, go ahead.
+
+276
+00:11:55,267 --> 00:11:56,733
+Be sure to stay safe.
+
+277
+00:12:03,067 --> 00:12:03,800
+What's wrong?
+
+278
+00:12:04,867 --> 00:12:05,800
+Is everything fine at home?
+
+279
+00:12:05,967 --> 00:12:06,600
+Yes.
+
+280
+00:12:07,000 --> 00:12:08,000
+Is the baby fine?
+
+281
+00:12:08,133 --> 00:12:08,800
+She's fine.
+
+282
+00:12:10,900 --> 00:12:11,500
+Alright,
+
+283
+00:12:11,767 --> 00:12:12,500
+tomorrow,
+
+284
+00:12:12,633 --> 00:12:13,633
+you don't need to go to the site.
+
+285
+00:12:14,133 --> 00:12:15,433
+Just stay at the hospital and keep watch.
+
+286
+00:12:16,433 --> 00:12:17,600
+It's alright, Ms. Qian.
+
+287
+00:12:17,600 --> 00:12:19,133
+I'm recovering well after childbirth.
+
+288
+00:12:19,633 --> 00:12:21,333
+The hospital also needs someone to stay.
+
+289
+00:12:21,667 --> 00:12:22,500
+Don't overthink it.
+
+290
+00:12:25,333 --> 00:12:26,367
+Thank you, Ms. Qian.
+
+291
+00:12:26,733 --> 00:12:27,500
+No need to be polite.
+
+292
+00:12:28,200 --> 00:12:28,800
+Alright,
+
+293
+00:12:28,967 --> 00:12:29,600
+stop crying.
+
+294
+00:12:34,800 --> 00:12:35,667
+This vehicle
+
+295
+00:12:35,733 --> 00:12:37,500
+[Beiyu Tunnel 3 Rescue]
+was overturned due to the impact
+
+296
+00:12:37,600 --> 00:12:38,500
+[Hour 74]
+of the mudslide.
+
+297
+00:12:38,967 --> 00:12:39,767
+Fortunately,
+
+298
+00:12:39,867 --> 00:12:42,133
+a tree broken by the stones
+
+299
+00:12:42,233 --> 00:12:43,600
+was positioned over the vehicle.
+
+300
+00:12:44,033 --> 00:12:44,800
+This created
+
+301
+00:12:44,800 --> 00:12:47,233
+a narrow survival space.
+
+302
+00:12:47,467 --> 00:12:48,267
+So the little girl
+
+303
+00:12:48,433 --> 00:12:50,833
+could escape through the skylight.
+
+304
+00:12:51,433 --> 00:12:53,233
+But the skylight was very small.
+
+305
+00:12:53,667 --> 00:12:55,167
+The little girl's father, Mr. Shi,
+
+306
+00:12:55,467 --> 00:12:56,900
+is still trapped in the car.
+
+307
+00:12:56,900 --> 00:12:57,667
+Excuse me, Leader Li.
+
+308
+00:12:57,667 --> 00:12:58,333
+Is it possible
+
+309
+00:12:58,333 --> 00:12:59,800
+to determine her father's location
+
+310
+00:12:59,800 --> 00:13:01,267
+from the place where the little girl was rescued?
+
+311
+00:13:01,733 --> 00:13:02,967
+There was hope at first.
+
+312
+00:13:03,233 --> 00:13:03,867
+However,
+
+313
+00:13:03,867 --> 00:13:05,467
+there was another collapse just now.
+
+314
+00:13:05,667 --> 00:13:07,500
+The vehicle shifted
+
+315
+00:13:07,633 --> 00:13:08,633
+and got buried even deeper.
+
+316
+00:13:09,333 --> 00:13:10,033
+Although
+
+317
+00:13:10,200 --> 00:13:12,133
+the difficulty of the rescue is great,
+
+318
+00:13:12,500 --> 00:13:14,167
+as long as there's a sliver of hope,
+
+319
+00:13:14,367 --> 00:13:15,733
+we will never give up!
+
+320
+00:13:16,000 --> 00:13:16,633
+Thank you.
+
+321
+00:13:16,633 --> 00:13:17,633
+And you media colleagues,
+
+322
+00:13:17,633 --> 00:13:19,167
+please be sure to stay safe.
+
+323
+00:13:19,233 --> 00:13:20,333
+Excuse me, let me pass.
+
+324
+00:13:20,500 --> 00:13:22,000
+Leader Li, we've dug out Mr. Shi!
+
+325
+00:13:22,400 --> 00:13:23,067
+We got him?
+
+326
+00:13:23,067 --> 00:13:23,900
+We've dug out Mr. Shi!
+
+327
+00:13:23,900 --> 00:13:24,433
+Hurry up!
+
+328
+00:13:24,633 --> 00:13:25,367
+Hurry!
+
+329
+00:13:25,500 --> 00:13:26,233
+Watch your step!
+
+330
+00:13:26,233 --> 00:13:26,767
+Quick!
+
+331
+00:13:26,767 --> 00:13:28,067
+Take care! Stay safe!
+
+332
+00:13:37,067 --> 00:13:37,767
+My daughter...
+
+333
+00:13:38,800 --> 00:13:39,567
+is named Yu...
+
+334
+00:13:57,033 --> 00:13:57,800
+Yifan,
+
+335
+00:13:58,433 --> 00:14:00,367
+I bought some authentic local breakfast.
+
+336
+00:14:00,567 --> 00:14:01,433
+It's really delicious.
+
+337
+00:14:01,667 --> 00:14:02,367
+Try it.
+
+338
+00:14:02,567 --> 00:14:03,400
+Thank you.
+
+339
+00:14:15,433 --> 00:14:16,133
+What's wrong?
+
+340
+00:14:16,833 --> 00:14:17,633
+Nothing.
+
+341
+00:14:20,133 --> 00:14:20,900
+Yifan,
+
+342
+00:14:21,400 --> 00:14:23,133
+I'm starting to admire you more.
+
+343
+00:14:23,267 --> 00:14:24,467
+You've barely rested, yet you're not tired.
+
+344
+00:14:24,733 --> 00:14:26,167
+I think...
+
+345
+00:14:27,267 --> 00:14:28,167
+What?
+
+346
+00:14:28,800 --> 00:14:29,433
+Nothing.
+
+347
+00:14:43,833 --> 00:14:44,833
+You can have the breakfast first.
+
+348
+00:14:44,833 --> 00:14:46,000
+I'm going to reply to a message.
+
+349
+00:14:58,600 --> 00:14:59,333
+There are
+
+350
+00:14:59,600 --> 00:15:00,333
+nine days left.
+
+351
+00:15:03,500 --> 00:15:04,433
+Let me know when you receive my message.
+
+352
+00:15:08,333 --> 00:15:09,033
+When you come back,
+
+353
+00:15:09,200 --> 00:15:10,167
+bring me an apple.
+
+354
+00:15:17,867 --> 00:15:19,233
+Today's Christmas Eve.
+
+355
+00:15:22,200 --> 00:15:23,833
+I don't know if I'll get the chance
+
+356
+00:15:24,000 --> 00:15:25,600
+to make it back before his birthday.
+
+357
+00:15:30,733 --> 00:15:31,800
+Everyone, gather up!
+
+358
+00:15:31,800 --> 00:15:32,900
+We're heading out!
+
+359
+00:15:46,933 --> 00:15:47,533
+Hello.
+
+360
+00:15:48,667 --> 00:15:50,133
+I just arrived at the hotel.
+
+361
+00:15:50,267 --> 00:15:51,333
+I've been busy all day.
+
+362
+00:15:51,900 --> 00:15:52,867
+I guessed it.
+
+363
+00:15:53,200 --> 00:15:53,833
+It's alright.
+
+364
+00:15:56,567 --> 00:15:57,800
+Is everything okay?
+
+365
+00:15:58,167 --> 00:15:59,400
+Why are you stealing my words?
+
+366
+00:16:01,367 --> 00:16:03,167
+Your voice sounds tired.
+
+367
+00:16:03,600 --> 00:16:04,633
+Yeah, a bit.
+
+368
+00:16:06,067 --> 00:16:08,000
+My eyes are almost too tired to keep open.
+
+369
+00:16:08,500 --> 00:16:09,967
+I'll sleep in a bit.
+
+370
+00:16:10,133 --> 00:16:11,833
+Yifan, I'll head back to rest now.
+
+371
+00:16:12,833 --> 00:16:14,067
+Goodnight, Yifan.
+
+372
+00:16:17,433 --> 00:16:18,200
+Well...
+
+373
+00:16:21,567 --> 00:16:22,333
+Goodnight.
+
+374
+00:16:23,600 --> 00:16:24,233
+Goodnight.
+
+375
+00:16:25,900 --> 00:16:28,033
+It sounds like it's raining heavily over there.
+
+376
+00:16:29,500 --> 00:16:30,333
+Be sure to stay warm.
+
+377
+00:16:32,567 --> 00:16:33,200
+Okay.
+
+378
+00:16:52,600 --> 00:16:53,900
+Merry Christmas Eve.
+
+379
+00:16:56,867 --> 00:16:58,167
+Merry Christmas Eve.
+
+380
+00:17:14,767 --> 00:17:18,167
+♪I want to take it slow♪
+
+381
+00:17:18,633 --> 00:17:21,633
+♪Wrapping my arms around your shoulders♪
+
+382
+00:17:22,833 --> 00:17:26,267
+♪Moonlight spills on your face♪
+
+383
+00:17:26,967 --> 00:17:30,167
+♪Tracing the shape of your smile♪
+
+384
+00:17:31,133 --> 00:17:34,767
+♪The desire for the one you love♪
+
+385
+00:17:35,367 --> 00:17:38,533
+♪Is stronger than happiness...♪
+
+386
+00:17:41,067 --> 00:17:43,433
+The apple is just a sketch for now.
+
+387
+00:17:43,667 --> 00:17:45,633
+I'll get you the real one when I return.
+
+388
+00:17:47,867 --> 00:17:51,100
+♪I love you♪
+
+389
+00:17:51,833 --> 00:17:54,500
+♪I love you♪
+
+390
+00:17:54,900 --> 00:17:56,233
+♪Hiding sweet words...♪
+
+391
+00:17:57,833 --> 00:17:58,567
+Alright.
+
+392
+00:17:58,867 --> 00:17:59,600
+Go to sleep.
+
+393
+00:17:59,767 --> 00:18:00,833
+Remember to lock the door.
+
+394
+00:18:01,100 --> 00:18:02,933
+Don't sleepwalk around.
+
+395
+00:18:03,233 --> 00:18:04,800
+If you really want to sleepwalk,
+
+396
+00:18:04,867 --> 00:18:06,967
+just wander around in your room.
+
+397
+00:18:07,100 --> 00:18:08,800
+Your victim can only be me.
+
+398
+00:18:09,367 --> 00:18:09,933
+Got it?
+
+399
+00:18:10,933 --> 00:18:13,833
+♪We can be each other's light♪
+
+400
+00:18:14,633 --> 00:18:18,233
+♪I love you♪
+
+401
+00:18:22,167 --> 00:18:24,200
+[Beiyu Tunnel 3 Rescue]
+After continuous efforts from the rescuers,
+
+402
+00:18:24,200 --> 00:18:25,933
+[Day 6]
+the danger at the scene has been cleared.
+
+403
+00:18:26,100 --> 00:18:28,300
+Tunnel 3 is almost open.
+
+404
+00:18:28,400 --> 00:18:29,033
+Currently,
+
+405
+00:18:29,200 --> 00:18:31,000
+the eighteen rescued victims
+
+406
+00:18:31,100 --> 00:18:32,167
+are in stable condition.
+
+407
+00:18:32,167 --> 00:18:33,267
+They are receiving
+
+408
+00:18:33,267 --> 00:18:34,967
+further treatment and observation at the hospital.
+
+409
+00:18:35,500 --> 00:18:38,033
+[Sticking to the "Island" and Digging for "Hope"]
+Looking back at these heart-pounding moments,
+
+410
+00:18:38,100 --> 00:18:39,300
+[Mudslide Causes Blockage at Beiyu Tunnel:]
+we, the First News team
+
+411
+00:18:39,300 --> 00:18:40,167
+[Rescue Operation Update]
+from Nanwu TV,
+
+412
+00:18:40,167 --> 00:18:42,400
+captured every one with our cameras.
+
+413
+00:18:42,400 --> 00:18:44,567
+Please continue to follow our ongoing reports.
+
+414
+00:18:46,867 --> 00:18:47,600
+Alright.
+
+415
+00:18:47,767 --> 00:18:48,967
+Everyone, stay alert.
+
+416
+00:18:49,367 --> 00:18:50,167
+Let me say a few words.
+
+417
+00:18:50,967 --> 00:18:51,567
+Fu Zhuang, listen up.
+
+418
+00:18:51,667 --> 00:18:52,633
+Everyone's worked really hard
+
+419
+00:18:53,000 --> 00:18:54,200
+over the past few days.
+
+420
+00:18:54,867 --> 00:18:56,633
+And last night, we stayed up all night.
+
+421
+00:18:57,000 --> 00:18:57,967
+Sorry for troubling everyone.
+
+422
+00:18:58,667 --> 00:18:59,433
+But,
+
+423
+00:18:59,800 --> 00:19:01,167
+all the hard work this time
+
+424
+00:19:01,167 --> 00:19:02,167
+has been worth it.
+
+425
+00:19:02,300 --> 00:19:03,767
+Our live broadcast and reports
+
+426
+00:19:03,767 --> 00:19:04,767
+have received attention.
+
+427
+00:19:05,500 --> 00:19:07,200
+So, when we get back to Nanwu,
+
+428
+00:19:07,267 --> 00:19:08,467
+I'll treat everyone
+
+429
+00:19:08,467 --> 00:19:09,467
+to a nice meal.
+
+430
+00:19:09,467 --> 00:19:10,067
+How does that sound?
+
+431
+00:19:10,067 --> 00:19:10,767
+Great!
+
+432
+00:19:10,800 --> 00:19:11,800
+Thanks, Ms. Qian!
+
+433
+00:19:13,167 --> 00:19:14,433
+By the way, there's one more thing.
+
+434
+00:19:14,800 --> 00:19:15,800
+The report on the trapped victims,
+
+435
+00:19:15,800 --> 00:19:17,400
+Shi Lei and his family,
+
+436
+00:19:17,500 --> 00:19:19,233
+is really gaining traction online.
+
+437
+00:19:19,467 --> 00:19:20,033
+Yifan,
+
+438
+00:19:20,033 --> 00:19:21,367
+you've been following this story.
+
+439
+00:19:21,633 --> 00:19:22,933
+So, you'll need to stay a few more days
+
+440
+00:19:22,933 --> 00:19:23,933
+to cover the follow-up reports.
+
+441
+00:19:24,033 --> 00:19:24,567
+Okay.
+
+442
+00:19:24,667 --> 00:19:25,200
+Alright.
+
+443
+00:19:25,500 --> 00:19:26,433
+If there's nothing else,
+
+444
+00:19:26,433 --> 00:19:27,867
+you all may head back and get some rest.
+
+445
+00:19:28,200 --> 00:19:29,167
+Take a good rest.
+
+446
+00:19:29,367 --> 00:19:30,833
+We'll head back now, Ms. Qian.
+
+447
+00:19:30,833 --> 00:19:31,433
+Okay.
+
+448
+00:19:31,967 --> 00:19:33,000
+It seems
+
+449
+00:19:33,300 --> 00:19:35,400
+it will be difficult to return before his birthday.
+
+450
+00:19:38,267 --> 00:19:40,300
+I've already told my mom.
+
+451
+00:19:40,800 --> 00:19:42,467
+I'm not going abroad with her.
+
+452
+00:19:43,033 --> 00:19:44,433
+I'll stay here
+
+453
+00:19:44,500 --> 00:19:45,600
+to be with Dad.
+
+454
+00:19:46,267 --> 00:19:48,000
+I gave up custody before
+
+455
+00:19:48,000 --> 00:19:48,833
+because...
+
+456
+00:19:49,567 --> 00:19:51,300
+my ex-wife could provide a better life
+
+457
+00:19:51,300 --> 00:19:52,400
+for Yu.
+
+458
+00:19:53,000 --> 00:19:54,500
+Our marriage didn't last...
+
+459
+00:19:54,500 --> 00:19:55,833
+I want to be with Dad now...
+
+460
+00:19:55,833 --> 00:19:57,000
+It's not just about her.
+
+461
+00:19:57,000 --> 00:19:57,800
+I'm not leaving...
+
+462
+00:19:57,800 --> 00:19:58,833
+Should we
+
+463
+00:19:59,400 --> 00:20:00,967
+have Yu avoid this topic?
+
+464
+00:20:01,367 --> 00:20:02,000
+No need.
+
+465
+00:20:03,300 --> 00:20:04,633
+She's already grown up.
+
+466
+00:20:05,933 --> 00:20:07,267
+We used to be a family.
+
+467
+00:20:08,600 --> 00:20:10,033
+She has the right to know all of this.
+
+468
+00:20:12,067 --> 00:20:13,300
+And through this experience,
+
+469
+00:20:14,000 --> 00:20:15,267
+I see
+
+470
+00:20:16,033 --> 00:20:17,300
+Yu has become stronger
+
+471
+00:20:18,100 --> 00:20:18,933
+and braver.
+
+472
+00:20:19,467 --> 00:20:20,267
+Right, Yu?
+
+473
+00:20:24,600 --> 00:20:25,433
+Can you hold on for a bit?
+
+474
+00:20:25,500 --> 00:20:26,233
+Okay.
+
+475
+00:20:34,967 --> 00:20:35,500
+Okay.
+
+476
+00:20:40,467 --> 00:20:41,200
+Ms. Li!
+
+477
+00:20:41,600 --> 00:20:42,200
+Ms. Li!
+
+478
+00:20:45,867 --> 00:20:46,867
+Don't you really consider
+
+479
+00:20:46,867 --> 00:20:47,933
+giving us an interview?
+
+480
+00:20:49,967 --> 00:20:50,600
+No.
+
+481
+00:20:51,733 --> 00:20:52,567
+I understand
+
+482
+00:20:52,800 --> 00:20:54,467
+you must have your reasons.
+
+483
+00:21:07,200 --> 00:21:09,433
+You probably don't want to give up custody either.
+
+484
+00:21:14,867 --> 00:21:16,600
+Back when I was with Shi Lei,
+
+485
+00:21:17,633 --> 00:21:19,267
+we fought a lot about money.
+
+486
+00:21:22,200 --> 00:21:23,367
+Looking back now,
+
+487
+00:21:23,833 --> 00:21:25,367
+I realize life is really fragile.
+
+488
+00:21:26,500 --> 00:21:28,467
+Staying with the person you love safely
+
+489
+00:21:29,167 --> 00:21:30,200
+and leaving no regrets
+
+490
+00:21:31,467 --> 00:21:33,000
+are already the greatest happiness.
+
+491
+00:21:37,267 --> 00:21:39,400
+Honestly, I don't care what others say.
+
+492
+00:21:40,733 --> 00:21:42,267
+I just don't want to hurt Yu.
+
+493
+00:21:43,200 --> 00:21:45,200
+Mom, why are you over there?
+
+494
+00:21:45,300 --> 00:21:46,833
+Why aren't you coming over?
+
+495
+00:21:49,833 --> 00:21:50,933
+Come on, give me a hug.
+
+496
+00:22:00,767 --> 00:22:01,600
+Leaving no regrets...
+
+497
+00:22:02,500 --> 00:22:03,367
+Don't cry.
+
+498
+00:22:11,767 --> 00:22:13,067
+I hope every story
+
+499
+00:22:13,100 --> 00:22:15,100
+in this world can have a happy ending.
+
+500
+00:22:15,367 --> 00:22:16,300
+That's a great thing to say.
+
+501
+00:22:17,933 --> 00:22:18,667
+Yifan,
+
+502
+00:22:18,667 --> 00:22:19,767
+are we heading back to the hotel now?
+
+503
+00:22:19,767 --> 00:22:20,500
+Wen Yifan.
+
+504
+00:22:23,867 --> 00:22:24,567
+What's wrong?
+
+505
+00:22:24,733 --> 00:22:25,600
+Did you meet someone?
+
+506
+00:22:26,200 --> 00:22:27,733
+Did you run into someone you know?
+
+507
+00:22:28,600 --> 00:22:29,200
+No.
+
+508
+00:22:30,300 --> 00:22:31,600
+Did you guys hear
+
+509
+00:22:31,600 --> 00:22:32,633
+someone calling my name?
+
+510
+00:22:32,733 --> 00:22:33,433
+I'm not sure.
+
+511
+00:22:33,433 --> 00:22:34,833
+But I think so.
+
+512
+00:22:35,100 --> 00:22:36,200
+I think it was a man.
+
+513
+00:22:36,767 --> 00:22:37,633
+I didn't hear it.
+
+514
+00:22:56,967 --> 00:22:57,933
+Happy birthday.
+
+515
+00:23:00,100 --> 00:23:01,433
+Luckily, it's just past midnight.
+
+516
+00:23:05,667 --> 00:23:06,167
+Hello.
+
+517
+00:23:06,233 --> 00:23:06,733
+Hello.
+
+518
+00:23:07,267 --> 00:23:08,567
+I ordered a cake for you.
+
+519
+00:23:08,567 --> 00:23:10,933
+It should arrive at your place around noon.
+
+520
+00:23:11,200 --> 00:23:12,433
+And as for the gift,
+
+521
+00:23:12,667 --> 00:23:14,200
+I'll get it for you when I come back, okay?
+
+522
+00:23:16,400 --> 00:23:17,733
+You seem pretty sincere.
+
+523
+00:23:18,500 --> 00:23:20,733
+It's worth my 70 days of reporting.
+
+524
+00:23:20,733 --> 00:23:22,600
+But I can't return today.
+
+525
+00:23:22,867 --> 00:23:24,267
+I won't be back until tomorrow.
+
+526
+00:23:29,933 --> 00:23:30,667
+And...
+
+527
+00:23:31,967 --> 00:23:32,933
+happy birthday.
+
+528
+00:23:51,367 --> 00:23:53,200
+Let's consider my birthday this year
+
+529
+00:23:53,367 --> 00:23:54,233
+to be tomorrow.
+
+530
+00:23:55,933 --> 00:23:57,033
+There is
+
+531
+00:23:57,033 --> 00:23:58,033
+one more day left.
+
+532
+00:23:58,500 --> 00:23:59,467
+...one more day left.
+
+533
+00:24:07,033 --> 00:24:11,267
+[January 2]
+
+534
+00:24:35,300 --> 00:24:36,567
+It's still raining.
+
+535
+00:24:38,067 --> 00:24:39,000
+Did I wake you up?
+
+536
+00:24:39,933 --> 00:24:40,933
+Yifan,
+
+537
+00:24:41,367 --> 00:24:42,967
+aren't you sleepy at all?
+
+538
+00:24:54,900 --> 00:24:59,867
+[Beiyu High School]
+
+539
+00:25:09,667 --> 00:25:10,767
+How did the exam go this morning?
+
+540
+00:25:11,733 --> 00:25:13,400
+It went well this morning.
+
+541
+00:25:13,400 --> 00:25:14,633
+I'll keep pushing this afternoon.
+
+542
+00:25:14,633 --> 00:25:15,967
+And I'll do even better tomorrow.
+
+543
+00:25:16,467 --> 00:25:20,233
+♪Soft or peaceful♪
+
+544
+00:25:22,367 --> 00:25:24,367
+♪You make me long for it♪
+
+545
+00:25:24,700 --> 00:25:28,467
+♪Later, every raindrop falls♪
+
+546
+00:25:28,733 --> 00:25:32,433
+♪Every blind box opens in my mind♪
+
+547
+00:25:32,967 --> 00:25:36,700
+♪They all carry your touch♪
+
+548
+00:25:38,533 --> 00:25:40,667
+♪Pulsing with the rain's rhythm♪
+
+549
+00:25:41,067 --> 00:25:44,667
+♪Feels like the old days♪
+
+550
+00:25:45,133 --> 00:25:48,667
+♪We ran through the sea left by the rain♪
+
+551
+00:25:49,133 --> 00:25:53,633
+♪Saying hey to the clear sky♪
+
+552
+00:25:54,900 --> 00:26:01,567
+[Beiyu Nostalgic Noodles]
+
+553
+00:26:09,867 --> 00:26:11,100
+♪Hey♪
+
+554
+00:26:11,867 --> 00:26:14,833
+♪Love is so precious♪
+
+555
+00:26:15,933 --> 00:26:18,967
+♪ Making even rainy days shine♪
+
+556
+00:26:18,967 --> 00:26:19,867
+[Meet the One You Love Again and Again]
+
+557
+00:26:19,867 --> 00:26:22,900
+♪Bright enough to bring tears♪
+
+558
+00:26:43,733 --> 00:26:44,500
+Your dishes are here.
+
+559
+00:27:16,433 --> 00:27:19,233
+[Dedicated to Noodles]
+
+560
+00:27:22,133 --> 00:27:25,567
+[Beiyu Nostalgic Noodles]
+
+561
+00:27:26,933 --> 00:27:29,300
+Everything's still the same as before.
+
+562
+00:27:34,200 --> 00:27:35,267
+What would you like to eat?
+
+563
+00:27:39,067 --> 00:27:39,867
+I'll...
+
+564
+00:27:42,033 --> 00:27:43,367
+I'll take a bowl of wonton noodles.
+
+565
+00:27:50,367 --> 00:27:51,167
+Girl,
+
+566
+00:27:51,933 --> 00:27:52,800
+it's you!
+
+567
+00:27:53,567 --> 00:27:54,767
+Long time no see!
+
+568
+00:27:55,267 --> 00:27:55,967
+Yeah.
+
+569
+00:27:57,433 --> 00:27:58,833
+After the college entrance exam,
+
+570
+00:27:58,833 --> 00:28:00,300
+I haven't lived in this city.
+
+571
+00:28:00,600 --> 00:28:01,867
+Alright, hold on for a bit.
+
+572
+00:28:01,867 --> 00:28:02,933
+I'm going to cook your noodles.
+
+573
+00:28:03,033 --> 00:28:04,100
+No rush. Take your time.
+
+574
+00:28:04,367 --> 00:28:05,033
+Alright.
+
+575
+00:28:23,267 --> 00:28:27,767
+[Beiyu Nostalgic Noodles]
+
+576
+00:28:32,333 --> 00:28:35,767
+[Beiyu, always raining]
+
+577
+00:28:39,367 --> 00:28:41,800
+[Qiao]
+You haven't posted on Moments in ages.
+
+578
+00:28:41,800 --> 00:28:42,833
+What's going on today?
+
+579
+00:28:54,133 --> 00:28:56,133
+[When you're old, I won't forget]
+
+580
+00:28:56,133 --> 00:28:58,167
+[the time we spent together.]
+
+581
+00:29:21,233 --> 00:29:22,033
+Your dish is here.
+
+582
+00:29:22,800 --> 00:29:24,500
+It's rare for you to come back and support.
+
+583
+00:29:24,500 --> 00:29:25,233
+Try it.
+
+584
+00:29:25,800 --> 00:29:27,433
+See if it tastes the same as when you were a kid.
+
+585
+00:29:28,200 --> 00:29:28,933
+Thanks.
+
+586
+00:29:31,100 --> 00:29:32,167
+It's raining again.
+
+587
+00:29:32,733 --> 00:29:33,800
+It's getting cold.
+
+588
+00:29:34,367 --> 00:29:35,000
+Enjoy your meal.
+
+589
+00:29:42,667 --> 00:29:44,067
+That day, when we broke up in the rain...
+
+590
+00:29:46,200 --> 00:29:48,833
+I saw an expression on his face I'd never seen.
+
+591
+00:29:53,067 --> 00:29:54,300
+Sang Yan deserves...
+
+592
+00:30:01,433 --> 00:30:03,867
+all the good things in the world.
+
+593
+00:30:09,000 --> 00:30:10,033
+Back then,
+
+594
+00:30:11,500 --> 00:30:13,433
+he was such a brilliant youth.
+
+595
+00:30:17,467 --> 00:30:19,167
+I'll definitely get into Nanwu University.
+
+596
+00:30:19,400 --> 00:30:21,000
+You deserve all the good things.
+
+597
+00:30:35,500 --> 00:30:37,500
+I should be brave for him this time.
+
+598
+00:30:42,300 --> 00:30:43,567
+This time, I'll take the initiative.
+
+599
+00:30:54,000 --> 00:30:54,767
+Sang Yan.
+
+600
+00:30:55,600 --> 00:30:56,267
+What's wrong?
+
+601
+00:30:58,000 --> 00:31:00,167
+Does what you said before still count?
+
+602
+00:31:01,067 --> 00:31:01,867
+What did I say?
+
+603
+00:31:03,733 --> 00:31:04,633
+You said...
+
+604
+00:31:08,267 --> 00:31:09,500
+you said if I pursued you,
+
+605
+00:31:09,500 --> 00:31:10,500
+you might consider it.
+
+606
+00:31:10,500 --> 00:31:12,500
+I'm just letting you know about this in advance.
+
+607
+00:31:12,500 --> 00:31:13,467
+Think about it.
+
+608
+00:31:21,667 --> 00:31:22,433
+I am...
+
+609
+00:31:24,233 --> 00:31:25,433
+not that bad, right?
+
+610
+00:31:28,400 --> 00:31:29,067
+Of course not.
+
+611
+00:32:19,933 --> 00:32:20,800
+Girl,
+
+612
+00:32:21,233 --> 00:32:22,267
+I think this rain
+
+613
+00:32:22,267 --> 00:32:23,400
+isn't going to stop anytime soon.
+
+614
+00:32:23,467 --> 00:32:24,633
+Let me give you an umbrella.
+
+615
+00:32:25,167 --> 00:32:25,967
+I want
+
+616
+00:32:26,233 --> 00:32:27,067
+to stay here a bit longer.
+
+617
+00:32:27,067 --> 00:32:28,167
+Let's wait for the rain to stop, okay?
+
+618
+00:32:28,167 --> 00:32:29,033
+Alright, no problem.
+
+619
+00:32:32,600 --> 00:32:33,367
+I probably...
+
+620
+00:32:34,300 --> 00:32:36,167
+won't come here again.
+
+621
+00:32:37,800 --> 00:32:39,033
+I just want to stay here a bit longer.
+
+622
+00:32:40,667 --> 00:32:41,933
+It all feels
+
+623
+00:32:42,567 --> 00:32:44,433
+like a dream.
+
+624
+00:32:49,200 --> 00:32:50,867
+Handsome, what would you like?
+
+625
+00:32:52,433 --> 00:32:53,067
+Maybe next time.
+
+626
+00:32:58,067 --> 00:32:58,800
+This time...
+
+627
+00:32:59,467 --> 00:33:00,433
+I'm here to pick someone up.
+
+628
+00:33:50,167 --> 00:33:51,200
+It's you!
+
+629
+00:33:51,433 --> 00:33:52,600
+Earlier, I saw this girl
+
+630
+00:33:52,600 --> 00:33:53,500
+coming alone.
+
+631
+00:33:53,633 --> 00:33:55,567
+I thought you two weren't in contact anymore.
+
+632
+00:33:56,100 --> 00:33:56,800
+That's great.
+
+633
+00:33:57,100 --> 00:33:58,100
+After all these years,
+
+634
+00:33:58,200 --> 00:33:59,033
+you're still together.
+
+635
+00:34:00,233 --> 00:34:01,067
+Next time we come to Beiyu,
+
+636
+00:34:01,067 --> 00:34:02,000
+I'll take care of your business again.
+
+637
+00:34:02,100 --> 00:34:02,767
+Alright.
+
+638
+00:34:05,367 --> 00:34:06,267
+How come you're here?
+
+639
+00:34:07,200 --> 00:34:08,000
+Through the magic door.
+
+640
+00:34:12,633 --> 00:34:13,467
+You finished all the food?
+
+641
+00:34:13,700 --> 00:34:14,433
+Want some more?
+
+642
+00:34:17,200 --> 00:34:18,467
+How did you know I was here?
+
+643
+00:34:20,033 --> 00:34:20,833
+Whenever I come to Beiyu,
+
+644
+00:34:20,833 --> 00:34:21,600
+I'm used to stopping by here.
+
+645
+00:34:33,767 --> 00:34:34,567
+What are you looking at?
+
+646
+00:34:37,033 --> 00:34:37,767
+I was thinking,
+
+647
+00:34:37,767 --> 00:34:39,100
+if I were a boss,
+
+648
+00:34:40,433 --> 00:34:41,667
+what kind of store would I open here?
+
+649
+00:34:43,433 --> 00:34:44,200
+Did you think of something?
+
+650
+00:34:51,633 --> 00:34:52,333
+What about you?
+
+651
+00:34:52,833 --> 00:34:53,933
+If it were you,
+
+652
+00:34:54,233 --> 00:34:55,200
+what kind of store would you open?
+
+653
+00:34:55,967 --> 00:34:56,633
+Me?
+
+654
+00:34:59,333 --> 00:35:00,200
+I...
+
+655
+00:35:01,833 --> 00:35:02,933
+I want to open a small shop.
+
+656
+00:35:04,267 --> 00:35:05,367
+This place's not large, already.
+
+657
+00:35:05,633 --> 00:35:07,333
+I'm talking about the kind
+
+658
+00:35:07,333 --> 00:35:09,167
+where you can stay as long as you want
+
+659
+00:35:09,167 --> 00:35:10,200
+and where you can relieve your stress.
+
+660
+00:35:16,333 --> 00:35:18,267
+I want it to be a place
+
+661
+00:35:19,867 --> 00:35:21,000
+where students can come
+
+662
+00:35:21,000 --> 00:35:22,333
+to have noodles
+
+663
+00:35:22,500 --> 00:35:23,633
+and read books after school.
+
+664
+00:35:24,500 --> 00:35:27,033
+Where people can come in for some food after work.
+
+665
+00:35:27,700 --> 00:35:29,600
+I'd also play my favorite music for them.
+
+666
+00:36:10,800 --> 00:36:11,600
+At that time,
+
+667
+00:36:12,200 --> 00:36:13,367
+customers here
+
+668
+00:36:13,367 --> 00:36:15,433
+can work while eating noodles,
+
+669
+00:36:15,500 --> 00:36:16,967
+without the feeling of overtime.
+
+670
+00:36:20,200 --> 00:36:20,800
+What?
+
+671
+00:36:25,833 --> 00:36:27,400
+Is that still a noodle shop?
+
+672
+00:36:28,600 --> 00:36:29,200
+It doesn't matter.
+
+673
+00:36:29,367 --> 00:36:30,700
+This is the kind of shop I like.
+
+674
+00:36:34,567 --> 00:36:35,100
+Good.
+
+675
+00:36:36,767 --> 00:36:37,400
+Good for what?
+
+676
+00:36:38,333 --> 00:36:39,000
+When I have money,
+
+677
+00:36:39,000 --> 00:36:39,967
+I'll buy this place
+
+678
+00:36:39,967 --> 00:36:41,000
+and open you
+
+679
+00:36:41,467 --> 00:36:43,033
+a small shop for relaxation and stress relief.
+
+680
+00:36:46,033 --> 00:36:46,967
+That's my wish.
+
+681
+00:36:46,967 --> 00:36:48,267
+- What does that have to do with you? - It's settled then.
+
+682
+00:36:48,933 --> 00:36:49,467
+Eat up.
+
+683
+00:37:01,800 --> 00:37:02,533
+When I have money,
+
+684
+00:37:02,533 --> 00:37:03,500
+I'll buy this place
+
+685
+00:37:03,500 --> 00:37:04,567
+and open you
+
+686
+00:37:05,033 --> 00:37:06,500
+a small shop for relaxation and stress relief.
+
+687
+00:37:07,967 --> 00:37:09,033
+Reporter Wen,
+
+688
+00:37:09,033 --> 00:37:11,200
+you've been working overtime for a whole week.
+
+689
+00:37:11,400 --> 00:37:12,367
+My friend said
+
+690
+00:37:12,367 --> 00:37:14,000
+a new restaurant just opened on Gastropub Street,
+
+691
+00:37:14,100 --> 00:37:15,567
+and the boss is really handsome.
+
+692
+00:37:24,033 --> 00:37:25,100
+I'm the boss of Overtime.
+
+693
+00:37:25,500 --> 00:37:26,100
+My surname is Sang.
+
+694
+00:37:33,067 --> 00:37:38,533
+[Beiyu Nostalgic Noodles]
+
+695
+00:37:39,267 --> 00:37:39,933
+Hold this.
+
+696
+00:38:05,333 --> 00:38:06,000
+Give it to me.
+
+697
+00:38:13,800 --> 00:38:14,567
+Wen Shuangjiang.
+
+698
+00:38:19,167 --> 00:38:20,033
+There are some things
+
+699
+00:38:21,167 --> 00:38:22,967
+I've always thought too pretentious to say.
+
+700
+00:38:25,633 --> 00:38:27,167
+Even saying a single word
+
+701
+00:38:28,067 --> 00:38:28,967
+felt embarrassing.
+
+702
+00:38:37,833 --> 00:38:38,667
+But in this life,
+
+703
+00:38:41,600 --> 00:38:42,667
+I have to say it once.
+
+704
+00:38:46,067 --> 00:38:46,933
+Haven't you...
+
+705
+00:38:48,600 --> 00:38:49,633
+noticed yet?
+
+706
+00:38:52,867 --> 00:38:53,700
+After all these years,
+
+707
+00:38:56,967 --> 00:38:57,767
+I still...
+
+708
+00:39:00,433 --> 00:39:01,333
+only like you.
+
+709
+00:39:02,733 --> 00:39:09,267
+♪It was you, striding toward me through the storm♪
+
+710
+00:39:09,533 --> 00:39:16,267
+♪It was you, always cheering me on♪
+
+711
+00:39:16,667 --> 00:39:19,767
+♪The road is rough♪
+
+712
+00:39:20,067 --> 00:39:23,133
+♪The rain won't stop♪
+
+713
+00:39:23,467 --> 00:39:27,567
+♪But with you here♪
+
+714
+00:39:27,767 --> 00:39:33,567
+♪I can brave the dark ahead...♪
+
+715
+00:39:39,467 --> 00:39:42,500
+[Beiyu Nostalgic Noodles]
+
+716
+00:39:42,500 --> 00:39:43,333
+Say something.
+
+717
+00:39:50,333 --> 00:39:51,200
+If...
+
+718
+00:39:51,200 --> 00:39:53,100
+you think saying these words
+
+719
+00:39:53,100 --> 00:39:54,267
+are too pretentious...
+
+720
+00:39:55,967 --> 00:39:57,233
+then let me say them from now on.
+
+721
+00:40:03,367 --> 00:40:05,000
+Though, right now,
+
+722
+00:40:05,833 --> 00:40:07,400
+it's a little hard for me to say them.
+
+723
+00:40:11,067 --> 00:40:12,267
+We're...
+
+724
+00:40:13,400 --> 00:40:14,667
+We're now...
+
+725
+00:40:16,700 --> 00:40:17,633
+We're...
+
+726
+00:40:18,367 --> 00:40:21,233
+We're mutually in love.
+
+727
+00:40:23,767 --> 00:40:25,900
+♪How could I give up♪
+
+728
+00:40:26,167 --> 00:40:27,500
+♪I will never give up♪
+
+729
+00:40:27,733 --> 00:40:34,500
+♪You are my courage, my hope for the sky beyond...♪
+
+730
+00:40:38,833 --> 00:40:40,667
+So, from now on...
+
+731
+00:40:43,867 --> 00:40:45,333
+you're my boyfriend?
+
+732
+00:40:51,700 --> 00:40:52,500
+Yes!
+
+733
+00:40:52,833 --> 00:40:59,500
+♪I can brave the dark ahead...♪
+
+734
+00:41:01,467 --> 00:41:02,567
+Are you really this happy?
+
+735
+00:41:04,767 --> 00:41:05,367
+Well,
+
+736
+00:41:06,433 --> 00:41:09,033
+to get a man as extraordinary as me,
+
+737
+00:41:10,100 --> 00:41:11,967
+it's definitely worth celebrating for ages.
+
+738
+00:41:15,000 --> 00:41:15,600
+Let's go back.
+
+739
+00:41:20,100 --> 00:41:21,600
+Move the umbrella over to your side a bit.
+
+740
+00:41:22,100 --> 00:41:23,067
+You're all wet.
+
+741
+00:41:23,067 --> 00:41:24,267
+Wen Shuangjiang,
+
+742
+00:41:25,333 --> 00:41:26,400
+when enjoying someone else's service,
+
+743
+00:41:26,400 --> 00:41:27,700
+could you have fewer complaints?
+
+744
+00:41:29,233 --> 00:41:30,033
+Also,
+
+745
+00:41:30,433 --> 00:41:31,033
+you
+
+746
+00:41:31,400 --> 00:41:32,700
+deserve to be treated this way.
+
+747
+00:41:39,933 --> 00:41:40,633
+What are you looking at?
+
+748
+00:41:40,800 --> 00:41:41,967
+I want to buy something.
+
+749
+00:41:43,800 --> 00:41:45,000
+I want two apples.
+
+750
+00:41:45,000 --> 00:41:45,700
+Got it.
+
+751
+00:41:46,200 --> 00:41:47,067
+You want to eat apples?
+
+752
+00:41:47,867 --> 00:41:49,400
+I promised to get you the real one.
+
+753
+00:41:52,433 --> 00:41:55,700
+[Episode 18]
+[On My Way to You]
+
+754
+00:41:55,700 --> 00:41:58,300
+[Wait for Me]
+
+755
+00:42:05,100 --> 00:42:07,533
+♪Step by step♪
+
+756
+00:42:07,833 --> 00:42:10,867
+♪Our relationship is spiraling out of control♪
+
+757
+00:42:11,300 --> 00:42:14,867
+♪Dragonflies fly by, declaring love♪
+
+758
+00:42:14,867 --> 00:42:16,833
+[The story is not over yet...]
+♪My mind is full of you...♪
+
+759
+00:42:19,100 --> 00:42:20,933
+Let's consider my birthday this year
+
+760
+00:42:21,200 --> 00:42:21,967
+to be tomorrow.
+
+761
+00:42:21,967 --> 00:42:24,133
+♪I like you very much...♪
+
+762
+00:42:26,233 --> 00:42:28,233
+There's one more day left.
+
+763
+00:42:28,233 --> 00:42:31,533
+♪Like the breeze flowing through the fragrant earth♪
+
+764
+00:42:31,900 --> 00:42:35,500
+♪Like a lost traveler returning home♪
+
+765
+00:42:35,833 --> 00:42:39,033
+♪Like butterflies flying towards brilliant colors♪
+
+766
+00:42:39,333 --> 00:42:42,900
+♪Like a long passed mysterious love spell♪
+
+767
+00:42:43,267 --> 00:42:46,733
+♪Like a noisy afternoon suddenly turning quiet♪
+
+768
+00:42:47,033 --> 00:42:50,300
+♪Like tears falling into the sea, escaping loneliness♪
+
+769
+00:42:51,033 --> 00:42:54,033
+♪As long as I can bring you even a moment of happiness♪
+
+770
+00:42:54,033 --> 00:42:55,833
+[Nanwu to Beiyu]
+
+771
+00:42:55,833 --> 00:42:58,633
+♪Step by step♪
+
+772
+00:42:58,633 --> 00:43:01,900
+♪Our relationship is spiraling out of control♪
+
+773
+00:43:02,133 --> 00:43:05,833
+♪Dragonflies fly by, declaring love♪
+
+774
+00:43:06,233 --> 00:43:07,267
+♪My mind is full of you♪
+
+775
+00:43:07,833 --> 00:43:11,433
+[Wen Yifan]
+♪It becomes so clear...♪
+
+776
+00:43:15,400 --> 00:43:16,200
+Sang Yan.
+
+777
+00:43:16,933 --> 00:43:17,700
+What's wrong?
+
+778
+00:43:19,000 --> 00:43:21,067
+Does what you said before still count?
+
+779
+00:43:22,267 --> 00:43:23,033
+You said...
+
+780
+00:43:24,333 --> 00:43:25,567
+you said if I pursued you,
+
+781
+00:43:25,567 --> 00:43:26,633
+you might consider it.
+
+782
+00:43:27,767 --> 00:43:29,767
+I'm just letting you know about this in advance.
+
+783
+00:43:29,767 --> 00:43:30,700
+Think about it.
+
+784
+00:43:35,133 --> 00:43:37,467
+♪I like you very much♪
+
+785
+00:43:37,967 --> 00:43:41,067
+♪Like spring blossoms lasting into summer nights♪
+
+786
+00:43:41,667 --> 00:43:45,067
+♪Like the breeze flowing through the fragrant earth♪
+
+787
+00:43:45,433 --> 00:43:49,033
+♪Like a lost traveler returning home♪
+
+788
+00:43:49,333 --> 00:43:52,533
+♪Like butterflies flying towards brilliant colors♪
+
+789
+00:43:52,900 --> 00:43:56,367
+♪Like a long passed mysterious love spell♪
+
+790
+00:43:56,633 --> 00:43:59,967
+♪Like the breeze flowing through the fragrant earth♪
+
+791
+00:44:00,300 --> 00:44:03,900
+♪Like a lost traveler returning home♪
+
+792
+00:44:04,233 --> 00:44:07,433
+♪Like butterflies flying towards brilliant colors♪
+
+793
+00:44:07,733 --> 00:44:11,267
+♪Like a long passed mysterious love spell♪
+
+794
+00:44:11,667 --> 00:44:14,933
+♪Like a noisy afternoon suddenly turning quiet♪
+
+795
+00:44:15,167 --> 00:44:18,367
+♪I simply like you, without caring about the ending♪
+
+796
+00:44:21,333 --> 00:44:22,033
+Handsome,
+
+797
+00:44:22,200 --> 00:44:22,967
+what would you like?
+
+798
+00:44:24,067 --> 00:44:24,833
+Maybe next time.
+
+799
+00:44:25,367 --> 00:44:26,233
+This time...
+
+800
+00:44:27,000 --> 00:44:27,833
+I'm here to pick someone up.
+
+801
+00:44:36,333 --> 00:44:37,667
+♪Even the strongest heart♪
+
+802
+00:44:37,833 --> 00:44:39,500
+♪Can waver♪
+
+803
+00:44:39,733 --> 00:44:42,933
+♪And doubt its fire♪
+
+804
+00:44:43,167 --> 00:44:44,833
+♪But you never lost faith in me♪
+
+805
+00:44:44,833 --> 00:44:46,500
+♪In every battle, every dream I chased♪
+
+806
+00:44:46,700 --> 00:44:49,367
+♪There is meaning in every step I made♪
+
+807
+00:44:50,233 --> 00:44:56,167
+♪Through the storm, through the endless night♪
+
+808
+00:44:56,533 --> 00:44:58,167
+♪You were there, shining like a light♪
+
+809
+00:44:58,167 --> 00:44:59,867
+♪Warm and bright♪
+
+810
+00:45:00,033 --> 00:45:03,733
+♪Standing right by my side♪
+
+811
+00:45:04,167 --> 00:45:10,300
+♪It was you, striding toward me through the storm♪
+
+812
+00:45:10,667 --> 00:45:17,567
+♪It was you, always cheering me on♪
+
+813
+00:45:17,733 --> 00:45:20,733
+♪The road is rough♪
+
+814
+00:45:21,067 --> 00:45:25,167
+♪The rain won't stop♪
+
+815
+00:45:25,367 --> 00:45:29,333
+♪But with you here♪
+
+816
+00:45:29,633 --> 00:45:35,667
+♪I fear no dark♪
+
+817
+00:45:38,900 --> 00:45:42,500
+♪Every thought, every memory is filled with you♪
+
+818
+00:45:42,833 --> 00:45:46,300
+♪Marking our youth with every step we took♪
+
+819
+00:45:46,567 --> 00:45:48,467
+♪When the downpour falls from the sky♪
+
+820
+00:45:48,467 --> 00:45:52,100
+♪You're the one holding out an umbrella for me♪
+
+821
+00:45:52,467 --> 00:45:56,033
+♪When the white dove brings the news♪
+
+822
+00:45:56,367 --> 00:45:59,833
+♪You're the first I want to tell♪
+
+823
+00:46:00,233 --> 00:46:08,867
+♪I won't give up. I'll stay right here with you♪
+
+824
+00:46:13,467 --> 00:46:19,667
+♪It was you, striding toward me through the storm♪
+
+825
+00:46:20,500 --> 00:46:26,933
+♪It was you, always cheering me on♪
+
+826
+00:46:26,933 --> 00:46:30,100
+♪The road is rough♪
+
+827
+00:46:30,567 --> 00:46:34,533
+♪The rain won't stop♪
+
+828
+00:46:34,733 --> 00:46:37,367
+♪But with you here♪
+
+829
+00:46:37,567 --> 00:46:41,433
+♪I will never give up♪
+
+830
+00:46:41,700 --> 00:46:47,767
+♪You are my courage, my hope for the sky beyond♪
+
+831
+00:46:48,300 --> 00:46:54,133
+♪You are my light, shining through every night♪
+
+832
+00:46:54,700 --> 00:46:57,533
+♪Even if I have to walk alone someday♪
+
+833
+00:46:57,967 --> 00:47:00,833
+♪I'll never truly be on my own♪
+
+834
+00:47:01,867 --> 00:47:06,367
+♪'Cause knowing you're here♪
+
+835
+00:47:06,833 --> 00:47:13,433
+♪I can brave the dark ahead♪
+
+836
+00:47:15,233 --> 00:47:16,467
+[Huge thanks to everyone involved and to all the fans of The First Frost!]
+
+837
+00:47:16,467 --> 00:47:17,633
+[Treat yourself well, and the world will hold more love for you!]
