@@ -1,1429 +1,1401 @@
 1
-00:00:13,500 --> 00:00:15,000
+00:00:14,083 --> 00:00:15,500
 Us poso una mica al dia.
 
 2
-00:00:16,833 --> 00:00:17,750
-Se l'ha emportat.
+00:00:16,750 --> 00:00:18,958
+Necessito el meu sicari d'aquí deu dies.
 
 3
-00:00:18,625 --> 00:00:21,375
-L'utilitzarà per recuperar l'Abby.
+00:00:19,000 --> 00:00:20,708
+-És impossible.
+-Deu dies.
 
 4
-00:00:21,458 --> 00:00:23,666
-I la boja del ganivet
-s'ha emportat l'Edison.
+00:00:22,166 --> 00:00:23,041
+Te n'has deixat un
 
 5
-00:00:23,750 --> 00:00:24,791
-Quin és el pla?
+00:00:23,125 --> 00:00:25,083
+-Tu no.
+-I què volia en Braga de tu?
 
 6
-00:00:24,875 --> 00:00:27,458
-Farem un intercanvi.
-La meva dona per tu.
+00:00:25,166 --> 00:00:28,166
+M'obligava a crear
+un programa per controlar ments.
 
 7
-00:00:27,541 --> 00:00:31,916
-Només has portat dolor i mort
-a tothom que t'ha estimat.
+00:00:28,250 --> 00:00:30,416
+Volia un sicari instantani.
 
 8
-00:00:32,000 --> 00:00:37,125
-I les teves filles es preguntaran
-per què el món no els va donar a elles
+00:00:31,000 --> 00:00:32,041
+Vull veure la Hendrix.
 
 9
-00:00:37,166 --> 00:00:38,708
-l'oportunitat de matar-te!
+00:00:32,166 --> 00:00:36,041
+Són pertot arreu. Ens busquen a mi,
+a la Nadia, a en Carter i a tu
 
 10
-00:00:41,625 --> 00:00:43,375
--Estàs fora de perill.
--Ah, sí?
+00:00:36,125 --> 00:00:37,166
+per matar-nos.
 
 11
-00:00:46,333 --> 00:00:47,208
-Arrenca!
+00:00:38,375 --> 00:00:40,375
+-La Nadia és amb l'Asha.
+-S'equivoca.
 
 12
-00:00:48,708 --> 00:00:50,166
--T'han tocat!
--Estic bé.
+00:00:40,958 --> 00:00:42,583
+Necessita la seva mare.
 
 13
-00:00:50,250 --> 00:00:51,625
-Abby, estàs bé?
+00:00:42,666 --> 00:00:44,166
+La Hendrix està bé!
 
 14
-00:00:51,708 --> 00:00:52,625
-Vols dir Celeste?
+00:00:45,125 --> 00:00:46,791
+Teníeu un talp a Citadel.
 
 15
-00:01:08,875 --> 00:01:10,125
--Merda!
--Calma't!
+00:00:46,875 --> 00:00:48,291
+I tu, com és que ho saps?
 
 16
-00:01:10,208 --> 00:01:12,166
-Com vas poder fer-me això?
+00:00:48,791 --> 00:00:51,500
+Crec que ho saps, perquè t'hi vas casar.
 
 17
-00:01:12,250 --> 00:01:14,208
--Va ser en Mason.
--Ves a la merda!
+00:00:56,458 --> 00:00:59,791
+SUÈCIA
 
 18
-00:01:28,250 --> 00:01:29,958
--On anem?
--Tu tira!
+00:01:59,333 --> 00:02:01,833
+Al Gladaranar… demà a les 5:00…
+si us plau…
 
 19
-00:01:30,041 --> 00:01:32,166
-Però en Kyle ho sabia, oi? Ho sabies!
+00:02:01,916 --> 00:02:03,500
+Allà hi seré.
 
 20
-00:01:32,250 --> 00:01:33,708
-No podem anar a casa.
+00:02:03,583 --> 00:02:05,416
+Surto ara mateix.
 
 21
-00:01:33,791 --> 00:01:35,583
--Surt de la ciutat!
--Cap a on?
+00:02:14,666 --> 00:02:16,791
+COMUNICACIÓ INTERCEPTADA
 
 22
-00:01:35,666 --> 00:01:36,875
-On sigui!
+00:02:20,375 --> 00:02:23,458
+UBICACIÓ: SUÈCIA
+ACTIVA
 
 23
-00:02:16,541 --> 00:02:19,416
-De què vols parlar?
-En Mason ha matat aquell cabró.
+00:02:47,000 --> 00:02:51,041
+(Suec) Crec que quedaré amb la Karen
+demà després de la feina.
 
 24
-00:02:19,500 --> 00:02:22,916
-I ens ha tallat el rotllo,
-a la Céline i a mi.
+00:02:52,333 --> 00:02:54,375
+Vols venir amb mi?
 
 25
-00:02:23,000 --> 00:02:24,666
--Era la nostra feina.
--Exacte.
+00:02:56,125 --> 00:02:59,833
+Demà pensava quedar
+amb els del grup de caça.
 
 26
-00:02:25,166 --> 00:02:26,791
-En Paulo encara pot guanyar.
+00:03:00,416 --> 00:03:02,000
+No et cau bé.
 
 27
-00:02:26,875 --> 00:02:28,875
-Com? Si l'hem deixat al rebost
+00:03:13,291 --> 00:03:14,291
+INICIAR SESSIÓ
 
 28
-00:02:28,958 --> 00:02:31,208
-amb el cervell
-regalimant dins els cereals.
+00:03:19,125 --> 00:03:21,541
+ESCÀNER DE RETINA ACCEPTAT
 
 29
-00:02:31,291 --> 00:02:35,416
-Encara es pot sortir amb la seva,
-perquè la Joana continuarà el seu pla:
+00:03:26,791 --> 00:03:28,125
+MISSATGE NOU
 
 30
-00:02:35,500 --> 00:02:39,500
-matarà el president rus i pagarà
-el primer ministre pels satèl·lits.
+00:03:31,083 --> 00:03:33,916
+INFORMACIÓ DE LA MISSIÓ
 
 31
-00:02:39,583 --> 00:02:42,000
-Tenim 30 hores abans que es produeixi
+00:03:41,208 --> 00:03:43,333
+ESTAT: NO OPERATIU
+AGÈNCIA: CITADEL
 
 32
-00:02:42,083 --> 00:02:43,875
-un magnicidi durant el G8.
+00:04:24,458 --> 00:04:25,458
+Abby?
 
 33
-00:02:43,958 --> 00:02:46,250
-Vas dir que el codi aquest d'
-El missatger
-
-34
-00:02:46,333 --> 00:02:49,625
-era tan complicat
-que trigarien anys a hackejar-lo.
-
-35
-00:02:49,708 --> 00:02:52,875
-Però algú com l'Edison
-ho podrà fer en un no res.
-
-36
-00:02:52,958 --> 00:02:54,958
-A qui li hagin implantat el xip,
-
-37
-00:02:55,041 --> 00:02:58,291
--Manticore el podrà controlar…
--Xip? De què parles?
-
-38
-00:02:58,375 --> 00:03:01,000
-Vaig bloquejar l'accés
-al programari del xip.
-
-39
-00:03:01,083 --> 00:03:04,500
-Si la hacker hi entra
-i desbloqueja l'accés al programari,
-
-40
-00:03:04,583 --> 00:03:06,541
-Manticore tindrà el seu sicari.
-
-41
-00:03:06,625 --> 00:03:09,791
-El missatger de la por
-ni de bon tros era tan complicada.
-
-42
-00:03:09,875 --> 00:03:12,333
--És molt senzill.
--Ho fas massa complicat.
-
-43
-00:03:12,416 --> 00:03:14,000
--No cal tant.
--Què coi…?
-
-44
-00:03:14,083 --> 00:03:16,708
-L'assassí podria ser
-qualsevol dels assistents.
-
-45
-00:03:16,791 --> 00:03:18,125
-I la seu del G8 tindrà
-
-46
-00:03:18,208 --> 00:03:20,916
-més seguretat
-que el Kremlin i la Casa Blanca.
-
-47
-00:03:21,000 --> 00:03:23,625
-I, malgrat tot això,
-hem d'aturar l'assassí.
-
-48
-00:03:25,375 --> 00:03:28,583
-FRANÇA
-
-49
-00:03:37,083 --> 00:03:40,666
-OFICIAL
-MUNDIAL DE MÈXIC, 1970
-
-50
-00:04:39,875 --> 00:04:41,041
-Ulls a la pantalla.
-
-51
-00:04:42,250 --> 00:04:43,625
-Si no els vols perdre.
-
-52
-00:04:53,583 --> 00:04:54,875
-Vint-i-set hores.
-
-53
-00:04:56,208 --> 00:04:57,125
-És impossible.
-
-54
-00:04:58,541 --> 00:05:02,083
-La teva filla deu ser a casa
-esperant que tornis sana i estàlvia.
-
-55
-00:05:02,166 --> 00:05:05,375
-Si no ho arregles, hi enviaré algú
-
-56
-00:05:05,458 --> 00:05:07,875
-perquè la banyi en benzina
-
-57
-00:05:07,958 --> 00:05:09,833
-i li pegui foc.
-
-58
-00:05:11,875 --> 00:05:13,791
-Vint-i-set hores.
-
-59
-00:05:25,541 --> 00:05:26,500
-Com està l'Abby?
-
-60
-00:05:26,583 --> 00:05:28,458
-Té una commoció lleu, però està bé.
-
-61
-00:05:28,958 --> 00:05:29,833
-I ma mare?
-
-62
-00:05:29,916 --> 00:05:33,208
-L'he cosida com he pogut.
-Malauradament, sobreviurà.
-
-63
-00:05:35,083 --> 00:05:36,291
-Per la descàrrega.
-
-64
-00:05:38,916 --> 00:05:40,708
-I això, per mentir-me.
-
-65
-00:05:40,791 --> 00:05:41,791
-Has acabat?
-
-66
-00:05:46,916 --> 00:05:47,833
-Et sents millor?
-
-67
-00:05:47,916 --> 00:05:49,375
-De meravella.
-
-68
-00:05:49,458 --> 00:05:52,916
-Què coi et va passar pel cap,
-tros d'imbècil rematat?
-
-69
-00:05:53,000 --> 00:05:54,875
-Que havia de salvar la meva dona.
-
-70
-00:05:54,958 --> 00:05:57,208
-I ho vaig fer. Vaig matar en Paulo.
-
-71
-00:05:57,291 --> 00:05:58,416
-Per què m'heu lligat?
-
-72
-00:05:58,500 --> 00:06:00,000
-Perquè no em fio de tu.
-
-73
-00:06:09,458 --> 00:06:11,291
-L'assassí segueix en acció.
-
-74
-00:06:12,375 --> 00:06:14,041
-Atacarà demà al G8.
-
-75
-00:06:15,291 --> 00:06:16,708
-Per què m'ho dius?
-
-76
-00:06:19,041 --> 00:06:22,458
-Perquè, pel que sembla,
-s'ha acordat que et necessitem.
-
-77
-00:06:23,583 --> 00:06:26,916
-Decideix qui ets. No pots ser tots dos.
-
-78
-00:06:28,000 --> 00:06:29,416
-Un dels dos guanyarà.
-
-79
-00:06:39,083 --> 00:06:42,291
-Al final hem acabat al teu llit, harpia.
-
-80
-00:06:42,916 --> 00:06:45,041
-Com als meus malsons.
-
-81
-00:06:48,125 --> 00:06:51,833
-És una manera massa penosa de matar-me,
-fins i tot per a tu.
-
-82
-00:06:51,916 --> 00:06:53,125
-Ja ho sé.
-
-83
-00:06:53,208 --> 00:06:55,708
-Jo m'havia imaginat una cosa diferent.
-
-84
-00:06:55,791 --> 00:06:57,958
-Com ara una estaca al cor.
-
-85
-00:06:58,041 --> 00:07:01,166
-I que et transformaries
-en un milió de ratpenats.
-
-86
-00:07:02,000 --> 00:07:04,416
-Té gràcia que fingeixis la teva mort
-
-87
-00:07:05,708 --> 00:07:07,166
-quan et mors de veritat.
-
-88
-00:07:07,875 --> 00:07:09,500
-És una putada, oi?
-
-89
-00:07:12,000 --> 00:07:16,000
-Em deus una dent.
-
-90
-00:07:16,583 --> 00:07:18,083
-I tu, a mi, un marit.
-
-91
-00:07:18,791 --> 00:07:20,291
-I un fill.
-
-92
-00:07:20,375 --> 00:07:21,916
-I una vida.
-
-93
-00:07:22,000 --> 00:07:23,625
-M'ho vas prendre tot.
-
-94
-00:07:23,708 --> 00:07:27,000
-¿I no creus que abandonar
-un nen de cinc anys,
-
-95
-00:07:27,083 --> 00:07:30,083
-tornar anys després i manipular-lo
-
-96
-00:07:30,166 --> 00:07:32,625
-perquè matés milers de companys
-no ha influït
-
-97
-00:07:32,708 --> 00:07:34,333
-en què s'allunyés de tu?
-
-98
-00:07:34,416 --> 00:07:37,125
-El vas destrossar tu quan tenia cinc anys
-
-99
-00:07:37,208 --> 00:07:40,166
-i va veure com el seu pare
-moria cremat al llit.
-
-100
-00:07:40,250 --> 00:07:43,083
-I el vas tornar a destrossar
-quan en tenia 23
-
-101
-00:07:43,166 --> 00:07:45,458
-i el vas reclutar i li vas fer creure
-
-102
-00:07:45,541 --> 00:07:50,208
-que la violència contra qui no tenia
-la teva idea de progrés
-
-103
-00:07:50,291 --> 00:07:51,833
-era una mena de justícia.
-
-104
-00:07:53,250 --> 00:07:54,541
-Em devia sentir culpable.
-
-105
-00:07:55,375 --> 00:07:58,541
-Potser intentava
-assenyalar-li el bon camí.
-
-106
-00:07:58,625 --> 00:08:03,666
-No pots assenyalar el bon camí
-amb les mans tacades de sang.
-
-107
-00:08:04,250 --> 00:08:08,875
-És molt amable de la teva part,
-però ets una imitació pèssima d'un pare.
-
-108
-00:08:15,000 --> 00:08:17,083
-Jo també me l'estimava, saps?
-
-109
-00:08:19,000 --> 00:08:20,083
-En Thomas.
-
-110
-00:08:20,833 --> 00:08:24,500
-Sembla que no prou per no matar-lo.
-
-111
-00:08:24,583 --> 00:08:25,583
-Va ser un error.
-
-112
-00:08:26,166 --> 00:08:27,458
-Era la meva vida.
-
-113
-00:08:28,291 --> 00:08:31,125
-Així que fes el que hagis de fer
-o digue'm una cosa:
-
-114
-00:08:31,208 --> 00:08:34,666
-si no has vingut a matar-me
-ni a adelitar-te,
-
-115
-00:08:35,791 --> 00:08:37,291
-què fas aquí, Bernard?
-
-116
-00:08:54,166 --> 00:08:55,166
-Tot bé?
-
-117
-00:08:56,375 --> 00:08:57,916
-Bé, no l'he matat,
-
-118
-00:08:58,000 --> 00:09:00,375
-així que… podria estar millor.
-
-119
-00:09:00,458 --> 00:09:04,833
-Al contrari, crec que això és
-l'inici d'una bonica amistat, Bernard.
-
-120
-00:09:07,875 --> 00:09:09,291
-Us deixo sols.
-
-121
-00:09:15,625 --> 00:09:16,625
+00:05:47,416 --> 00:05:48,416
 Estàs bé?
 
+34
+00:05:51,208 --> 00:05:52,458
+Sí, estic bé. És que…
+
+35
+00:05:54,166 --> 00:05:56,416
+ja no sabia què fer.
+
+36
+00:05:56,500 --> 00:05:58,000
+Ja t'entenc.
+
+37
+00:05:58,083 --> 00:05:59,458
+Com està la Hendrix?
+
+38
+00:05:59,541 --> 00:06:00,625
+Demà ho veuràs.
+
+39
+00:06:04,875 --> 00:06:06,041
+Carter, gràcies.
+
+40
+00:06:06,125 --> 00:06:07,166
+No…
+
+41
+00:06:08,375 --> 00:06:10,666
+No m'ho agraeixis. T'ho…
+
+42
+00:06:11,875 --> 00:06:12,875
+T'ho dec.
+
+43
+00:06:13,500 --> 00:06:14,583
+Per què?
+
+44
+00:06:18,416 --> 00:06:19,416
+Per mentir-te.
+
+45
+00:06:21,208 --> 00:06:22,291
+Mentir-me sobre què?
+
+46
+00:06:24,250 --> 00:06:26,208
+Marxem. Aquí no estem segurs.
+
+47
+00:06:26,291 --> 00:06:28,500
+Carter, mentir-me sobre què?
+
+48
+00:06:29,291 --> 00:06:30,500
+Ell volia amagar-t'ho.
+
+49
+00:06:30,583 --> 00:06:31,916
+-En Kyle?
+-En Mason.
+
+50
+00:06:32,708 --> 00:06:33,708
+Amagar-me què?
+
+51
+00:06:35,458 --> 00:06:36,458
+Qui ets.
+
+52
+00:06:55,250 --> 00:06:56,958
+Surt… Surt corrent.
+
+53
+00:07:05,166 --> 00:07:06,166
+Merda.
+
+54
+00:07:39,000 --> 00:07:39,833
+Amaga't.
+
+55
+00:08:55,875 --> 00:08:56,708
+Ves-te'n.
+
+56
+00:09:12,541 --> 00:09:13,375
+Ves-te'n.
+
+57
+00:10:47,125 --> 00:10:48,208
+On és en Mason Kane?
+
+58
+00:11:02,416 --> 00:11:04,125
+En Carter. Han matat en Carter.
+
+59
+00:11:04,208 --> 00:11:07,250
+Et vaig dir que no parlessis amb ningú.
+
+60
+00:11:07,333 --> 00:11:08,833
+Abby, quants n'hi ha?
+
+61
+00:11:08,916 --> 00:11:10,250
+No passa res.
+
+62
+00:11:10,333 --> 00:11:11,708
+Quants n'hi ha, Abby?
+
+63
+00:11:13,958 --> 00:11:15,666
+Aquí dins. No surtis!
+
+64
+00:12:28,750 --> 00:12:29,833
+Kyle!
+
+65
+00:12:33,541 --> 00:12:35,625
+Kyle!
+
+66
+00:12:36,708 --> 00:12:37,791
+Abby!
+
+67
+00:14:19,625 --> 00:14:20,541
+Merda!
+
+68
+00:14:36,500 --> 00:14:38,041
+T'has tornat boja?
+
+69
+00:14:38,750 --> 00:14:40,166
+Vas ser tu.
+
+70
+00:15:16,583 --> 00:15:17,416
+Fes-ho!
+
+71
+00:15:29,541 --> 00:15:31,291
+La Dahlia és la teva mare.
+
+72
+00:15:31,375 --> 00:15:34,333
+Li vas donar els nostres noms,
+les nostres tapadores!
+
+73
+00:15:34,416 --> 00:15:35,416
+No ho sabia.
+
+74
+00:15:35,500 --> 00:15:37,166
+Van matar milers dels nostres!
+
+75
+00:15:37,250 --> 00:15:39,958
+No sabia qui era ni per a qui treballava.
+
+76
+00:15:40,041 --> 00:15:41,375
+Tu els vas matar!
+
+77
+00:15:41,458 --> 00:15:43,166
+I Citadel va matar el meu pare!
+
+78
+00:15:45,791 --> 00:15:47,000
+El van cremar viu.
+
+79
+00:15:48,791 --> 00:15:49,625
+Ho vaig veure.
+
+80
+00:15:50,291 --> 00:15:51,208
+Ho veig.
+
+81
+00:15:52,083 --> 00:15:53,583
+És per ells que soc així.
+
+82
+00:15:53,666 --> 00:15:55,916
+Em vas robar vuit anys de la meva vida.
+
+83
+00:15:56,000 --> 00:15:57,708
+Vuit anys amb l'Asha.
+
+84
+00:15:58,333 --> 00:15:59,875
+No t'acostis a nosaltres.
+
+85
+00:15:59,958 --> 00:16:01,875
+Si et torno a veure, et mataré.
+
+86
+00:16:37,625 --> 00:16:40,916
+FRANÇA
+
+87
+00:16:45,666 --> 00:16:47,041
+"John Mellencamp"?
+
+88
+00:16:47,125 --> 00:16:48,041
+Què?
+
+89
+00:16:49,041 --> 00:16:50,416
+Com que "què"?
+
+90
+00:16:50,500 --> 00:16:52,875
+"John Mellencamp"
+et semblava una bona opció?
+
+91
+00:16:52,958 --> 00:16:55,375
+Creies que passaria desapercebut
+amb aquest nom?
+
+92
+00:16:55,458 --> 00:16:56,833
+Per què? És el nom d'algú?
+
+93
+00:16:58,333 --> 00:16:59,958
+No saps qui és?
+
+94
+00:17:00,750 --> 00:17:01,916
+No. Qui és?
+
+95
+00:17:02,000 --> 00:17:03,166
+Mare meva.
+
+96
+00:17:04,208 --> 00:17:06,125
+Se't va ocórrer el nom així com així?
+
+97
+00:17:06,250 --> 00:17:08,000
+Sí, m'agrada inventar noms.
+
+98
+00:17:08,875 --> 00:17:12,375
+"Hurts So Good",
+"Jack and Diane", "Pink Houses"…
+
+99
+00:17:13,416 --> 00:17:16,500
+Un munt de paraules
+que no signifiquen res per a mi.
+
+100
+00:17:18,125 --> 00:17:20,416
+-No és així.
+-No, res. Em sap greu.
+
+101
+00:17:20,500 --> 00:17:21,666
+-Ja.
+-I, per cert,
+
+102
+00:17:21,750 --> 00:17:24,375
+si vols escollir tu el nom,
+
+103
+00:17:24,458 --> 00:17:25,583
+te'l falsifiques tu.
+
+104
+00:17:25,666 --> 00:17:27,541
+-Què et sembla?
+-"Falsificar"?
+
+105
+00:17:27,625 --> 00:17:29,375
+Jo no sé si en diria tant.
+
+106
+00:17:30,125 --> 00:17:32,125
+D'on l'has tret? D'una copisteria?
+
+107
+00:17:32,208 --> 00:17:34,375
+Al meu poble se sol dir:
+
+108
+00:17:34,458 --> 00:17:35,916
+"Calla i sigues agraït."
+
+109
+00:17:36,000 --> 00:17:37,875
+Pots cancel·lar el bitllet de tren
+
+110
+00:17:37,958 --> 00:17:41,250
+si vols sortir d'aquest pou de merda
+tu solet. D'acord?
+
+111
+00:17:43,250 --> 00:17:44,333
+Qui tens a Itàlia?
+
+112
+00:17:44,416 --> 00:17:45,458
+Un vell amic.
+
+113
+00:17:45,541 --> 00:17:48,583
+Si algú pot reunir el meu equip és ell.
+
+114
+00:17:55,125 --> 00:17:56,291
+(Portuguès) Càgon tot!
+
+115
+00:17:56,875 --> 00:17:58,875
+Per un puto dia que me'n vaig…
+
+116
+00:17:58,958 --> 00:18:00,500
+Ja hem demanat una taula nova.
+
+117
+00:18:00,583 --> 00:18:03,291
+Les taules de marbre són totes diferents.
+
+118
+00:18:03,375 --> 00:18:05,708
+I m'agradava aquesta!
+Per això la vaig triar.
+
+119
+00:18:08,625 --> 00:18:09,958
+Hi ha sang al parquet?
+
+120
+00:18:10,041 --> 00:18:13,458
+Els de la neteja
+han dit que poden treure les taques…
+
+121
+00:18:14,458 --> 00:18:17,208
+Jo sabré que és aquí,
+a les esquerdes de la fusta.
+
 122
-00:09:17,416 --> 00:09:21,833
-No em fa tant de mal com al teu part.
-Eres una bola de greix.
+00:18:17,291 --> 00:18:18,333
+Sempre ho sabré.
 
 123
-00:09:21,916 --> 00:09:25,333
-Els vaig suplicar que em fessin cesària,
-però m'ho van prohibir.
+00:18:20,166 --> 00:18:21,833
+O podem canviar el parquet.
 
 124
-00:09:25,916 --> 00:09:28,708
-Deien que el part natural
-és millor per al bebè.
+00:18:22,958 --> 00:18:26,958
+Charlotte, cada peça
+de fusta recuperada és única.
 
 125
-00:09:28,791 --> 00:09:31,541
-No sé si pensarien el mateix
-si et veiessin ara.
+00:18:27,041 --> 00:18:28,666
+Per això la recuperen.
 
 126
-00:09:33,875 --> 00:09:35,958
-M'ha cosit la teva dona.
+00:18:28,750 --> 00:18:31,750
+És la definició d'insubstituïble!
 
 127
-00:09:37,416 --> 00:09:38,250
-La Nadia.
+00:18:34,791 --> 00:18:38,750
+Collons! Qui llança una granada
+quan ja és mort tothom?
 
 128
-00:09:43,958 --> 00:09:47,666
-Gràcies per ajudar-me
-a recuperar la meva dona, l'Abby.
+00:18:38,833 --> 00:18:40,291
+-No ho sé.
+-És excessiu!
 
 129
-00:09:49,458 --> 00:09:51,208
-Em sap greu el que et vaig fer.
+00:18:40,375 --> 00:18:41,458
+Sí que ho és.
 
 130
-00:09:53,583 --> 00:09:54,958
-En què t'he convertit.
+00:18:45,416 --> 00:18:47,125
+Les persones es poden substituir,
 
 131
-00:09:56,166 --> 00:09:59,958
-Però encara tens temps
-d'escollir qui vols ser.
+00:18:50,333 --> 00:18:53,333
+però la fusta recuperada
+d'un graner de la Toscana, no.
 
 132
-00:10:00,916 --> 00:10:02,250
-Què vols ser.
+00:19:06,625 --> 00:19:08,416
+Digue'm que tens alguna cosa.
 
 133
-00:10:30,291 --> 00:10:32,916
--Escolteu…
--Estalvia-t'ho. Ens la bufa.
+00:19:09,625 --> 00:19:10,791
+Sí, l'han ajudat.
 
 134
-00:10:34,375 --> 00:10:35,750
-A mi no em miris.
+00:19:11,500 --> 00:19:14,458
+-No fotis. Sí?
+-Hem trobat una anella de granada.
 
 135
-00:10:36,375 --> 00:10:40,541
-Tots els líders mundials
-arribaran a la cimera demà a les 11:00.
+00:19:14,541 --> 00:19:17,041
+Ja, hi va haver granades.
+N'estic al corrent.
 
 136
-00:10:40,625 --> 00:10:42,708
-Hi ha controls pertot arreu. Res d'armes.
+00:19:17,125 --> 00:19:20,500
+Fetes als EUA.
+El paio que el va ajudar era de la CIA.
 
 137
-00:10:42,791 --> 00:10:44,041
-Estareu indefensos.
+00:19:20,583 --> 00:19:22,791
+Vols que contacti amb en McCaffery?
 
 138
-00:10:44,125 --> 00:10:46,708
-Un cop a dins,
-la Joana, amb el dispositiu,
+00:19:22,875 --> 00:19:23,875
+D'acord. Fes-ho.
 
 139
-00:10:46,791 --> 00:10:49,833
-pot convertir qualsevol dels assistents
-en un assassí:
+00:19:28,166 --> 00:19:29,666
+Com ens ha pogut fer això?
 
 140
-00:10:49,916 --> 00:10:51,791
-periodistes, diplomàtics,
+00:19:29,750 --> 00:19:31,500
+-Calma't.
+-Com vols que em calmi?
 
 141
-00:10:51,875 --> 00:10:53,208
-polítics,
+00:19:34,625 --> 00:19:37,666
+Hem perdut
+l'únic que pot crear el que necessitem.
 
 142
-00:10:53,291 --> 00:10:55,666
-guàrdies de seguretat… Qualsevol.
+00:19:37,750 --> 00:19:39,375
+I ens queden nou dies.
 
 143
-00:10:55,750 --> 00:10:57,833
-Vol enviar un missatge al món.
+00:19:39,458 --> 00:19:41,625
+Tothom l'està buscant.
 
 144
-00:10:58,416 --> 00:11:02,208
-Així que crec que el matarà
-durant la roda de premsa.
+00:19:42,250 --> 00:19:43,958
+Però tenim altres opcions.
 
 145
-00:11:02,291 --> 00:11:03,875
-És una bogeria, oi?
+00:19:44,625 --> 00:19:46,958
+Hi ha un altre que se'n pot encarregar:
 
 146
-00:11:03,958 --> 00:11:05,500
-Hi estem d'acord?
+00:19:47,041 --> 00:19:49,166
+un hacker coreà, millor que l'Orlick.
 
 147
-00:11:05,583 --> 00:11:07,375
-És una bogeria total,
+00:19:50,208 --> 00:19:51,416
+Però no el coneix ningú.
 
 148
-00:11:07,458 --> 00:11:08,750
-inclús per a tu, Bernard.
+00:19:53,500 --> 00:19:54,916
+-Interessant.
+-Sí.
 
 149
-00:11:08,833 --> 00:11:11,000
-Tenim set hores de camí. Hem de marxar ja.
+00:19:56,875 --> 00:19:57,791
+On és l'Aparna?
 
 150
-00:11:11,958 --> 00:11:14,041
-He de deixar l'Abby en un lloc segur.
+00:19:58,375 --> 00:20:00,625
+Va trobar la Nadia Sinh, però l'ha perdut.
 
 151
-00:11:14,125 --> 00:11:15,625
-(Francès) Sí, és clar.
+00:20:01,375 --> 00:20:02,541
+Deixeu la Sinh.
 
 152
-00:11:15,708 --> 00:11:18,500
-I ens hauríem de fiar que aniràs on dius.
+00:20:03,833 --> 00:20:06,791
+Que l'Aparna busqui el coreà.
+Tu i jo buscarem l'Orlick.
 
 153
-00:11:18,583 --> 00:11:20,416
-Sí, aquesta ja l'hem sentida.
+00:20:11,208 --> 00:20:12,333
+I qui coi és, aquesta?
 
 154
-00:11:20,500 --> 00:11:22,916
-I normalment ens l'acaben ficant doblegada
+00:20:17,208 --> 00:20:18,708
+La dona d'en Mason Kane.
 
 155
-00:11:23,000 --> 00:11:25,125
-i amb les tripes d'algú a les sabates.
+00:20:19,791 --> 00:20:20,750
+La tenim.
 
 156
-00:11:26,041 --> 00:11:28,458
-Puc anar amb ells i fer-los seguir el pla.
+00:21:23,500 --> 00:21:25,750
+L'avi sempre deia: "Estem ben fotuts."
 
 157
-00:11:29,833 --> 00:11:31,000
-D'acord.
+00:21:28,000 --> 00:21:29,541
+Estem fotudes?
 
 158
-00:11:32,625 --> 00:11:35,375
-No aniré enlloc amb tu. Amb cap dels dos.
+00:21:31,708 --> 00:21:33,000
+Una cosa així.
 
 159
-00:11:35,458 --> 00:11:37,541
-Si et quedes, et trobaran i et mataran.
+00:21:33,625 --> 00:21:36,208
+Deia que eres
+la persona més llesta que coneixia.
 
 160
-00:11:37,625 --> 00:11:39,125
-I què passarà amb la Hendrix?
+00:21:36,875 --> 00:21:38,458
+No era la més valenta?
 
 161
-00:12:07,666 --> 00:12:10,000
-Quin és el teu preu?
+00:21:38,541 --> 00:21:40,500
+Et vaig mentir, per motivar-te.
 
 162
-00:12:13,458 --> 00:12:15,208
-Tu hauries fet el mateix.
+00:21:43,083 --> 00:21:44,916
+Estic cansada d'estar sola.
 
 163
-00:12:16,416 --> 00:12:17,416
-Ah, sí?
+00:21:45,750 --> 00:21:49,125
+Doncs acostuma-t'hi.
+No podem acostar-nos a ningú.
 
 164
-00:12:17,500 --> 00:12:19,541
-Fa una setmana vaig trucar a la meva dona
+00:21:49,208 --> 00:21:50,666
+Per què?
 
 165
-00:12:20,125 --> 00:12:23,000
-i li vaig dir que era
-l'últim cop que parlàvem.
+00:21:50,750 --> 00:21:52,625
+Estic cansada que em traeixin.
 
 166
-00:12:23,958 --> 00:12:25,666
--Saps per què?
--Digue-m'ho tu.
+00:21:57,791 --> 00:22:01,166
+Quan eres petita, t'agafava en braços,
 
 167
-00:12:25,750 --> 00:12:28,541
-Perquè l'única manera
-de fer el que he de fer
+00:22:01,250 --> 00:22:03,333
+et bressolava i et cantava.
 
 168
-00:12:28,625 --> 00:12:32,000
-és desvincular-me de tothom que m'importa.
+00:22:04,708 --> 00:22:06,958
+(Hindi)
+Vine amb mi
 
 169
-00:12:32,958 --> 00:12:34,083
-Per això.
+00:22:07,041 --> 00:22:09,458
+Jo et guiaré
 
 170
-00:12:34,166 --> 00:12:36,333
-Què vols, que t'agraeixi el sacrifici?
+00:22:10,125 --> 00:22:13,708
+Sota un cel
 
 171
-00:12:36,416 --> 00:12:38,666
-No jugaré a veure
-qui té més sang a les mans.
+00:22:15,833 --> 00:22:17,791
+On no hi hagi dolor
 
 172
-00:12:38,750 --> 00:12:40,333
-Pensaves deixar morir l'Abby.
+00:22:18,416 --> 00:22:20,291
+Ni tampoc llàgrimes
 
 173
-00:12:40,416 --> 00:12:45,000
-Sí, com hauria fet amb la Joe,
-la Val, amb tu o amb mi.
+00:22:21,458 --> 00:22:24,458
+Només amor i on l'amor prosperi
 
 174
-00:12:45,958 --> 00:12:49,166
-Perquè l'alternativa
-és exactament la mateixa.
+00:22:26,666 --> 00:22:30,125
+Et cantava això una vegada i una altra,
+com una pregària…
 
 175
-00:12:49,250 --> 00:12:51,333
-Si fracassem, moriran igualment.
+00:22:31,708 --> 00:22:34,541
+per qui estigués escoltant:
+l'univers, els déus…
 
 176
-00:12:57,166 --> 00:12:58,666
-Què vols de mi?
+00:22:35,791 --> 00:22:39,583
+Perquè una persona
+només pot fer fins a un cert punt.
 
 177
-00:13:03,833 --> 00:13:04,833
-Penediment.
+00:22:39,666 --> 00:22:43,500
+Jo només puc fer fins a un cert punt.
 
 178
-00:13:13,166 --> 00:13:14,000
-Ho sento.
+00:22:47,125 --> 00:22:50,333
+Però em vaig adonar
+que no m'escoltava ningú.
 
 179
-00:13:14,083 --> 00:13:16,125
--No, no ho sents.
--Sí que ho sento.
+00:22:53,625 --> 00:22:55,166
+Jo t'escoltava.
 
 180
-00:13:16,208 --> 00:13:19,250
-Sé què et vaig prendre… quan eres un nen.
+00:23:17,416 --> 00:23:19,916
+Vine amb mi
 
 181
-00:13:20,083 --> 00:13:21,666
-Ho sé molt bé.
+00:23:20,000 --> 00:23:22,041
+Jo et guiaré
 
 182
-00:13:21,750 --> 00:13:23,375
-Em persegueix cada dia.
+00:23:22,125 --> 00:23:26,541
+Sota un cel
 
 183
-00:13:27,916 --> 00:13:29,083
-I em sap greu.
+00:23:26,625 --> 00:23:28,750
+On no hi hagi dolor
 
 184
-00:13:31,083 --> 00:13:32,083
-Molt.
+00:23:28,833 --> 00:23:31,000
+Ni tampoc llàgrimes
 
 185
-00:13:34,291 --> 00:13:38,125
-Potser amb el que fem demà
-començarem a posar les coses en ordre.
+00:23:31,083 --> 00:23:34,041
+Només amor i on l'amor prosperi
 
 186
-00:13:40,750 --> 00:13:43,291
-Hi ha una cabanya
-a un quilòmetre del pis franc.
+00:23:34,125 --> 00:23:37,625
+ITÀLIA
 
 187
-00:13:43,375 --> 00:13:44,875
-Hi pots portar l'Abby.
+00:24:04,458 --> 00:24:06,416
+(Italià) Les mans, on les pugui veure.
 
 188
-00:13:48,333 --> 00:13:50,166
-I després necessitaré en Mason Kane.
+00:24:07,541 --> 00:24:11,083
+No et queda Campari.
+Quina mena d'italià ets?
 
 189
-00:13:51,000 --> 00:13:52,166
-Una última vegada.
+00:24:12,333 --> 00:24:13,166
+Bernardo.
 
 190
-00:16:23,750 --> 00:16:28,375
-ESCÒCIA
+00:24:14,958 --> 00:24:16,208
+No és necessari.
 
 191
-00:16:54,125 --> 00:16:56,708
-Escolta, no volia cabrejar-te a Londres.
+00:24:16,750 --> 00:24:17,583
+Vine.
 
 192
-00:16:57,666 --> 00:17:01,000
-Ni a Roma, ni a la Toscana ni a França.
+00:24:17,666 --> 00:24:19,166
+Has perdut el telèfon?
 
 193
-00:17:02,125 --> 00:17:03,958
-No et preocupis. No passa res.
+00:24:20,666 --> 00:24:23,083
+La meva dona i els nens dormen a dalt.
 
 194
-00:17:04,000 --> 00:17:05,958
-Estic una mica nerviós, sincerament.
+00:24:23,750 --> 00:24:25,958
+Quina mena de cereals són aquest?
 
 195
-00:17:09,708 --> 00:17:10,833
-He estat pensant…
+00:24:26,541 --> 00:24:29,041
+Què passa?
+A Itàlia no ha arribat el sucre?
 
 196
-00:17:11,708 --> 00:17:12,750
-que potser no guanyem.
+00:24:29,125 --> 00:24:32,416
+És com un bol de crostons amb llet.
 
 197
-00:17:14,291 --> 00:17:15,958
-Potser no podem aturar-los.
+00:24:32,500 --> 00:24:33,708
+Quin fàstic.
 
 198
-00:17:16,916 --> 00:17:20,208
-Si fan esclatar tot el món,
-ho destrueixen tot
+00:24:35,041 --> 00:24:36,833
+Què hi fas, aquí, Bernardo?
 
 199
-00:17:20,291 --> 00:17:22,291
-i la cosa es posa ben lletja,
+00:24:36,916 --> 00:24:38,833
+Encara treballes per a Reuters, oi?
 
 200
-00:17:24,333 --> 00:17:26,708
-què passarà amb la gent que ens estimem?
+00:24:40,375 --> 00:24:42,250
+Has de publicar un article.
 
 201
-00:17:30,500 --> 00:17:36,083
-No sé què vull dir.
-És que… suposo que tots teniu família.
+00:24:42,333 --> 00:24:45,125
+Vas estar 25 anys
+donant-me informació falsa
 
 202
-00:17:38,833 --> 00:17:40,166
-Tu la tens a ella.
+00:24:45,208 --> 00:24:48,291
+perquè publiqués articles
+que beneficiaven Citadel.
 
 203
-00:17:43,750 --> 00:17:46,166
-I l'has protegit molt bé.
+00:24:48,375 --> 00:24:49,375
+Sí.
 
 204
-00:17:48,625 --> 00:17:51,750
-Podem evitar que matin
-les persones que estimem,
+00:24:49,458 --> 00:24:50,875
+I ara vols que t'ajudi?
 
 205
-00:17:51,833 --> 00:17:55,791
-però el més important és evitar que mori
+00:24:50,958 --> 00:24:51,875
+Sí.
 
 206
-00:17:55,875 --> 00:17:59,458
-el bé que hi ha
-dins de les persones que estimem.
+00:24:52,583 --> 00:24:55,166
+Si no m'hi anés la vida, no seria aquí.
 
 207
-00:18:02,083 --> 00:18:03,250
-I tu ho estàs fent.
+00:24:55,250 --> 00:24:56,916
+Et vas ficar en aquesta feina
 
 208
-00:18:05,250 --> 00:18:06,250
-Segueix així.
+00:24:57,000 --> 00:24:59,208
+perquè volies donar veu a qui no en tenia.
 
 209
-00:18:12,583 --> 00:18:14,333
--Ja ho tinc.
--Gràcies.
+00:24:59,291 --> 00:25:01,208
+Volies ajudar les generacions futures…
 
 210
-00:19:10,500 --> 00:19:11,583
-Érem amigues?
+00:25:06,625 --> 00:25:08,833
+Volies ajudar les generacions futures…
 
 211
-00:19:16,958 --> 00:19:18,250
-Sí.
+00:25:10,541 --> 00:25:12,125
+Quin avorriment.
 
 212
-00:19:22,458 --> 00:19:23,458
-Molt?
+00:25:12,208 --> 00:25:14,750
+Au, va.
+Si has de fer servir tantes paraules
 
 213
-00:19:28,083 --> 00:19:30,291
-Ho sabies? El que em va fer?
+00:25:14,833 --> 00:25:17,708
+per convèncer algú, no el convenceràs.
 
 214
-00:19:36,041 --> 00:19:36,875
-No.
+00:25:17,791 --> 00:25:21,750
+Mira, company, o publiques l'article demà…
 
 215
-00:19:36,958 --> 00:19:38,875
-I per què no em vas dir qui era?
+00:25:23,291 --> 00:25:26,625
+o tornaré i et dispararé a la tita.
+D'acord?
 
 216
-00:19:42,291 --> 00:19:43,625
-No sabia com dir-t'ho.
+00:25:31,000 --> 00:25:32,375
+Com dieu els italians?
 
 217
-00:20:14,666 --> 00:20:15,750
-Primer ministre.
+00:25:40,458 --> 00:25:43,541
+FRANÇA
 
 218
-00:20:16,458 --> 00:20:17,875
-On és el Sr. Braga?
+00:25:45,750 --> 00:25:47,291
+Marxem. Aquí no estem segurs.
 
 219
-00:20:17,958 --> 00:20:18,958
-Seré breu.
+00:25:47,375 --> 00:25:49,291
+Carter, mentir-me sobre què?
 
 220
-00:20:19,583 --> 00:20:22,041
-He fet un dipòsit en garantia
-de 12.000 milions.
+00:25:50,833 --> 00:25:51,958
+Ell volia amagar-t'ho.
 
 221
-00:20:22,666 --> 00:20:24,250
-Quan matem el president Aronov
+00:25:52,041 --> 00:25:53,250
+-En Kyle?
+-En Mason.
 
 222
-00:20:24,333 --> 00:20:27,083
-i ens hagi donat
-el control dels seus satèl·lits,
+00:25:55,750 --> 00:25:56,750
+Amagar-me què?
 
 223
-00:20:27,166 --> 00:20:28,750
-es completarà la transacció.
+00:25:58,375 --> 00:25:59,208
+Qui ets.
 
 224
-00:20:28,833 --> 00:20:31,375
-Jo també tinc una condició.
+00:26:02,583 --> 00:26:03,791
+Ell volia amagar-t'ho.
 
 225
-00:20:32,250 --> 00:20:33,625
-A què es refereix?
+00:26:03,875 --> 00:26:04,958
+-En Kyle?
+-En Mason.
 
 226
-00:20:33,708 --> 00:20:36,458
-Aquests satèl·lits
-són els més poderosos del món.
+00:26:07,125 --> 00:26:07,958
+Amagar-me què?
 
 227
-00:20:37,666 --> 00:20:39,833
-El seu poder de vigilància és inigualable.
+00:26:10,625 --> 00:26:11,625
+Qui ets.
 
 228
-00:20:41,833 --> 00:20:43,708
-Després de la transferència,
+00:26:16,500 --> 00:26:19,833
+ANGLATERRA
 
 229
-00:20:44,500 --> 00:20:45,583
-jo no existiré.
+00:27:24,000 --> 00:27:25,083
+Hola, mama.
 
 230
-00:20:46,125 --> 00:20:48,833
-La meva esposa, els meus fills i jo
+00:27:28,125 --> 00:27:30,625
+Et veig prou bé per ser morta.
 
 231
-00:20:48,916 --> 00:20:51,750
-quedarem exempts de mirades indiscretes.
+00:27:31,375 --> 00:27:33,458
+-Vens a matar-me?
+-En algun moment.
 
 232
-00:20:51,833 --> 00:20:53,833
-Serem lliures.
+00:27:34,750 --> 00:27:36,833
+Primer m'ajudaràs a trobar la meva dona.
 
 233
-00:21:14,375 --> 00:21:15,375
-Continua.
+00:27:36,916 --> 00:27:38,625
+No ho hem fet, això, ja?
 
 234
-00:21:17,750 --> 00:21:19,208
-Vinga.
+00:27:40,291 --> 00:27:43,416
+I no va anar gaire bé, que jo recordi.
 
 235
-00:21:26,208 --> 00:21:28,375
-EXECUTAR: SÍ O NO
+00:27:44,416 --> 00:27:45,916
+Va morir molta gent.
 
 236
-00:21:28,458 --> 00:21:29,625
-EXECUTANT
+00:28:18,875 --> 00:28:19,875
+On soc?
 
 237
-00:21:30,875 --> 00:21:32,083
-Bona noia.
+00:28:22,083 --> 00:28:23,125
+On collons…?
 
 238
-00:21:35,458 --> 00:21:37,625
-ACCÉS AL SISTEMA CONCEDIT
+00:28:24,250 --> 00:28:26,458
+Prou! Està bé. Estic bé.
 
 239
-00:21:52,250 --> 00:21:53,958
-Em sap greu el que et vaig fer.
+00:28:28,125 --> 00:28:28,958
+Només…
 
 240
-00:21:55,041 --> 00:21:57,333
-El que et va prendre ell. No…
+00:28:33,500 --> 00:28:36,541
+Aquesta cicatriu,
+et van dir que era d'un accident, oi?
 
 241
-00:21:59,875 --> 00:22:01,208
-No ho concebo.
+00:28:37,125 --> 00:28:38,583
+És el que et van dir?
 
 242
-00:22:02,625 --> 00:22:04,083
-Que un home capaç de…
+00:28:38,666 --> 00:28:39,666
+Què?
 
 243
-00:22:05,416 --> 00:22:06,625
-formi part de mi.
+00:28:41,500 --> 00:28:42,541
+Qui ets?
 
 244
-00:22:12,583 --> 00:22:13,791
-Però jo també soc aquí.
+00:28:42,625 --> 00:28:44,666
+Tinc una pregunta millor: qui ets tu?
 
 245
-00:22:13,875 --> 00:22:15,666
-Tot el que faig és per tu.
+00:28:46,833 --> 00:28:48,791
+Em dic Joana Malvern.
 
 246
-00:22:17,041 --> 00:22:19,125
-Faria qualsevol cosa per tu.
+00:28:52,333 --> 00:28:55,791
+És un plaer coneixe't, Celeste.
 
 247
-00:22:19,750 --> 00:22:20,750
-T'estimo.
+00:29:00,291 --> 00:29:01,208
+Celeste?
 
 248
-00:22:27,208 --> 00:22:29,583
-Recordes quan vam anar a Portland?
+00:29:05,666 --> 00:29:06,625
+ENCRIPTAT
 
 249
-00:22:33,666 --> 00:22:36,791
-Ens allotjàvem al Marriott
-i ens vam emborratxar al pàrquing.
+00:29:10,791 --> 00:29:14,416
+L'hi vaig prendre a un
+que va venir a matar-me. Desencripta'l.
 
 250
-00:22:36,875 --> 00:22:37,875
-Sí.
+00:29:20,708 --> 00:29:24,041
+Abans m'asseia just on ets tu
+i et donava el pit.
 
 251
-00:22:39,500 --> 00:22:42,000
-Me'n vaig anar.
-Vaig demanar una altra habitació.
+00:29:24,125 --> 00:29:28,416
+Cridaves i engolies i em miraves.
 
 252
-00:22:43,125 --> 00:22:46,416
-Estaves força perjudicat.
-No crec que te'n recordis.
+00:29:28,500 --> 00:29:30,041
+No et podia deixar sol.
 
 253
-00:22:46,500 --> 00:22:50,125
-Però, sí, me'n vaig anar.
-I ho vaig fer perquè…
+00:29:30,125 --> 00:29:35,000
+I, per primer cop a la meva vida,
+em vaig adonar del que era ser…
 
 254
-00:22:58,000 --> 00:23:00,000
-quan érem al llit, vas dir el seu nom:
+00:29:35,083 --> 00:29:36,083
+Una mare?
 
 255
-00:23:01,166 --> 00:23:02,166
-"Nadia."
+00:29:36,666 --> 00:29:37,833
+Una presonera.
 
 256
-00:23:04,250 --> 00:23:06,000
-El vas xiuxiuejar mentre dormies.
+00:29:39,083 --> 00:29:40,583
+Qui té l'Abby? On és?
 
 257
-00:23:08,166 --> 00:23:09,708
-Aquell va ser el primer cop.
+00:29:40,666 --> 00:29:43,000
+Quan te'n vas adonar, que no tornaria?
 
 258
-00:23:09,791 --> 00:23:14,125
-Després d'allò… es va repetir
-unes quantes vegades al llarg dels anys.
+00:29:44,041 --> 00:29:47,125
+Cada matí em despertava
+pensant que vindries a buscar-me.
 
 259
-00:23:14,208 --> 00:23:18,541
-I t'ho hauria d'haver dit,
-però em vaig convèncer que no sabia com.
+00:29:47,708 --> 00:29:50,708
+Cada any, bufava les espelmes
+i et desitjava a tu.
 
 260
-00:23:18,625 --> 00:23:20,458
-Vaig intentar no creure-ho,
+00:29:51,583 --> 00:29:55,000
+Fins que em vaig adonar que era inútil
+i vaig demanar una moto.
 
 261
-00:23:20,541 --> 00:23:22,500
-però sentia que, quan em miraves,
+00:29:55,083 --> 00:29:56,708
+Deu haver estat molt difícil.
 
 262
-00:23:22,583 --> 00:23:24,083
-quan em miraves de debò…
+00:29:56,791 --> 00:29:58,000
+Em van regalar la moto.
 
 263
-00:23:26,958 --> 00:23:28,958
-esperaves veure-la a ella.
+00:30:00,833 --> 00:30:02,166
+Digue'm què hi diu.
 
 264
-00:23:39,875 --> 00:23:42,500
-No crec que el puguis culpar de tot.
+00:30:08,625 --> 00:30:11,958
+És una encriptació
+que utilitzen les famílies de Manticore.
 
 265
-00:23:43,750 --> 00:23:44,916
-A en Mason.
+00:30:12,041 --> 00:30:13,125
+CLAU D'ENCRIPTACIÓ
 
 266
-00:24:03,375 --> 00:24:04,916
-En fi, tanca la porta.
+00:30:13,208 --> 00:30:14,041
+DESENCRIPTANT
 
 267
-00:24:07,500 --> 00:24:10,166
-Si ve algú, sigui qui sigui,
+00:30:15,041 --> 00:30:16,041
+COMPILANT DADES
 
 268
-00:24:10,250 --> 00:24:12,125
-li dispares, entesos?
+00:30:24,458 --> 00:30:26,458
+És en Paulo Braga, el multimilionari?
 
 269
-00:24:16,041 --> 00:24:18,208
-I, quan torni, parlarem.
+00:30:26,541 --> 00:30:28,708
+I cap de la família més rica de Manticore.
 
 270
-00:24:18,833 --> 00:24:20,875
-No seré aquí quan tornis.
+00:30:28,791 --> 00:30:30,416
+-On el puc trobar?
+-Bé…
 
 271
-00:24:20,958 --> 00:24:22,750
--Com?
--Tu ves-te'n a fer això,
+00:30:30,500 --> 00:30:33,708
+Et desitjo sort per trobar en Braga…
 
 272
-00:24:22,833 --> 00:24:26,000
-jo m'enduré la Hendrix
-a un lloc on no ens trobis mai.
+00:30:35,375 --> 00:30:37,375
+i la teva dona, però…
 
 273
-00:24:26,083 --> 00:24:28,250
-Quan acabi, podem tornar a la nostra vida.
+00:30:39,583 --> 00:30:42,041
+potser ja has tingut una mica de sort.
 
 274
-00:24:28,333 --> 00:24:30,208
-No, això ja ho vas dir fa un mes.
+00:30:42,125 --> 00:30:43,708
+TURISTA MOR EN UN ACCIDENT AERI
 
 275
-00:24:30,291 --> 00:24:33,083
-Que acabaries la missió
-i tornaríem a la nostra vida.
+00:30:46,291 --> 00:30:48,375
+-En Bernard és viu?
+-Encara belluga.
 
 276
-00:24:33,166 --> 00:24:35,833
-I ara tornem a ser al mateix lloc.
-És un patró.
+00:30:48,458 --> 00:30:51,166
+El vam treure de la furgoneta
+amb una bala a l'espatlla
 
 277
-00:24:35,916 --> 00:24:39,208
-Sempre serà:
-"Una última vegada, una última missió."
+00:30:51,250 --> 00:30:54,458
+i encara tenia pols,
+per desgràcia per a ell.
 
 278
-00:24:40,666 --> 00:24:42,875
-I mai podré estar amb la meva filla,
+00:30:54,541 --> 00:30:58,625
+Suposo que ha trobat una manera de fugir.
+És el que fan les rates.
 
 279
-00:24:42,958 --> 00:24:45,958
-viuré desconnectada,
-amagada en algun lloc fins que tornis,
+00:31:02,708 --> 00:31:04,250
+M'agrada la nova versió de tu.
 
 280
-00:24:46,041 --> 00:24:47,375
-fins que tu ho diguis.
+00:31:04,333 --> 00:31:06,666
+Jo, a tu, et segueixo odiant.
 
 281
-00:24:47,458 --> 00:24:51,750
-I tu i la Nadia
-estareu salvant el món de nou.
+00:31:07,875 --> 00:31:09,625
+Tothom t'està buscant, rei.
 
 282
-00:24:51,833 --> 00:24:55,541
-I la Hendrix i jo
-haurem de renunciar a tot
+00:31:11,416 --> 00:31:14,500
+En Braga, Manticore…
 
 283
-00:24:55,625 --> 00:24:58,458
-perquè tu no hagis de deixar res.
+00:31:16,041 --> 00:31:18,000
+I, tot i que no ho veus ara,
 
 284
-00:25:00,750 --> 00:25:01,916
-Ho entens?
+00:31:19,708 --> 00:31:20,708
+els teus amics.
 
 285
-00:25:02,000 --> 00:25:04,125
--No és així en absolut.
--No?
+00:31:22,666 --> 00:31:26,083
+Et penses que et perdonaran
+el que li vas fer a Citadel?
 
 286
-00:25:10,583 --> 00:25:11,750
-Per què has tornat?
+00:31:27,583 --> 00:31:30,083
+Quan se't posin en contra, que ho faran,
 
 287
-00:25:17,708 --> 00:25:18,958
-Em van arrossegar.
+00:31:30,166 --> 00:31:33,541
+et vindrà bé tenir una família
+que et guardi les espatlles.
 
 288
-00:25:21,125 --> 00:25:22,208
-O va ser per ell?
+00:31:34,375 --> 00:31:36,916
+Vols dir tu? Una família?
 
 289
-00:25:22,291 --> 00:25:25,541
-Us van arrossegar per salvar el món?
-És l'excusa perfecta.
+00:31:37,875 --> 00:31:41,791
+Érem al mateix pis,
+vam sentir la mateixa explosió,
 
 290
-00:25:25,625 --> 00:25:29,000
-No és cap excusa.
-Tot el que faig és per la meva filla.
+00:31:41,875 --> 00:31:46,791
+vam veure com l'home que estimàvem
+es fonia al seu coi de llit.
 
 291
-00:25:29,083 --> 00:25:30,291
-L'estimes?
+00:31:50,333 --> 00:31:52,125
+T'he fet coses espantoses.
 
 292
-00:25:32,750 --> 00:25:35,000
-Potser l'odies, però l'estimes?
+00:31:55,875 --> 00:31:57,583
+Però no et vaig convertir en això.
 
 293
-00:25:39,375 --> 00:25:41,125
-Almenys em podries dir la veritat.
+00:31:59,000 --> 00:32:03,833
+I et prometo que pots confiar en mi
+més del que pots confiar en qui ho va fer.
 
 294
-00:25:47,958 --> 00:25:49,125
-Tant de bo no.
+00:32:05,000 --> 00:32:06,416
+De què parles?
 
 295
-00:25:59,083 --> 00:26:00,500
-L'estimes?
+00:32:06,500 --> 00:32:08,375
+Un home va planejar l'atac amb drons
 
 296
-00:26:03,083 --> 00:26:04,250
-No vull fer-ho, això.
+00:32:08,458 --> 00:32:10,666
+i va donar l'ordre de matar ton pare.
 
 297
-00:26:04,333 --> 00:26:06,291
--Per què no?
--Perquè és cruel.
+00:32:10,750 --> 00:32:14,208
+I t'asseguro
+que no dubtarà a matar-te a tu.
 
 298
-00:26:06,375 --> 00:26:08,291
-La veritat és cruel.
+00:32:18,916 --> 00:32:22,375
+Les rates… sempre troben la manera.
 
 299
-00:26:13,000 --> 00:26:16,083
-Ho he arriscat tot per salvar-te la vida.
+00:32:34,875 --> 00:32:37,458
+Nadia?
 
 300
-00:26:17,666 --> 00:26:18,833
-Estimes la Nadia?
+00:32:37,958 --> 00:32:38,958
+Què passa?
 
 301
-00:26:21,041 --> 00:26:22,041
-T'estimo a tu.
+00:32:40,708 --> 00:32:44,333
+(Suec)
+Una avioneta s'ha estavellat
+a l'Atlàntic aquest matí.
 
 302
-00:26:25,375 --> 00:26:26,291
-D'acord.
+00:32:44,416 --> 00:32:46,958
+A bord hi viatjava
+un turista estatunidenc:
 
 303
-00:26:27,625 --> 00:26:29,958
-Llavors marxem, anem a buscar la Hendrix
+00:32:47,291 --> 00:32:50,541
+Brad Headmeaer,
+de Townon, Califòrnia.
 
 304
-00:26:30,041 --> 00:26:31,458
-i no mirem enrere.
+00:32:51,000 --> 00:32:52,875
+Se'l dona per mort.
 
 305
-00:26:31,541 --> 00:26:32,958
-No pots fer les dues coses.
+00:32:52,958 --> 00:32:54,500
+No és el teu amic?
 
 306
-00:26:36,291 --> 00:26:37,541
-No pots ser tots dos.
+00:32:54,583 --> 00:32:55,708
+Sí.
 
 307
-00:26:47,958 --> 00:26:48,875
-D'acord.
+00:33:10,791 --> 00:33:16,416
+BAHA MAR
+DOS
 
 308
-00:26:51,083 --> 00:26:53,625
-Sí, anem a buscar la nostra filla.
+00:33:16,500 --> 00:33:17,708
+Ens n'hem d'anar.
 
 309
-00:27:00,291 --> 00:27:01,166
-Entesos?
+00:33:56,250 --> 00:33:57,375
+-Digui?
+-Joe?
 
 310
-00:27:01,250 --> 00:27:02,541
--Sí.
--D'acord. Sí.
+00:33:57,458 --> 00:33:58,875
+-Bernard…
+-Escolta'm.
 
 311
-00:27:14,791 --> 00:27:15,625
-Digue'm.
+00:33:58,958 --> 00:34:00,875
+Tinc tres mòbils, deu segons cada un.
 
 312
-00:27:15,708 --> 00:27:18,083
-Ja està. Ho ha aconseguit.
+00:34:00,958 --> 00:34:03,000
+És l'últim cop que em sentiràs.
 
 313
-00:27:23,541 --> 00:27:24,375
-SISTEMA CONNECTAT
+00:34:03,083 --> 00:34:05,416
+-Assimila tot el que et diré.
+-Espera…
 
 314
-00:27:24,458 --> 00:27:25,291
-Que l'activi.
+00:34:09,375 --> 00:34:10,375
+Bernard, si us plau…
 
 315
-00:27:25,375 --> 00:27:26,333
-Ara mateix.
+00:34:10,458 --> 00:34:12,666
+No, escolta, Joe. Queda't on ets.
 
 316
-00:27:32,916 --> 00:27:33,916
-Fes-ho.
+00:34:12,750 --> 00:34:13,750
+-Entesos?
+-No…
 
 317
-00:27:41,458 --> 00:27:42,583
-Va.
+00:34:13,833 --> 00:34:15,708
+Queda't aquí. No confiïs en ningú.
 
 318
-00:27:47,208 --> 00:27:49,583
-SISTEMES CONNECTATS
+00:34:15,791 --> 00:34:17,750
+No vagis enlloc. Cuida les nenes.
 
 319
-00:27:59,708 --> 00:28:00,833
-Em sap greu.
+00:34:17,833 --> 00:34:19,625
+Protegeix-les i jo et protegiré a tu.
 
 320
-00:28:03,208 --> 00:28:04,375
-Me n'he d'anar.
+00:34:19,708 --> 00:34:21,541
+És el tracte. Com sempre.
 
 321
-00:28:14,458 --> 00:28:16,791
-PORTADOR ACTIVAT
+00:34:21,625 --> 00:34:22,666
+Bernard, no…
 
 322
-00:28:33,583 --> 00:28:35,041
-Què collons fas?
+00:34:32,333 --> 00:34:33,375
+No ho facis.
 
 323
-00:28:37,541 --> 00:28:38,791
-Ets tu.
+00:34:33,458 --> 00:34:35,500
+Quan vegis les estrelles caient del cel,
 
 324
-00:29:49,250 --> 00:29:50,458
-Aguanta, d'acord?
+00:34:35,583 --> 00:34:38,958
+sabràs que tot està bé de nou. Entesos?
 
 325
-00:29:50,541 --> 00:29:53,750
-T'hem de moure. Molt bé. Vinga.
+00:34:39,041 --> 00:34:41,041
+-Bernard…
+-Digues a la Val que l'estimo
 
 326
-00:30:56,916 --> 00:30:59,000
-Vinga. Tu pots.
+00:34:41,125 --> 00:34:43,041
+i que sempre us cuidaré…
 
 327
-00:31:07,791 --> 00:31:09,041
-Vinga.
+00:34:43,125 --> 00:34:44,083
+-D'acord.
+-D'acord.
 
 328
-00:31:09,125 --> 00:31:12,750
-Ho sento. Ho sento molt. T'estimo.
+00:34:44,166 --> 00:34:45,958
+-D'acord. T'estimo.
+-Joe, t'es…
 
 329
-00:31:14,250 --> 00:31:15,333
-I jo a tu.
-
-330
-00:31:19,416 --> 00:31:21,833
-Aguanta, d'acord? Aguanta.
-
-331
-00:31:33,833 --> 00:31:34,875
-Mason.
-
-332
-00:31:38,125 --> 00:31:39,125
-Mason.
-
-333
-00:34:19,333 --> 00:34:21,333
+00:37:10,125 --> 00:37:12,125
 Subtítols: Nahuel Martino González
 
-334
-00:34:21,416 --> 00:34:23,416
+330
+00:37:12,208 --> 00:37:14,208
 Supervisor creatiu
 Guillermo Parra López
