@@ -1,0 +1,2769 @@
+1
+00:01:43,080 --> 00:01:45,000
+ADAPTED FROM THE NOVEL HIDDEN LOVE BY ZHU YI
+
+2
+00:01:52,280 --> 00:01:53,960
+I'll go and focus on my great endeavors.
+
+3
+00:01:55,320 --> 00:01:56,600
+Don't come back too late.
+
+4
+00:01:56,680 --> 00:01:57,520
+Okay.
+
+5
+00:01:58,320 --> 00:01:59,320
+Be careful.
+
+6
+00:01:59,400 --> 00:02:00,600
+-Bye. -Stay safe.
+
+7
+00:02:00,680 --> 00:02:01,520
+Bye.
+
+8
+00:02:19,280 --> 00:02:20,360
+I forgot to tell you.
+
+9
+00:02:21,440 --> 00:02:23,200
+You should treat Duan Jiaxu to dinner
+
+10
+00:02:23,280 --> 00:02:24,520
+when you're free.
+
+11
+00:02:25,920 --> 00:02:28,080
+He's not snitching on you but concerned about you.
+
+12
+00:02:29,360 --> 00:02:30,480
+Look.
+
+13
+00:02:30,560 --> 00:02:32,600
+For the past two years, he kept asking
+
+14
+00:02:32,680 --> 00:02:34,240
+about your grades and life.
+
+15
+00:02:34,320 --> 00:02:35,440
+He didn't ask you directly
+
+16
+00:02:35,520 --> 00:02:36,720
+so you wouldn't feel pressured.
+
+17
+00:02:38,240 --> 00:02:39,480
+Whenever it was your birthday,
+
+18
+00:02:40,200 --> 00:02:41,720
+when you got good grades
+
+19
+00:02:42,360 --> 00:02:43,720
+or during the holidays,
+
+20
+00:02:43,800 --> 00:02:45,720
+he sent you all kinds of gifts.
+
+21
+00:02:46,440 --> 00:02:47,920
+He was flat broke himself,
+
+22
+00:02:48,000 --> 00:02:49,240
+but he still sent you gifts.
+
+23
+00:02:50,360 --> 00:02:52,200
+Remember, treat him to dinner.
+
+24
+00:03:01,440 --> 00:03:05,360
+IF YOU'RE EVER OUT SO LATE, FIND SOMEONE TO ACCOMPANY YOU BACK
+
+25
+00:03:16,240 --> 00:03:17,880
+I've been ignoring him.
+
+26
+00:03:18,800 --> 00:03:20,280
+Maybe that wasn't very nice of me.
+
+27
+00:03:22,600 --> 00:03:24,400
+After all, he hasn't done anything wrong.
+
+28
+00:03:25,880 --> 00:03:28,200
+From the start, he has been nice to me.
+
+29
+00:03:32,360 --> 00:03:34,360
+I feel like an ingrate now.
+
+30
+00:03:35,400 --> 00:03:36,880
+THE DREAM GAMES
+
+31
+00:03:36,960 --> 00:03:38,800
+Last year, A Dream of Jianghu's expansion,
+
+32
+00:03:38,880 --> 00:03:40,800
+Fury of Mount Guan hit the market.
+
+33
+00:03:40,880 --> 00:03:41,960
+The main theme was
+
+34
+00:03:42,040 --> 00:03:43,480
+an attachment to the homeland
+
+35
+00:03:43,560 --> 00:03:44,840
+and an underdog hero.
+
+36
+00:03:44,920 --> 00:03:45,880
+After it went online,
+
+37
+00:03:45,960 --> 00:03:47,600
+the reception was good.
+
+38
+00:03:47,680 --> 00:03:49,520
+The players also gave it stellar ratings.
+
+39
+00:03:49,600 --> 00:03:50,920
+So this year's expansion
+
+40
+00:03:51,000 --> 00:03:52,480
+is very important to us.
+
+41
+00:03:52,960 --> 00:03:54,520
+I mentioned this in past meetings.
+
+42
+00:03:54,600 --> 00:03:56,800
+I hope to see innovation and breakthroughs
+
+43
+00:03:56,880 --> 00:03:58,880
+in all aspects.
+
+44
+00:04:00,080 --> 00:04:02,280
+Dawang, how are your preparations?
+
+45
+00:04:03,120 --> 00:04:04,280
+Everything is set.
+
+46
+00:04:04,360 --> 00:04:06,480
+Unlike last year's Fury of Mount Guan,
+
+47
+00:04:06,560 --> 00:04:08,240
+we will be returning to the root
+
+48
+00:04:08,320 --> 00:04:10,040
+of martial arts fantasy and gameplay.
+
+49
+00:04:10,120 --> 00:04:11,520
+We will be releasing
+
+50
+00:04:11,600 --> 00:04:14,000
+unconventional martial arts playstyles.
+
+51
+00:04:14,520 --> 00:04:16,360
+They will serve as a mechanism
+
+52
+00:04:16,440 --> 00:04:18,040
+to create more novel stories and content.
+
+53
+00:04:18,120 --> 00:04:19,680
+I will now show you
+
+54
+00:04:19,760 --> 00:04:21,760
+the roadmap I came up with.
+
+55
+00:04:21,839 --> 00:04:23,160
+ROADMAP
+
+56
+00:04:23,240 --> 00:04:25,960
+I've designed updates to the maps,
+
+57
+00:04:26,040 --> 00:04:28,000
+characters, instances, and gameplay
+
+58
+00:04:28,080 --> 00:04:29,840
+around the main quest progression
+
+59
+00:04:29,920 --> 00:04:31,720
+of the new factions.
+
+60
+00:04:31,800 --> 00:04:34,040
+I also worked with colleagues from the Art Department
+
+61
+00:04:34,120 --> 00:04:35,440
+to come up with a new solution
+
+62
+00:04:35,520 --> 00:04:37,000
+for the game art style.
+
+63
+00:04:37,560 --> 00:04:40,120
+I think this theme is pretty good.
+
+64
+00:04:40,200 --> 00:04:41,360
+It piques my interest.
+
+65
+00:04:42,360 --> 00:04:44,160
+We should make use of our time
+
+66
+00:04:44,240 --> 00:04:45,360
+and conduct a player survey.
+
+67
+00:04:45,880 --> 00:04:46,880
+Now,
+
+68
+00:04:46,960 --> 00:04:48,280
+it has been over a year
+
+69
+00:04:48,360 --> 00:04:51,240
+since the last feature technical update.
+
+70
+00:04:51,840 --> 00:04:53,280
+Does anyone have any new ideas?
+
+71
+00:04:56,600 --> 00:04:57,480
+Hold on.
+
+72
+00:04:59,760 --> 00:05:01,360
+I wonder if you still remember
+
+73
+00:05:01,440 --> 00:05:04,040
+the Celestial Progression System that I proposed?
+
+74
+00:05:06,040 --> 00:05:08,640
+It uses an AI algorithm
+
+75
+00:05:08,720 --> 00:05:10,240
+for self-progression.
+
+76
+00:05:10,320 --> 00:05:13,680
+It makes the behavioral models and feedback of our NPCs
+
+77
+00:05:13,760 --> 00:05:16,800
+a lot more life-like and logical.
+
+78
+00:05:16,880 --> 00:05:19,240
+It gives players the feeling
+
+79
+00:05:19,320 --> 00:05:20,760
+that every creation
+
+80
+00:05:20,840 --> 00:05:23,040
+has its own progression throughout time.
+
+81
+00:05:23,120 --> 00:05:25,600
+In other words, it recreates
+
+82
+00:05:25,680 --> 00:05:27,440
+a convincing martial arts world.
+
+83
+00:05:28,000 --> 00:05:30,800
+But this proposal had already been rejected.
+
+84
+00:05:30,880 --> 00:05:31,840
+I don't think
+
+85
+00:05:31,920 --> 00:05:33,280
+we have the technical prowess
+
+86
+00:05:33,360 --> 00:05:34,440
+to finish this plan.
+
+87
+00:05:34,520 --> 00:05:35,640
+That's true.
+
+88
+00:05:36,200 --> 00:05:38,520
+Therefore, our team came up with a demo
+
+89
+00:05:38,600 --> 00:05:39,720
+based on pre-research
+
+90
+00:05:39,800 --> 00:05:41,160
+so we can show you.
+
+91
+00:05:44,880 --> 00:05:46,280
+You are now looking at the NPC
+
+92
+00:05:46,360 --> 00:05:47,720
+known as Fang Siming,
+
+93
+00:05:47,800 --> 00:05:49,200
+whom you're probably familiar with.
+
+94
+00:05:49,280 --> 00:05:51,720
+It's one of the popular characters among the players
+
+95
+00:05:51,800 --> 00:05:52,800
+of A Dream of Jianghu.
+
+96
+00:05:52,880 --> 00:05:54,000
+I'll now use him
+
+97
+00:05:54,080 --> 00:05:55,840
+to demonstrate the pre-research effect
+
+98
+00:05:55,920 --> 00:05:57,120
+of our system.
+
+99
+00:05:57,200 --> 00:06:00,360
+I will interact with the NPC as a player.
+
+100
+00:06:00,440 --> 00:06:03,440
+Li Xun, help me with the feedback.
+
+101
+00:06:04,800 --> 00:06:06,040
+It's starting.
+
+102
+00:06:12,560 --> 00:06:14,960
+The NPC looks like he's good at Wuchang chess.
+
+103
+00:06:15,040 --> 00:06:16,000
+Do you think so?
+
+104
+00:06:16,080 --> 00:06:17,360
+I bet he's better than Li Xun.
+
+105
+00:06:19,200 --> 00:06:21,120
+The NPC's reaction was quick.
+
+106
+00:06:21,200 --> 00:06:22,040
+He's agile.
+
+107
+00:06:23,880 --> 00:06:24,800
+It seems
+
+108
+00:06:24,880 --> 00:06:26,880
+that someone has failed to win a drink.
+
+109
+00:06:26,960 --> 00:06:28,480
+Instead, they owe me a drink.
+
+110
+00:06:28,560 --> 00:06:29,800
+Li Xun lost!
+
+111
+00:06:30,840 --> 00:06:32,080
+All right.
+
+112
+00:06:32,160 --> 00:06:34,560
+I'll pay up next time. Put it on the tab.
+
+113
+00:06:34,640 --> 00:06:35,560
+Li Xun is backing out.
+Fine, I owe you one.
+
+114
+00:06:36,600 --> 00:06:39,160
+-That's not cool, Li Xun. -Put it on my tab. I'll pay next time.
+
+115
+00:06:39,240 --> 00:06:40,760
+A SWORD OF FROST
+
+116
+00:06:40,840 --> 00:06:42,200
+I'll remember this.
+
+117
+00:06:43,320 --> 00:06:46,120
+This drink is on me.
+
+118
+00:06:46,920 --> 00:06:48,120
+Do you care to accept it?
+
+119
+00:06:49,480 --> 00:06:51,280
+Not bad. He's even flirting with me.
+
+120
+00:06:53,320 --> 00:06:55,040
+During the design stage,
+
+121
+00:06:55,120 --> 00:06:56,600
+we set the character's interests
+
+122
+00:06:56,680 --> 00:06:57,760
+based on the game lore
+
+123
+00:06:57,840 --> 00:06:59,280
+and the character's back story.
+
+124
+00:06:59,360 --> 00:07:01,880
+These NPCs are enthused when they interact
+
+125
+00:07:01,960 --> 00:07:03,480
+with the players.
+
+126
+00:07:04,240 --> 00:07:06,000
+They can react in a way
+
+127
+00:07:06,080 --> 00:07:07,760
+that forms a deeper connection
+
+128
+00:07:07,840 --> 00:07:09,080
+with the players.
+
+129
+00:07:10,000 --> 00:07:12,680
+But a different player
+
+130
+00:07:12,760 --> 00:07:14,800
+might not choose to play chess with him.
+
+131
+00:07:14,880 --> 00:07:16,920
+Is there a way for us to make the NPCs
+
+132
+00:07:17,000 --> 00:07:19,960
+flexibly handle any situation?
+
+133
+00:07:20,720 --> 00:07:22,360
+That involves the data
+
+134
+00:07:22,440 --> 00:07:23,920
+fed to the AI.
+
+135
+00:07:24,480 --> 00:07:25,720
+Our algorithm
+
+136
+00:07:25,800 --> 00:07:28,880
+will record every player's experiences and behaviors
+
+137
+00:07:28,960 --> 00:07:30,640
+after they log into the game.
+
+138
+00:07:30,720 --> 00:07:33,040
+So the Celestial Progression System's NPCs
+
+139
+00:07:33,120 --> 00:07:36,120
+will come up with different reactions and feedback
+
+140
+00:07:36,200 --> 00:07:37,360
+to different players.
+
+141
+00:07:37,440 --> 00:07:39,280
+We could give it a try right now.
+
+142
+00:07:39,360 --> 00:07:40,560
+We can test it
+
+143
+00:07:41,080 --> 00:07:43,480
+with a more active account.
+
+144
+00:07:46,920 --> 00:07:48,040
+Fang Siming.
+
+145
+00:07:48,120 --> 00:07:49,160
+It has been a while.
+
+146
+00:07:49,760 --> 00:07:51,080
+Why are you drinking alone?
+
+147
+00:07:51,160 --> 00:07:53,040
+FOLLOW THE EGRET
+
+148
+00:07:53,120 --> 00:07:54,840
+I invited the moon to a drink.
+
+149
+00:07:54,920 --> 00:07:56,200
+My shadow, a second companion.
+
+150
+00:07:57,480 --> 00:07:59,600
+There's no way I can't get a drink from him.
+
+151
+00:07:59,680 --> 00:08:01,080
+Laosan, get it for me.
+
+152
+00:08:01,160 --> 00:08:02,040
+Okay.
+
+153
+00:08:02,680 --> 00:08:04,760
+I don't care! I want it!
+
+154
+00:08:11,680 --> 00:08:13,040
+Bad footwork.
+
+155
+00:08:13,120 --> 00:08:15,480
+That won't get you a drink, my friend.
+
+156
+00:08:17,480 --> 00:08:18,920
+Fang Siming is an interesting guy.
+
+157
+00:08:21,400 --> 00:08:22,600
+Theoretically speaking,
+
+158
+00:08:22,680 --> 00:08:25,600
+when a large amount of data is fed to the AI,
+
+159
+00:08:25,680 --> 00:08:28,160
+it will manifest its own behavior
+
+160
+00:08:28,240 --> 00:08:30,520
+when the amount of data reaches a certain level.
+
+161
+00:08:30,600 --> 00:08:32,039
+This is the part
+
+162
+00:08:32,120 --> 00:08:33,840
+that AI researchers across the globe
+
+163
+00:08:33,919 --> 00:08:35,559
+are particularly interested in.
+
+164
+00:08:36,120 --> 00:08:38,720
+If we can have a technical upgrade
+
+165
+00:08:38,799 --> 00:08:40,520
+in this regard,
+
+166
+00:08:40,600 --> 00:08:42,120
+it could be a huge breakthrough
+
+167
+00:08:42,200 --> 00:08:43,440
+for our game.
+
+168
+00:08:44,800 --> 00:08:46,720
+But this is just a demo.
+
+169
+00:08:46,800 --> 00:08:50,200
+If we are to complete this system successfully,
+
+170
+00:08:50,280 --> 00:08:53,360
+we need to invest in a lot of NPCs into the game.
+
+171
+00:08:54,160 --> 00:08:57,240
+Given our staff and technical capabilities,
+
+172
+00:08:57,320 --> 00:08:59,240
+I fear it might not be viable.
+
+173
+00:08:59,320 --> 00:09:01,240
+If we rush headlong into this,
+
+174
+00:09:01,320 --> 00:09:04,240
+we might add more risks to the project.
+
+175
+00:09:04,320 --> 00:09:06,120
+That is a problem.
+
+176
+00:09:08,880 --> 00:09:10,320
+I need time
+
+177
+00:09:10,400 --> 00:09:11,560
+to think this over.
+
+178
+00:09:12,800 --> 00:09:13,840
+Is there anything else
+
+179
+00:09:13,920 --> 00:09:15,440
+to present in this meeting?
+
+180
+00:09:15,520 --> 00:09:16,840
+No.
+
+181
+00:09:16,920 --> 00:09:18,120
+That's all for today.
+
+182
+00:09:18,200 --> 00:09:19,040
+Okay.
+
+183
+00:09:19,120 --> 00:09:20,280
+-Okay. -Okay.
+
+184
+00:09:20,360 --> 00:09:21,480
+Well done.
+
+185
+00:09:22,280 --> 00:09:23,680
+You think that will be
+
+186
+00:09:23,760 --> 00:09:25,080
+a risky move, right?
+
+187
+00:09:26,120 --> 00:09:27,680
+I think it's a bit risky.
+
+188
+00:09:28,600 --> 00:09:29,760
+Jiaxu,
+
+189
+00:09:29,840 --> 00:09:31,320
+there are bound to be problems.
+
+190
+00:09:31,880 --> 00:09:33,480
+But there will also be solutions.
+
+191
+00:09:33,560 --> 00:09:34,800
+Solutions outnumber problems.
+
+192
+00:09:35,640 --> 00:09:37,160
+Yes, Li Xun. Don't worry.
+
+193
+00:09:38,160 --> 00:09:39,000
+Keep at it.
+
+194
+00:09:44,240 --> 00:09:45,520
+It's all right.
+
+195
+00:09:46,080 --> 00:09:47,000
+We've just started.
+
+196
+00:09:47,080 --> 00:09:48,040
+This is normal.
+
+197
+00:09:49,000 --> 00:09:51,160
+I'll call for a meeting
+
+198
+00:09:51,240 --> 00:09:52,160
+with our team.
+
+199
+00:09:53,000 --> 00:09:53,880
+Sure.
+
+200
+00:09:54,600 --> 00:09:55,840
+-Keep at it. -Keep at it.
+
+201
+00:09:56,400 --> 00:09:57,240
+Your cup.
+
+202
+00:10:13,560 --> 00:10:14,880
+Jiaxu,
+
+203
+00:10:15,520 --> 00:10:17,120
+when might you be free?
+
+204
+00:10:18,480 --> 00:10:20,040
+If it is no trouble,
+
+205
+00:10:20,120 --> 00:10:21,640
+I would like to treat you to dinner
+
+206
+00:10:22,480 --> 00:10:24,080
+as a thank you for taking me home.
+
+207
+00:10:31,120 --> 00:10:32,920
+If you are too busy at the moment,
+
+208
+00:10:33,000 --> 00:10:33,920
+it is all right.
+
+209
+00:10:35,520 --> 00:10:36,880
+You can decide the time.
+
+210
+00:10:40,360 --> 00:10:42,840
+If you are not sure when you are free,
+
+211
+00:10:44,320 --> 00:10:46,720
+how about next weekend?
+
+212
+00:10:47,760 --> 00:10:49,400
+I would like to use this chance
+
+213
+00:10:49,480 --> 00:10:51,920
+to express my gratitude to you.
+
+214
+00:11:26,480 --> 00:11:28,280
+"When might you be free?
+
+215
+00:11:29,320 --> 00:11:30,320
+If it is no trouble,
+
+216
+00:11:30,400 --> 00:11:32,280
+I would like to treat you to dinner
+
+217
+00:11:32,360 --> 00:11:34,480
+as a thank you for taking me home."
+
+218
+00:11:41,520 --> 00:11:42,560
+Next weekend?
+
+219
+00:12:10,120 --> 00:12:11,000
+SANG ZHI
+
+220
+00:12:11,080 --> 00:12:12,760
+You may decide the time too.
+
+221
+00:12:13,320 --> 00:12:14,640
+How formal.
+
+222
+00:12:20,520 --> 00:12:21,760
+VOICE CALL INVITATION FROM JIAXU
+
+223
+00:12:23,320 --> 00:12:24,520
+JIAXU
+
+224
+00:12:34,080 --> 00:12:34,960
+Hello, Jiaxu.
+
+225
+00:12:35,040 --> 00:12:36,920
+I'm free next weekend,
+
+226
+00:12:37,000 --> 00:12:39,800
+but I'm not sure about the specific time.
+
+227
+00:12:41,040 --> 00:12:41,920
+It's all right.
+
+228
+00:12:42,640 --> 00:12:44,360
+We can accommodate your schedule.
+
+229
+00:12:46,200 --> 00:12:47,080
+Okay.
+By the way,
+
+230
+00:12:48,160 --> 00:12:50,640
+I'll take you to a phone repair shop as well.
+
+231
+00:12:52,000 --> 00:12:53,040
+My phone?
+
+232
+00:12:53,120 --> 00:12:54,480
+Why would I repair it?
+
+233
+00:12:55,080 --> 00:12:56,520
+Isn't it broken?
+
+234
+00:12:56,600 --> 00:12:57,880
+It's not.
+
+235
+00:12:59,960 --> 00:13:01,640
+I thought it must be broken.
+
+236
+00:13:01,720 --> 00:13:03,240
+Your texts are so formal.
+
+237
+00:13:05,840 --> 00:13:07,720
+Where did that come from?
+
+238
+00:13:08,520 --> 00:13:10,560
+You were never so formal with me.
+
+239
+00:13:10,640 --> 00:13:12,200
+Your words are so polite.
+
+240
+00:13:14,480 --> 00:13:15,680
+I remember now.
+
+241
+00:13:16,600 --> 00:13:18,640
+Does this mean
+
+242
+00:13:18,720 --> 00:13:20,960
+I have a place in your heart?
+
+243
+00:13:29,600 --> 00:13:30,440
+Jiaxu.
+
+244
+00:13:31,360 --> 00:13:32,320
+Here's the thing.
+
+245
+00:13:33,320 --> 00:13:34,840
+My dad told me
+
+246
+00:13:35,400 --> 00:13:38,400
+to be respectful to anyone older than me
+
+247
+00:13:38,480 --> 00:13:39,720
+by five years or more.
+
+248
+00:13:39,800 --> 00:13:42,000
+If I remember correctly, you're five years older than me.
+
+249
+00:13:42,560 --> 00:13:45,600
+Your voice sounds young,
+
+250
+00:13:45,680 --> 00:13:47,440
+but you can't fool anyone.
+
+251
+00:13:47,520 --> 00:13:49,400
+You're not young anymore.
+
+252
+00:13:49,480 --> 00:13:51,160
+-So-- -I'm hanging up now. Bye.
+
+253
+00:13:52,040 --> 00:13:52,880
+Wait.
+
+254
+00:13:53,400 --> 00:13:54,280
+Hello?
+
+255
+00:13:59,800 --> 00:14:02,080
+I have something else to tell you.
+
+256
+00:14:04,120 --> 00:14:04,960
+What is it?
+
+257
+00:14:08,160 --> 00:14:09,640
+I didn't mean to ignore you
+
+258
+00:14:09,720 --> 00:14:12,200
+by not replying or calling you back.
+
+259
+00:14:12,760 --> 00:14:14,480
+I was living on campus.
+
+260
+00:14:14,560 --> 00:14:16,200
+I didn't have my phone with me.
+
+261
+00:14:18,440 --> 00:14:19,280
+I know.
+
+262
+00:14:20,120 --> 00:14:21,480
+Your brother told me that.
+
+263
+00:14:21,560 --> 00:14:22,440
+You knew?
+
+264
+00:14:23,320 --> 00:14:25,080
+Then why did you even ask?
+
+265
+00:14:27,280 --> 00:14:28,720
+Okay, that's it.
+
+266
+00:14:28,800 --> 00:14:29,800
+That's all for now.
+
+267
+00:14:29,880 --> 00:14:30,760
+I'm done.
+
+268
+00:14:30,840 --> 00:14:31,920
+Bye.
+
+269
+00:15:24,600 --> 00:15:26,760
+CHAPTER NINE, UNDERCURRENT
+
+270
+00:15:26,840 --> 00:15:28,680
+I CAN'T HELP FALLING IN LOVE
+
+271
+00:15:34,360 --> 00:15:35,560
+Wait for me!
+
+272
+00:15:35,640 --> 00:15:37,160
+-Okay. -Wait for me.
+
+273
+00:15:37,840 --> 00:15:38,880
+-Hurry up. -Where is Weiwei?
+
+274
+00:15:39,760 --> 00:15:42,480
+No idea. She left in a hurry this morning.
+
+275
+00:15:42,560 --> 00:15:44,000
+Maybe she went to a club meeting.
+
+276
+00:15:44,080 --> 00:15:44,960
+Who knows?
+
+277
+00:15:45,480 --> 00:15:46,400
+Sang Zhi.
+
+278
+00:15:48,440 --> 00:15:49,480
+Jiang Ming.
+
+279
+00:15:49,560 --> 00:15:50,560
+What are you doing here?
+
+280
+00:15:51,200 --> 00:15:52,200
+I'm here for Sang Zhi.
+
+281
+00:15:52,760 --> 00:15:54,080
+Me?
+
+282
+00:15:54,600 --> 00:15:55,880
+What is it?
+
+283
+00:16:01,440 --> 00:16:02,520
+Everyone,
+
+284
+00:16:02,600 --> 00:16:04,720
+look at who's coming.
+
+285
+00:16:07,200 --> 00:16:08,720
+Ning Wei!
+
+286
+00:16:09,320 --> 00:16:10,200
+What's going on?
+
+287
+00:16:10,800 --> 00:16:12,080
+The two of us
+
+288
+00:16:12,760 --> 00:16:13,840
+are dating.
+
+289
+00:16:14,400 --> 00:16:15,920
+Yes, we can see that.
+
+290
+00:16:16,000 --> 00:16:17,640
+Ning Wei.
+
+291
+00:16:17,720 --> 00:16:20,200
+You don't waste any time, do you?
+
+292
+00:16:20,880 --> 00:16:22,440
+Are those matching outfits?
+
+293
+00:16:22,520 --> 00:16:23,440
+Yes.
+
+294
+00:16:26,720 --> 00:16:27,960
+That's right.
+
+295
+00:16:28,040 --> 00:16:30,160
+You were here to see Sangsang.
+
+296
+00:16:32,120 --> 00:16:33,640
+I got premiere tickets last night.
+
+297
+00:16:33,720 --> 00:16:34,560
+Sang Zhi,
+
+298
+00:16:34,640 --> 00:16:36,000
+would you like to go with me?
+
+299
+00:16:38,640 --> 00:16:40,040
+Are you inviting her only?
+
+300
+00:16:40,520 --> 00:16:41,360
+That's not nice.
+Indeed.
+
+301
+00:16:42,440 --> 00:16:43,520
+Shut it.
+
+302
+00:16:43,600 --> 00:16:45,840
+If you're all free, feel free to join us.
+
+303
+00:16:45,920 --> 00:16:47,160
+-We're free. -Yes.
+
+304
+00:16:47,240 --> 00:16:48,400
+-Yes. -Okay.
+
+305
+00:16:48,480 --> 00:16:49,720
+This Sunday at 8:00 p.m.,
+
+306
+00:16:49,800 --> 00:16:50,960
+meet at Joy City Cinema.
+
+307
+00:16:51,040 --> 00:16:53,120
+-Okay. -Hold on. This Sunday?
+
+308
+00:16:53,760 --> 00:16:54,800
+I probably can't make it.
+
+309
+00:16:54,880 --> 00:16:56,160
+I already have plans.
+
+310
+00:16:56,240 --> 00:16:57,360
+What plans?
+
+311
+00:16:57,440 --> 00:16:58,600
+No, Sangsang.
+
+312
+00:16:58,680 --> 00:16:59,600
+Come with us.
+
+313
+00:16:59,680 --> 00:17:01,080
+-Come on. -Let's go together.
+
+314
+00:17:01,160 --> 00:17:02,880
+It has been ages since we've watched a movie.
+
+315
+00:17:02,960 --> 00:17:04,560
+If things get awkward
+
+316
+00:17:04,640 --> 00:17:05,880
+during dinner with him,
+
+317
+00:17:06,440 --> 00:17:07,800
+I'll have an excuse to leave.
+
+318
+00:17:09,160 --> 00:17:10,079
+Come on.
+
+319
+00:17:10,160 --> 00:17:12,000
+We'll go. Sunday, 8:00 p.m.
+
+320
+00:17:12,079 --> 00:17:13,119
+Great.
+
+321
+00:17:13,200 --> 00:17:14,640
+-We'll go. -See you at the cinema.
+
+322
+00:17:14,720 --> 00:17:15,960
+-Okay. -See you there.
+
+323
+00:17:16,520 --> 00:17:17,960
+This is all thank you to you.
+
+324
+00:17:18,040 --> 00:17:19,480
+-Let's go to class. -Thank you.
+
+325
+00:17:22,040 --> 00:17:23,560
+We have a class now.
+
+326
+00:17:26,440 --> 00:17:27,400
+Let's go.
+
+327
+00:17:28,160 --> 00:17:29,080
+Come on.
+
+328
+00:17:29,160 --> 00:17:30,320
+-Bye! -Chen Qiang!
+
+329
+00:17:30,400 --> 00:17:31,280
+Let's go.
+
+330
+00:17:35,600 --> 00:17:36,480
+I'm coming.
+
+331
+00:17:48,280 --> 00:17:49,800
+Are you Mr. Duan Jiaxu?
+
+332
+00:17:49,880 --> 00:17:51,240
+-Yes. -Your parcel.
+
+333
+00:17:51,320 --> 00:17:52,640
+-Thank you. -You're welcome.
+
+334
+00:17:57,200 --> 00:17:59,160
+TO DUAN JIAXU, FROM JIANG YING
+
+335
+00:18:09,400 --> 00:18:10,760
+Did you receive the parcel?
+
+336
+00:18:10,840 --> 00:18:12,560
+I sent you some tonics
+
+337
+00:18:12,640 --> 00:18:14,920
+and an essential oil lamp for stress relief.
+
+338
+00:18:15,000 --> 00:18:16,560
+Take care of yourself.
+
+339
+00:18:16,640 --> 00:18:18,720
+Let's have dinner sometime.
+
+340
+00:18:35,840 --> 00:18:37,760
+JIANG YING, TRANSFER AMOUNT: 8,000 YUAN
+
+341
+00:18:37,840 --> 00:18:39,000
+WAITING FOR JIANG YING TO CONFIRM TRANSFER
+
+342
+00:18:46,600 --> 00:18:48,800
+I've wired the last compensation payment.
+
+343
+00:18:48,880 --> 00:18:50,200
+Do not contact me again.
+
+344
+00:19:01,600 --> 00:19:02,440
+Okay.
+
+345
+00:19:02,520 --> 00:19:03,720
+It makes your skin look fair.
+
+346
+00:19:05,200 --> 00:19:06,200
+DUAN JIAXU
+
+347
+00:19:06,280 --> 00:19:07,880
+I'VE WIRED THE LAST COMPENSATION PAYMENT.
+
+348
+00:19:07,960 --> 00:19:09,440
+DO NOT CONTACT ME AGAIN.
+
+349
+00:19:12,000 --> 00:19:14,080
+JIANG YING
+
+350
+00:19:22,040 --> 00:19:23,800
+Don't contact you again? What do you mean?
+
+351
+00:19:31,880 --> 00:19:33,800
+JIANG YING
+
+352
+00:19:42,080 --> 00:19:43,680
+Jiaxu, when will you be free?
+
+353
+00:19:43,760 --> 00:19:45,080
+Can we meet up?
+
+354
+00:20:06,560 --> 00:20:08,360
+JIANG YING
+
+355
+00:20:13,080 --> 00:20:14,520
+Come on, the meeting is starting.
+
+356
+00:20:14,600 --> 00:20:15,640
+In a moment.
+
+357
+00:20:24,440 --> 00:20:26,560
+Have you only eaten half an egg today?
+
+358
+00:20:26,640 --> 00:20:27,720
+You also skipped lunch.
+
+359
+00:20:28,400 --> 00:20:30,120
+I'll eat it during the meeting.
+
+360
+00:20:31,600 --> 00:20:32,760
+I'll bring it inside for you.
+
+361
+00:21:05,040 --> 00:21:08,040
+I've decided to employ Xiaoduan's idea.
+
+362
+00:21:09,040 --> 00:21:11,480
+The Celestial Progression System will be the new feature.
+
+363
+00:21:12,040 --> 00:21:14,400
+However, the new storyline,
+
+364
+00:21:14,480 --> 00:21:16,920
+instances, factions, and maps
+
+365
+00:21:17,000 --> 00:21:19,080
+must remain the main focus.
+
+366
+00:21:19,800 --> 00:21:21,960
+If we are going down this path,
+
+367
+00:21:22,040 --> 00:21:23,720
+the Planning and Art Departments
+
+368
+00:21:23,800 --> 00:21:25,320
+will fully cooperate.
+
+369
+00:21:25,880 --> 00:21:28,400
+But given the current circumstances,
+
+370
+00:21:28,480 --> 00:21:31,080
+I can't come up with a way to assign the work
+
+371
+00:21:31,160 --> 00:21:34,480
+so that everyone can deliver quality work on time.
+
+372
+00:21:35,000 --> 00:21:36,880
+Whether the Celestial Progression System
+
+373
+00:21:36,960 --> 00:21:39,400
+is compatible with most smartphones
+
+374
+00:21:39,480 --> 00:21:40,440
+is also another problem.
+
+375
+00:21:40,520 --> 00:21:42,440
+Dawang's concern is justified.
+
+376
+00:21:43,200 --> 00:21:44,680
+Jiaxu,
+
+377
+00:21:44,760 --> 00:21:46,320
+do you have a solution for that?
+
+378
+00:21:48,600 --> 00:21:51,400
+Well, my idea so far
+
+379
+00:21:51,480 --> 00:21:53,560
+is to take some workload off other departments
+
+380
+00:21:53,640 --> 00:21:55,800
+with technical methods.
+
+381
+00:21:55,880 --> 00:21:57,560
+For example,
+
+382
+00:21:57,640 --> 00:21:58,920
+manual form filling and whatnot
+
+383
+00:21:59,000 --> 00:22:00,680
+can be done with technology.
+
+384
+00:22:02,880 --> 00:22:04,200
+Since it has been decided,
+
+385
+00:22:04,280 --> 00:22:05,960
+let's give it our best.
+
+386
+00:22:06,040 --> 00:22:07,720
+We'll solve every problem along the way.
+
+387
+00:22:07,800 --> 00:22:08,640
+Okay?
+
+388
+00:22:08,720 --> 00:22:11,320
+If you ever need coordination,
+
+389
+00:22:11,400 --> 00:22:12,480
+just let us know.
+
+390
+00:22:13,120 --> 00:22:16,560
+Dawang and Xiaoduan will be in charge
+
+391
+00:22:16,640 --> 00:22:17,720
+of this new project.
+
+392
+00:22:20,440 --> 00:22:21,360
+Let's go.
+
+393
+00:22:26,280 --> 00:22:27,480
+Let's go.
+
+394
+00:22:27,560 --> 00:22:28,640
+Back to work.
+
+395
+00:22:28,720 --> 00:22:29,600
+All the best.
+
+396
+00:23:05,320 --> 00:23:07,360
+Hello, Jiaxu. I'm here.
+
+397
+00:23:07,440 --> 00:23:08,600
+Where are you?
+
+398
+00:23:10,760 --> 00:23:12,200
+Sorry, Sang Zhi.
+
+399
+00:23:12,280 --> 00:23:14,160
+I don't think I can make it tonight.
+
+400
+00:23:19,400 --> 00:23:20,720
+Are you working overtime?
+
+401
+00:23:21,680 --> 00:23:22,680
+Yes.
+
+402
+00:23:22,760 --> 00:23:24,280
+Order something for yourself.
+
+403
+00:23:24,360 --> 00:23:25,520
+Don't starve.
+
+404
+00:23:27,920 --> 00:23:30,760
+Your voice sounds off.
+
+405
+00:23:30,840 --> 00:23:33,680
+Are you not feeling well?
+
+406
+00:23:34,680 --> 00:23:35,600
+Not at all.
+
+407
+00:23:40,120 --> 00:23:41,200
+What's wrong?
+
+408
+00:23:43,360 --> 00:23:44,840
+It's just a little stomach pain.
+
+409
+00:23:45,480 --> 00:23:47,080
+Maybe it's food poisoning.
+
+410
+00:23:47,160 --> 00:23:49,360
+It's all right. I'll just take some medicine.
+
+411
+00:23:49,440 --> 00:23:51,680
+But shouldn't you go to the hospital?
+
+412
+00:23:53,240 --> 00:23:55,120
+No need. This is nothing serious.
+
+413
+00:23:57,120 --> 00:23:58,520
+Why don't you go to the hospital?
+
+414
+00:23:58,600 --> 00:24:00,240
+Holding off the pain won't make it better.
+
+415
+00:24:01,320 --> 00:24:02,640
+Where is your office located?
+
+416
+00:24:04,440 --> 00:24:05,800
+Don't trouble yourself.
+
+417
+00:24:05,880 --> 00:24:06,760
+I'm all right.
+
+418
+00:24:08,080 --> 00:24:09,680
+Where is your office located?
+
+419
+00:24:12,840 --> 00:24:15,200
+Gangbei Complex.
+
+420
+00:24:17,120 --> 00:24:18,560
+Okay, I'll be right there.
+
+421
+00:24:21,440 --> 00:24:22,360
+Hello, sir.
+Gangbei Complex.
+
+422
+00:24:36,800 --> 00:24:37,880
+THE DREAM GAMES
+
+423
+00:24:43,440 --> 00:24:44,320
+Sang Zhi.
+
+424
+00:24:46,080 --> 00:24:47,320
+What are you doing here?
+
+425
+00:24:47,400 --> 00:24:48,880
+-You came. -Are you feeling better?
+
+426
+00:24:48,960 --> 00:24:50,800
+It's nothing. It's just a stomachache.
+
+427
+00:24:50,880 --> 00:24:52,560
+Wait here. I'll get a taxi.
+
+428
+00:24:52,640 --> 00:24:54,120
+I'll take you to the hospital.
+
+429
+00:24:54,200 --> 00:24:55,080
+Sang Zhi.
+
+430
+00:24:56,160 --> 00:24:58,400
+-I'll go with you. -Just wait here for me.
+
+431
+00:24:58,480 --> 00:24:59,520
+It's all right.
+
+432
+00:25:00,560 --> 00:25:01,400
+Let me take this.
+
+433
+00:25:03,800 --> 00:25:04,640
+Lean on me.
+
+434
+00:25:05,520 --> 00:25:06,640
+-I'm okay. -Let's go.
+
+435
+00:25:07,560 --> 00:25:08,920
+Come on. Watch your step.
+
+436
+00:25:12,200 --> 00:25:14,440
+Are you helping an old man, kiddo?
+
+437
+00:25:14,520 --> 00:25:16,600
+Can you walk on your own?
+
+438
+00:25:19,520 --> 00:25:20,360
+I…
+
+439
+00:25:21,000 --> 00:25:22,880
+-Slowly. -I'm not saying you're a kid.
+
+440
+00:25:23,440 --> 00:25:24,440
+It's all right.
+
+441
+00:25:27,480 --> 00:25:28,400
+Be careful.
+
+442
+00:25:30,160 --> 00:25:31,480
+Wait here for me.
+
+443
+00:25:31,560 --> 00:25:32,400
+Okay.
+Wait here.
+
+444
+00:25:37,680 --> 00:25:38,600
+Hey.
+
+445
+00:25:44,080 --> 00:25:44,920
+Be careful.
+
+446
+00:25:45,640 --> 00:25:46,520
+Be careful.
+
+447
+00:25:51,200 --> 00:25:52,800
+I'll book a ride.
+
+448
+00:25:56,440 --> 00:25:57,280
+What is the address?
+
+449
+00:26:21,800 --> 00:26:23,440
+I didn't mean to do that.
+
+450
+00:26:23,520 --> 00:26:25,080
+I didn't mean to either.
+
+451
+00:26:32,320 --> 00:26:34,120
+Jiaxu, get in the car.
+
+452
+00:26:39,360 --> 00:26:44,760
+HAIXIA TAXI
+
+453
+00:26:44,840 --> 00:26:45,720
+Watch out.
+
+454
+00:26:45,800 --> 00:26:46,800
+-I'm fine. -Mind your head.
+
+455
+00:26:47,680 --> 00:26:48,520
+Hello.
+
+456
+00:26:50,480 --> 00:26:51,960
+-Hello. -Hello.
+
+457
+00:26:54,160 --> 00:26:56,320
+Is he drunk or something?
+
+458
+00:26:56,920 --> 00:26:58,960
+-No. -Is he going to throw up?
+
+459
+00:26:59,040 --> 00:27:00,440
+No, sir.
+
+460
+00:27:00,520 --> 00:27:02,440
+Sir, I won't throw up.
+
+461
+00:27:02,520 --> 00:27:03,400
+I can hang in there.
+
+462
+00:27:03,480 --> 00:27:05,480
+No, let me say this first.
+
+463
+00:27:05,560 --> 00:27:07,000
+If you throw up in the car,
+
+464
+00:27:07,080 --> 00:27:08,040
+you pay 200 yuan.
+
+465
+00:27:08,120 --> 00:27:09,040
+Okay?
+
+466
+00:27:09,120 --> 00:27:10,400
+He won't throw up.
+
+467
+00:27:10,480 --> 00:27:11,600
+He has stomach pains.
+
+468
+00:27:11,680 --> 00:27:12,560
+Go to the hospital.
+
+469
+00:27:12,640 --> 00:27:13,920
+Take us to the hospital.
+
+470
+00:27:14,000 --> 00:27:15,880
+-Okay. -Sir, please hurry.
+
+471
+00:27:15,960 --> 00:27:16,800
+Okay.
+
+472
+00:27:30,920 --> 00:27:31,880
+OUTPATIENT BUILDING
+
+473
+00:27:31,960 --> 00:27:33,480
+Judging by the ultrasound,
+
+474
+00:27:33,560 --> 00:27:34,560
+it's acute appendicitis.
+
+475
+00:27:34,640 --> 00:27:36,760
+And you waited to come in.
+
+476
+00:27:36,840 --> 00:27:38,720
+Had you come any later, it would've ruptured.
+
+477
+00:27:38,800 --> 00:27:40,080
+What do we do now?
+
+478
+00:27:40,160 --> 00:27:41,360
+One is conservative therapy.
+
+479
+00:27:41,440 --> 00:27:43,520
+-We admit you and ease the inflammation. -I see.
+
+480
+00:27:43,600 --> 00:27:44,480
+The other method
+
+481
+00:27:44,560 --> 00:27:45,840
+is going straight to surgery.
+
+482
+00:27:46,400 --> 00:27:48,040
+-Then-- -Do the surgery.
+
+483
+00:27:48,120 --> 00:27:49,160
+Okay.
+
+484
+00:27:51,680 --> 00:27:52,760
+It will be all right.
+
+485
+00:28:01,760 --> 00:28:02,680
+Sang Zhi.
+
+486
+00:28:04,840 --> 00:28:06,840
+It's late. Head back to campus.
+
+487
+00:28:07,360 --> 00:28:09,120
+It will be unsafe later.
+
+488
+00:28:09,200 --> 00:28:10,840
+I'll wait for you outside.
+
+489
+00:28:12,720 --> 00:28:14,120
+It's not a major surgery.
+
+490
+00:28:14,840 --> 00:28:16,200
+-It's okay. -I'll wait for you.
+
+491
+00:28:17,240 --> 00:28:18,280
+The surgery will take--
+
+492
+00:28:18,360 --> 00:28:19,360
+Stop talking.
+
+493
+00:28:20,120 --> 00:28:22,640
+Go and get yourself something to eat.
+
+494
+00:28:42,840 --> 00:28:45,480
+Had we not had plans for dinner today,
+
+495
+00:28:46,480 --> 00:28:48,360
+he would have just held it off
+
+496
+00:28:49,480 --> 00:28:50,880
+and never come to the hospital.
+
+497
+00:29:01,120 --> 00:29:02,920
+"Avoid overworking.
+
+498
+00:29:04,240 --> 00:29:05,080
+Avoid alcohol."
+MOM
+
+499
+00:29:11,280 --> 00:29:12,160
+Hello, Mom.
+
+500
+00:29:12,800 --> 00:29:13,880
+Hello, Zhizhi.
+
+501
+00:29:15,400 --> 00:29:17,760
+It's past ten. Why haven't you called me?
+
+502
+00:29:18,520 --> 00:29:19,520
+Are you at the dorm
+
+503
+00:29:19,600 --> 00:29:20,920
+or hanging out with friends?
+
+504
+00:29:21,480 --> 00:29:22,400
+No.
+
+505
+00:29:24,040 --> 00:29:27,320
+Do you remember Sang Yan's classmate?
+
+506
+00:29:27,400 --> 00:29:29,720
+He gave me physics lessons
+
+507
+00:29:29,800 --> 00:29:31,240
+when I was in high school.
+
+508
+00:29:31,320 --> 00:29:32,200
+Duan Jiaxu.
+
+509
+00:29:33,480 --> 00:29:35,200
+I remember. Xiaoduan, right?
+
+510
+00:29:37,880 --> 00:29:40,080
+We had plans to have dinner together,
+
+511
+00:29:40,160 --> 00:29:42,000
+but he suddenly fell ill,
+
+512
+00:29:42,080 --> 00:29:43,920
+so I took him to the hospital.
+
+513
+00:29:44,000 --> 00:29:45,040
+Is he sick?
+
+514
+00:29:45,760 --> 00:29:46,640
+What is it?
+
+515
+00:29:46,720 --> 00:29:47,760
+Is it serious?
+
+516
+00:29:48,240 --> 00:29:49,760
+Acute appendicitis.
+
+517
+00:29:49,840 --> 00:29:51,400
+He's in surgery now.
+
+518
+00:29:55,160 --> 00:29:56,640
+Poor thing.
+
+519
+00:29:56,720 --> 00:29:58,240
+He doesn't have a family.
+
+520
+00:29:59,640 --> 00:30:01,720
+What do you mean?
+
+521
+00:30:01,800 --> 00:30:03,640
+His home is in Yihe, isn't it?
+
+522
+00:30:06,600 --> 00:30:09,000
+I never told you about his background.
+
+523
+00:30:11,920 --> 00:30:12,800
+Mr. Sang.
+
+524
+00:30:14,320 --> 00:30:15,640
+There are 6,000 yuan left
+
+525
+00:30:15,720 --> 00:30:16,560
+after the funeral.
+
+526
+00:30:16,640 --> 00:30:18,200
+I'm returning this to you.
+
+527
+00:30:18,280 --> 00:30:20,160
+I'll pay you the remaining balance
+
+528
+00:30:20,240 --> 00:30:21,280
+after I get a job.
+
+529
+00:30:21,360 --> 00:30:24,000
+Xiaoduan, keep the money for yourself.
+
+530
+00:30:24,080 --> 00:30:25,320
+Don't rush to repay us.
+
+531
+00:30:25,400 --> 00:30:28,000
+No, you have to take the money.
+
+532
+00:30:28,080 --> 00:30:28,920
+Keep it.
+
+533
+00:30:30,680 --> 00:30:31,880
+Keep the money and use it.
+
+534
+00:30:32,600 --> 00:30:33,720
+You've been through a lot.
+
+535
+00:30:37,640 --> 00:30:38,760
+I'm all right.
+
+536
+00:30:38,840 --> 00:30:40,200
+It was nothing.
+
+537
+00:30:43,840 --> 00:30:44,800
+Mr. and Mrs. Sang,
+
+538
+00:30:44,880 --> 00:30:47,440
+you should take the money.
+
+539
+00:30:48,120 --> 00:30:50,200
+There are other things I must attend to.
+
+540
+00:30:50,280 --> 00:30:51,280
+I should get going.
+
+541
+00:30:52,200 --> 00:30:53,040
+Thank you for your time.
+
+542
+00:30:54,880 --> 00:30:55,800
+Xiaoduan.
+
+543
+00:30:56,680 --> 00:30:58,280
+Dinner is ready.
+
+544
+00:30:58,360 --> 00:30:59,280
+Eat before you go.
+
+545
+00:31:09,600 --> 00:31:11,040
+No, thank you, Mrs. Sang.
+
+546
+00:31:11,120 --> 00:31:12,000
+Thank you
+
+547
+00:31:12,960 --> 00:31:15,480
+for looking after me during this time.
+
+548
+00:31:15,960 --> 00:31:17,080
+Without you…
+
+549
+00:31:19,000 --> 00:31:20,000
+Thank you so much.
+
+550
+00:31:20,080 --> 00:31:21,360
+You don't have to do this, child.
+
+551
+00:31:23,520 --> 00:31:24,400
+Stand up.
+
+552
+00:31:26,160 --> 00:31:27,240
+I'm going to go.
+
+553
+00:31:36,240 --> 00:31:37,800
+The poor child.
+
+554
+00:31:37,880 --> 00:31:40,520
+He's just a college freshman about 18 years old.
+
+555
+00:31:41,240 --> 00:31:42,960
+Who knows what else he will face?
+
+556
+00:31:43,440 --> 00:31:46,240
+Sang Yan, look after him in school.
+
+557
+00:31:47,480 --> 00:31:48,320
+Okay.
+
+558
+00:31:49,480 --> 00:31:51,040
+In less than six months,
+
+559
+00:31:51,120 --> 00:31:52,600
+he paid us back the rest of the sum.
+
+560
+00:31:54,160 --> 00:31:55,360
+But his mom
+
+561
+00:31:56,840 --> 00:31:58,080
+had passed away.
+
+562
+00:32:01,440 --> 00:32:02,320
+Zhizhi.
+
+563
+00:32:03,520 --> 00:32:05,920
+Don't stay out too late.
+
+564
+00:32:06,800 --> 00:32:08,240
+Be safe on the way back.
+
+565
+00:32:12,360 --> 00:32:13,400
+I'm hanging up now.
+
+566
+00:32:31,800 --> 00:32:33,400
+He has to be hospitalized for seven days.
+
+567
+00:32:33,480 --> 00:32:35,440
+He can't have solid food for now.
+
+568
+00:32:35,520 --> 00:32:37,480
+He has to be on a liquid diet for a week.
+
+569
+00:32:37,560 --> 00:32:39,800
+Should anything come up, just let us know.
+
+570
+00:32:41,200 --> 00:32:43,040
+Thank you.
+
+571
+00:32:55,520 --> 00:32:56,400
+Jiaxu.
+
+572
+00:32:57,040 --> 00:32:58,320
+I asked the nurses.
+
+573
+00:32:58,880 --> 00:33:00,200
+They said these are what you need
+
+574
+00:33:00,280 --> 00:33:01,560
+while you're in the hospital.
+
+575
+00:33:02,120 --> 00:33:04,000
+But if you need anything else,
+
+576
+00:33:04,080 --> 00:33:05,240
+let me know.
+
+577
+00:33:05,320 --> 00:33:06,840
+I'll get it for you.
+
+578
+00:33:07,440 --> 00:33:08,640
+Thank you, Sang Zhi.
+
+579
+00:33:09,680 --> 00:33:10,800
+It's getting late.
+
+580
+00:33:10,880 --> 00:33:12,440
+You should head back to campus.
+
+581
+00:33:14,480 --> 00:33:17,680
+Get a taxi when you leave.
+
+582
+00:33:17,760 --> 00:33:19,800
+Send the plate number to me.
+
+583
+00:33:20,560 --> 00:33:22,400
+Let me know when you reach the dorm.
+
+584
+00:33:22,480 --> 00:33:23,320
+Okay?
+
+585
+00:33:23,400 --> 00:33:24,360
+Jiaxu.
+
+586
+00:33:25,600 --> 00:33:26,800
+I'm not a kid anymore.
+
+587
+00:33:26,880 --> 00:33:27,800
+Don't worry about me.
+
+588
+00:33:27,880 --> 00:33:29,120
+I know what to do.
+
+589
+00:33:30,560 --> 00:33:31,480
+Okay.
+
+590
+00:33:31,560 --> 00:33:32,520
+Leave the things here.
+
+591
+00:33:32,600 --> 00:33:33,800
+I'll put them away later.
+
+592
+00:33:39,400 --> 00:33:40,440
+Did the wound hurt?
+
+593
+00:33:41,800 --> 00:33:43,000
+I got anesthetics,
+
+594
+00:33:43,560 --> 00:33:44,800
+so it doesn't hurt at all.
+
+595
+00:33:44,880 --> 00:33:45,760
+I don't feel a thing.
+
+596
+00:33:46,280 --> 00:33:47,480
+Don't worry.
+
+597
+00:33:47,560 --> 00:33:48,800
+Go back now.
+
+598
+00:33:51,480 --> 00:33:53,000
+I'll visit you tomorrow.
+
+599
+00:33:53,760 --> 00:33:55,600
+Come when you don't have classes.
+
+600
+00:33:56,120 --> 00:33:57,760
+I'm an adult.
+
+601
+00:33:57,840 --> 00:33:59,720
+Don't trouble yourself for me.
+
+602
+00:34:00,400 --> 00:34:01,720
+I'll be fine. Go on.
+
+603
+00:34:55,440 --> 00:34:56,840
+Is she upset?
+
+604
+00:35:19,840 --> 00:35:22,440
+She probably minds that.
+
+605
+00:35:38,600 --> 00:35:39,520
+Hello?
+
+606
+00:35:41,600 --> 00:35:42,600
+Hello, buddy.
+
+607
+00:35:43,440 --> 00:35:45,000
+I heard you got your appendix cut out.
+
+608
+00:35:45,720 --> 00:35:46,640
+How does that feel?
+
+609
+00:35:48,440 --> 00:35:50,680
+Not bad. Would you like to try it?
+
+610
+00:35:52,240 --> 00:35:53,320
+No, thank you.
+
+611
+00:35:53,400 --> 00:35:55,040
+But I heard my sister took you there.
+
+612
+00:35:55,800 --> 00:35:56,680
+Yes.
+
+613
+00:35:57,440 --> 00:35:59,440
+Did you have to trouble her for such a small problem?
+
+614
+00:35:59,520 --> 00:36:01,240
+Couldn't you go to the hospital yourself?
+
+615
+00:36:01,320 --> 00:36:03,280
+Did you call just to tell me that?
+
+616
+00:36:03,920 --> 00:36:06,520
+No, I had dinner with my parents.
+
+617
+00:36:06,600 --> 00:36:08,040
+They told me you were sick,
+
+618
+00:36:08,120 --> 00:36:09,440
+so I called to celebrate.
+
+619
+00:36:10,160 --> 00:36:11,840
+If there's nothing else, I'm hanging up.
+
+620
+00:36:11,920 --> 00:36:13,040
+I'll carry on with my game.
+
+621
+00:36:15,080 --> 00:36:16,000
+Hold on.
+
+622
+00:36:16,720 --> 00:36:18,400
+I want to tell you something.
+
+623
+00:36:19,440 --> 00:36:20,800
+What is it?
+
+624
+00:36:23,280 --> 00:36:24,920
+Forget it. It's nothing important.
+
+625
+00:36:26,320 --> 00:36:27,920
+Buddy, can you not do this every time?
+
+626
+00:36:28,000 --> 00:36:30,800
+Just spill it like a real man!
+
+627
+00:36:31,400 --> 00:36:32,760
+It's nothing. Bye.
+
+628
+00:36:34,240 --> 00:36:35,280
+Hey!
+
+629
+00:36:50,160 --> 00:36:51,520
+Why did you come back?
+
+630
+00:36:56,280 --> 00:36:57,200
+Jiaxu.
+
+631
+00:36:58,080 --> 00:36:59,280
+I gave it some thought.
+
+632
+00:37:01,160 --> 00:37:03,440
+I should stay and look after you.
+
+633
+00:37:04,600 --> 00:37:07,280
+If I were to fall sick and had no one by my side,
+
+634
+00:37:08,040 --> 00:37:09,680
+you would do the same for me.
+
+635
+00:37:10,640 --> 00:37:11,680
+Right?
+
+636
+00:37:24,160 --> 00:37:25,320
+Did you have dinner?
+
+637
+00:37:30,080 --> 00:37:30,960
+I brought dinner.
+
+638
+00:37:40,800 --> 00:37:42,920
+You haven't eaten. Are you only having bread?
+
+639
+00:37:43,800 --> 00:37:44,800
+Forget this.
+
+640
+00:37:44,880 --> 00:37:45,880
+I'll order takeouts.
+
+641
+00:37:46,840 --> 00:37:48,400
+Don't do that. I'm not hungry.
+
+642
+00:37:48,960 --> 00:37:50,480
+You haven't eaten all day.
+
+643
+00:37:50,560 --> 00:37:51,840
+You must be starving.
+
+644
+00:37:51,920 --> 00:37:52,920
+I'm not hungry at all.
+
+645
+00:37:53,680 --> 00:37:55,840
+If I were, I would get something to eat.
+
+646
+00:37:56,600 --> 00:37:57,720
+I'm not a kid anymore.
+
+647
+00:37:58,360 --> 00:38:00,200
+I don't need you to worry.
+
+648
+00:38:39,640 --> 00:38:41,440
+She is stuffed like a pufferfish again.
+
+649
+00:38:58,760 --> 00:39:00,120
+Jiaxu, what's so funny?
+
+650
+00:39:01,440 --> 00:39:02,720
+Nothing.
+
+651
+00:39:11,120 --> 00:39:11,960
+Where are you going?
+
+652
+00:39:12,800 --> 00:39:14,440
+I'm going to freshen up.
+
+653
+00:39:15,520 --> 00:39:16,760
+Go on.
+
+654
+00:39:49,760 --> 00:39:51,320
+He can't get out of bed today.
+
+655
+00:39:52,160 --> 00:39:53,440
+So he can't clean himself.
+
+656
+00:39:54,600 --> 00:39:56,000
+Maybe I should help him wipe…
+
+657
+00:40:11,040 --> 00:40:12,280
+Jiaxu.
+
+658
+00:40:12,360 --> 00:40:14,440
+The doctor said you can't shower today.
+
+659
+00:40:14,520 --> 00:40:15,960
+Do you want to wipe your face?
+
+660
+00:40:16,040 --> 00:40:17,000
+Sure.
+
+661
+00:40:18,880 --> 00:40:19,800
+I can help you.
+
+662
+00:40:20,400 --> 00:40:21,720
+It's okay. I'll manage.
+
+663
+00:40:21,800 --> 00:40:23,800
+What if you open up your wound?
+
+664
+00:40:25,600 --> 00:40:27,520
+You'll have to spend even more days here.
+
+665
+00:40:30,440 --> 00:40:31,320
+All right.
+
+666
+00:42:05,600 --> 00:42:07,760
+I don't have a nice outfit to wear to the movie!
+
+667
+00:42:08,400 --> 00:42:09,760
+It's just across from campus.
+
+668
+00:42:09,840 --> 00:42:11,280
+You still spent ages on your makeup.
+
+669
+00:42:11,360 --> 00:42:12,200
+Let's go.
+
+670
+00:42:12,280 --> 00:42:13,800
+Of course it's necessary!
+
+671
+00:42:13,880 --> 00:42:15,440
+Girls want to look their best
+
+672
+00:42:15,520 --> 00:42:17,600
+when meeting someone they like.
+
+673
+00:42:17,680 --> 00:42:19,000
+You don't get it.
+
+674
+00:42:19,080 --> 00:42:20,320
+Okay, I don't get it.
+
+675
+00:42:20,400 --> 00:42:22,160
+Ning Wei is a love expert.
+
+676
+00:42:22,240 --> 00:42:23,400
+Come on.
+
+677
+00:42:25,240 --> 00:42:26,520
+Wait for me.
+
+678
+00:42:26,600 --> 00:42:28,440
+You look good enough. Let's go.
+
+679
+00:42:28,520 --> 00:42:30,000
+Just wait for a second!
+
+680
+00:42:30,080 --> 00:42:31,160
+Hurry up.
+
+681
+00:42:31,240 --> 00:42:32,440
+I know. Stop rushing me.
+
+682
+00:42:32,520 --> 00:42:33,480
+Bye, Sangsang.
+
+683
+00:42:33,560 --> 00:42:34,400
+Bye.
+
+684
+00:42:35,000 --> 00:42:35,920
+Hurry up!
+
+685
+00:42:36,400 --> 00:42:37,240
+I'll be right there.
+
+686
+00:42:37,320 --> 00:42:38,560
+We're leaving. Bye!
+
+687
+00:42:38,640 --> 00:42:39,760
+-Hurry up! -See you later.
+
+688
+00:42:40,320 --> 00:42:41,600
+Bye!
+
+689
+00:42:58,400 --> 00:42:59,520
+It has been so long.
+
+690
+00:42:59,600 --> 00:43:01,240
+You've learned how to put on makeup.
+
+691
+00:43:01,320 --> 00:43:02,760
+You're indeed different from before.
