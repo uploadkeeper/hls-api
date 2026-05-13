@@ -1,0 +1,4433 @@
+1
+00:00:26,006 --> 00:00:28,842
+[air menetes]
+
+2
+00:00:43,857 --> 00:00:45,233
+[rem berdecit]
+
+3
+00:00:45,317 --> 00:00:46,485
+[mesin mobil mati]
+
+4
+00:00:47,194 --> 00:00:48,195
+Hai.
+
+5
+00:00:49,279 --> 00:00:50,322
+Hai.
+
+6
+00:00:55,494 --> 00:00:56,745
+[sabuk pengaman dilepas]
+
+7
+00:01:17,516 --> 00:01:19,518
+[bunyi dentingan papan logam]
+
+8
+00:01:43,458 --> 00:01:46,128
+[bunyi gemerincing emas]
+
+9
+00:01:51,800 --> 00:01:53,051
+[bunyi dentingan batangan emas]
+
+10
+00:01:54,261 --> 00:01:55,387
+[geraman]
+
+11
+00:01:57,889 --> 00:01:58,974
+[Geraman Woogy]
+
+12
+00:02:04,229 --> 00:02:05,522
+[bunyi dentingan batangan emas]
+
+13
+00:02:12,446 --> 00:02:13,488
+[geraman]
+
+14
+00:02:19,327 --> 00:02:20,328
+[bunyi dentingan]
+
+15
+00:02:20,412 --> 00:02:21,455
+Hah?
+
+16
+00:02:23,874 --> 00:02:25,751
+[Woogy] Apa-apaan ini?
+
+17
+00:02:26,752 --> 00:02:29,755
+[♪ musik dramatis]
+
+18
+00:02:32,841 --> 00:02:34,259
+[bunyi dentingan]
+
+19
+00:02:34,342 --> 00:02:35,969
+[geraman]
+
+20
+00:02:40,265 --> 00:02:41,516
+Kotoran.
+
+21
+00:02:42,350 --> 00:02:43,351
+[geraman]
+
+22
+00:02:45,353 --> 00:02:47,105
+[rintihan]
+
+23
+00:02:48,315 --> 00:02:49,983
+[Heeju] Cukup.
+[suara kokang pistol]
+
+24
+00:02:51,526 --> 00:02:52,944
+Taruh saja emas itu di dalam mobil.
+
+25
+00:02:53,028 --> 00:02:56,239
+Hei, kau sedang mempermainkanku.
+
+26
+00:02:56,323 --> 00:02:57,699
+[Woogy] Ini tidak berisi peluru, kan?
+
+27
+00:02:58,784 --> 00:02:59,785
+[Heeju berteriak]
+
+28
+00:03:02,704 --> 00:03:05,707
+[Heeju bernapas terengah-engah]
+
+29
+00:03:09,169 --> 00:03:10,462
+Diam dan jangan berkata apa-apa!
+
+30
+00:03:12,422 --> 00:03:15,175
+Emas itu.
+Taruh di bagian belakang mobil.
+
+31
+00:03:18,386 --> 00:03:20,430
+Oke. Saya akan melakukannya.
+
+32
+00:03:21,389 --> 00:03:24,392
+[suara mesin mobil meraung]
+
+33
+00:03:31,608 --> 00:03:34,611
+[ponsel bergetar]
+
+34
+00:03:37,030 --> 00:03:38,865
+PANGGILAN MASUK KETUA AHN GYUSEOK
+
+35
+00:03:42,035 --> 00:03:43,078
+Baik, Ketua.
+
+36
+00:03:43,495 --> 00:03:44,663
+[Gyuseok] Apakah kau menemukan peti matinya?
+
+37
+00:03:46,706 --> 00:03:49,042
+Belum.
+Tapi saya sudah hampir sampai, Pak.
+
+38
+00:03:51,545 --> 00:03:54,172
+[Gyuseok] Bukankah kau bilang kau sudah menemukan siapa
+kaki tangannya?
+
+39
+00:03:54,256 --> 00:03:55,549
+Pacar Lee Dokyung.
+
+40
+00:03:57,092 --> 00:03:58,176
+[Hocheol] Ya, benar.
+
+41
+00:03:58,260 --> 00:04:00,512
+Sebenarnya saya sedang mengincarnya sekarang, Pak.
+Jangan khawatir.
+
+42
+00:04:01,429 --> 00:04:02,556
+Saya sedang mengerjakannya.
+
+43
+00:04:02,639 --> 00:04:05,016
+-Aku akan memastikan untuk menemukan emasnya tidak-
+-[Gyuseok] Emas?
+
+44
+00:04:09,312 --> 00:04:10,397
+[telepon berdering dan terputus]
+
+45
+00:04:16,027 --> 00:04:18,071
+Sialan.
+
+46
+00:04:24,828 --> 00:04:26,746
+-Kepala Cheon.
+-[Woojin] Baik, Pak.
+
+47
+00:04:28,081 --> 00:04:30,000
+Bisakah kita mengakhiri pembahasan hari ini di sini?
+
+48
+00:04:30,083 --> 00:04:31,334
+Baik, Pak.
+Kita hampir selesai.
+
+49
+00:04:34,004 --> 00:04:35,630
+Selesaikan semua hal yang belum tuntas sekarang juga.
+
+50
+00:04:37,424 --> 00:04:39,050
+Kita akan pergi ke Jeongsan besok.
+STYLE
+::cue()
+
+51
+00:04:39,926 --> 00:04:40,927
+[Woojin] Ya, Ketua.
+
+52
+00:04:45,515 --> 00:04:48,518
+[♪ musik menegangkan]
+
+53
+00:04:49,060 --> 00:04:52,564
+[suara sirene meraung di kejauhan]
+
+54
+00:04:52,647 --> 00:04:55,650
+[♪ musik piano sedih]
+
+55
+00:05:18,381 --> 00:05:21,384
+[♪ musik berlanjut]
+
+56
+00:05:35,815 --> 00:05:38,818
+EPISODE 6
+RETAKAN
+
+57
+00:05:38,902 --> 00:05:41,821
+POROS MIRING 8, BAGIAN 0
+100ML
+
+58
+00:05:43,365 --> 00:05:44,449
+[bunyi dentingan batangan emas]
+
+59
+00:05:44,532 --> 00:05:46,910
+[bernapas berat]
+
+60
+00:05:46,993 --> 00:05:48,370
+[erangan]
+
+61
+00:05:49,704 --> 00:05:51,665
+Ah, sial.
+Ini sangat sulit.
+
+62
+00:05:52,832 --> 00:05:54,000
+Hai!
+
+63
+00:05:54,793 --> 00:05:56,753
+Ah, ini yang terakhir.
+
+64
+00:05:56,836 --> 00:05:58,171
+[Woogy bernapas berat]
+
+65
+00:05:58,254 --> 00:05:59,714
+[Woogy] Seandainya kau melakukan ini
+sendiri,
+
+66
+00:05:59,798 --> 00:06:01,800
+Ah, saya yakin itu pasti memakan waktu seharian.
+
+67
+00:06:01,883 --> 00:06:04,094
+[Woogy terkekeh]
+
+68
+00:06:04,177 --> 00:06:05,845
+[rintihan]
+
+69
+00:06:06,596 --> 00:06:07,806
+Oke.
+
+70
+00:06:09,224 --> 00:06:11,935
+Sekarang kita hanya perlu mengurus
+Cha Yujin, kan?
+
+71
+00:06:12,018 --> 00:06:13,770
+-Kalau begitu, tidak ada orang lain yang tahu.
+-[menghela napas]
+
+72
+00:06:13,853 --> 00:06:15,313
+Kamu sekarang juga sudah tahu tentang itu.
+
+73
+00:06:16,064 --> 00:06:18,483
+[Woogy] Ayolah. Ini aku.
+
+74
+00:06:19,192 --> 00:06:20,443
+Hai.
+
+75
+00:06:20,527 --> 00:06:21,736
+Saya hanya ingin bagian saya.
+Itu saja.
+
+76
+00:06:23,363 --> 00:06:28,535
+Oke, jadi sekarang kita hanya menanam kentang
+dan menjualnya seperti sebelumnya.
+
+77
+00:06:29,577 --> 00:06:31,955
+Kedengarannya bagus?
+Saya tetap akan menjualnya.
+
+78
+00:06:36,459 --> 00:06:38,211
+[gagap]
+
+79
+00:06:40,255 --> 00:06:41,256
+Oke.
+
+80
+00:06:44,009 --> 00:06:45,427
+Nah, di sana. Anda bisa memeriksa batangan emasnya.
+
+81
+00:06:47,929 --> 00:06:48,972
+[Woogy] Hmm?
+
+82
+00:06:49,055 --> 00:06:50,056
+Ya?
+
+83
+00:06:51,015 --> 00:06:52,016
+Oke?
+
+84
+00:06:52,559 --> 00:06:53,768
+Jadi, kita baik-baik saja?
+
+85
+00:06:54,310 --> 00:06:55,895
+-Jangan mendekat.
+-[terkejut]
+
+86
+00:06:57,522 --> 00:06:58,523
+Benar-benar?
+
+87
+00:06:59,816 --> 00:07:01,609
+[Woogy] Kau bilang Cha Yujin sedang dalam perjalanan.
+
+88
+00:07:01,693 --> 00:07:03,528
+Kau pikir kau bisa membunuhnya sendirian?
+
+89
+00:07:03,611 --> 00:07:05,739
+Aku akan membunuhnya untukmu, ya?
+
+90
+00:07:05,822 --> 00:07:07,365
+Sama seperti aku menyingkirkan
+Han Cheoljung untukmu.
+
+91
+00:07:09,868 --> 00:07:11,202
+Saya bisa melakukannya sendiri.
+
+92
+00:07:11,911 --> 00:07:12,912
+Sekarang, bergeraklah.
+
+93
+00:07:15,206 --> 00:07:16,499
+-Di sana?
+-Diam saja!
+
+94
+00:07:16,583 --> 00:07:17,751
+-[Woogy] Oke, oke!
+-Minggir.
+
+95
+00:07:24,591 --> 00:07:25,592
+Berbaliklah.
+
+96
+00:07:26,593 --> 00:07:27,594
+Ayo.
+
+97
+00:07:28,511 --> 00:07:29,554
+Heeju, tolong jangan lakukan ini.
+
+98
+00:07:29,637 --> 00:07:31,139
+-Berbalik badan.
+-[Woogy] Heeju.
+
+99
+00:07:31,222 --> 00:07:32,766
+Mari kita bicarakan ini, oke?
+
+100
+00:07:32,849 --> 00:07:34,976
+Kau dan aku.
+Kita bersama-sama dalam hal ini.
+
+101
+00:07:35,059 --> 00:07:36,060
+Ya?
+
+102
+00:07:36,895 --> 00:07:38,688
+Hei, aku menyelamatkan hidupmu, kan?
+
+103
+00:07:38,772 --> 00:07:40,482
+Tapi kenapa?
+Kamu masih tidak percaya padaku?
+
+104
+00:07:40,899 --> 00:07:42,150
+Aku tidak bisa mempercayai siapa pun.
+
+105
+00:07:42,233 --> 00:07:43,818
+[Woogy] Oke, oke, oke, oke.
+
+106
+00:07:44,277 --> 00:07:45,361
+Oke, bagaimana dengan ini?
+
+107
+00:07:46,321 --> 00:07:48,031
+Aku tidak melihat apa pun.
+
+108
+00:07:48,782 --> 00:07:50,909
+Saya tidak pernah melihat satu pun batangan emas.
+Saya tidak berada di sini.
+
+109
+00:07:50,992 --> 00:07:53,495
+-Sudah kubilang berbalik badan!
+-[Woogy] Oke, oke, oke, oke!
+
+110
+00:07:55,538 --> 00:07:56,539
+Heeju, tolong.
+
+111
+00:07:57,207 --> 00:07:58,333
+[Woogy] Tolong, tenanglah.
+
+112
+00:07:59,959 --> 00:08:01,419
+Tolong jangan lakukan ini. Kumohon?
+
+113
+00:08:02,045 --> 00:08:03,630
+Kamu tahu kan aku selalu berada di pihakmu?
+
+114
+00:08:04,464 --> 00:08:07,217
+Sekalipun semua orang mengkhianatimu,
+aku tak akan pernah melakukan itu padamu!
+
+115
+00:08:07,300 --> 00:08:08,885
+Percayalah padaku, ya?
+
+116
+00:08:10,386 --> 00:08:11,387
+Kalau begitu, tembak saja aku!
+
+117
+00:08:12,263 --> 00:08:13,389
+[Woogy] Tapi Kim Heeju...
+
+118
+00:08:14,474 --> 00:08:17,393
+...jika kau melakukannya, aku bersumpah
+kau akan mati di sini bersamaku juga.
+
+119
+00:08:20,772 --> 00:08:23,775
+[♪ musik menegangkan]
+
+120
+00:08:28,988 --> 00:08:31,991
+[kecelakaan]
+
+121
+00:08:34,327 --> 00:08:37,580
+[suara mesin mobil meraung]
+
+122
+00:08:37,664 --> 00:08:38,873
+Sialan.
+
+123
+00:08:39,499 --> 00:08:40,792
+[geraman]
+
+124
+00:08:40,875 --> 00:08:44,045
+[suara deru mesin]
+
+125
+00:08:44,838 --> 00:08:45,839
+Sial.
+
+126
+00:08:45,922 --> 00:08:47,132
+[teriakan]
+
+127
+00:08:48,550 --> 00:08:49,592
+[bunyi dentingan batangan emas]
+
+128
+00:08:49,676 --> 00:08:53,179
+[Heeju] Ambil semua uang tunai itu
+dan sisa kentangnya.
+
+129
+00:08:53,263 --> 00:08:55,181
+Itu seharusnya cukup
+untuk menutupi bagian Anda.
+
+130
+00:08:55,849 --> 00:08:57,976
+Bukankah seharusnya begitu?
+Sekarang pergilah.
+
+131
+00:09:00,061 --> 00:09:01,521
+Bagaimana denganmu?
+
+132
+00:09:01,604 --> 00:09:03,273
+[Heeju] Aku bisa menjaga diriku sendiri.
+
+133
+00:09:03,356 --> 00:09:05,275
+Jangan mencariku.
+
+134
+00:09:07,193 --> 00:09:09,028
+Lupakan semua yang Anda lihat di sini.
+
+135
+00:09:09,737 --> 00:09:11,197
+Dan lanjutkan hidupmu.
+
+136
+00:09:11,739 --> 00:09:14,242
+Jika aku bertemu kamu lagi,
+aku tidak tahu.
+
+137
+00:09:16,035 --> 00:09:18,246
+Aku mungkin benar-benar akan menembakmu.
+STYLE
+::cue()
+
+138
+00:09:19,622 --> 00:09:22,625
+AYAH! SEMOGA HARI INI KAMU SELAMAT LAGI
+
+139
+00:09:22,709 --> 00:09:25,712
+[bernapas berat]
+
+140
+00:09:29,299 --> 00:09:32,135
+POROS MIRING 8, BAGIAN 0
+100ML
+
+141
+00:09:32,218 --> 00:09:33,720
+[menghembuskan napas]
+
+142
+00:09:35,305 --> 00:09:38,308
+[napas terengah-engah]
+
+143
+00:09:38,808 --> 00:09:40,602
+[bunyi dentingan batangan emas]
+
+144
+00:09:44,105 --> 00:09:46,858
+-Kau yakin?
+-Kumohon! Ayo, pergi saja! Pergi!
+
+145
+00:09:47,984 --> 00:09:48,985
+[Heeju] Sial!
+
+146
+00:09:52,447 --> 00:09:53,781
+Hubungi saya jika Anda membutuhkan sesuatu.
+
+147
+00:09:54,782 --> 00:09:55,950
+[Woogy] Oke?
+
+148
+00:09:56,409 --> 00:09:57,952
+Aku pergi dulu. Oke?
+
+149
+00:09:58,620 --> 00:10:00,955
+[dentuman dari kejauhan]
+[terkejut]
+
+150
+00:10:01,039 --> 00:10:02,332
+[terkejut]
+
+151
+00:10:03,583 --> 00:10:05,043
+[suara tabuhan drum]
+
+152
+00:10:07,086 --> 00:10:08,171
+Sialan.
+
+153
+00:10:10,506 --> 00:10:12,133
+[Heeju bernapas terengah-engah]
+
+154
+00:10:12,717 --> 00:10:14,385
+[Woogy] Oh, sial.
+Siapa itu?
+
+155
+00:10:14,469 --> 00:10:16,012
+Persetan, siapa peduli?
+Ayo kita pergi dari sini!
+
+156
+00:10:16,095 --> 00:10:17,430
+[napas panik]
+
+157
+00:10:17,513 --> 00:10:18,723
+[Woogy] Siapa sih dia?
+
+158
+00:10:18,806 --> 00:10:20,558
+[napas panik]
+
+159
+00:10:27,607 --> 00:10:30,610
+[kendaraan mendekat]
+
+160
+00:10:31,736 --> 00:10:32,987
+[Heeju merintih]
+Apa yang harus kita lakukan?
+
+161
+00:10:33,071 --> 00:10:34,614
+[Woogy] Sialan, siapa...
+
+162
+00:10:34,697 --> 00:10:36,157
+-Apakah itu bosnya?
+-Hah?
+
+163
+00:10:36,241 --> 00:10:37,242
+Ah, sial!
+
+164
+00:10:39,827 --> 00:10:43,998
+[suara mesin mobil meraung]
+
+165
+00:10:44,082 --> 00:10:45,375
+-[Woogy berteriak]
+-[Heeju menjerit]
+
+166
+00:10:46,251 --> 00:10:47,919
+-Sial, kita celaka.
+-[Heeju] Apa yang harus kita lakukan? Apa yang harus kita lakukan?
+
+167
+00:10:48,419 --> 00:10:49,504
+[Woogy] Kita benar-benar celaka.
+
+168
+00:10:49,587 --> 00:10:50,797
+[keduanya bernapas berat]
+
+169
+00:10:50,880 --> 00:10:53,049
+[ban berdecit]
+
+170
+00:10:57,762 --> 00:10:59,222
+Sial!
+
+171
+00:11:01,307 --> 00:11:02,392
+[ban berdecit]
+
+172
+00:11:09,315 --> 00:11:11,109
+[keduanya bernapas berat]
+
+173
+00:11:11,192 --> 00:11:12,485
+[Heeju terkejut]
+
+174
+00:11:12,568 --> 00:11:14,445
+-[Heeju] Awas!
+-[Woogy berteriak]
+
+175
+00:11:14,529 --> 00:11:16,030
+[suara ban berdecit]
+
+176
+00:11:18,241 --> 00:11:21,244
+[keduanya mengerang]
+
+177
+00:11:22,954 --> 00:11:23,955
+Tunggu.
+
+178
+00:11:24,038 --> 00:11:25,456
+[Woogy mengerang]
+
+179
+00:11:34,215 --> 00:11:36,301
+[Heeju] Ini mobil Cha Yujin.
+
+180
+00:11:49,063 --> 00:11:50,064
+Dia sudah meninggal.
+
+181
+00:11:51,274 --> 00:11:52,275
+[Heeju] Apa?
+
+182
+00:11:56,279 --> 00:11:57,280
+[bunyi dentingan batangan emas]
+
+183
+00:11:58,781 --> 00:12:00,325
+[Woogy] Berikan pistol itu padaku.
+
+184
+00:12:00,408 --> 00:12:01,409
+[Heeju] Apa?
+
+185
+00:12:02,452 --> 00:12:04,078
+[Woogy] Park mungkin telah melihat kita.
+Kita tidak punya pilihan lain.
+
+186
+00:12:04,162 --> 00:12:05,455
+Kita harus membunuh orang itu.
+
+187
+00:12:08,583 --> 00:12:09,625
+[Woogy] Berikan saja padaku.
+
+188
+00:12:09,709 --> 00:12:11,419
+[bunyi dentingan batangan emas]
+
+189
+00:12:12,962 --> 00:12:14,297
+[Heeju] Tunggu!
+
+190
+00:12:16,299 --> 00:12:17,342
+Tetaplah di sini!
+
+191
+00:12:17,884 --> 00:12:19,344
+Aku akan segera kembali.
+
+192
+00:12:19,427 --> 00:12:20,845
+[menghembuskan napas]
+
+193
+00:12:21,846 --> 00:12:24,849
+[air menetes]
+
+194
+00:12:56,381 --> 00:12:57,507
+[klik pistol]
+
+195
+00:12:58,049 --> 00:12:59,050
+[klik pistol]
+[geraman Woogy]
+
+196
+00:12:59,133 --> 00:13:01,761
+[bernapas berat]
+
+197
+00:13:04,263 --> 00:13:07,016
+[keduanya berteriak]
+
+198
+00:13:08,184 --> 00:13:09,185
+Kotoran.
+
+199
+00:13:13,064 --> 00:13:14,357
+Sial.
+
+200
+00:13:14,440 --> 00:13:17,443
+[Woogy bernapas berat]
+
+201
+00:13:18,277 --> 00:13:19,445
+[tiupan mendarat]
+[keduanya mendengus]
+
+202
+00:13:20,196 --> 00:13:21,531
+[tiupan mendarat]
+
+203
+00:13:22,323 --> 00:13:25,326
+[keduanya berteriak]
+GAYA
+::cue()
+
+204
+00:13:40,633 --> 00:13:41,843
+[Hocheol] Sial!
+
+205
+00:13:41,926 --> 00:13:45,096
+[keduanya mendengus]
+
+206
+00:13:53,688 --> 00:13:56,691
+[keduanya bernapas berat]
+
+207
+00:13:58,568 --> 00:13:59,986
+Ah, sial.
+
+208
+00:14:02,738 --> 00:14:03,990
+[tembakan]
+[terengah-engah]
+
+209
+00:14:04,073 --> 00:14:05,449
+[teriakan]
+
+210
+00:14:05,533 --> 00:14:06,742
+Kotoran.
+
+211
+00:14:07,326 --> 00:14:08,327
+Sialan.
+
+212
+00:14:08,411 --> 00:14:09,579
+[geraman]
+
+213
+00:14:09,662 --> 00:14:11,330
+[rintihan]
+
+214
+00:14:18,629 --> 00:14:21,632
+[bernapas berat]
+
+215
+00:14:57,793 --> 00:15:00,004
+[napas pendek karena panik]
+
+216
+00:15:16,229 --> 00:15:19,523
+[napas dangkal]
+
+217
+00:15:22,526 --> 00:15:23,861
+[suara gemerisik]
+
+218
+00:15:34,372 --> 00:15:36,207
+[telepon seluler berdering]
+
+219
+00:15:38,000 --> 00:15:39,168
+PANGGILAN KELUAR PEMIMPIN TIM CHA YUJIN
+
+220
+00:15:42,672 --> 00:15:44,632
+[dering terus berlanjut]
+
+221
+00:15:46,384 --> 00:15:48,803
+[telepon berdering]
+
+222
+00:16:00,731 --> 00:16:02,400
+-[Heeju mendengus]
+-Dasar jalang!
+
+223
+00:16:03,401 --> 00:16:05,403
+-[Hocheol mendengus]
+-[Heeju berteriak]
+
+224
+00:16:05,486 --> 00:16:08,030
+[keduanya mendengus]
+
+225
+00:16:10,116 --> 00:16:11,826
+[Heeju berteriak]
+
+226
+00:16:11,909 --> 00:16:14,829
+[keduanya mendengus]
+
+227
+00:16:16,038 --> 00:16:18,124
+[suara desis kaleng semprot]
+
+228
+00:16:18,874 --> 00:16:20,960
+[suara mesin mobil meraung]
+
+229
+00:16:24,880 --> 00:16:27,883
+[teriakan]
+
+230
+00:16:33,597 --> 00:16:36,475
+RUMAH SAKIT YANGPO JEIL
+
+231
+00:16:44,984 --> 00:16:46,319
+Ah, di sana.
+
+232
+00:16:46,402 --> 00:16:47,695
+[Dokyung mengerang]
+
+233
+00:16:47,778 --> 00:16:49,947
+Oke, bisakah kamu coba berdiri?
+Berjalan sedikit?
+
+234
+00:16:50,031 --> 00:16:51,365
+-[Dokyung] Ya.
+-Hati-hati.
+
+235
+00:16:51,449 --> 00:16:52,450
+[Dokyung mengerang]
+
+236
+00:16:54,618 --> 00:16:58,122
+Anda mungkin akan merasakan sakit
+untuk sementara waktu, jadi jangan memaksakan diri.
+
+237
+00:16:58,205 --> 00:17:00,374
+-[Dokter] Baiklah, kita sudah selesai di sini.
+-[Dokyung] Dokter.
+
+238
+00:17:00,458 --> 00:17:01,625
+Apa?
+
+239
+00:17:01,709 --> 00:17:03,085
+[Dokyung] Saya sangat menyesal atas hal ini.
+
+240
+00:17:08,341 --> 00:17:09,342
+[Suara dokter berteriak teredam]
+
+241
+00:17:11,302 --> 00:17:13,137
+[teriakan teredam berlanjut]
+
+242
+00:17:14,513 --> 00:17:16,432
+[Dokter mengerang]
+
+243
+00:17:18,309 --> 00:17:23,439
+[teriakan]
+
+244
+00:17:23,522 --> 00:17:25,649
+-[Teriakan dokter berlanjut]
+-Sial!
+
+245
+00:17:25,733 --> 00:17:28,527
+[teriakan teredam]
+
+246
+00:17:29,278 --> 00:17:32,406
+[bernapas berat]
+
+247
+00:17:32,490 --> 00:17:34,617
+Bisakah Anda mengantar saya
+ke pusat kota Yangpo?
+
+248
+00:17:38,788 --> 00:17:41,999
+[Dokyung] Heeju, ini Dokyung.
+Aku kabur dari rumah sakit.
+
+249
+00:17:42,083 --> 00:17:43,876
+Hubungi saya di nomor ini.
+STYLE
+::cue()
+
+250
+00:17:49,465 --> 00:17:52,385
+[bunyi denting dan klik mesin slot]
+
+251
+00:17:52,468 --> 00:17:56,055
+[ponsel bergetar]
+
+252
+00:17:59,100 --> 00:18:00,476
+PANGGILAN MASUK DIREKTUR PARK
+
+253
+00:18:00,559 --> 00:18:02,770
+[Penjudi Pria] Ayo. Ayo!
+
+254
+00:18:02,853 --> 00:18:05,022
+-Ya.
+-[Hocheol] Aku butuh kau mengantarkan piring.
+
+255
+00:18:05,106 --> 00:18:06,482
+Santa Fe berwarna biru.
+
+256
+00:18:06,816 --> 00:18:09,360
+Beberapa digit terakhir,
+lima, dua, tujuh, sembilan.
+
+257
+00:18:09,443 --> 00:18:11,696
+[Pria Penjudi] Tidak. Apa?
+Hei! Hei, pelayan!
+
+258
+00:18:11,779 --> 00:18:12,905
+[Jinman] Hei!
+
+259
+00:18:12,988 --> 00:18:14,115
+[suara mesin mobil meraung]
+
+260
+00:18:16,367 --> 00:18:18,452
+-Milik siapa ini?
+-[Hocheol] Bagaimana mungkin aku tahu?
+
+261
+00:18:18,536 --> 00:18:20,663
+Itulah mengapa saya menyuruh Anda
+untuk menjalankan pemeriksaan pelat nomor!
+
+262
+00:18:20,746 --> 00:18:23,290
+Jika Anda bisa menemukan mobilnya, itu akan lebih baik lagi.
+
+263
+00:18:23,791 --> 00:18:25,292
+Di mana Cha Yujin sekarang?
+
+264
+00:18:26,293 --> 00:18:29,046
+Saya memeriksa seluruh area
+tetapi mobil Renegade miliknya tidak ada di sana.
+
+265
+00:18:29,547 --> 00:18:30,881
+[Jinman] Tapi mobilmu memang begitu.
+
+266
+00:18:34,135 --> 00:18:35,136
+Aku kehilangannya.
+
+267
+00:18:37,847 --> 00:18:38,848
+Apakah kamu membunuhnya?
+
+268
+00:18:39,515 --> 00:18:41,434
+[Hocheol] Cari saja Santa Fe sialan itu!
+
+269
+00:18:41,517 --> 00:18:42,935
+Bisakah kamu melakukannya hari ini?
+
+270
+00:18:43,686 --> 00:18:45,604
+[Jinman] Kukira kau ingin aku
+tidak ikut campur.
+
+271
+00:18:46,021 --> 00:18:47,773
+Mengapa kau terus melakukan ini padaku?
+
+272
+00:18:49,024 --> 00:18:50,192
+[Hocheol] Ini terakhir kalinya.
+
+273
+00:18:51,110 --> 00:18:53,279
+Ketua
+akan kembali besok.
+
+274
+00:18:57,241 --> 00:18:59,952
+Ya, tepat sekali.
+Saya sudah selesai membantu Anda.
+
+275
+00:19:00,578 --> 00:19:03,122
+Jika ini gagal,
+akulah yang akan menanggung akibatnya.
+
+276
+00:19:03,205 --> 00:19:04,665
+[Hocheol] Aku akan memberimu
+100 keping emas lagi.
+
+277
+00:19:07,168 --> 00:19:08,377
+[menghembuskan napas tajam]
+
+278
+00:19:09,003 --> 00:19:10,671
+Apa sih yang dibicarakan orang ini?
+
+279
+00:19:10,755 --> 00:19:12,923
+Demi Tuhan,
+bajingan keparat.
+
+280
+00:19:13,549 --> 00:19:14,967
+Apa yang baru saja kukatakan?
+
+281
+00:19:15,551 --> 00:19:17,136
+Aku tidak akan melakukannya.
+
+282
+00:19:17,219 --> 00:19:20,890
+[Jinman] Aku yakin kau bahkan tidak tahu
+Lee Dokyung melarikan diri dari rumah sakit,
+
+283
+00:19:20,973 --> 00:19:23,809
+Benarkah?
+Detektif Kang akan segera menghubungimu.
+
+284
+00:19:25,811 --> 00:19:27,772
+Kurasa kau sudah tamat sekarang, Park.
+
+285
+00:19:28,731 --> 00:19:30,316
+Pikirkan baik-baik sekarang.
+
+286
+00:19:31,984 --> 00:19:33,110
+[telepon berbunyi]
+
+287
+00:19:34,570 --> 00:19:35,863
+[menghembuskan napas]
+
+288
+00:19:38,657 --> 00:19:40,326
+Bajingan keparat ini.
+
+289
+00:19:41,619 --> 00:19:43,204
+Persetan dengan detektif itu.
+
+290
+00:19:43,287 --> 00:19:44,622
+Bajingan.
+
+291
+00:19:45,122 --> 00:19:46,874
+[menghembuskan napas]
+
+292
+00:19:48,042 --> 00:19:50,169
+Apakah Kim Heeju satu-satunya yang tersisa sekarang?
+
+293
+00:19:50,252 --> 00:19:51,754
+[koin jatuh ke mesin slot]
+
+294
+00:19:51,837 --> 00:19:53,631
+[bunyi denting mesin]
+
+295
+00:19:56,592 --> 00:19:59,595
+[bernapas berat]
+
+296
+00:20:13,234 --> 00:20:16,237
+[suara darah berdesir]
+
+297
+00:20:16,320 --> 00:20:19,323
+[suara benturan]
+
+298
+00:20:20,241 --> 00:20:21,283
+Sialan.
+
+299
+00:20:21,867 --> 00:20:24,870
+[suara dentuman dari kejauhan]
+
+300
+00:20:29,875 --> 00:20:30,960
+[peluit kereta berbunyi]
+
+301
+00:20:31,043 --> 00:20:34,046
+[suara roda berderak di rel]
+
+302
+00:20:48,477 --> 00:20:51,814
+[ponsel bergetar]
+
+303
+00:20:51,897 --> 00:20:53,232
+[terengah-engah pelan]
+
+304
+00:20:53,899 --> 00:20:55,317
+[getaran berlanjut]
+
+305
+00:20:58,320 --> 00:20:59,572
+PANGGILAN MASUK WOOGY
+
+306
+00:21:01,949 --> 00:21:04,493
+-Ya?
+-[Woogy] Hei, dasar pengkhianat sialan!
+
+307
+00:21:04,577 --> 00:21:06,662
+Kau kabur untuk menyelamatkan diri sendiri, ya?
+
+308
+00:21:06,745 --> 00:21:08,247
+Sungguh pasangan yang buruk.
+
+309
+00:21:08,330 --> 00:21:10,583
+[Heeju] Kau bilang kau akan membunuh
+Park Hocheol.
+
+310
+00:21:10,666 --> 00:21:12,293
+Ya, tentu saja!
+
+311
+00:21:13,085 --> 00:21:15,254
+[Woogy] Seandainya kau tetap di sana
+seperti yang kukatakan, bukannya melarikan diri,
+
+312
+00:21:15,337 --> 00:21:16,630
+Aku bisa saja membunuhnya.
+
+313
+00:21:16,714 --> 00:21:18,215
+Apakah Park melihat wajahmu?
+
+314
+00:21:18,299 --> 00:21:19,550
+[Woogy] Aku tidak tahu sama sekali.
+
+315
+00:21:20,009 --> 00:21:21,594
+Di dalam sana gelap sekali, aku tidak tahu.
+Kurasa tidak.
+
+316
+00:21:21,677 --> 00:21:22,803
+Bagaimana denganmu?
+
+317
+00:21:23,470 --> 00:21:26,181
+Aku tidak yakin.
+Kurasa dia mungkin melihatku.
+
+318
+00:21:27,016 --> 00:21:28,684
+Ah, sialan.
+
+319
+00:21:30,436 --> 00:21:32,354
+Tunggu aku di bengkel, ya?
+
+320
+00:21:32,438 --> 00:21:34,940
+Saya akan pergi ke kantor besok
+dan melihat bagaimana perkembangannya.
+
+321
+00:21:35,024 --> 00:21:36,984
+-Kalau begitu aku akan menemuimu.
+-[Heeju] Tidak.
+
+322
+00:21:37,067 --> 00:21:39,069
+Aku sudah bilang aku tak ingin melihatmu lagi.
+
+323
+00:21:39,153 --> 00:21:41,322
+[Woogy] Omong kosong apa
+yang kau bicarakan, Heeju?
+
+324
+00:21:41,405 --> 00:21:42,907
+Sekarang semuanya sudah berubah.
+
+325
+00:21:42,990 --> 00:21:44,950
+Dan kentangku masih ada di
+belakang mobilmu!
+
+326
+00:21:45,034 --> 00:21:46,160
+Aku membutuhkannya, kau tahu.
+
+327
+00:21:49,538 --> 00:21:50,873
+Ah, sial.
+
+328
+00:21:50,956 --> 00:21:52,333
+[Woogy] Heeju, jangan lupa.
+
+329
+00:21:52,416 --> 00:21:53,417
+Saya dari Yes Money.
+
+330
+00:21:53,500 --> 00:21:55,210
+Saya akan meninggalkannya
+untuk Anda di bengkel.
+
+331
+00:21:55,294 --> 00:21:56,587
+Ambil di sana.
+
+332
+00:21:56,670 --> 00:21:57,755
+Oke.
+
+333
+00:21:58,422 --> 00:22:00,674
+Oh, hei, hei, hei, hei, ya, ya.
+Heeju, Heeju.
+STYLE
+::cue()
+
+334
+00:22:00,758 --> 00:22:02,551
+Apakah Anda sudah mendengar kabar dari Lee Dokyung?
+
+335
+00:22:03,260 --> 00:22:05,220
+Saya belum. Mengapa?
+
+336
+00:22:05,304 --> 00:22:07,932
+[Woogy] Nah, rupanya dia kabur
+dari rumah sakit sialan itu.
+
+337
+00:22:08,015 --> 00:22:09,767
+Ya, Money juga mencarinya.
+
+338
+00:22:10,976 --> 00:22:12,144
+Mendengarkan.
+
+339
+00:22:13,354 --> 00:22:15,689
+Anda perlu menyembunyikan batangan emas
+di tempat yang lebih baik.
+
+340
+00:22:16,732 --> 00:22:17,900
+Dan sebaiknya kau jangan memberitahu siapa pun.
+
+341
+00:22:17,983 --> 00:22:21,445
+Bagaimana mungkin Cha Yujin bisa tahu kalau
+emas itu ada di tambang, apalagi Park?
+
+342
+00:22:22,529 --> 00:22:24,657
+[Woogy] Heeju, kumohon.
+Jangan percaya siapa pun.
+
+343
+00:22:24,740 --> 00:22:26,325
+Berapa kali lagi aku harus
+memberitahumu, sialan!
+
+344
+00:22:26,408 --> 00:22:27,493
+Tidak mempercayai siapa pun?
+
+345
+00:22:27,576 --> 00:22:29,161
+Terutama Lee Dokyung.
+Paham?
+
+346
+00:22:30,037 --> 00:22:31,246
+[dering dan bunyi klik telepon]
+
+347
+00:22:32,039 --> 00:22:33,290
+[menarik napas]
+
+348
+00:22:37,336 --> 00:22:38,712
+[geraman]
+
+349
+00:22:44,426 --> 00:22:47,221
+HEEJU, INI DOKYUNG. AKU KABUR
+DARI RUMAH SAKIT. HUBUNGI AKU DI NOMOR INI.
+
+350
+00:22:57,982 --> 00:23:00,985
+[ponsel bergetar]
+
+351
+00:23:02,027 --> 00:23:03,028
+Halo?
+
+352
+00:23:03,821 --> 00:23:06,240
+-[Heeju] Dokyung?
+-Heeju, kamu baik-baik saja?
+
+353
+00:23:08,158 --> 00:23:11,161
+Ya, aku baik-baik saja.
+Aku sehat-sehat saja.
+
+354
+00:23:11,245 --> 00:23:12,579
+Bagaimana denganmu? Kamu baik-baik saja?
+
+355
+00:23:12,663 --> 00:23:14,623
+[Dokyung] Ya, aku baik-baik saja.
+
+356
+00:23:14,707 --> 00:23:16,125
+Aku sangat senang.
+
+357
+00:23:16,208 --> 00:23:18,085
+Aku sangat mengkhawatirkanmu, Heeju.
+[klakson mobil berbunyi]
+
+358
+00:23:18,502 --> 00:23:20,379
+[Heeju] Bagaimana kamu bisa keluar
+dari rumah sakit?
+
+359
+00:23:21,255 --> 00:23:22,715
+[Dokyung] Aku melarikan diri.
+
+360
+00:23:22,798 --> 00:23:25,467
+Park mengetahui di mana peti mati itu berada
+dan aku tidak bisa menghubungimu.
+
+361
+00:23:26,468 --> 00:23:28,470
+Kamu sudah menerima pesanku, kan?
+
+362
+00:23:29,054 --> 00:23:30,347
+Dan kamu memindahkan semua batangan emas itu?
+
+363
+00:23:31,974 --> 00:23:34,059
+Sebenarnya, mungkin kita sebaiknya berbicara secara langsung.
+
+364
+00:23:34,143 --> 00:23:35,811
+Kamu di mana sekarang?
+Aku bisa datang menemuimu.
+
+365
+00:23:35,894 --> 00:23:37,146
+[menarik napas]
+
+366
+00:23:37,229 --> 00:23:39,189
+Eh, tidak, aku akan datang kepadamu.
+
+367
+00:23:39,273 --> 00:23:40,482
+Kamu sedang berada di mana sekarang?
+
+368
+00:23:41,191 --> 00:23:42,401
+[Dokyung] Aku masih di Yangpo.
+
+369
+00:23:44,820 --> 00:23:46,071
+Aku akan menemuimu di sana.
+
+370
+00:23:46,655 --> 00:23:49,074
+Pesan kamar hotel lalu kirimkan saja
+pesan kepada saya.
+
+371
+00:23:50,367 --> 00:23:53,495
+Saat ini agak berbahaya,
+jadi aku akan datang nanti malam.
+
+372
+00:23:56,540 --> 00:23:57,541
+Oke.
+
+373
+00:23:59,793 --> 00:24:04,631
+Eh, dan hei,
+di mana batangan emasnya sekarang?
+
+374
+00:24:08,969 --> 00:24:11,305
+Mari kita bertemu dulu.
+Nanti akan saya ceritakan.
+
+375
+00:24:12,306 --> 00:24:13,640
+[Dokyung] Oke.
+
+376
+00:24:14,683 --> 00:24:15,684
+[telepon berdering dan terputus]
+
+377
+00:24:22,149 --> 00:24:23,901
+[menghembuskan napas]
+
+378
+00:24:24,610 --> 00:24:26,070
+[Jinman] Apa ini?
+
+379
+00:24:31,408 --> 00:24:33,368
+Ah, serius?
+
+380
+00:24:34,036 --> 00:24:35,871
+Anda ingin membeli mobil, Pak?
+
+381
+00:24:36,705 --> 00:24:39,541
+Tidak, aku di sini untuk berbicara denganmu, Heo Donggu.
+
+382
+00:24:39,625 --> 00:24:42,586
+Kenapa kamu mau bicara denganku?
+Aku tidak melakukan kesalahan apa pun.
+
+383
+00:24:42,669 --> 00:24:43,879
+Ya, ya.
+
+384
+00:24:43,962 --> 00:24:45,547
+Baiklah, kita langsung masuk ke kantor saja?
+
+385
+00:24:48,300 --> 00:24:50,594
+Oh, bagus sekali. Sial.
+
+386
+00:24:50,677 --> 00:24:52,262
+KARTU REGISTRASI PENDUDUK
+JU HARAN
+
+387
+00:24:53,347 --> 00:24:54,348
+Ju Haran?
+
+388
+00:24:54,431 --> 00:24:55,557
+[Jinman] Bukan Kim Heeju?
+
+389
+00:24:56,391 --> 00:24:57,601
+Ya.
+
+390
+00:24:57,684 --> 00:24:59,478
+Kenapa, apakah dia menyebabkan semacam kecelakaan?
+
+391
+00:25:00,187 --> 00:25:01,939
+Yang saya lakukan hanyalah menjual mobil padanya.
+
+392
+00:25:02,022 --> 00:25:04,942
+Selain itu, aku tidak—aku tidak—
+aku tidak tahu apa pun tentang dia.
+
+393
+00:25:07,194 --> 00:25:09,905
+[Jinman] Yah, ini agak aneh.
+Pelakunya seorang wanita, kan?
+
+394
+00:25:12,658 --> 00:25:13,826
+-Ya.
+-[Jinman] Benarkah?
+
+395
+00:25:13,909 --> 00:25:16,120
+-[Donggu] Ya.
+-Lihat. Nama berbeda.
+
+396
+00:25:16,203 --> 00:25:19,039
+[Jinman] Jadi bukan Cha Yujin.
+Melainkan Kim Heeju.
+
+397
+00:25:19,123 --> 00:25:22,167
+Tunggu. Jadi, polisi sedang mencarinya
+?
+
+398
+00:25:22,251 --> 00:25:24,461
+ataukah orang-orang dari Geumseong?
+
+399
+00:25:24,545 --> 00:25:26,588
+Apakah Park ada di sini? Park Hocheol?
+
+400
+00:25:27,131 --> 00:25:29,675
+Park Hocheol?
+Bajingan keparat itu datang ke sini?
+
+401
+00:25:29,758 --> 00:25:33,095
+Tidak mungkin! Aku akan membunuh bajingan itu
+jika dia berani muncul di sini.
+
+402
+00:25:33,470 --> 00:25:34,471
+Yakin dia tidak akan membunuhmu?
+
+403
+00:25:34,555 --> 00:25:36,348
+[Donggu] Hei, bung, kau belum pernah
+melihatku memukul, kan?
+
+404
+00:25:36,431 --> 00:25:39,726
+Aku akan mengalahkannya. Apa,
+k-kau pikir aku ini orang lemah?
+
+405
+00:25:39,810 --> 00:25:43,188
+Memukul tidak ada artinya sama sekali
+ketika Park Hocheol mengacungkan pisau ke arahmu.
+
+406
+00:25:43,564 --> 00:25:45,065
+[Donggu] Tunggu sebentar.
+
+407
+00:25:45,149 --> 00:25:48,193
+Jika Park Hocheol terlibat,
+ini pasti tentang Geumseong.
+
+408
+00:25:48,944 --> 00:25:51,780
+Apakah wanita yang Anda cari itu
+mengambil sesuatu yang menjadi miliknya?
+
+409
+00:25:51,864 --> 00:25:53,699
+Hubungi saya saja jika Anda melihat Taman Hocheol.
+
+410
+00:25:53,782 --> 00:25:56,910
+Berapa kali harus kukatakan?
+Sudah kubilang dia tidak akan berani.
+
+411
+00:25:57,494 --> 00:25:59,663
+Baiklah.
+Begini, aku mengerti.
+
+412
+00:26:00,414 --> 00:26:03,000
+Jelas sekali kau tidak menyukainya sama sekali.
+Ingin membunuhnya, kan?
+
+413
+00:26:03,834 --> 00:26:06,170
+Tentu saja aku tahu.
+Kau lihat apa yang dilakukan bajingan itu pada telingaku?
+STYLE
+::cue()
+
+414
+00:26:07,921 --> 00:26:11,049
+PEGAJIAN HAENGBOK
+
+415
+00:26:11,133 --> 00:26:14,136
+[suara gemerisik]
+
+416
+00:26:15,762 --> 00:26:16,930
+[geraman]
+[batang emas berdentang]
+
+417
+00:26:17,431 --> 00:26:19,224
+[ponsel bergetar]
+
+418
+00:26:31,236 --> 00:26:33,155
+[Dokyung] Skyday, kamar 2014.
+
+419
+00:26:33,238 --> 00:26:35,115
+Mulai sekarang, Anda dapat menghubungi saya di nomor ini .
+
+420
+00:26:54,051 --> 00:26:55,093
+[bunyi bel pintu lift]
+
+421
+00:27:02,017 --> 00:27:03,894
+[Suara Otomatis Wanita] Lantai 23.
+
+422
+00:27:03,977 --> 00:27:05,395
+Pintu-pintu tertutup.
+
+423
+00:27:29,002 --> 00:27:30,879
+[Sina] 100 emas batangan sepuluh kilo?
+
+424
+00:27:30,963 --> 00:27:31,964
+[Dokyung] Ya.
+
+425
+00:27:32,756 --> 00:27:33,757
+[Sina] Dari mana sumbernya?
+
+426
+00:27:34,633 --> 00:27:35,634
+[Dokyung] Kamboja.
+
+427
+00:27:36,301 --> 00:27:38,804
+[Sina] Tunggu sebentar.
+Apakah ini tentang kebocoran baru-baru ini?
+
+428
+00:27:40,597 --> 00:27:41,598
+Ya.
+
+429
+00:27:43,725 --> 00:27:47,813
+Jadi, itu barang curian.
+Itu pernyataan yang berani.
+
+430
+00:27:48,438 --> 00:27:52,025
+[Dokyung] Yah, Interpol sudah kehilangan jejaknya.
+
+431
+00:27:52,109 --> 00:27:55,404
+Tidak ada catatan yang tersisa di akun mana pun.
+Semuanya bersih.
+
+432
+00:27:55,946 --> 00:28:01,451
+Dengan harga dua tahun lalu,
+saya rasa ini menguntungkan kedua belah pihak.
+
+433
+00:28:02,369 --> 00:28:04,329
+[Sina] Saya ingin
+melihat yang aslinya dulu.
+
+434
+00:28:05,956 --> 00:28:07,207
+Kapan kamu akan datang?
+
+435
+00:28:08,667 --> 00:28:10,002
+Nanti saya beritahu.
+
+436
+00:28:11,294 --> 00:28:12,295
+[Sina] Oke.
+
+437
+00:28:13,463 --> 00:28:14,923
+[menghembuskan napas]
+
+438
+00:28:24,683 --> 00:28:29,730
+DI MANA KAMU?
+TENTANG KAMBOJA...
+
+439
+00:28:29,813 --> 00:28:31,189
+PANGGILAN SUARA MASUK
+
+440
+00:28:32,024 --> 00:28:33,567
+Heeju, kamu di mana?
+
+441
+00:28:34,276 --> 00:28:36,486
+[Dokyung] Aku baru saja berbicara dengan orang-orang yang
+akan membeli emas kita.
+
+442
+00:28:37,279 --> 00:28:39,448
+Kita seharusnya bisa mendapatkan harga yang bagus
+untuk semua batang cokelat itu.
+
+443
+00:28:41,700 --> 00:28:43,452
+Kerja bagus, Heeju.
+
+444
+00:28:43,535 --> 00:28:44,619
+Semuanya sudah berakhir.
+
+445
+00:28:45,370 --> 00:28:47,706
+Kita bisa memulai hidup baru bersama.
+
+446
+00:28:47,789 --> 00:28:49,249
+[menarik napas dan menghembuskan napas]
+
+447
+00:28:51,334 --> 00:28:52,836
+Kamu masih di sana?
+
+448
+00:28:52,919 --> 00:28:54,379
+[Dokyung] Heeju, apa kau mendengarku?
+
+449
+00:28:55,922 --> 00:28:57,966
+-Aku di sini.
+-[Dokyung] Oke.
+
+450
+00:28:58,717 --> 00:28:59,968
+Kamu dengar apa yang kukatakan, kan?
+
+451
+00:29:01,678 --> 00:29:02,679
+[menarik napas]
+
+452
+00:29:03,722 --> 00:29:05,640
+Mereka membunuh Cha Yujin.
+
+453
+00:29:06,975 --> 00:29:08,685
+[Dokyung] Ya, aku tahu.
+
+454
+00:29:08,769 --> 00:29:11,104
+Si brengsek Park itu menelepon
+dan mencoba memeras saya.
+
+455
+00:29:13,231 --> 00:29:14,357
+[geraman]
+
+456
+00:29:16,234 --> 00:29:17,277
+Tapi tidak apa-apa.
+
+457
+00:29:18,070 --> 00:29:19,571
+[Dokyung] Kita tidak perlu
+khawatir tentang apa pun.
+
+458
+00:29:20,363 --> 00:29:24,367
+Saya punya kenalan lain di bagian keamanan bandara
+, jadi memindahkan emas itu seharusnya tidak menjadi masalah.
+
+459
+00:29:24,451 --> 00:29:26,536
+Para pembeli kami dari Kamboja mengatakan mereka
+juga akan membantu.
+
+460
+00:29:27,788 --> 00:29:29,706
+Cha Yujin menceritakan semuanya padaku.
+
+461
+00:29:29,790 --> 00:29:31,958
+Tentang bagaimana kalian berdua dulu bersama.
+
+462
+00:29:32,042 --> 00:29:33,752
+[Dokyung] Itu tidak berarti apa-apa, Heeju.
+
+463
+00:29:33,835 --> 00:29:36,046
+Aku tidak tahu apa yang dia katakan padamu,
+tapi kau berbeda.
+
+464
+00:29:36,129 --> 00:29:37,380
+Berbeda dengan kami.
+
+465
+00:29:37,464 --> 00:29:39,758
+Dia... dia bukan apa-apa bagiku.
+
+466
+00:29:39,841 --> 00:29:41,635
+Seseorang yang dekat denganmu baru saja meninggal dunia.
+
+467
+00:29:42,719 --> 00:29:45,430
+Dan tidak apa-apa karena ada orang lain
+yang bisa membantu pengirimannya?
+
+468
+00:29:47,516 --> 00:29:48,767
+[menghembuskan napas]
+
+469
+00:29:50,435 --> 00:29:51,728
+Kurasa kau benar.
+
+470
+00:29:53,313 --> 00:29:55,941
+Cha Yujin sama sekali tidak berarti apa-apa
+bagimu.
+
+471
+00:29:56,024 --> 00:29:57,776
+[Dokyung] Itulah yang coba
+kukatakan padamu.
+
+472
+00:29:57,859 --> 00:29:59,319
+Tidak ada orang lain yang penting.
+
+473
+00:29:59,402 --> 00:30:00,529
+[menghembuskan napas]
+GAYA
+::cue()
+
+474
+00:30:01,404 --> 00:30:02,948
+Kamu berbeda dari mereka semua.
+
+475
+00:30:07,619 --> 00:30:09,121
+[menarik napas]
+
+476
+00:30:12,874 --> 00:30:14,626
+Kurasa aku sudah keterlaluan.
+
+477
+00:30:16,086 --> 00:30:18,505
+[Dokyung] Di mana kau sekarang?
+Aku bisa mencarimu.
+
+478
+00:30:19,548 --> 00:30:21,299
+Sepertinya aku tidak bisa bertemu denganmu hari ini.
+
+479
+00:30:22,092 --> 00:30:24,469
+Maaf. Aku akan meneleponmu nanti.
+
+480
+00:30:26,263 --> 00:30:27,264
+[telepon berbunyi]
+
+481
+00:30:28,390 --> 00:30:29,391
+Tunggu.
+
+482
+00:30:31,935 --> 00:30:34,938
+[♪ musik dramatis]
+
+483
+00:31:01,464 --> 00:31:04,843
+RUMAH SAKIT GANGWON SAEBAEK
+
+484
+00:31:22,736 --> 00:31:23,987
+[Heeju menghembuskan napas]
+
+485
+00:31:30,869 --> 00:31:31,995
+[menghembuskan napas]
+
+486
+00:31:35,040 --> 00:31:36,041
+[Heeju menghela napas]
+
+487
+00:31:51,014 --> 00:31:52,515
+[Sunok] Apa yang telah kau lakukan?
+
+488
+00:31:55,727 --> 00:31:56,853
+Bibi.
+
+489
+00:31:59,522 --> 00:32:02,025
+Izinkan saya tidur di sini malam ini saja.
+
+490
+00:32:03,068 --> 00:32:05,111
+[menarik napas dan menghembuskan napas]
+
+491
+00:32:07,030 --> 00:32:08,573
+Aku sangat lelah.
+
+492
+00:32:13,453 --> 00:32:15,538
+[menarik napas dalam-dalam]
+
+493
+00:32:15,622 --> 00:32:16,915
+[Sunok] Begitulah adanya.
+
+494
+00:32:18,500 --> 00:32:20,335
+Kamu berbau seperti tambang batu bara.
+
+495
+00:32:25,173 --> 00:32:27,300
+Bau batubara lembap itu.
+
+496
+00:32:27,968 --> 00:32:29,177
+[Sunok menarik napas]
+
+497
+00:32:29,261 --> 00:32:31,638
+Yang biasa dipakai para penambang di pakaian mereka.
+
+498
+00:32:45,277 --> 00:32:48,280
+Bengkel Kerja JEIL
+
+499
+00:32:48,363 --> 00:32:51,366
+[rintik hujan]
+
+500
+00:33:01,209 --> 00:33:04,212
+[♪ musik menegangkan]
+
+501
+00:33:11,344 --> 00:33:13,972
+[pintu berderit]
+
+502
+00:33:24,733 --> 00:33:25,734
+Hoonseok?
+
+503
+00:33:29,279 --> 00:33:30,280
+Kamu yang membawanya.
+
+504
+00:33:33,199 --> 00:33:34,200
+Ya.
+
+505
+00:33:35,243 --> 00:33:37,537
+[Woogy] Dan sisa batangan emasnya.
+[kokang pistol]
+
+506
+00:33:39,497 --> 00:33:40,915
+Di mana mereka?
+
+507
+00:33:47,672 --> 00:33:49,966
+[bernapas berat]
+
+508
+00:33:50,050 --> 00:33:51,176
+[Woogy] Katakan padaku.
+
+509
+00:33:52,052 --> 00:33:53,636
+Di mana kamu menyembunyikan batangan emas itu?
+STYLE
+::cue()
+
+510
+00:33:55,430 --> 00:33:56,681
+Aku akan menembak.
+
+511
+00:33:58,433 --> 00:33:59,976
+Tiga.
+
+512
+00:34:03,063 --> 00:34:04,647
+[menarik napas tajam]
+
+513
+00:34:04,731 --> 00:34:06,024
+[Woogy] Dua.
+
+514
+00:34:06,900 --> 00:34:08,234
+Satu.
+
+515
+00:34:10,737 --> 00:34:11,738
+[klik pistol]
+
+516
+00:34:17,077 --> 00:34:18,244
+Bagus.
+
+517
+00:34:18,328 --> 00:34:20,205
+[Woogy] Bagus, sekarang kau mengerti.
+Apa pun yang terjadi,
+
+518
+00:34:20,288 --> 00:34:22,665
+Kamu tidak pernah memberitahu siapa pun di mana letak bar-bar itu.
+
+519
+00:34:23,625 --> 00:34:26,044
+Serius, Heeju,
+kalau aku mau, aku bisa saja...
+
+520
+00:34:26,878 --> 00:34:29,172
+...Maksudku, bagaimana mungkin kau
+sampai berpikir untuk mengkhianatiku seperti itu?
+
+521
+00:34:32,217 --> 00:34:33,259
+[menarik napas]
+
+522
+00:34:34,052 --> 00:34:35,261
+[menghembuskan napas]
+
+523
+00:34:40,850 --> 00:34:41,976
+[Woogy] Lihat.
+
+524
+00:34:42,727 --> 00:34:44,270
+Kentang inilah yang menyelamatkan hidupmu.
+
+525
+00:34:45,230 --> 00:34:46,314
+[menghembuskan napas]
+
+526
+00:34:46,981 --> 00:34:48,983
+Jadi, apakah kamu bertemu dengan Lee Dokyung?
+
+527
+00:34:50,318 --> 00:34:51,403
+Saya tidak.
+
+528
+00:34:53,154 --> 00:34:54,155
+Mengapa tidak?
+
+529
+00:34:55,573 --> 00:34:57,409
+Karena aku tidak bisa mempercayai siapa pun.
+
+530
+00:34:57,909 --> 00:34:59,411
+Tidak lagi.
+
+531
+00:35:00,328 --> 00:35:01,454
+Tunggu sebentar.
+
+532
+00:35:02,997 --> 00:35:05,875
+Jadi kamu tidak jadi pacaran sama Lee Dokyung?
+Apa kalian sudah putus?
+
+533
+00:35:07,794 --> 00:35:11,589
+[Woogy] Ya! Bagus sekali, Heeju!
+Akhirnya kau berhasil!
+
+534
+00:35:12,298 --> 00:35:14,426
+Sial, kau tidak bisa mempercayai orang seperti dia!
+
+535
+00:35:14,509 --> 00:35:17,303
+Heh, aku sudah mencoba memberitahumu hal itu
+sejak awal, dan aku-
+
+536
+00:35:17,387 --> 00:35:18,388
+Tunggu sebentar.
+
+537
+00:35:19,514 --> 00:35:22,100
+Intinya,
+kamu masih memiliki semua batangan emas itu.
+
+538
+00:35:22,726 --> 00:35:24,436
+[Woogy] Apakah Dokyung benar-benar
+akan pergi begitu saja?
+
+539
+00:35:25,061 --> 00:35:27,230
+Ah, sial.
+Apakah aku harus membunuhnya?
+
+540
+00:35:27,814 --> 00:35:29,941
+Jangan berpikir bahwa aku juga mempercayaimu.
+
+541
+00:35:31,735 --> 00:35:32,736
+Oke.
+
+542
+00:35:34,028 --> 00:35:35,029
+Bersikaplah seperti itu.
+
+543
+00:35:35,530 --> 00:35:36,531
+[Woogy] Kau hanya memanfaatkan aku.
+
+544
+00:35:37,198 --> 00:35:38,450
+Teruslah memanfaatkan saya.
+
+545
+00:35:39,451 --> 00:35:40,869
+Sebanyak yang kamu mau.
+
+546
+00:35:41,453 --> 00:35:42,912
+[Woogy] Senang bisa membantu.
+
+547
+00:35:43,580 --> 00:35:47,208
+Untuk setiap dua batang cokelat seberat sepuluh kilo,
+saya mendapatkan satu batang cokelat seberat satu kilo.
+
+548
+00:35:47,292 --> 00:35:48,293
+Hanya satu.
+
+549
+00:35:48,877 --> 00:35:50,378
+Tidak terlalu banyak, kan?
+[tertawa kecil]
+
+550
+00:35:51,045 --> 00:35:52,922
+[Woogy] Oh, ya. Itu mengingatkan saya.
+
+551
+00:35:53,298 --> 00:35:56,176
+Saya sudah menghitungnya dan sepertinya kita membutuhkan waktu
+sekitar enam bulan untuk menjual semuanya.
+
+552
+00:35:56,676 --> 00:35:57,677
+Enam.
+
+553
+00:35:58,470 --> 00:36:00,805
+[menarik napas dan menghembuskan napas]
+
+554
+00:36:00,889 --> 00:36:02,348
+Park sekarang sudah tahu tentangku.
+
+555
+00:36:02,432 --> 00:36:04,851
+Itu berarti sebentar lagi seluruh perusahaan Anda juga akan
+demikian.
+
+556
+00:36:04,934 --> 00:36:07,270
+Belum lagi polisi yang ikut campur.
+
+557
+00:36:08,813 --> 00:36:10,774
+Dan kau bilang kita harus
+bertahan enam bulan lagi?
+
+558
+00:36:10,857 --> 00:36:12,984
+Tidak.
+Mereka tidak tahu.
+
+559
+00:36:13,401 --> 00:36:15,153
+[Woogy] Park? Dia tidak tahu.
+
+560
+00:36:17,113 --> 00:36:19,282
+Cha Yujin pasti sudah memberi tahu Park tentangku.
+
+561
+00:36:19,824 --> 00:36:22,243
+Batangan emas itu, semuanya.
+Dia pasti tahu.
+
+562
+00:36:25,038 --> 00:36:26,664
+Seandainya Park tahu itu kamu,
+
+563
+00:36:26,748 --> 00:36:28,583
+Dia tidak akan pergi ke tambang.
+
+564
+00:36:28,958 --> 00:36:30,668
+Dia pasti sudah pergi ke pegadaian.
+
+565
+00:36:32,670 --> 00:36:35,089
+Jadi sekarang, inilah pertanyaan sebenarnya.
+
+566
+00:36:35,173 --> 00:36:36,216
+[geraman]
+
+567
+00:36:37,467 --> 00:36:40,345
+Park sendirian. Mengapa?
+
+568
+00:36:40,845 --> 00:36:42,555
+Setelah dia membunuh Cha Yujin,
+
+569
+00:36:42,639 --> 00:36:45,016
+Dia pergi ke tambang sendirian
+tanpa memberi tahu siapa pun.
+
+570
+00:36:45,099 --> 00:36:46,100
+[Woogy] Mengapa dia melakukan itu?
+
+571
+00:36:49,020 --> 00:36:50,188
+Karena dengan cara itu...
+
+572
+00:36:51,940 --> 00:36:54,943
+-...dia bisa menyimpan semua emas itu.
+-Tepat sekali.
+
+573
+00:36:55,568 --> 00:36:57,278
+Dan dia tidak ingin Ketua Ahn
+mengetahuinya.
+
+574
+00:36:57,362 --> 00:36:58,404
+Ketua Ahn?
+
+575
+00:36:59,948 --> 00:37:00,949
+Pemilik emas yang sebenarnya.
+
+576
+00:37:03,743 --> 00:37:06,162
+Kursi Geumseong,
+Ahn Gyuseok.
+
+577
+00:37:07,247 --> 00:37:09,624
+[Woogy] Ketua Ahn kembali
+ke Korea hari ini.
+
+578
+00:37:11,334 --> 00:37:13,044
+Dan itu artinya Park dalam masalah besar.
+
+579
+00:37:14,212 --> 00:37:15,213
+Selamat datang kembali, Ketua.
+
+580
+00:37:15,296 --> 00:37:16,631
+[Semua] Selamat datang kembali, Pak!
+
+581
+00:37:17,382 --> 00:37:20,593
+[Gyuseok] Ini adalah mitra kami
+dari Kamboja. Para eksekutif kami.
+
+582
+00:37:20,677 --> 00:37:22,136
+-Perkenalkan diri kalian.
+-Baik, Pak.
+
+583
+00:37:22,220 --> 00:37:24,430
+-Direktur Jo.
+-Terima kasih telah datang jauh-jauh ke sini.
+
+584
+00:37:24,514 --> 00:37:26,224
+Jagalah orang-orang ini, lindungi mereka.
+
+585
+00:37:26,307 --> 00:37:27,767
+-Senang bertemu denganmu.
+-Berikan saja apa pun yang mereka inginkan.
+
+586
+00:37:27,851 --> 00:37:29,686
+-Anda mengerti? Hanya yang terbaik.
+-Tentu, Pak.
+
+587
+00:37:29,769 --> 00:37:31,020
+[Jo] Silakan lewat sini.
+
+588
+00:37:33,731 --> 00:37:34,941
+-Kemarilah.
+-Tuan.
+
+589
+00:37:35,024 --> 00:37:36,067
+Apa ini?
+
+590
+00:37:37,026 --> 00:37:38,111
+Bersikaplah lebih halus.
+
+591
+00:37:39,237 --> 00:37:40,864
+Mohon maaf.
+STYLE
+::cue()
+
+592
+00:37:45,076 --> 00:37:48,079
+[burung berkicau]
+
+593
+00:37:52,917 --> 00:37:54,127
+Hei, tancap gas.
+
+594
+00:37:54,627 --> 00:37:58,131
+Perutku mulai sakit
+karena semua makanan berminyak yang kumakan tadi.
+
+595
+00:37:59,007 --> 00:38:00,133
+[menghembuskan napas]
+
+596
+00:38:04,429 --> 00:38:06,598
+Apakah aku benar-benar harus menanyakan hal itu?
+
+597
+00:38:07,473 --> 00:38:08,766
+Baik, benar.
+
+598
+00:38:10,935 --> 00:38:13,688
+-Jadi, Lee Dokyung, dia-
+-Berhasil melarikan diri dari rumah sakit.
+
+599
+00:38:16,649 --> 00:38:18,109
+Kamu bercanda, kan?
+
+600
+00:38:18,192 --> 00:38:20,236
+Mengapa aku harus mendengar itu
+dari orang lain?
+
+601
+00:38:20,320 --> 00:38:21,905
+Sepertinya kamu memiliki jadwal yang padat,
+
+602
+00:38:21,988 --> 00:38:24,741
+Jadi, aku berencana melaporkannya
+padamu saat kau kembali.
+
+603
+00:38:24,824 --> 00:38:27,076
+Kamu tidak membuat keputusan untukku.
+
+604
+00:38:27,160 --> 00:38:28,536
+Baik, Pak.
+
+605
+00:38:30,496 --> 00:38:31,581
+Jadi, peti mati itu.
+
+606
+00:38:32,123 --> 00:38:34,500
+Apakah itu menunggu kita di hotel?
+
+607
+00:38:35,793 --> 00:38:37,337
+Maaf, Pak.
+
+608
+00:38:38,546 --> 00:38:40,882
+Cukup sudah dengan permintaan maaf
+"Aku minta maaf" yang berlebihan itu.
+
+609
+00:38:43,009 --> 00:38:45,136
+Seharusnya kamu sudah lebih mengenalku
+daripada siapa pun sekarang.
+
+610
+00:38:46,262 --> 00:38:48,765
+Apakah aku pernah mengatakan sesuatu tentang semua
+omong kosong ini?
+
+611
+00:38:48,848 --> 00:38:51,309
+atau cara kalian saling menusuk dari
+belakang?
+
+612
+00:38:51,851 --> 00:38:54,228
+Hanya ada satu hal yang tidak bisa saya maafkan.
+
+613
+00:38:54,312 --> 00:38:57,398
+Dan itu termasuk segala bentuk kerusakan pada perusahaan.
+Saya tidak akan membiarkan itu terjadi.
+
+614
+00:38:59,400 --> 00:39:00,652
+Saya bertanggung jawab.
+
+615
+00:39:02,195 --> 00:39:03,529
+Saya akan menemukan peti matinya, Pak.
+
+616
+00:39:06,157 --> 00:39:07,408
+Sekarang sudah terlambat.
+
+617
+00:39:13,539 --> 00:39:16,542
+[♪ musik menegangkan]
+
+618
+00:39:21,005 --> 00:39:24,467
+Konstruksi Hotel & Resort HS
+
+619
+00:39:24,550 --> 00:39:26,302
+[erangan]
+
+620
+00:39:29,555 --> 00:39:31,683
+[rintihan]
+
+621
+00:39:42,527 --> 00:39:45,738
+[Gyuseok] Hmm, kau tahu, mungkin kita menggali
+terlalu dalam.
+
+622
+00:39:45,822 --> 00:39:46,948
+[geraman]
+
+623
+00:39:47,031 --> 00:39:48,199
+Hei, Taman Hocheol.
+
+624
+00:39:50,368 --> 00:39:53,079
+[Gyuseok] Lihat di mana kau berada.
+Sial.
+
+625
+00:39:53,162 --> 00:39:54,539
+Pikirkan baik-baik sekarang.
+
+626
+00:39:56,499 --> 00:39:58,835
+Bagaimana kamu tahu apa yang ada di dalam peti mati itu?
+
+627
+00:39:59,377 --> 00:40:00,962
+Kim Jinman, dia...
+
+628
+00:40:01,921 --> 00:40:03,172
+...katanya padaku.
+
+629
+00:40:03,881 --> 00:40:05,133
+Ah.
+
+630
+00:40:05,216 --> 00:40:07,760
+Jadi polisi sudah mengetahuinya.
+
+631
+00:40:08,928 --> 00:40:10,972
+Dan kau memutuskan untuk tidak memberitahuku.
+
+632
+00:40:11,556 --> 00:40:13,016
+Kamu tidak membahasnya.
+
+633
+00:40:13,433 --> 00:40:14,434
+Jadi itu artinya-
+
+634
+00:40:14,517 --> 00:40:16,811
+[batuk]
+
+635
+00:40:16,894 --> 00:40:18,646
+[mual]
+
+636
+00:40:18,730 --> 00:40:20,857
+Jadi itu berarti aku tidak bisa-
+
+637
+00:40:20,940 --> 00:40:22,108
+Aku tidak bisa memberitahumu.
+
+638
+00:40:22,191 --> 00:40:24,068
+[mual]
+
+639
+00:40:24,152 --> 00:40:26,279
+[Gyuseok] Bukan itu alasannya.
+
+640
+00:40:26,362 --> 00:40:29,532
+Kalau tidak, Anda pasti sudah
+menanyakannya langsung kepada saya.
+
+641
+00:40:31,367 --> 00:40:33,786
+[Gyuseok] Apakah kau berencana menemukannya
+dan mengambilnya untuk dirimu sendiri?
+
+642
+00:40:33,870 --> 00:40:35,329
+[percikan]
+
+643
+00:40:35,413 --> 00:40:37,915
+[Gyuseok] Atau kau sudah melakukannya,
+dan sekarang kau berbohong?
+
+644
+00:40:38,249 --> 00:40:40,084
+Apakah kau merencanakan ini bersama Lee Dokyung?
+
+645
+00:40:41,252 --> 00:40:43,129
+Tidak. Tidak, Pak.
+
+646
+00:40:43,212 --> 00:40:44,422
+[Gyuseok] Benar.
+
+647
+00:40:44,505 --> 00:40:46,841
+Karena jika kau melakukannya,
+kau tidak akan masih berada di Geumseong.
+
+648
+00:40:47,425 --> 00:40:50,386
+[dengkur]
+
+649
+00:40:51,804 --> 00:40:53,931
+Anda mungkin sudah melarikan diri.
+
+650
+00:40:55,600 --> 00:40:57,518
+[Gyuseok] Jangan ikut campur urusan
+peti mati.
+
+651
+00:40:58,728 --> 00:41:01,731
+Kembali ke Yes Money
+dan terus lakukan apa yang biasa Anda lakukan.
+STYLE
+::cue()
+
+652
+00:41:03,274 --> 00:41:05,693
+[Gyuseok] Sampaikan salam kepada para pemegang saham
+di Gold Land.
+
+653
+00:41:05,777 --> 00:41:07,487
+Suruh mereka menandatangani kontrak itu.
+
+654
+00:41:08,988 --> 00:41:12,825
+Ya, semakin saya memikirkannya,
+memang hanya itu yang cocok untuk Anda.
+
+655
+00:41:12,909 --> 00:41:14,994
+[Hocheol bernapas tidak teratur]
+
+656
+00:41:15,078 --> 00:41:16,287
+Usir dia.
+
+657
+00:41:18,164 --> 00:41:21,667
+Sial, aku pasti sudah mulai tua sekarang.
+Aku jadi agak lembek, ya?
+
+658
+00:41:24,879 --> 00:41:26,589
+[Woojin] Kau tahu apa?
+[bunyi klik korek api]
+
+659
+00:41:27,507 --> 00:41:29,717
+Seharusnya kamu melaporkan
+semuanya ini sejak awal.
+
+660
+00:41:29,801 --> 00:41:32,261
+Seharusnya bisa menghindari kemarahan Ketua.
+
+661
+00:41:34,013 --> 00:41:35,515
+[menarik napas]
+
+662
+00:41:36,015 --> 00:41:38,017
+Pada akhirnya kamu cukup beruntung.
+
+663
+00:41:38,434 --> 00:41:40,311
+[Woojin] Maksudku, dia ingin
+memotong telingamu.
+
+664
+00:41:40,394 --> 00:41:41,813
+Aku hampir tidak berhasil membujuknya untuk mengurungkan niatnya.
+
+665
+00:41:42,855 --> 00:41:44,899
+Mm, mulai sekarang,
+
+666
+00:41:44,982 --> 00:41:47,401
+Sebaiknya kau tetap bersikap rendah diri
+di Yes Money. Berikan itu padaku.
+
+667
+00:41:48,111 --> 00:41:50,738
+Aku akan mengurus batangan emasnya, oke?
+Ini.
+
+668
+00:41:51,239 --> 00:41:52,406
+Ayo, Park.
+
+669
+00:41:53,449 --> 00:41:55,618
+Bagaimana kamu tahu tentang batangan emas itu?
+
+670
+00:41:56,619 --> 00:41:58,663
+Saat itu aku berada di Yangpo, kan?
+
+671
+00:41:58,746 --> 00:42:00,289
+[tertawa]
+
+672
+00:42:00,373 --> 00:42:02,625
+Aku yang mengirim peti mati itu.
+Aku selalu tahu.
+
+673
+00:42:03,292 --> 00:42:06,796
+[Woojin] Kau sudah kehilangan sentuhanmu,
+kau tahu itu?
+
+674
+00:42:06,879 --> 00:42:08,965
+[Woojin menghisap rokok]
+
+675
+00:42:09,048 --> 00:42:10,675
+Kamu tidak tahu tempatmu.
+
+676
+00:42:11,634 --> 00:42:13,136
+Hei, ini dia.
+
+677
+00:42:13,219 --> 00:42:14,470
+[suara sekop berdentang]
+
+678
+00:42:14,554 --> 00:42:15,847
+Semoga berhasil keluar dari sana!
+
+679
+00:42:16,681 --> 00:42:18,182
+[pintu mobil menutup]
+
+680
+00:42:18,266 --> 00:42:21,269
+[suara deru mesin]
+
+681
+00:42:37,785 --> 00:42:39,203
+[geraman]
+
+682
+00:42:41,372 --> 00:42:44,375
+[dengkur]
+
+683
+00:42:44,458 --> 00:42:46,544
+[bernapas berat]
+
+684
+00:43:06,397 --> 00:43:09,400
+[suara obor bergemuruh]
+
+685
+00:43:09,483 --> 00:43:11,235
+[Heeju] Park bukan satu-satunya.
+
+686
+00:43:11,736 --> 00:43:13,613
+Kurasa ada orang lain yang juga melihatku.
+
+687
+00:43:13,696 --> 00:43:15,239
+Apa maksudmu?
+Siapa yang melihatmu?
+
+688
+00:43:16,532 --> 00:43:17,533
+Kim Jinman.
+
+689
+00:43:19,160 --> 00:43:21,704
+Saya rasa dia melihat saya masuk
+ke mobil saya malam itu.
+
+690
+00:43:22,955 --> 00:43:26,167
+Saat aku melarikan diri dari
+klub malam Jeongsan bersama Cha Yujin.
+
+691
+00:43:26,250 --> 00:43:27,919
+Dengarkan aku! Buka pintunya!
+
+692
+00:43:28,002 --> 00:43:30,129
+Lihat, lihat, lihat!
+Turunkan, turunkan, turunkan jendela mobilmu!
+
+693
+00:43:30,213 --> 00:43:32,548
+Dia pasti tidak melihatmu
+karena jika tidak, dia pasti sudah melaporkanmu.
+
+694
+00:43:32,632 --> 00:43:34,050
+ke perusahaan saya segera.
+
+695
+00:43:35,092 --> 00:43:36,385
+Ya, tapi kau tahu...
+
+696
+00:43:37,261 --> 00:43:40,306
+...bagaimana jika dia tidak mengatakan apa pun
+karena dia menginginkan emas itu untuk dirinya sendiri?
+
+697
+00:43:40,389 --> 00:43:42,308
+Park juga tidak mengatakan apa pun.
+
+698
+00:43:42,391 --> 00:43:44,018
+Ah, sial.
+
+699
+00:43:46,854 --> 00:43:47,855
+Hai.
+
+700
+00:43:48,522 --> 00:43:51,400
+Ponsel dan kartu kredit lamamu.
+Kamu sudah membuangnya, kan?
+
+701
+00:43:53,986 --> 00:43:55,613
+Kalau begitu, kamu tidak punya pilihan.
+
+702
+00:43:57,615 --> 00:43:59,742
+Kamu harus menjadi Ju Haran
+seumur hidupmu.
+
+703
+00:44:00,409 --> 00:44:02,453
+[menghembuskan napas tajam]
+
+704
+00:44:02,536 --> 00:44:04,330
+Jangan khawatir soal itu.
+
+705
+00:44:05,373 --> 00:44:06,832
+Jika Detektif Kim mengetahuinya...
+
+706
+00:44:07,583 --> 00:44:09,293
+...kalau begitu aku akan langsung pergi
+dan membunuhnya untukmu.
+
+707
+00:44:10,795 --> 00:44:12,463
+[Woogy] Kalau begitu, kamu bisa memberiku
+kentang tambahan.
+
+708
+00:44:14,507 --> 00:44:15,508
+Setuju?
+GAYA
+::cue()
+
+709
+00:44:19,470 --> 00:44:20,471
+[Jinman] Halo.
+
+710
+00:44:20,554 --> 00:44:23,557
+[suara sirene meraung di kejauhan]
+
+711
+00:44:28,980 --> 00:44:30,690
+Hai.
+
+712
+00:44:31,357 --> 00:44:33,150
+Eh, kamar lima.
+
+713
+00:44:33,234 --> 00:44:35,194
+Apakah Yeo Sunok sudah keluar dari rumah sakit?
+
+714
+00:44:35,278 --> 00:44:37,905
+Eh, tidak. Dia dipindahkan
+ke kamar pribadi.
+
+715
+00:44:38,531 --> 00:44:39,699
+-Dia siapa?
+-[Perawat Wanita] Ya.
+
+716
+00:44:41,951 --> 00:44:43,411
+[Miya] Wah, cantik sekali!
+
+717
+00:44:44,161 --> 00:44:45,663
+[Mija tertawa]
+[pintu geser terbuka]
+
+718
+00:44:45,746 --> 00:44:47,331
+Nah, di sini.
+
+719
+00:44:47,415 --> 00:44:48,582
+[Mia] Ah!
+
+720
+00:44:48,666 --> 00:44:51,460
+Oh, wow.
+Kamar yang bagus sekali.
+
+721
+00:44:51,544 --> 00:44:52,586
+-Hah?
+-[Mija] Maaf, siapa-
+
+722
+00:44:52,670 --> 00:44:54,839
+-[Jinman] Pasti mahal sekali.
+-[Mija] Siapakah kamu?
+
+723
+00:44:55,172 --> 00:44:56,173
+[Keduanya] Oh.
+
+724
+00:44:56,257 --> 00:44:57,383
+Apakah dia dari ruang gawat darurat?
+
+725
+00:44:57,883 --> 00:45:00,386
+-Bisakah kau beri kami waktu sebentar?
+-[Mija] Hmm?
+
+726
+00:45:02,096 --> 00:45:03,097
+Oh.
+
+727
+00:45:06,225 --> 00:45:09,729
+[Jinman] Ini benar-benar ruangan yang bagus.
+Wow.
+
+728
+00:45:09,812 --> 00:45:10,980
+[Jinman berdeham]
+
+729
+00:45:11,063 --> 00:45:13,649
+[Jinman] Kapan kau dimasukkan ke sini?
+Astaga, lihat pemandangan ini.
+
+730
+00:45:14,358 --> 00:45:15,943
+Bukankah itu terlalu mahal?
+
+731
+00:45:16,444 --> 00:45:17,528
+Mengapa kamu di sini?
+
+732
+00:45:17,611 --> 00:45:19,530
+Sekadar ingin menyapa
+teman lama.
+
+733
+00:45:19,613 --> 00:45:20,740
+Apakah seorang pria tidak bisa melakukan itu?
+
+734
+00:45:20,823 --> 00:45:23,743
+Siapa tahu?
+Mungkin kita tidak punya banyak waktu lagi.
+
+735
+00:45:24,577 --> 00:45:26,662
+Aku tidak hanya membicarakanmu.
+
+736
+00:45:26,746 --> 00:45:30,333
+Maksudku, di usia kita, siapa yang tidak punya
+penyakit atau masalah lain semacamnya?
+
+737
+00:45:30,416 --> 00:45:32,126
+Saya mengidap diabetes.
+
+738
+00:45:32,209 --> 00:45:33,794
+[Jinman] Dan kondisi hati saya juga tidak baik.
+
+739
+00:45:33,878 --> 00:45:36,213
+Aku bisa pergi kapan saja sekarang, lho?
+
+740
+00:45:36,297 --> 00:45:38,341
+[menarik napas dan menghembuskan napas dengan tajam]
+
+741
+00:45:39,592 --> 00:45:40,801
+Hai.
+
+742
+00:45:40,885 --> 00:45:42,595
+Aneh kan kalau kita berdua tinggal di Jeongsan?
+
+743
+00:45:42,678 --> 00:45:44,764
+Tapi kita belum pernah bertemu
+sebelumnya?
+
+744
+00:45:44,847 --> 00:45:46,891
+[Sunok] Lebih tepatnya, kami berpura-pura tidak melakukannya.
+
+745
+00:45:47,641 --> 00:45:49,685
+Aku pernah melihatmu beberapa kali.
+
+746
+00:45:49,769 --> 00:45:50,936
+Mengapa kamu tidak mengatakan apa-apa?
+
+747
+00:45:51,687 --> 00:45:52,938
+[mencemooh]
+
+748
+00:45:53,022 --> 00:45:54,482
+Apa gunanya itu?
+
+749
+00:45:55,399 --> 00:45:57,234
+Tidak ada lagi yang tersisa di antara kita.
+
+750
+00:45:57,318 --> 00:45:58,319
+[mencemooh]
+
+751
+00:45:58,944 --> 00:45:59,945
+[berdehem]
+
+752
+00:46:00,446 --> 00:46:01,447
+Dan suamimu?
+
+753
+00:46:02,239 --> 00:46:03,366
+[Jinman] Apakah dia datang menemuimu?
+
+754
+00:46:04,492 --> 00:46:06,035
+Tidak, dia belum.
+
+755
+00:46:06,994 --> 00:46:09,080
+Meskipun begitu, dia tetap tidak terlihat seperti
+orang yang jahat.
+
+756
+00:46:09,163 --> 00:46:10,498
+Maksudku, dia bahkan mencabut tuntutannya...
+
+757
+00:46:12,041 --> 00:46:13,209
+[menarik napas]
+
+758
+00:46:13,292 --> 00:46:15,669
+Jika kamu sudah selesai menyapa,
+sebaiknya kamu pergi saja.
+
+759
+00:46:16,379 --> 00:46:19,382
+Daripada berlama-lama di sini,
+mengungkit-ungkit kenangan lama.
+
+760
+00:46:19,465 --> 00:46:21,550
+Ah, ayolah.
+Jangan bersikap seperti itu.
+
+761
+00:46:23,552 --> 00:46:25,137
+Oh, ngomong-ngomong.
+Siapa Ju Haran?
+
+762
+00:46:25,930 --> 00:46:28,641
+Saya bertanya di meja resepsionis
+dan resepsionis itu mengatakan Ju Haran.
+
+763
+00:46:28,724 --> 00:46:30,810
+Dia adalah walimu,
+tapi kukira itu Han Cheoljung.
+
+764
+00:46:31,727 --> 00:46:32,728
+Aku tidak tahu.
+
+765
+00:46:32,812 --> 00:46:34,271
+Apa maksudmu?
+Itu walimu.
+
+766
+00:46:34,355 --> 00:46:35,731
+Jangan bilang kamu tidak tahu.
+
+767
+00:46:37,983 --> 00:46:39,193
+Tunggu di sini.
+
+768
+00:46:40,486 --> 00:46:41,487
+Lihat ini.
+
+769
+00:46:42,363 --> 00:46:43,364
+[Jinman] Itu dia.
+
+770
+00:46:44,031 --> 00:46:45,116
+Ya.
+
+771
+00:46:45,825 --> 00:46:46,826
+Benar?
+
+772
+00:46:47,868 --> 00:46:49,829
+Pasti begitu. Ya.
+
+773
+00:46:49,912 --> 00:46:52,706
+Aku ingat pernah melihatnya di sini beberapa hari yang lalu
+saat aku berkunjung ke tempatmu.
+
+774
+00:46:53,666 --> 00:46:54,959
+[Jinman] Dia, kan?
+
+775
+00:46:55,042 --> 00:46:56,377
+[menarik napas]
+
+776
+00:46:56,460 --> 00:46:57,753
+Tapi kemudian aku berpikir,
+
+777
+00:46:57,837 --> 00:47:01,006
+"Nama wanita ini Kim Heeju, kan?"
+
+778
+00:47:01,632 --> 00:47:02,675
+Siapakah dia?
+
+779
+00:47:02,758 --> 00:47:03,801
+Putrimu?
+
+780
+00:47:04,885 --> 00:47:05,886
+TIDAK.
+
+781
+00:47:06,345 --> 00:47:07,596
+Keponakanku.
+
+782
+00:47:07,680 --> 00:47:08,722
+Keponakanmu?
+
+783
+00:47:09,473 --> 00:47:11,308
+Aku tidak tahu kalau kamu punya keponakan perempuan.
+
+784
+00:47:11,851 --> 00:47:14,061
+-Ya, benar.
+-[Jinman] Begitu.
+
+785
+00:47:14,645 --> 00:47:18,107
+Oh, jadi keponakanmu
+itu pasti orang yang cukup kaya, ya?
+
+786
+00:47:19,066 --> 00:47:20,401
+Dia yang membantumu masuk ke ruangan mewah ini.
+
+787
+00:47:20,484 --> 00:47:21,777
+dan sudah mengurus
+tagihan rumah sakit Anda.
+
+788
+00:47:23,237 --> 00:47:24,530
+[Jinman] Di mana dia tinggal?
+
+789
+00:47:24,613 --> 00:47:25,906
+Jeongsan?
+
+790
+00:47:25,990 --> 00:47:27,408
+Kapan dia kembali?
+
+791
+00:47:28,367 --> 00:47:29,368
+Aku tidak tahu.
+
+792
+00:47:30,661 --> 00:47:33,080
+Dia mampir ketika mendengar saya sakit.
+
+793
+00:47:33,789 --> 00:47:34,874
+Mengapa kamu bertanya?
+
+794
+00:47:35,916 --> 00:47:38,669
+Mengapa kamu ingin tahu kapan dia akan datang?
+
+795
+00:47:38,752 --> 00:47:41,213
+Nah, Anda bilang dia keponakan Anda,
+jadi saya ingin bertemu dengannya.
+
+796
+00:47:42,047 --> 00:47:43,340
+Apa? Mengapa?
+
+797
+00:47:43,924 --> 00:47:45,593
+Apakah dia berjudi atau semacamnya?
+
+798
+00:47:46,093 --> 00:47:47,303
+Apakah dia sedang dalam masalah?
+
+799
+00:47:47,386 --> 00:47:48,387
+TIDAK.
+
+800
+00:47:49,180 --> 00:47:50,389
+[Sunok] Lalu...
+
+801
+00:47:51,056 --> 00:47:53,309
+...apakah dia membunuh seseorang
+atau semacamnya?
+
+802
+00:47:53,726 --> 00:47:56,312
+Ayolah.
+Sungguh hal yang mengerikan untuk dikatakan.
+
+803
+00:47:56,395 --> 00:47:57,771
+Tidak seperti itu.
+
+804
+00:47:57,855 --> 00:47:59,732
+[Jinman] Tidak, dia hanya meminjam uang.
+
+805
+00:48:00,733 --> 00:48:02,318
+-Berapa harganya?
+-[Jinman] Mahal sekali.
+
+806
+00:48:02,401 --> 00:48:03,903
+Sebenarnya...
+
+807
+00:48:04,695 --> 00:48:06,280
+...ini bukan hanya tentang uang.
+
+808
+00:48:07,072 --> 00:48:09,742
+Meskipun saya tidak ingin seseorang seusianya
+sampai memiliki catatan kriminal.
+
+809
+00:48:10,201 --> 00:48:11,994
+[Jinman] Belum terlambat baginya
+untuk mengembalikan uang itu.
+
+810
+00:48:12,077 --> 00:48:13,996
+Atau jika itu tidak memungkinkan,
+
+811
+00:48:14,079 --> 00:48:16,332
+maka setidaknya dia bisa mencoba mencapai semacam kesepakatan.
+
+812
+00:48:16,415 --> 00:48:19,376
+Sepertinya dia mematikan ponselnya,
+lalu menghilang.
+
+813
+00:48:20,503 --> 00:48:21,670
+[Jinman] Itulah mengapa aku membawanya ke sini.
+
+814
+00:48:22,171 --> 00:48:24,423
+Jadi jika dia meneleponmu atau datang berkunjung,
+
+815
+00:48:24,507 --> 00:48:26,008
+Pastikan untuk memberi tahu saya.
+
+816
+00:48:26,634 --> 00:48:28,636
+Saya akan dengan senang hati
+membantunya menyelesaikan masalah ini.
+
+817
+00:48:28,719 --> 00:48:29,845
+[Jinman] Baik-baik saja?
+
+818
+00:48:30,387 --> 00:48:31,722
+Tapi jangan bilang padanya kalau aku ada di sini.
+
+819
+00:48:31,805 --> 00:48:34,225
+Jika dia tahu polisi terlibat,
+dia tidak akan datang.
+
+820
+00:48:37,645 --> 00:48:41,273
+Tidak ada yang perlu dikhawatirkan, hmm?
+Aku tidak akan melakukan apa pun pada keponakanmu.
+
+821
+00:48:41,732 --> 00:48:44,443
+-[Jinman] Telepon aku, oke?
+-[Perawat Wanita] Nona Yeo Sunok?
+
+822
+00:48:44,527 --> 00:48:46,028
+Saya perlu memeriksa suhu tubuh Anda.
+
+823
+00:48:46,987 --> 00:48:47,988
+[berdehem]
+GAYA
+::cue()
+
+824
+00:48:49,198 --> 00:48:50,199
+Hah?
+
+825
+00:48:54,495 --> 00:48:57,206
+Baiklah.
+Saya akan pergi sekarang.
+
+826
+00:48:57,289 --> 00:48:59,083
+Kamu akan meneleponku, kan?
+
+827
+00:49:00,042 --> 00:49:01,043
+Ya.
+
+828
+00:49:01,585 --> 00:49:02,753
+[bunyi bip mesin]
+
+829
+00:49:02,836 --> 00:49:04,797
+[Jinman] Jaga dirimu baik-baik.
+Istirahatlah yang cukup.
+
+830
+00:49:08,801 --> 00:49:11,095
+[menghembuskan napas]
+
+831
+00:49:11,178 --> 00:49:15,099
+[Bengkel Kerja JEIL]
+
+832
+00:49:15,182 --> 00:49:18,185
+[♪ musik dramatis]
+
+833
+00:49:30,990 --> 00:49:31,991
+[menghembuskan napas]
+
+834
+00:49:33,200 --> 00:49:34,201
+[lampu menyala]
+
+835
+00:49:50,384 --> 00:49:51,719
+[menghembuskan napas tajam]
+
+836
+00:49:55,598 --> 00:49:56,599
+[dering telepon]
+
+837
+00:49:56,682 --> 00:49:59,685
+[dering telepon]
+
+838
+00:49:59,768 --> 00:50:00,769
+[penerima klik]
+
+839
+00:50:01,604 --> 00:50:03,230
+[Dokyung] Hei, Heeju.
+Kamu di mana?
+
+840
+00:50:06,317 --> 00:50:07,860
+-Uh, Dokyung-
+-[Dokyung] Katakan padaku di mana kau berada
+
+841
+00:50:07,943 --> 00:50:09,445
+dan aku akan datang mencarimu
+agar kita bisa bicara.
+
+842
+00:50:17,578 --> 00:50:19,413
+Saya sebenarnya tidak yakin itu ide yang bagus.
+
+843
+00:50:19,496 --> 00:50:20,497
+[mengendus]
+
+844
+00:50:21,999 --> 00:50:24,585
+Apakah menurutmu kita bisa kembali
+ke keadaan seperti dulu?
+
+845
+00:50:25,586 --> 00:50:26,712
+[Dokyung] Apa maksudmu?
+
+846
+00:50:27,963 --> 00:50:30,132
+Apakah ini semua karena
+masalah Cha Yujin?
+
+847
+00:50:30,215 --> 00:50:31,675
+Karena aku tidak pernah bercerita tentang dia padamu?
+
+848
+00:50:33,218 --> 00:50:34,219
+[menghembuskan napas]
+
+849
+00:50:36,263 --> 00:50:37,890
+Kamu benar.
+
+850
+00:50:37,973 --> 00:50:40,351
+Aku memanfaatkan seorang wanita yang sedang kukencani,
+tapi Heeju...
+
+851
+00:50:41,226 --> 00:50:42,603
+...situasinya berbeda dengan kami.
+
+852
+00:50:44,188 --> 00:50:45,356
+[Heeju] Kurasa...
+
+853
+00:50:46,357 --> 00:50:49,109
+...Sebenarnya akulah
+yang memanfaatkanmu.
+
+854
+00:50:49,902 --> 00:50:50,903
+Saat pertama kali kita bertemu...
+
+855
+00:50:51,862 --> 00:50:53,864
+...Aku melihatmu sebagai satu-satunya jalan keluar bagiku.
+
+856
+00:50:55,115 --> 00:50:58,202
+Tidak, Heeju, tidak apa-apa.
+Kita bisa bahagia seperti dulu.
+
+857
+00:50:58,285 --> 00:51:00,954
+Uang itu akan menyelesaikan semuanya.
+Apa lagi yang kita butuhkan?
+
+858
+00:51:04,500 --> 00:51:05,751
+Yangpo keluar.
+
+859
+00:51:06,335 --> 00:51:08,379
+Mereka telah memperketat keamanan.
+Terlalu berisiko.
+
+860
+00:51:09,755 --> 00:51:12,424
+Jadi saya berpikir
+perahu mungkin adalah pilihan terbaik kita.
+
+861
+00:51:13,634 --> 00:51:14,760
+[Dokyung] Kita penumpang gelap?
+
+862
+00:51:15,386 --> 00:51:16,387
+Mm-hmm.
+
+863
+00:51:17,346 --> 00:51:20,599
+[Heeju] Saya kenal seseorang yang menggunakan
+kapal kargo untuk mengekspor mobil.
+
+864
+00:51:22,267 --> 00:51:23,644
+Bagaimana kamu mengenal mereka?
+
+865
+00:51:25,688 --> 00:51:27,523
+Ternyata uang bisa melakukan apa saja.
+
+866
+00:51:28,023 --> 00:51:30,693
+[Dokyung] Baiklah kalau begitu.
+Mari kita bergerak secepat mungkin.
+
+867
+00:51:31,193 --> 00:51:33,320
+[Heeju] Tidak, aku tidak akan pergi bersamamu.
+
+868
+00:51:33,862 --> 00:51:35,114
+Kamu akan pergi sendirian.
+
+869
+00:51:35,698 --> 00:51:37,491
+Dan batangan emas itu...
+
+870
+00:51:39,326 --> 00:51:40,536
+...kita harus memisahkan mereka.
+
+871
+00:51:41,120 --> 00:51:42,121
+[Dokyung] Apa?
+
+872
+00:51:42,788 --> 00:51:43,789
+SAYA...
+
+873
+00:51:44,707 --> 00:51:47,167
+Kurasa aku pantas mendapatkan setidaknya itu.
+Bagaimana menurutmu?
+
+874
+00:51:47,251 --> 00:51:50,462
+Aku mempertaruhkan nyawaku untuk menyembunyikan mereka.
+Jadi, inilah yang akan kita lakukan.
+
+875
+00:51:51,088 --> 00:51:55,134
+Pada hari kamu berangkat ke Kamboja,
+aku akan mengantarkan bagianmu dengan mobil.
+
+876
+00:51:55,217 --> 00:51:56,927
+[Heeju] Aku juga akan membawakan paspormu.
+
+877
+00:51:57,010 --> 00:51:58,887
+Jadi, kamu bisa menemuiku di pelabuhan saja.
+
+878
+00:52:00,723 --> 00:52:02,975
+Dan kamu tidak akan mencoba mencari sisa
+batangan emas lainnya.
+
+879
+00:52:03,058 --> 00:52:05,185
+[Dokyung] Apa? Heeju.
+Apa yang kau bicarakan?
+
+880
+00:52:05,269 --> 00:52:07,312
+Lihat, katakan padaku di mana kamu berada.
+
+881
+00:52:07,396 --> 00:52:08,772
+Bisakah kita membicarakan ini
+secara langsung?
+
+882
+00:52:09,523 --> 00:52:10,607
+Terserah kamu saja.
+
+883
+00:52:11,150 --> 00:52:13,402
+Kita bisa membagi batangan emas itu saja,
+jika itu yang Anda inginkan.
+
+884
+00:52:13,485 --> 00:52:15,154
+Tapi bisakah kita setidaknya berbicara secara langsung?
+
+885
+00:52:15,696 --> 00:52:16,822
+[Dokyung] Kamu di mana sekarang?
+
+886
+00:52:16,905 --> 00:52:18,365
+Apakah kamu masih tinggal di pegadaian itu?
+
+887
+00:52:18,449 --> 00:52:20,367
+Tidak, saya sudah tidak di sana lagi.
+
+888
+00:52:20,993 --> 00:52:22,119
+Jangan pergi ke sana.
+
+889
+00:52:22,703 --> 00:52:24,663
+Dan jangan mencariku juga.
+
+890
+00:52:25,289 --> 00:52:26,290
+[dering telepon]
+
+891
+00:52:27,207 --> 00:52:28,876
+Tunggu, Hee-Heeju.
+[telepon berdering dan terputus]
+
+892
+00:52:31,754 --> 00:52:34,506
+[ponsel bergetar]
+
+893
+00:52:34,590 --> 00:52:35,591
+[menghembuskan napas tajam]
+
+894
+00:52:35,674 --> 00:52:38,093
+PANGGILAN MASUK
+
+895
+00:52:44,558 --> 00:52:46,018
+MATIKAN DAYA
+
+896
+00:52:46,101 --> 00:52:47,102
+[Heeju menghembuskan napas]
+[dering telepon]
+
+897
+00:52:52,858 --> 00:52:54,193
+[menghela napas]
+
+898
+00:52:59,198 --> 00:53:00,324
+[dering telepon]
+
+899
+00:53:00,407 --> 00:53:03,160
+[Operator Wanita] Panggilan Anda telah
+diteruskan ke sistem suara otomatis.
+
+900
+00:53:03,243 --> 00:53:05,329
+[dering telepon]
+
+901
+00:53:06,038 --> 00:53:08,373
+Sial! Kenapa kau melakukan ini?
+
+902
+00:53:08,457 --> 00:53:11,084
+[bernapas berat]
+
+903
+00:53:11,168 --> 00:53:12,461
+[erangan]
+
+904
+00:53:13,045 --> 00:53:14,505
+[menghembuskan napas]
+GAYA
+::cue()
+
+905
+00:53:19,718 --> 00:53:22,721
+[mobil mendekat]
+
+906
+00:53:26,266 --> 00:53:27,768
+[Hoonseok] Bos.
+
+907
+00:53:27,851 --> 00:53:29,311
+Aku ingin membalas budimu atas segalanya.
+
+908
+00:53:30,103 --> 00:53:33,857
+Aku tahu ini bukan sesuatu yang istimewa,
+tapi aku membuatnya untukmu.
+
+909
+00:53:34,358 --> 00:53:35,359
+Di Sini.
+
+910
+00:53:37,277 --> 00:53:39,613
+Ini adalah daun semanggi berdaun empat.
+Membawa keberuntungan.
+
+911
+00:53:41,240 --> 00:53:44,785
+Jadi jika kamu memakainya, kamu akan beruntung.
+
+912
+00:53:46,954 --> 00:53:49,581
+Oh, aku membuatnya dengan bagian
+kentangku sendiri,
+
+913
+00:53:49,665 --> 00:53:51,625
+jadi kamu tidak perlu khawatir tentang itu.
+
+914
+00:53:53,335 --> 00:53:54,503
+Benarkah begitu?
+
+915
+00:53:54,586 --> 00:53:55,587
+Apa?
+
+916
+00:53:56,547 --> 00:53:57,798
+[Heeju] Jika aku menyimpan ini...
+
+917
+00:53:59,758 --> 00:54:02,219
+...apakah ini benar-benar akan membawa keberuntungan,
+bahkan untukku?
+
+918
+00:54:02,803 --> 00:54:05,430
+Eh, ya, tidak.
+
+919
+00:54:06,014 --> 00:54:08,517
+Tentu saja, itu hanya takhayul.
+
+920
+00:54:08,600 --> 00:54:13,730
+Namun, mempercayai hal-hal seperti itu
+tetap bisa memberi kita kenyamanan.
+
+921
+00:54:17,943 --> 00:54:18,944
+[menghembuskan napas]
+
+922
+00:54:24,616 --> 00:54:25,617
+Terima kasih.
+
+923
+00:54:26,618 --> 00:54:29,580
+Jaga dirimu baik-baik, Heeju.
+
+924
+00:54:41,717 --> 00:54:43,760
+[Woogy] Baiklah.
+Jadi, apa yang dia katakan?
+
+925
+00:54:43,844 --> 00:54:46,722
+[suara mesin mobil bergemuruh]
+
+926
+00:54:46,805 --> 00:54:49,766
+[suara deru mesin]
+
+927
+00:54:56,565 --> 00:54:57,733
+[Woogy] Ngomong-ngomong.
+
+928
+00:54:59,276 --> 00:55:02,279
+Heeju, apakah kamu harus sejauh ini?
+
+929
+00:55:02,362 --> 00:55:03,822
+Hanya untuk Lee Dokyung?
+
+930
+00:55:04,906 --> 00:55:06,783
+Maksudku, kamu membantu biaya perjalanannya.
+
+931
+00:55:08,493 --> 00:55:10,287
+Dan juga memberinya setengah
+dari batangan emas itu.
+
+932
+00:55:13,790 --> 00:55:16,543
+Aku tadi tidak sengaja mendengarmu berbicara di
+telepon kemarin.
+
+933
+00:55:17,502 --> 00:55:19,212
+Bukan berarti aku bermaksud begitu.
+
+934
+00:55:19,463 --> 00:55:21,340
+Itu kecelakaan!
+Benar-benar kecelakaan.
+
+935
+00:55:21,423 --> 00:55:23,925
+Aku kembali untuk mengambil sesuatu yang tertinggal
+dan aku mendengar suaramu.
+
+936
+00:55:24,009 --> 00:55:26,094
+Ini benar-benar sebuah kecelakaan.
+
+937
+00:55:30,641 --> 00:55:32,184
+Awalnya itu miliknya.
+
+938
+00:55:32,893 --> 00:55:35,354
+Saya pikir saya harus memberikan bagiannya.
+
+939
+00:55:35,437 --> 00:55:37,648
+Apakah bagian Lee Dokyung
+adalah setengah dari saham di bar tersebut?
+
+940
+00:55:37,731 --> 00:55:39,066
+[Woogy mencibir]
+Benarkah?
+
+941
+00:55:39,650 --> 00:55:41,026
+Heeju, apakah kamu-
+
+942
+00:55:41,109 --> 00:55:42,653
+Apakah kamu masih mencintai bajingan itu?
+
+943
+00:55:43,195 --> 00:55:45,739
+Hah? Bahkan setelah semua yang dia lakukan padamu?
+
+944
+00:55:45,822 --> 00:55:47,324
+Bukankah kalian sudah putus?
+
+945
+00:55:48,492 --> 00:55:49,618
+Ya, kami melakukannya.
+
+946
+00:55:53,163 --> 00:55:54,373
+Kami putus.
+
+947
+00:55:55,540 --> 00:55:58,126
+Tapi bukan berarti aku ingin dia
+tidak bahagia.
+
+948
+00:55:58,210 --> 00:55:59,795
+Apa maksudnya itu?
+
+949
+00:56:01,046 --> 00:56:02,964
+Ugh, aku tidak tahu.
+Biarkan aku sendiri.
+
+950
+00:56:03,048 --> 00:56:04,216
+Bagaimanapun, ini emas saya.
+
+951
+00:56:04,299 --> 00:56:05,509
+Tidak, ini juga milikku!
+
+952
+00:56:06,551 --> 00:56:09,221
+Dari 100 batangan emas itu,
+5% adalah milik saya.
+
+953
+00:56:10,597 --> 00:56:12,391
+Kamu cuma mau memberikan setengahnya ke Dokyung?
+
+954
+00:56:12,474 --> 00:56:13,475
+Baiklah kalau begitu.
+
+955
+00:56:13,934 --> 00:56:15,769
+Anda bisa mendapatkan 10% dari bagian saya.
+
+956
+00:56:16,353 --> 00:56:19,856
+Untuk setiap batangan emas seberat sepuluh kilo yang saya tukarkan,
+Anda akan mendapatkan satu batangan emas seberat satu kilo.
+
+957
+00:56:20,148 --> 00:56:21,149
+Kedengarannya bagus?
+
+958
+00:56:24,444 --> 00:56:25,445
+[menarik napas tajam]
+
+959
+00:56:25,529 --> 00:56:27,489
+Tunggu sebentar.
+Biarkan saya menghitungnya dulu.
+
+960
+00:56:28,115 --> 00:56:29,741
+Empat, lima, enam, tujuh.
+
+961
+00:56:30,784 --> 00:56:32,661
+[terkejut]
+Sepuluh miliar?
+
+962
+00:56:34,663 --> 00:56:35,747
+Saya dapat sepuluh miliar?
+
+963
+00:56:39,793 --> 00:56:43,630
+Wow! Sepuluh ribu! Astaga!
+
+964
+00:56:44,172 --> 00:56:45,882
+[Heeju] Apakah itu cukup untukmu?
+
+965
+00:56:46,383 --> 00:56:47,843
+Hanya itu yang selalu kamu inginkan?
+STYLE
+::cue()
+
+966
+00:56:49,261 --> 00:56:51,096
+Mengapa?
+
+967
+00:56:52,889 --> 00:56:54,266
+[Woogy] Maukah kau memberiku lebih banyak jika aku meminta?
+
+968
+00:56:56,601 --> 00:56:58,186
+Tidak, saya hanya ingin tahu.
+
+969
+00:56:58,770 --> 00:57:00,397
+Kamu akan melakukan apa saja demi uang.
+
+970
+00:57:00,856 --> 00:57:02,607
+Namun, kamu adalah orang yang paling tidak serakah.
+
+971
+00:57:04,151 --> 00:57:08,155
+Setiap orang di sekitarku telah mencoba
+mencuri semua yang kumiliki.
+
+972
+00:57:09,489 --> 00:57:11,908
+Benarkah? Hmm.
+Aku, eh, tidak pernah memikirkannya.
+
+973
+00:57:16,496 --> 00:57:19,499
+[suara gemuruh mesin sepeda motor]
+
+974
+00:57:21,334 --> 00:57:22,711
+[rem berdecit]
+
+975
+00:57:32,596 --> 00:57:34,723
+[Kurir] Hai, selamat malam.
+Apakah Anda memesan pengiriman ekspres?
+
+976
+00:57:34,806 --> 00:57:35,807
+Ya.
+
+977
+00:57:35,891 --> 00:57:36,933
+[Kurir] Oke.
+
+978
+00:57:40,687 --> 00:57:43,690
+[♪ musik menegangkan]
+
+979
+00:58:00,165 --> 00:58:02,167
+[suara mesin mobil meraung]
+
+980
+00:58:08,965 --> 00:58:11,426
+PEGAJIAN HAENGBOK
+
+981
+00:58:11,510 --> 00:58:14,513
+[telepon berdering]
+
+982
+00:58:25,440 --> 00:58:27,025
+[dering telepon]
+
+983
+00:58:27,108 --> 00:58:28,109
+[dering telepon]
+
+984
+00:58:44,668 --> 00:58:47,671
+[gerbang berderak]
+
+985
+00:58:52,425 --> 00:58:55,303
+[bunyi pintu berdentang]
+
+986
+00:58:55,387 --> 00:58:56,388
+Sial.
+
+987
+00:59:05,647 --> 00:59:08,650
+[berderit]
+
+988
+00:59:15,949 --> 00:59:16,950
+[buncis]
+
+989
+00:59:17,033 --> 00:59:20,036
+[pintu berderit]
+
+990
+00:59:22,998 --> 00:59:24,499
+[berderit]
+
+991
+00:59:25,333 --> 00:59:26,334
+[bunyi klik kunci]
+
+992
+00:59:46,646 --> 00:59:49,649
+[bunyi detektor logam]
+
+993
+00:59:52,986 --> 00:59:55,989
+[bunyi detektor logam]
+
+994
+01:00:04,623 --> 01:00:05,624
+[lampu menyala]
+
+995
+01:00:06,583 --> 01:00:07,584
+Mengapa kamu di sini?
+
+996
+01:00:08,752 --> 01:00:09,794
+H-Hee.
+
+997
+01:00:10,462 --> 01:00:11,504
+[suara kokang senjata]
+
+998
+01:00:12,172 --> 01:00:14,841
+[♪ musik menegangkan]
+GAYA
+::cue()
+
+999
+01:00:38,490 --> 01:00:41,493
+[♪ musik berlanjut]
+
+1000
+01:01:00,637 --> 01:01:03,640
+[♪ musik dramatis]
+
+1001
+01:01:10,772 --> 01:01:15,402
+[Penyanyi Pria] ♪ Hari lain, jam lain ♪
+
+1002
+01:01:15,485 --> 01:01:19,781
+♪ Terjatuh bebas dalam pikiranku ♪
+
+1003
+01:01:19,864 --> 01:01:26,871
+♪ Aku akan menemukan semua alasan
+untuk pergi ♪
+
+1004
+01:01:29,207 --> 01:01:34,295
+♪ Saat semua orang di sekitarku berubah ♪
+
+1005
+01:01:34,379 --> 01:01:38,758
+♪ Semua orang kecuali aku ♪
+
+1006
+01:01:38,842 --> 01:01:43,179
+♪ Semua hal yang kupikir bisa kucapai ♪
+
+1007
+01:01:44,264 --> 01:01:46,725
+♪ Di luar jangkauan ♪
+
+1008
+01:01:48,643 --> 01:01:53,231
+♪ Aku meninggalkan semuanya di belakang ♪
+
+1009
+01:01:53,314 --> 01:01:57,277
+♪ Saat kau berbaris ♪
+
+1010
+01:01:57,360 --> 01:02:01,865
+♪ Aku tidak mengharapkan cahaya apa pun
+di depan pintumu ♪
+
+1011
+01:02:01,948 --> 01:02:03,616
+♪ Tak ada yang tersisa ♪
+
+1012
+01:02:03,700 --> 01:02:09,956
+♪ Hanya potongan-potongan dari semua yang
+mungkin kita miliki sebelumnya ♪
+
+1013
+01:02:10,040 --> 01:02:14,252
+♪ Selamanya ♪
+
+1014
+01:02:14,335 --> 01:02:20,175
+♪ Aku tidak merasakannya seperti dulu lagi ♪
+
+1015
+01:02:20,258 --> 01:02:22,510
+♪ Lagi ♪
+
+1016
+01:02:35,148 --> 01:02:39,736
+♪ Kau bisa menemukanku dalam kegelapan ♪
+
+1017
+01:02:39,819 --> 01:02:44,032
+♪ Masih memanggil sepanjang malam ♪
+
+1018
+01:02:44,115 --> 01:02:48,995
+♪ Aku meninggalkan semua musim ♪
+
+1019
+01:02:49,079 --> 01:02:51,748
+♪ Aku telah memimpikan ♪
+
+1020
+01:02:54,125 --> 01:03:01,049
+♪ Namun airnya terus naik menutupi
+semua yang kukenal ♪
+
+1021
+01:03:01,132 --> 01:03:07,138
+♪ Terombang-ambing di sini sendirian ♪
+
+1022
+01:03:08,765 --> 01:03:12,852
+♪ Sendirian ♪
+
+1023
+01:03:12,936 --> 01:03:17,482
+♪ Jadi tinggalkan semuanya di belakang ♪
+
+1024
+01:03:17,565 --> 01:03:21,945
+♪ Saat kau berbaris ♪
+
+1025
+01:03:22,028 --> 01:03:26,324
+♪ Aku tidak mengharapkan cahaya apa pun
+di depan pintumu ♪
+
+1026
+01:03:26,407 --> 01:03:27,992
+♪ Tak ada yang tersisa ♪
+
+1027
+01:03:28,076 --> 01:03:34,207
+♪ Hanya potongan-potongan dari semua yang
+mungkin kita miliki sebelumnya ♪
+
+1028
+01:03:34,290 --> 01:03:38,586
+♪ Selamanya ♪
+
+1029
+01:03:38,670 --> 01:03:41,214
+♪ Aku tidak... ♪
