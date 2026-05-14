@@ -1,0 +1,4431 @@
+1
+00:00:26,006 --> 00:00:28,842
+[goteo de agua]
+
+2
+00:00:43,857 --> 00:00:45,233
+[chirrido de frenos]
+
+3
+00:00:45,317 --> 00:00:46,485
+[El motor del coche se apaga]
+
+4
+00:00:47,194 --> 00:00:48,195
+Ey.
+
+5
+00:00:49,279 --> 00:00:50,322
+Ey.
+
+6
+00:00:55,494 --> 00:00:56,745
+[El cinturón de seguridad se desabrocha]
+
+7
+00:01:17,516 --> 00:01:19,518
+[sonido metálico de un letrero]
+
+8
+00:01:43,458 --> 00:01:46,128
+[sonido de oro]
+
+9
+00:01:51,800 --> 00:01:53,051
+[sonido de lingotes de oro]
+
+10
+00:01:54,261 --> 00:01:55,387
+[gruñidos]
+
+11
+00:01:57,889 --> 00:01:58,974
+[Woogy gruñe]
+
+12
+00:02:04,229 --> 00:02:05,522
+[sonido metálico de lingotes de oro]
+
+13
+00:02:12,446 --> 00:02:13,488
+[gruñidos]
+
+14
+00:02:19,327 --> 00:02:20,328
+[sonido de campana]
+
+15
+00:02:20,412 --> 00:02:21,455
+¿Eh?
+
+16
+00:02:23,874 --> 00:02:25,751
+[Woogy] ¿Qué demonios?
+
+17
+00:02:26,752 --> 00:02:29,755
+[♪ música dramática]
+
+18
+00:02:32,841 --> 00:02:34,259
+[cantarín]
+
+19
+00:02:34,342 --> 00:02:35,969
+[gruñidos]
+
+20
+00:02:40,265 --> 00:02:41,516
+Mierda.
+
+21
+00:02:42,350 --> 00:02:43,351
+[gruñidos]
+
+22
+00:02:45,353 --> 00:02:47,105
+[gemidos]
+
+23
+00:02:48,315 --> 00:02:49,983
+[Heeju] Ya basta.
+[Amartilla el arma]
+
+24
+00:02:51,526 --> 00:02:52,944
+Simplemente pon el oro en el coche.
+
+25
+00:02:53,028 --> 00:02:56,239
+Oye, me estás tomando el pelo.
+
+26
+00:02:56,323 --> 00:02:57,699
+[Woogy] No está cargado, ¿verdad?
+
+27
+00:02:58,784 --> 00:02:59,785
+[Heeju grita]
+
+28
+00:03:02,704 --> 00:03:05,707
+[Heeju respira con dificultad]
+
+29
+00:03:09,169 --> 00:03:10,462
+¡Cállate y no digas nada!
+
+30
+00:03:12,422 --> 00:03:15,175
+El oro.
+Ponlo en la parte trasera del coche.
+
+31
+00:03:18,386 --> 00:03:20,430
+De acuerdo. Lo haré.
+
+32
+00:03:21,389 --> 00:03:24,392
+[Aceleración del motor del coche]
+
+33
+00:03:31,608 --> 00:03:34,611
+[teléfono móvil vibrando]
+
+34
+00:03:37,030 --> 00:03:38,865
+LLAMADA ENTRANTE DEL PRESIDENTE AHN GYUSEOK
+
+35
+00:03:42,035 --> 00:03:43,078
+Sí, presidente.
+
+36
+00:03:43,495 --> 00:03:44,663
+[Gyuseok] ¿Encontraste el ataúd?
+
+37
+00:03:46,706 --> 00:03:49,042
+Todavía no.
+Pero estoy cerca, señor.
+
+38
+00:03:51,545 --> 00:03:54,172
+[Gyuseok] ¿No dijiste que habías descubierto quién
+era el cómplice?
+
+39
+00:03:54,256 --> 00:03:55,549
+La chica de Lee Dokyung.
+
+40
+00:03:57,092 --> 00:03:58,176
+[Hocheol] Sí, así es.
+
+41
+00:03:58,260 --> 00:04:00,512
+De hecho, la estoy buscando ahora mismo, señor.
+No se preocupe.
+
+42
+00:04:01,429 --> 00:04:02,556
+Estoy en ello.
+
+43
+00:04:02,639 --> 00:04:05,016
+-Me aseguraré de encontrar el oro no-
+-[Gyuseok] ¿Oro?
+
+44
+00:04:09,312 --> 00:04:10,397
+[El teléfono suena y se corta la llamada]
+
+45
+00:04:16,027 --> 00:04:18,071
+Joder.
+
+46
+00:04:24,828 --> 00:04:26,746
+-Jefe Cheon.
+-[Woojin] Sí, señor.
+
+47
+00:04:28,081 --> 00:04:30,000
+¿Podemos dar por concluido esto por hoy?
+
+48
+00:04:30,083 --> 00:04:31,334
+Sí, señor.
+Ya casi hemos terminado.
+
+49
+00:04:34,004 --> 00:04:35,630
+Cierra ahora todos los cabos sueltos.
+
+50
+00:04:37,424 --> 00:04:39,050
+Mañana vamos a Jeongsan.
+STYLE
+::cue()
+
+51
+00:04:39,926 --> 00:04:40,927
+[Woojin] Sí, presidente.
+
+52
+00:04:45,515 --> 00:04:48,518
+[♪ música de suspense]
+
+53
+00:04:49,060 --> 00:04:52,564
+[Sirenas a lo lejos]
+
+54
+00:04:52,647 --> 00:04:55,650
+[♪ Música triste de piano]
+
+55
+00:05:18,381 --> 00:05:21,384
+[♪ La música continúa]
+
+56
+00:05:35,815 --> 00:05:38,818
+EPISODIO 6
+FISURA
+
+57
+00:05:38,902 --> 00:05:41,821
+EJE INCLINADO 8, SECCIÓN 0
+100ML
+
+58
+00:05:43,365 --> 00:05:44,449
+[sonido de lingotes de oro]
+
+59
+00:05:44,532 --> 00:05:46,910
+[respirando con dificultad]
+
+60
+00:05:46,993 --> 00:05:48,370
+[gemidos]
+
+61
+00:05:49,704 --> 00:05:51,665
+Ah, mierda.
+Esto es jodidamente difícil.
+
+62
+00:05:52,832 --> 00:05:54,000
+¡Ey!
+
+63
+00:05:54,793 --> 00:05:56,753
+Ah, esto es lo último.
+
+64
+00:05:56,836 --> 00:05:58,171
+[Woogy respira con dificultad]
+
+65
+00:05:58,254 --> 00:05:59,714
+[Woogy] Si hubieras hecho esto
+tú solo,
+
+66
+00:05:59,798 --> 00:06:01,800
+Ah, apuesto a que habría llevado todo el día.
+
+67
+00:06:01,883 --> 00:06:04,094
+[Woogy riendo entre dientes]
+
+68
+00:06:04,177 --> 00:06:05,845
+[gemidos]
+
+69
+00:06:06,596 --> 00:06:07,806
+Bueno.
+
+70
+00:06:09,224 --> 00:06:11,935
+Ahora solo tenemos que ocuparnos
+de Cha Yujin, ¿verdad?
+
+71
+00:06:12,018 --> 00:06:13,770
+-Entonces nadie más lo sabrá.
+-[exhala]
+
+72
+00:06:13,853 --> 00:06:15,313
+Ahora tú también lo sabes.
+
+73
+00:06:16,064 --> 00:06:18,483
+[Woogy] Vamos. Soy yo.
+
+74
+00:06:19,192 --> 00:06:20,443
+Ey.
+
+75
+00:06:20,527 --> 00:06:21,736
+Solo quiero mi parte.
+Eso es todo.
+
+76
+00:06:23,363 --> 00:06:28,535
+Bueno, entonces ahora simplemente cultivamos patatas
+y las vendemos como antes.
+
+77
+00:06:29,577 --> 00:06:31,955
+¿Te parece bien?
+Aun así, los venderé.
+
+78
+00:06:36,459 --> 00:06:38,211
+[tartamudea]
+
+79
+00:06:40,255 --> 00:06:41,256
+Bueno.
+
+80
+00:06:44,009 --> 00:06:45,427
+Ahí. Puedes revisar los lingotes de oro.
+
+81
+00:06:47,929 --> 00:06:48,972
+[Woogy] ¿Hmm?
+
+82
+00:06:49,055 --> 00:06:50,056
+¿Sí?
+
+83
+00:06:51,015 --> 00:06:52,016
+¿Bueno?
+
+84
+00:06:52,559 --> 00:06:53,768
+¿Entonces, todo bien?
+
+85
+00:06:54,310 --> 00:06:55,895
+—No te acerques más.
+—[jadea]
+
+86
+00:06:57,522 --> 00:06:58,523
+¿En realidad?
+
+87
+00:06:59,816 --> 00:07:01,609
+[Woogy] Dijiste que Cha Yujin está en camino.
+
+88
+00:07:01,693 --> 00:07:03,528
+¿Crees que puedes matarla tú solo?
+
+89
+00:07:03,611 --> 00:07:05,739
+La mataré por ti, ¿sí?
+
+90
+00:07:05,822 --> 00:07:07,365
+Igual que me deshice
+de Han Cheoljung por ti.
+
+91
+00:07:09,868 --> 00:07:11,202
+Puedo hacerlo yo mismo.
+
+92
+00:07:11,911 --> 00:07:12,912
+Ahora muévete.
+
+93
+00:07:15,206 --> 00:07:16,499
+-¿Allí?
+-¡Cállate!
+
+94
+00:07:16,583 --> 00:07:17,751
+-[Woogy] ¡Vale, vale!
+-Quítate del camino.
+
+95
+00:07:24,591 --> 00:07:25,592
+Giro de vuelta.
+
+96
+00:07:26,593 --> 00:07:27,594
+Vamos.
+
+97
+00:07:28,511 --> 00:07:29,554
+Heeju, por favor no hagas esto.
+
+98
+00:07:29,637 --> 00:07:31,139
+-Date la vuelta.
+-[Woogy] Heeju.
+
+99
+00:07:31,222 --> 00:07:32,766
+Hablemos de esto, ¿de acuerdo?
+
+100
+00:07:32,849 --> 00:07:34,976
+Tú y yo.
+Estamos juntos en esto.
+
+101
+00:07:35,059 --> 00:07:36,060
+¿Sí?
+
+102
+00:07:36,895 --> 00:07:38,688
+Oye, te salvé la vida, ¿verdad?
+
+103
+00:07:38,772 --> 00:07:40,482
+¿Pero qué? ¿
+Todavía no confías en mí?
+
+104
+00:07:40,899 --> 00:07:42,150
+No puedo confiar en nadie.
+
+105
+00:07:42,233 --> 00:07:43,818
+[Woogy] Vale, vale, vale, vale.
+
+106
+00:07:44,277 --> 00:07:45,361
+Vale, ¿qué te parece esto?
+
+107
+00:07:46,321 --> 00:07:48,031
+No vi nada.
+
+108
+00:07:48,782 --> 00:07:50,909
+Nunca vi ni una sola barra de oro.
+Yo no estaba aquí.
+
+109
+00:07:50,992 --> 00:07:53,495
+-¡Te dije que te dieras la vuelta!
+-[Woogy] ¡Vale, vale, vale, vale!
+
+110
+00:07:55,538 --> 00:07:56,539
+Heeju, por favor.
+
+111
+00:07:57,207 --> 00:07:58,333
+[Woogy] Por favor, cálmate.
+
+112
+00:07:59,959 --> 00:08:01,419
+Por favor, no hagas esto. ¿Por favor?
+
+113
+00:08:02,045 --> 00:08:03,630
+Sabes que siempre estoy de tu lado, ¿verdad?
+
+114
+00:08:04,464 --> 00:08:07,217
+Aunque todos los demás te traicionen, ¡
+yo jamás podría hacerte eso!
+
+115
+00:08:07,300 --> 00:08:08,885
+Por favor, confía en mí, ¿de acuerdo?
+
+116
+00:08:10,386 --> 00:08:11,387
+¡Pues dispárame, joder!
+
+117
+00:08:12,263 --> 00:08:13,389
+[Woogy] Pero Kim Heeju...
+
+118
+00:08:14,474 --> 00:08:17,393
+...si lo haces, te juro que
+morirás aquí mismo conmigo también.
+
+119
+00:08:20,772 --> 00:08:23,775
+[♪ música tensa]
+
+120
+00:08:28,988 --> 00:08:31,991
+[chocando]
+
+121
+00:08:34,327 --> 00:08:37,580
+[Aceleración del motor del coche]
+
+122
+00:08:37,664 --> 00:08:38,873
+Maldita sea.
+
+123
+00:08:39,499 --> 00:08:40,792
+[gruñidos]
+
+124
+00:08:40,875 --> 00:08:44,045
+[Aceleración del motor]
+
+125
+00:08:44,838 --> 00:08:45,839
+Mierda.
+
+126
+00:08:45,922 --> 00:08:47,132
+[gritos]
+
+127
+00:08:48,550 --> 00:08:49,592
+[sonido metálico de lingotes de oro]
+
+128
+00:08:49,676 --> 00:08:53,179
+[Heeju] Llévate todo ese dinero
+y el resto de las patatas.
+
+129
+00:08:53,263 --> 00:08:55,181
+Eso debería ser suficiente
+para cubrir tu parte.
+
+130
+00:08:55,849 --> 00:08:57,976
+¿No debería?
+Ahora vete.
+
+131
+00:09:00,061 --> 00:09:01,521
+¿Qué pasa contigo?
+
+132
+00:09:01,604 --> 00:09:03,273
+[Heeju] Puedo cuidarme sola.
+
+133
+00:09:03,356 --> 00:09:05,275
+No vengas a buscarme.
+
+134
+00:09:07,193 --> 00:09:09,028
+Olvídate de todo lo que viste aquí.
+
+135
+00:09:09,737 --> 00:09:11,197
+Y sigue adelante con tu vida.
+
+136
+00:09:11,739 --> 00:09:14,242
+No sé si volveré a verte .
+
+137
+00:09:16,035 --> 00:09:18,246
+Podría dispararte.
+ESTILO
+::cue()
+
+138
+00:09:19,622 --> 00:09:22,625
+¡PAPÁ! ¡ESTÉ A SALVO DE NUEVO HOY!
+
+139
+00:09:22,709 --> 00:09:25,712
+[respirando con dificultad]
+
+140
+00:09:29,299 --> 00:09:32,135
+EJE INCLINADO 8, SECCIÓN 0
+100ML
+
+141
+00:09:32,218 --> 00:09:33,720
+[exhala]
+
+142
+00:09:35,305 --> 00:09:38,308
+[respiración dificultosa]
+
+143
+00:09:38,808 --> 00:09:40,602
+[sonido de lingotes de oro]
+
+144
+00:09:44,105 --> 00:09:46,858
+-¿Estás seguro?
+-¡Por favor! ¡Vamos, vete! ¡Vete!
+
+145
+00:09:47,984 --> 00:09:48,985
+[Heeju] ¡Mierda!
+
+146
+00:09:52,447 --> 00:09:53,781
+Llámame si necesitas algo.
+
+147
+00:09:54,782 --> 00:09:55,950
+[Woogy] ¿De acuerdo?
+
+148
+00:09:56,409 --> 00:09:57,952
+Me voy. ¿De acuerdo?
+
+149
+00:09:58,620 --> 00:10:00,955
+[sonido metálico lejano]
+[jadeos]
+
+150
+00:10:01,039 --> 00:10:02,332
+[jadeos]
+
+151
+00:10:03,583 --> 00:10:05,043
+[sonido de tambores]
+
+152
+00:10:07,086 --> 00:10:08,171
+Maldita sea.
+
+153
+00:10:10,506 --> 00:10:12,133
+[Heeju respira con dificultad]
+
+154
+00:10:12,717 --> 00:10:14,385
+[Woogy] Oh, mierda.
+¿Quién es ese?
+
+155
+00:10:14,469 --> 00:10:16,012
+¡Qué más da! ¿A quién le importa? ¡
+Vámonos de aquí!
+
+156
+00:10:16,095 --> 00:10:17,430
+[respiración agitada]
+
+157
+00:10:17,513 --> 00:10:18,723
+[Woogy] ¿Quién carajo es ese?
+
+158
+00:10:18,806 --> 00:10:20,558
+[respiración agitada]
+
+159
+00:10:27,607 --> 00:10:30,610
+[vehículo aproximándose]
+
+160
+00:10:31,736 --> 00:10:32,987
+[Heeju solloza]
+¿Qué hacemos?
+
+161
+00:10:33,071 --> 00:10:34,614
+[Woogy] Maldita sea, ¿quién...?
+
+162
+00:10:34,697 --> 00:10:36,157
+-¿Ese es el jefe?
+-¿Eh?
+
+163
+00:10:36,241 --> 00:10:37,242
+¡Ah, joder!
+
+164
+00:10:39,827 --> 00:10:43,998
+[Aceleración del motor del coche]
+
+165
+00:10:44,082 --> 00:10:45,375
+-[Woogy grita]
+-[Heeju grita]
+
+166
+00:10:46,251 --> 00:10:47,919
+-Maldita sea, estamos jodidos.
+-[Heeju] ¿Qué hacemos? ¿Qué hacemos?
+
+167
+00:10:48,419 --> 00:10:49,504
+[Woogy] Estamos jodidos.
+
+168
+00:10:49,587 --> 00:10:50,797
+[Ambos respiran con dificultad]
+
+169
+00:10:50,880 --> 00:10:53,049
+[chirridos de neumáticos]
+
+170
+00:10:57,762 --> 00:10:59,222
+¡Mierda!
+
+171
+00:11:01,307 --> 00:11:02,392
+[chirrido de neumáticos]
+
+172
+00:11:09,315 --> 00:11:11,109
+[Ambos respiran con dificultad]
+
+173
+00:11:11,192 --> 00:11:12,485
+[Heeju jadea]
+
+174
+00:11:12,568 --> 00:11:14,445
+-[Heeju] ¡Cuidado!
+-[Woogy grita]
+
+175
+00:11:14,529 --> 00:11:16,030
+[chirrido de neumáticos]
+
+176
+00:11:18,241 --> 00:11:21,244
+[Ambos gimiendo]
+
+177
+00:11:22,954 --> 00:11:23,955
+Esperar.
+
+178
+00:11:24,038 --> 00:11:25,456
+[Woogy gimiendo]
+
+179
+00:11:34,215 --> 00:11:36,301
+[Heeju] Es el coche de Cha Yujin.
+
+180
+00:11:49,063 --> 00:11:50,064
+Ella está muerta.
+
+181
+00:11:51,274 --> 00:11:52,275
+[Heeju] ¿Qué?
+
+182
+00:11:56,279 --> 00:11:57,280
+[sonido de lingotes de oro]
+
+183
+00:11:58,781 --> 00:12:00,325
+[Woogy] Dame el arma.
+
+184
+00:12:00,408 --> 00:12:01,409
+[Heeju] ¿Qué?
+
+185
+00:12:02,452 --> 00:12:04,078
+[Woogy] Park podría habernos visto.
+No tenemos otra opción.
+
+186
+00:12:04,162 --> 00:12:05,455
+Tenemos que matar a ese tipo.
+
+187
+00:12:08,583 --> 00:12:09,625
+[Woogy] Solo dámelo.
+
+188
+00:12:09,709 --> 00:12:11,419
+[sonido de lingotes de oro]
+
+189
+00:12:12,962 --> 00:12:14,297
+[Heeju] ¡Espera!
+
+190
+00:12:16,299 --> 00:12:17,342
+¡Quédate aquí!
+
+191
+00:12:17,884 --> 00:12:19,344
+Vuelvo enseguida.
+
+192
+00:12:19,427 --> 00:12:20,845
+[exhala]
+
+193
+00:12:21,846 --> 00:12:24,849
+[goteo de agua]
+
+194
+00:12:56,381 --> 00:12:57,507
+[sonido de disparos]
+
+195
+00:12:58,049 --> 00:12:59,050
+[Sonido de disparos]
+[Woogy gruñe]
+
+196
+00:12:59,133 --> 00:13:01,761
+[respirando con dificultad]
+
+197
+00:13:04,263 --> 00:13:07,016
+[ambos gritando]
+
+198
+00:13:08,184 --> 00:13:09,185
+Mierda.
+
+199
+00:13:13,064 --> 00:13:14,357
+Mierda.
+
+200
+00:13:14,440 --> 00:13:17,443
+[Woogy respira con dificultad]
+
+201
+00:13:18,277 --> 00:13:19,445
+[Aterriza el golpe]
+[Ambos gruñen]
+
+202
+00:13:20,196 --> 00:13:21,531
+[Aterriza el viento]
+
+203
+00:13:22,323 --> 00:13:25,326
+[ambos gritando]
+ESTILO
+::cue()
+
+204
+00:13:40,633 --> 00:13:41,843
+[Hocheol] ¡Mierda!
+
+205
+00:13:41,926 --> 00:13:45,096
+[ambos gruñendo]
+
+206
+00:13:53,688 --> 00:13:56,691
+[Ambos respiran con dificultad]
+
+207
+00:13:58,568 --> 00:13:59,986
+Ah, mierda.
+
+208
+00:14:02,738 --> 00:14:03,990
+[disparo]
+[jadeos]
+
+209
+00:14:04,073 --> 00:14:05,449
+[gritos]
+
+210
+00:14:05,533 --> 00:14:06,742
+Mierda.
+
+211
+00:14:07,326 --> 00:14:08,327
+Maldita sea.
+
+212
+00:14:08,411 --> 00:14:09,579
+[gruñidos]
+
+213
+00:14:09,662 --> 00:14:11,330
+[gemidos]
+
+214
+00:14:18,629 --> 00:14:21,632
+[respirando con dificultad]
+
+215
+00:14:57,793 --> 00:15:00,004
+[respiración superficial y agitada]
+
+216
+00:15:16,229 --> 00:15:19,523
+[respiración superficial]
+
+217
+00:15:22,526 --> 00:15:23,861
+[susurro]
+
+218
+00:15:34,372 --> 00:15:36,207
+[suena el teléfono móvil]
+
+219
+00:15:38,000 --> 00:15:39,168
+LLAMADA SALIENTE DEL JEFE DE EQUIPO CHA YUJIN
+
+220
+00:15:42,672 --> 00:15:44,632
+[El timbre sigue sonando]
+
+221
+00:15:46,384 --> 00:15:48,803
+[suena el teléfono]
+
+222
+00:16:00,731 --> 00:16:02,400
+-[Heeju gruñe]
+-¡Perra!
+
+223
+00:16:03,401 --> 00:16:05,403
+-[Hocheol gruñe]
+-[Heeju grita]
+
+224
+00:16:05,486 --> 00:16:08,030
+[ambos gruñendo]
+
+225
+00:16:10,116 --> 00:16:11,826
+[Heeju gritando]
+
+226
+00:16:11,909 --> 00:16:14,829
+[ambos gruñendo]
+
+227
+00:16:16,038 --> 00:16:18,124
+[silbido de la lata de aerosol]
+
+228
+00:16:18,874 --> 00:16:20,960
+[Aceleración del motor del coche]
+
+229
+00:16:24,880 --> 00:16:27,883
+[gritos]
+
+230
+00:16:33,597 --> 00:16:36,475
+HOSPITAL YANGPO JEIL
+
+231
+00:16:44,984 --> 00:16:46,319
+Ah, ahí.
+
+232
+00:16:46,402 --> 00:16:47,695
+[Dokyung gime]
+
+233
+00:16:47,778 --> 00:16:49,947
+Vale, ¿puedes intentar ponerte de pie?
+¿Caminar un poco?
+
+234
+00:16:50,031 --> 00:16:51,365
+-[Dokyung] Sí.
+-Cuidado.
+
+235
+00:16:51,449 --> 00:16:52,450
+[Dokyung gime]
+
+236
+00:16:54,618 --> 00:16:58,122
+Es probable que sientas algo de dolor
+durante un tiempo, así que no te excedas.
+
+237
+00:16:58,205 --> 00:17:00,374
+-[Doctor] Muy bien, hemos terminado aquí.
+-[Dokyung] Doctor.
+
+238
+00:17:00,458 --> 00:17:01,625
+¿Qué?
+
+239
+00:17:01,709 --> 00:17:03,085
+[Dokyung] Lo siento mucho.
+
+240
+00:17:08,341 --> 00:17:09,342
+[Se oye un médico gritar con la voz amortiguada]
+
+241
+00:17:11,302 --> 00:17:13,137
+[Los gritos ahogados continúan]
+
+242
+00:17:14,513 --> 00:17:16,432
+[El doctor gime]
+
+243
+00:17:18,309 --> 00:17:23,439
+[gritos]
+
+244
+00:17:23,522 --> 00:17:25,649
+-[Los gritos del doctor continúan]
+-¡Mierda!
+
+245
+00:17:25,733 --> 00:17:28,527
+[gritos ahogados]
+
+246
+00:17:29,278 --> 00:17:32,406
+[respirando con dificultad]
+
+247
+00:17:32,490 --> 00:17:34,617
+¿Podría llevarme
+al centro de Yangpo, por favor?
+
+248
+00:17:38,788 --> 00:17:41,999
+[Dokyung] Heeju, soy Dokyung.
+Escapé del hospital.
+
+249
+00:17:42,083 --> 00:17:43,876
+Llámame a este número.
+ESTILO
+::cue()
+
+250
+00:17:49,465 --> 00:17:52,385
+[sonido de máquinas tragaperras con tintineo y clic]
+
+251
+00:17:52,468 --> 00:17:56,055
+[teléfono móvil vibrando]
+
+252
+00:17:59,100 --> 00:18:00,476
+LLAMADA ENTRANTE DEL DIRECTOR DEL PARQUE
+
+253
+00:18:00,559 --> 00:18:02,770
+[Jugador] ¡Vamos! ¡Vamos!
+
+254
+00:18:02,853 --> 00:18:05,022
+-Sí.
+-[Hocheol] Necesito que prepares un plato.
+
+255
+00:18:05,106 --> 00:18:06,482
+Santa Fe de color azul.
+
+256
+00:18:06,816 --> 00:18:09,360
+Últimos dígitos,
+cinco, dos, siete, nueve.
+
+257
+00:18:09,443 --> 00:18:11,696
+[Jugador] No. ¿Qué? ¡
+Oye! ¡Oye, camarero!
+
+258
+00:18:11,779 --> 00:18:12,905
+[Jinman] ¡Oye!
+
+259
+00:18:12,988 --> 00:18:14,115
+[Aceleración del motor del coche]
+
+260
+00:18:16,367 --> 00:18:18,452
+-¿De quién es?
+-[Hocheol] ¿Cómo diablos voy a saberlo?
+
+261
+00:18:18,536 --> 00:18:20,663
+¡Por eso te digo
+que hagas correr las placas!
+
+262
+00:18:20,746 --> 00:18:23,290
+Si encuentras el coche, mejor aún.
+
+263
+00:18:23,791 --> 00:18:25,292
+¿Dónde está Cha Yujin ahora?
+
+264
+00:18:26,293 --> 00:18:29,046
+Revisé toda la zona
+, pero su Renegade no estaba allí.
+
+265
+00:18:29,547 --> 00:18:30,881
+[Jinman] Pero tu coche sí que lo era.
+
+266
+00:18:34,135 --> 00:18:35,136
+La perdí.
+
+267
+00:18:37,847 --> 00:18:38,848
+¿La mataste?
+
+268
+00:18:39,515 --> 00:18:41,434
+[Hocheol] ¡Solo encuentra el maldito Santa Fe!
+
+269
+00:18:41,517 --> 00:18:42,935
+¿Puedes hacerlo hoy?
+
+270
+00:18:43,686 --> 00:18:45,604
+[Jinman] Creí que querías
+que me mantuviera al margen.
+
+271
+00:18:46,021 --> 00:18:47,773
+¿Por qué sigues haciéndome esto?
+
+272
+00:18:49,024 --> 00:18:50,192
+[Hocheol] Esta es la última vez.
+
+273
+00:18:51,110 --> 00:18:53,279
+El presidente
+regresa mañana.
+
+274
+00:18:57,241 --> 00:18:59,952
+Sí, exacto.
+Ya terminé de ayudarte.
+
+275
+00:19:00,578 --> 00:19:03,122
+Si esto sale mal,
+yo seré quien pague las consecuencias.
+
+276
+00:19:03,205 --> 00:19:04,665
+[Hocheol] Te daré
+100 fichas de oro más.
+
+277
+00:19:07,168 --> 00:19:08,377
+[exhala bruscamente]
+
+278
+00:19:09,003 --> 00:19:10,671
+¿De qué demonios está hablando este hombre?
+
+279
+00:19:10,755 --> 00:19:12,923
+¡Joder,
+maldito cabrón!
+
+280
+00:19:13,549 --> 00:19:14,967
+¿Qué acabo de decir?
+
+281
+00:19:15,551 --> 00:19:17,136
+No lo voy a hacer.
+
+282
+00:19:17,219 --> 00:19:20,890
+[Jinman] Apuesto a que ni siquiera sabías
+que Lee Dokyung escapó del hospital,
+
+283
+00:19:20,973 --> 00:19:23,809
+¿Lo hiciste?
+El detective Kang está a punto de llamarte.
+
+284
+00:19:25,811 --> 00:19:27,772
+Creo que ahora estás jodido, Park.
+
+285
+00:19:28,731 --> 00:19:30,316
+Piénsalo bien ahora.
+
+286
+00:19:31,984 --> 00:19:33,110
+[El teléfono emite pitidos]
+
+287
+00:19:34,570 --> 00:19:35,863
+[exhala]
+
+288
+00:19:38,657 --> 00:19:40,326
+Este maldito imbécil.
+
+289
+00:19:41,619 --> 00:19:43,204
+Que se joda ese detective.
+
+290
+00:19:43,287 --> 00:19:44,622
+Bastardo.
+
+291
+00:19:45,122 --> 00:19:46,874
+[exhala]
+
+292
+00:19:48,042 --> 00:19:50,169
+¿Es Kim Heeju la única que queda ahora?
+
+293
+00:19:50,252 --> 00:19:51,754
+[Cae una moneda en la máquina tragamonedas]
+
+294
+00:19:51,837 --> 00:19:53,631
+[sonido de máquina]
+
+295
+00:19:56,592 --> 00:19:59,595
+[respirando con dificultad]
+
+296
+00:20:13,234 --> 00:20:16,237
+[sonido de sangre]
+
+297
+00:20:16,320 --> 00:20:19,323
+[golpes]
+
+298
+00:20:20,241 --> 00:20:21,283
+Maldita sea.
+
+299
+00:20:21,867 --> 00:20:24,870
+[golpes lejanos]
+
+300
+00:20:29,875 --> 00:20:30,960
+[Suena el silbato del tren]
+
+301
+00:20:31,043 --> 00:20:34,046
+[ruedas traqueteando sobre los rieles]
+
+302
+00:20:48,477 --> 00:20:51,814
+[El teléfono móvil vibra]
+
+303
+00:20:51,897 --> 00:20:53,232
+[jadea levemente]
+
+304
+00:20:53,899 --> 00:20:55,317
+[La vibración continúa]
+
+305
+00:20:58,320 --> 00:20:59,572
+Llamada entrante de WOOGY
+
+306
+00:21:01,949 --> 00:21:04,493
+-¿Sí?
+-[Woogy] ¡Oye, maldito traidor!
+
+307
+00:21:04,577 --> 00:21:06,662
+¿Saliste corriendo para salvar tu propio pellejo, eh?
+
+308
+00:21:06,745 --> 00:21:08,247
+Vaya pareja que eres.
+
+309
+00:21:08,330 --> 00:21:10,583
+[Heeju] Dijiste que ibas a matar
+a Park Hocheol.
+
+310
+00:21:10,666 --> 00:21:12,293
+¡Sí, claro que sí!
+
+311
+00:21:13,085 --> 00:21:15,254
+[Woogy] Si te hubieras quedado allí
+como te dije en lugar de huir,
+
+312
+00:21:15,337 --> 00:21:16,630
+Podría haberlo matado.
+
+313
+00:21:16,714 --> 00:21:18,215
+¿Park vio tu cara?
+
+314
+00:21:18,299 --> 00:21:19,550
+[Woogy] No tengo ni idea.
+
+315
+00:21:20,009 --> 00:21:21,594
+Estaba tan oscuro ahí dentro, no sé.
+No lo creo.
+
+316
+00:21:21,677 --> 00:21:22,803
+¿Y tú?
+
+317
+00:21:23,470 --> 00:21:26,181
+No estoy segura.
+Creo que me vio.
+
+318
+00:21:27,016 --> 00:21:28,684
+¡Ah, maldita sea!
+
+319
+00:21:30,436 --> 00:21:32,354
+Espérame en el taller, ¿de acuerdo?
+
+320
+00:21:32,438 --> 00:21:34,940
+Mañana iré a la oficina
+a ver cómo van las cosas.
+
+321
+00:21:35,024 --> 00:21:36,984
+-Entonces me reuniré contigo.
+-[Heeju] No.
+
+322
+00:21:37,067 --> 00:21:39,069
+Te dije que no quiero volver a verte nunca más.
+
+323
+00:21:39,153 --> 00:21:41,322
+[Woogy] ¿De qué carajo
+estás hablando, Heeju?
+
+324
+00:21:41,405 --> 00:21:42,907
+Las cosas han cambiado ahora.
+
+325
+00:21:42,990 --> 00:21:44,950
+¡Y mis patatas siguen ahí, en
+la parte trasera de tu coche!
+
+326
+00:21:45,034 --> 00:21:46,160
+Necesito eso, ¿sabes?
+
+327
+00:21:49,538 --> 00:21:50,873
+Ah, mierda.
+
+328
+00:21:50,956 --> 00:21:52,333
+[Woogy] Heeju, no lo olvides.
+
+329
+00:21:52,416 --> 00:21:53,417
+Soy de Yes Money.
+
+330
+00:21:53,500 --> 00:21:55,210
+Te lo dejo en el taller.
+
+331
+00:21:55,294 --> 00:21:56,587
+Recógelo allí.
+
+332
+00:21:56,670 --> 00:21:57,755
+Bueno.
+
+333
+00:21:58,422 --> 00:22:00,674
+Oh, hey, hey, hey, hey, sí, sí.
+Heeju, Heeju.
+ESTILO
+::cue()
+
+334
+00:22:00,758 --> 00:22:02,551
+¿Has tenido noticias de Lee Dokyung?
+
+335
+00:22:03,260 --> 00:22:05,220
+No lo he hecho. ¿Por qué?
+
+336
+00:22:05,304 --> 00:22:07,932
+[Woogy] Bueno, al parecer escapó
+del maldito hospital.
+
+337
+00:22:08,015 --> 00:22:09,767
+Sí, Money también lo está buscando.
+
+338
+00:22:10,976 --> 00:22:12,144
+Escuchar.
+
+339
+00:22:13,354 --> 00:22:15,689
+Debes esconder los lingotes de oro
+en un lugar mejor.
+
+340
+00:22:16,732 --> 00:22:17,900
+Y será mejor que no se lo cuentes a nadie.
+
+341
+00:22:17,983 --> 00:22:21,445
+¿Cómo demonios se enteró Cha Yujin de que
+el oro estaba en la mina, y mucho menos Park?
+
+342
+00:22:22,529 --> 00:22:24,657
+[Woogy] Heeju, por favor.
+No confíes en nadie.
+
+343
+00:22:24,740 --> 00:22:26,325
+¿Cuántas veces tengo
+que decírtelo, carajo?
+
+344
+00:22:26,408 --> 00:22:27,493
+¿No confías en nadie?
+
+345
+00:22:27,576 --> 00:22:29,161
+Especialmente Lee Dokyung.
+¿Entendido?
+
+346
+00:22:30,037 --> 00:22:31,246
+[sonidos y clics del teléfono]
+
+347
+00:22:32,039 --> 00:22:33,290
+[inhala]
+
+348
+00:22:37,336 --> 00:22:38,712
+[gruñidos]
+
+349
+00:22:44,426 --> 00:22:47,221
+HEEJU, SOY DOKYUNG. ESCAPÉ
+DEL HOSPITAL. LLÁMAME A ESTE NÚMERO.
+
+350
+00:22:57,982 --> 00:23:00,985
+[El teléfono móvil vibra]
+
+351
+00:23:02,027 --> 00:23:03,028
+¿Hola?
+
+352
+00:23:03,821 --> 00:23:06,240
+-[Heeju] ¿Dokyung?
+-Heeju, ¿estás bien?
+
+353
+00:23:08,158 --> 00:23:11,161
+Sí, estoy bien.
+Estoy bien.
+
+354
+00:23:11,245 --> 00:23:12,579
+¿Y tú? ¿Estás bien?
+
+355
+00:23:12,663 --> 00:23:14,623
+[Dokyung] Sí, estoy bien.
+
+356
+00:23:14,707 --> 00:23:16,125
+Me alegro mucho.
+
+357
+00:23:16,208 --> 00:23:18,085
+Estaba tan preocupada por ti, Heeju.
+[Suena la bocina del coche]
+
+358
+00:23:18,502 --> 00:23:20,379
+[Heeju] ¿Cómo saliste
+del hospital?
+
+359
+00:23:21,255 --> 00:23:22,715
+[Dokyung] Huí.
+
+360
+00:23:22,798 --> 00:23:25,467
+Park descubrió dónde estaba el ataúd
+y no pude comunicarme contigo.
+
+361
+00:23:26,468 --> 00:23:28,470
+¿Recibiste mi mensaje, verdad?
+
+362
+00:23:29,054 --> 00:23:30,347
+¿Y trasladaste todos los lingotes de oro?
+
+363
+00:23:31,974 --> 00:23:34,059
+En realidad, tal vez deberíamos hablar en persona.
+
+364
+00:23:34,143 --> 00:23:35,811
+¿Dónde estás ahora?
+Puedo ir a verte.
+
+365
+00:23:35,894 --> 00:23:37,146
+[inhala]
+
+366
+00:23:37,229 --> 00:23:39,189
+Eh, no, yo iré a verte.
+
+367
+00:23:39,273 --> 00:23:40,482
+¿Dónde te encuentras ahora mismo?
+
+368
+00:23:41,191 --> 00:23:42,401
+[Dokyung] Todavía estoy en Yangpo.
+
+369
+00:23:44,820 --> 00:23:46,071
+Allí nos vemos.
+
+370
+00:23:46,655 --> 00:23:49,074
+Reserva una habitación de hotel y luego envíame
+un mensaje.
+
+371
+00:23:50,367 --> 00:23:53,495
+Ahora mismo es un poco peligroso,
+así que pasaré esta noche.
+
+372
+00:23:56,540 --> 00:23:57,541
+Bueno.
+
+373
+00:23:59,793 --> 00:24:04,631
+Eh, y oye, ¿
+dónde están ahora los lingotes de oro?
+
+374
+00:24:08,969 --> 00:24:11,305
+Primero reunámonos.
+Luego te lo contaré.
+
+375
+00:24:12,306 --> 00:24:13,640
+[Dokyung] De acuerdo.
+
+376
+00:24:14,683 --> 00:24:15,684
+[El teléfono suena y se corta la llamada]
+
+377
+00:24:22,149 --> 00:24:23,901
+[exhala]
+
+378
+00:24:24,610 --> 00:24:26,070
+[Jinman] ¿Qué es esto?
+
+379
+00:24:31,408 --> 00:24:33,368
+¿Ah, en serio?
+
+380
+00:24:34,036 --> 00:24:35,871
+¿Está buscando comprar un coche, señor?
+
+381
+00:24:36,705 --> 00:24:39,541
+No, estoy aquí para hablar contigo, Heo Donggu.
+
+382
+00:24:39,625 --> 00:24:42,586
+¿Por qué quieres hablar conmigo?
+No he hecho nada malo.
+
+383
+00:24:42,669 --> 00:24:43,879
+Sí, sí.
+
+384
+00:24:43,962 --> 00:24:45,547
+Entremos en la oficina, ¿de acuerdo?
+
+385
+00:24:48,300 --> 00:24:50,594
+Oh, genial. Mierda.
+
+386
+00:24:50,677 --> 00:24:52,262
+TARJETA DE REGISTRO DE RESIDENTE
+JU HARAN
+
+387
+00:24:53,347 --> 00:24:54,348
+¿Ju Haran?
+
+388
+00:24:54,431 --> 00:24:55,557
+[Jinman] ¿No es Kim Heeju?
+
+389
+00:24:56,391 --> 00:24:57,601
+Sí.
+
+390
+00:24:57,684 --> 00:24:59,478
+¿Por qué? ¿Acaso provocó algún tipo de accidente?
+
+391
+00:25:00,187 --> 00:25:01,939
+Lo único que hice fue venderle un coche.
+
+392
+00:25:02,022 --> 00:25:04,942
+Cualquier otra cosa, no... no...
+no sé nada de ella.
+
+393
+00:25:07,194 --> 00:25:09,905
+[Jinman] Bueno, es un poco raro.
+Era esta mujer, ¿verdad?
+
+394
+00:25:12,658 --> 00:25:13,826
+-Sí.
+-[Jinman] ¿En serio?
+
+395
+00:25:13,909 --> 00:25:16,120
+-[Donggu] Sí.
+-Mira. Otro nombre.
+
+396
+00:25:16,203 --> 00:25:19,039
+[Jinman] Entonces no era Cha Yujin.
+Era Kim Heeju.
+
+397
+00:25:19,123 --> 00:25:22,167
+Espera. Entonces, ¿la policía
+la está buscando?
+
+398
+00:25:22,251 --> 00:25:24,461
+¿O se trata de la gente de Geumseong?
+
+399
+00:25:24,545 --> 00:25:26,588
+¿Estuvo Park aquí? ¿Park Hocheol?
+
+400
+00:25:27,131 --> 00:25:29,675
+¿Park Hocheol? ¿
+Ese maldito imbécil viene aquí?
+
+401
+00:25:29,758 --> 00:25:33,095
+¡De ninguna manera! Mataría a ese cabrón
+si se atreviera a aparecer por aquí.
+
+402
+00:25:33,470 --> 00:25:34,471
+¿Seguro que no te mataría?
+
+403
+00:25:34,555 --> 00:25:36,348
+[Donggu] Oye, hombre, no
+me has visto dar un puñetazo, ¿verdad?
+
+404
+00:25:36,431 --> 00:25:39,726
+Yo lo derrotaría. ¿Qué,
+crees que soy un debilucho?
+
+405
+00:25:39,810 --> 00:25:43,188
+Dar puñetazos no significa nada
+cuando Park Hocheol te amenaza con un cuchillo.
+
+406
+00:25:43,564 --> 00:25:45,065
+[Donggu] Espera.
+
+407
+00:25:45,149 --> 00:25:48,193
+Si Park Hocheol está involucrado,
+esto tiene que ver con Geumseong.
+
+408
+00:25:48,944 --> 00:25:51,780
+¿Acaso la mujer que buscas
+se llevó algo que le pertenecía?
+
+409
+00:25:51,864 --> 00:25:53,699
+Llámame si ves a Park Hocheol.
+
+410
+00:25:53,782 --> 00:25:56,910
+¿Cuántas veces tengo que decirlo?
+Ya te dije que no se atrevería.
+
+411
+00:25:57,494 --> 00:25:59,663
+De acuerdo.
+Mira, lo entiendo.
+
+412
+00:26:00,414 --> 00:26:03,000
+Obviamente no te cae bien para nada.
+Quieres matarlo, ¿verdad?
+
+413
+00:26:03,834 --> 00:26:06,170
+Claro que sí. ¿
+Ves lo que ese imbécil le hizo a mi oreja?
+STYLE
+::cue()
+
+414
+00:26:07,921 --> 00:26:11,049
+CASA DE EMPEÑO HAENGBOK
+
+415
+00:26:11,133 --> 00:26:14,136
+[susurro]
+
+416
+00:26:15,762 --> 00:26:16,930
+[gruñidos]
+[sonido metálico de lingotes de oro]
+
+417
+00:26:17,431 --> 00:26:19,224
+[El teléfono móvil vibra]
+
+418
+00:26:31,236 --> 00:26:33,155
+[Dokyung] Skyday, habitación 2014.
+
+419
+00:26:33,238 --> 00:26:35,115
+Puedes contactarme a este número
+a partir de ahora.
+
+420
+00:26:54,051 --> 00:26:55,093
+[sonido de la puerta del ascensor]
+
+421
+00:27:02,017 --> 00:27:03,894
+[Voz femenina automatizada] Piso 23.
+
+422
+00:27:03,977 --> 00:27:05,395
+Las puertas se están cerrando.
+
+423
+00:27:29,002 --> 00:27:30,879
+[Sina] ¿100 lingotes de oro de diez kilos?
+
+424
+00:27:30,963 --> 00:27:31,964
+[Dokyung] Sí.
+
+425
+00:27:32,756 --> 00:27:33,757
+[Sina] ¿Cuál es la fuente?
+
+426
+00:27:34,633 --> 00:27:35,634
+[Dokyung] Camboya.
+
+427
+00:27:36,301 --> 00:27:38,804
+[Sina] Un momento.
+¿Se trata de la reciente filtración?
+
+428
+00:27:40,597 --> 00:27:41,598
+Sí.
+
+429
+00:27:43,725 --> 00:27:47,813
+Entonces, se trata de bienes robados.
+Eso es atrevido.
+
+430
+00:27:48,438 --> 00:27:52,025
+[Dokyung] Bueno, la Interpol ha perdido el rastro.
+
+431
+00:27:52,109 --> 00:27:55,404
+No quedaron registros en ninguna cuenta.
+Está limpio.
+
+432
+00:27:55,946 --> 00:28:01,451
+Al precio de hace dos años,
+diría que es beneficioso para ambas partes.
+
+433
+00:28:02,369 --> 00:28:04,329
+[Sina] Me gustaría
+ver primero la versión real.
+
+434
+00:28:05,956 --> 00:28:07,207
+¿Cuándo vienes?
+
+435
+00:28:08,667 --> 00:28:10,002
+Te lo haré saber.
+
+436
+00:28:11,294 --> 00:28:12,295
+[Sina] De acuerdo.
+
+437
+00:28:13,463 --> 00:28:14,923
+[exhala]
+
+438
+00:28:24,683 --> 00:28:29,730
+¿DÓNDE ESTÁS?
+SOBRE CAMBOYA...
+
+439
+00:28:29,813 --> 00:28:31,189
+LLAMADA DE VOZ ENTRANTE
+
+440
+00:28:32,024 --> 00:28:33,567
+Heeju, ¿dónde estás?
+
+441
+00:28:34,276 --> 00:28:36,486
+[Dokyung] Acabo de hablar con las personas que
+van a comprar nuestro oro.
+
+442
+00:28:37,279 --> 00:28:39,448
+Deberíamos poder conseguir un buen precio
+por todas las barras.
+
+443
+00:28:41,700 --> 00:28:43,452
+Buen trabajo, Heeju.
+
+444
+00:28:43,535 --> 00:28:44,619
+Se acabó.
+
+445
+00:28:45,370 --> 00:28:47,706
+Podemos empezar nuestra nueva vida juntos.
+
+446
+00:28:47,789 --> 00:28:49,249
+[inhala y exhala]
+
+447
+00:28:51,334 --> 00:28:52,836
+¿Sigues ahí?
+
+448
+00:28:52,919 --> 00:28:54,379
+[Dokyung] Heeju, ¿me oíste?
+
+449
+00:28:55,922 --> 00:28:57,966
+-Estoy aquí.
+-[Dokyung] De acuerdo.
+
+450
+00:28:58,717 --> 00:28:59,968
+¿Has oído lo que he dicho, verdad?
+
+451
+00:29:01,678 --> 00:29:02,679
+[inhala]
+
+452
+00:29:03,722 --> 00:29:05,640
+Mataron a Cha Yujin.
+
+453
+00:29:06,975 --> 00:29:08,685
+[Dokyung] Sí, lo sé.
+
+454
+00:29:08,769 --> 00:29:11,104
+Ese imbécil de Park me llamó
+e intentó chantajearme.
+
+455
+00:29:13,231 --> 00:29:14,357
+[gruñidos]
+
+456
+00:29:16,234 --> 00:29:17,277
+Pero está bien.
+
+457
+00:29:18,070 --> 00:29:19,571
+[Dokyung] No tenemos nada
+de qué preocuparnos.
+
+458
+00:29:20,363 --> 00:29:24,367
+Tengo otros contactos en la seguridad del aeropuerto,
+así que trasladar el oro no debería ser un problema.
+
+459
+00:29:24,451 --> 00:29:26,536
+Nuestros compradores camboyanos dijeron que también ayudarían .
+
+460
+00:29:27,788 --> 00:29:29,706
+Cha Yujin me lo contó todo.
+
+461
+00:29:29,790 --> 00:29:31,958
+Sobre cómo solían estar juntos ustedes dos.
+
+462
+00:29:32,042 --> 00:29:33,752
+[Dokyung] No significó nada, Heeju.
+
+463
+00:29:33,835 --> 00:29:36,046
+No sé qué te dijo,
+pero eres diferente.
+
+464
+00:29:36,129 --> 00:29:37,380
+Con nosotros es diferente.
+
+465
+00:29:37,464 --> 00:29:39,758
+Ella... ella no significa nada para mí.
+
+466
+00:29:39,841 --> 00:29:41,635
+Acaba de fallecer una persona muy cercana a ti.
+
+467
+00:29:42,719 --> 00:29:45,430
+¿Y no pasa nada porque alguien más
+puede ayudar con el envío?
+
+468
+00:29:47,516 --> 00:29:48,767
+[exhala]
+
+469
+00:29:50,435 --> 00:29:51,728
+Supongo que tenías razón.
+
+470
+00:29:53,313 --> 00:29:55,941
+Cha Yujin realmente no significaba nada
+para ti.
+
+471
+00:29:56,024 --> 00:29:57,776
+[Dokyung] Eso es lo que intentaba
+decirte.
+
+472
+00:29:57,859 --> 00:29:59,319
+Nadie más importa.
+
+473
+00:29:59,402 --> 00:30:00,529
+[exhala]
+ESTILO
+::cue()
+
+474
+00:30:01,404 --> 00:30:02,948
+Eres diferente a todos ellos.
+
+475
+00:30:07,619 --> 00:30:09,121
+[inhala]
+
+476
+00:30:12,874 --> 00:30:14,626
+Creo que he ido demasiado lejos.
+
+477
+00:30:16,086 --> 00:30:18,505
+[Dokyung] ¿Dónde estás ahora?
+Puedo ir a buscarte.
+
+478
+00:30:19,548 --> 00:30:21,299
+No creo que pueda verte hoy.
+
+479
+00:30:22,092 --> 00:30:24,469
+Lo siento. Te llamaré más tarde.
+
+480
+00:30:26,263 --> 00:30:27,264
+[El teléfono emite pitidos]
+
+481
+00:30:28,390 --> 00:30:29,391
+Esperar.
+
+482
+00:30:31,935 --> 00:30:34,938
+[♪ música dramática]
+
+483
+00:31:01,464 --> 00:31:04,843
+HOSPITAL GANGWON SAEBAEK
+
+484
+00:31:22,736 --> 00:31:23,987
+[Heeju exhala]
+
+485
+00:31:30,869 --> 00:31:31,995
+[exhala]
+
+486
+00:31:35,040 --> 00:31:36,041
+[Heeju suspira]
+
+487
+00:31:51,014 --> 00:31:52,515
+[Sunok] ¿Qué has estado haciendo?
+
+488
+00:31:55,727 --> 00:31:56,853
+Tía.
+
+489
+00:31:59,522 --> 00:32:02,025
+Déjame dormir aquí solo esta noche.
+
+490
+00:32:03,068 --> 00:32:05,111
+[inhala y exhala]
+
+491
+00:32:07,030 --> 00:32:08,573
+Estoy tan cansado.
+
+492
+00:32:13,453 --> 00:32:15,538
+[inhala profundamente]
+
+493
+00:32:15,622 --> 00:32:16,915
+[Sunok] Eso es lo que es.
+
+494
+00:32:18,500 --> 00:32:20,335
+Hueles a mina de carbón.
+
+495
+00:32:25,173 --> 00:32:27,300
+Ese olor a carbón húmedo.
+
+496
+00:32:27,968 --> 00:32:29,177
+[Sunok inhala]
+
+497
+00:32:29,261 --> 00:32:31,638
+La que llevan los mineros en la ropa.
+
+498
+00:32:45,277 --> 00:32:48,280
+TALLER JEIL
+
+499
+00:32:48,363 --> 00:32:51,366
+[sonido de lluvia]
+
+500
+00:33:01,209 --> 00:33:04,212
+[♪ música tensa]
+
+501
+00:33:11,344 --> 00:33:13,972
+[La puerta cruje]
+
+502
+00:33:24,733 --> 00:33:25,734
+¿Hoonseok?
+
+503
+00:33:29,279 --> 00:33:30,280
+Tú lo trajiste.
+
+504
+00:33:33,199 --> 00:33:34,200
+Sí.
+
+505
+00:33:35,243 --> 00:33:37,537
+[Woogy] Y el resto de las barras de oro.
+[se amartilla una pistola]
+
+506
+00:33:39,497 --> 00:33:40,915
+¿Dónde están?
+
+507
+00:33:47,672 --> 00:33:49,966
+[respirando con dificultad]
+
+508
+00:33:50,050 --> 00:33:51,176
+[Woogy] Dime.
+
+509
+00:33:52,052 --> 00:33:53,636
+¿Dónde escondiste los lingotes de oro?
+ESTILO
+::cue()
+
+510
+00:33:55,430 --> 00:33:56,681
+Voy a disparar.
+
+511
+00:33:58,433 --> 00:33:59,976
+Tres.
+
+512
+00:34:03,063 --> 00:34:04,647
+[inhala bruscamente]
+
+513
+00:34:04,731 --> 00:34:06,024
+[Woogy] Dos.
+
+514
+00:34:06,900 --> 00:34:08,234
+Uno.
+
+515
+00:34:10,737 --> 00:34:11,738
+[sonido de disparos]
+
+516
+00:34:17,077 --> 00:34:18,244
+Bien.
+
+517
+00:34:18,328 --> 00:34:20,205
+[Woogy] Bien, ya lo tienes.
+Pase lo que pase,
+
+518
+00:34:20,288 --> 00:34:22,665
+Nunca le digas a nadie dónde están los bares.
+
+519
+00:34:23,625 --> 00:34:26,044
+En serio, Heeju,
+si hubiera querido podría haber...
+
+520
+00:34:26,878 --> 00:34:29,172
+...Es decir, ¿cómo demonios pudiste
+siquiera pensar en traicionarme de esa manera?
+
+521
+00:34:32,217 --> 00:34:33,259
+[inhala]
+
+522
+00:34:34,052 --> 00:34:35,261
+[exhala]
+
+523
+00:34:40,850 --> 00:34:41,976
+[Woogy] Mira.
+
+524
+00:34:42,727 --> 00:34:44,270
+Esta patata es lo que te salvó la vida.
+
+525
+00:34:45,230 --> 00:34:46,314
+[exhala]
+
+526
+00:34:46,981 --> 00:34:48,983
+¿Te reuniste con Lee Dokyung?
+
+527
+00:34:50,318 --> 00:34:51,403
+Yo no.
+
+528
+00:34:53,154 --> 00:34:54,155
+¿Por qué no?
+
+529
+00:34:55,573 --> 00:34:57,409
+Porque no puedo confiar en nadie.
+
+530
+00:34:57,909 --> 00:34:59,411
+Ya no.
+
+531
+00:35:00,328 --> 00:35:01,454
+Espera un segundo.
+
+532
+00:35:02,997 --> 00:35:05,875
+¿Así que no vas a salir con Lee Dokyung? ¿
+Terminaron la relación?
+
+533
+00:35:07,794 --> 00:35:11,589
+[Woogy] ¡Sí! ¡Buen trabajo, Heeju!
+¡Finalmente lo lograste!
+
+534
+00:35:12,298 --> 00:35:14,426
+¡Demonios, no se puede confiar en un tipo como él!
+
+535
+00:35:14,509 --> 00:35:17,303
+Je, te lo he estado diciendo
+todo este tiempo, y yo...
+
+536
+00:35:17,387 --> 00:35:18,388
+Espera un minuto.
+
+537
+00:35:19,514 --> 00:35:22,100
+Lo que pasa es que
+todavía tienes todos los lingotes de oro.
+
+538
+00:35:22,726 --> 00:35:24,436
+[Woogy] ¿De verdad Dokyung
+se va a ir así sin más?
+
+539
+00:35:25,061 --> 00:35:27,230
+Ah, mierda.
+¿Tengo que matarlo?
+
+540
+00:35:27,814 --> 00:35:29,941
+No creas que confío en ti tampoco.
+
+541
+00:35:31,735 --> 00:35:32,736
+Bueno.
+
+542
+00:35:34,028 --> 00:35:35,029
+Que sea así.
+
+543
+00:35:35,530 --> 00:35:36,531
+[Woogy] Tú solo me usas.
+
+544
+00:35:37,198 --> 00:35:38,450
+Sigue usándome.
+
+545
+00:35:39,451 --> 00:35:40,869
+Todo lo que quieras.
+
+546
+00:35:41,453 --> 00:35:42,912
+[Woogy] Encantado de servir.
+
+547
+00:35:43,580 --> 00:35:47,208
+Por cada dos barras de diez kilos,
+me dan una de un kilo.
+
+548
+00:35:47,292 --> 00:35:48,293
+Solo uno.
+
+549
+00:35:48,877 --> 00:35:50,378
+No es demasiado, ¿verdad?
+[risitas]
+
+550
+00:35:51,045 --> 00:35:52,922
+[Woogy] Oh, sí. Eso me recuerda.
+
+551
+00:35:53,298 --> 00:35:56,176
+Hice los cálculos y nos llevará
+unos seis meses venderlos todos.
+
+552
+00:35:56,676 --> 00:35:57,677
+Seis.
+
+553
+00:35:58,470 --> 00:36:00,805
+[inhala y exhala]
+
+554
+00:36:00,889 --> 00:36:02,348
+Park ya sabe de mí.
+
+555
+00:36:02,432 --> 00:36:04,851
+Eso significa que pronto toda tu empresa
+también lo hará.
+
+556
+00:36:04,934 --> 00:36:07,270
+Por no hablar de la policía, además de todo eso.
+
+557
+00:36:08,813 --> 00:36:10,774
+¿Y me estás diciendo que tenemos
+que aguantar seis meses más?
+
+558
+00:36:10,857 --> 00:36:12,984
+No.
+No lo saben.
+
+559
+00:36:13,401 --> 00:36:15,153
+¿[Woogy] Park? Él no lo sabe.
+
+560
+00:36:17,113 --> 00:36:19,282
+Cha Yujin debió haberle hablado de mí a Park.
+
+561
+00:36:19,824 --> 00:36:22,243
+Los lingotes de oro, todo.
+Él debe saberlo.
+
+562
+00:36:25,038 --> 00:36:26,664
+Si Park hubiera sabido que eras tú,
+
+563
+00:36:26,748 --> 00:36:28,583
+Él no habría ido a la mina.
+
+564
+00:36:28,958 --> 00:36:30,668
+Habría ido a la casa de empeños.
+
+565
+00:36:32,670 --> 00:36:35,089
+Ahora bien, aquí está la verdadera pregunta.
+
+566
+00:36:35,173 --> 00:36:36,216
+[gruñidos]
+
+567
+00:36:37,467 --> 00:36:40,345
+Park estaba solo. ¿Por qué?
+
+568
+00:36:40,845 --> 00:36:42,555
+Después de que mató a Cha Yujin,
+
+569
+00:36:42,639 --> 00:36:45,016
+Fue a la mina solo,
+sin avisar a nadie.
+
+570
+00:36:45,099 --> 00:36:46,100
+[Woogy] ¿Por qué hizo eso?
+
+571
+00:36:49,020 --> 00:36:50,188
+Porque de esa manera...
+
+572
+00:36:51,940 --> 00:36:54,943
+-...podía quedarse con todo el oro.
+-Bingo.
+
+573
+00:36:55,568 --> 00:36:57,278
+Y no quería que el presidente Ahn
+se enterara.
+
+574
+00:36:57,362 --> 00:36:58,404
+¿Presidente Ahn?
+
+575
+00:36:59,948 --> 00:37:00,949
+El verdadero dueño del oro.
+
+576
+00:37:03,743 --> 00:37:06,162
+La silla de Geumseong,
+Ahn Gyuseok.
+
+577
+00:37:07,247 --> 00:37:09,624
+[Woogy] El presidente Ahn regresa
+hoy a Corea.
+
+578
+00:37:11,334 --> 00:37:13,044
+Y eso significa que Park está jodido.
+
+579
+00:37:14,212 --> 00:37:15,213
+Bienvenido de nuevo, Presidente.
+
+580
+00:37:15,296 --> 00:37:16,631
+[Todos] ¡Bienvenido de nuevo, señor!
+
+581
+00:37:17,382 --> 00:37:20,593
+[Gyuseok] Estos son nuestros socios
+de Camboya. Nuestros ejecutivos.
+
+582
+00:37:20,677 --> 00:37:22,136
+—Preséntense.
+—Sí, señor.
+
+583
+00:37:22,220 --> 00:37:24,430
+-Director Jo.
+-Gracias por venir hasta aquí.
+
+584
+00:37:24,514 --> 00:37:26,224
+Estos chicos de aquí, cuídenlos.
+
+585
+00:37:26,307 --> 00:37:27,767
+-Encantado de conocerte.
+-Dales lo que quieran.
+
+586
+00:37:27,851 --> 00:37:29,686
+—¿Lo entiende? Solo lo mejor.
+—Por supuesto, señor.
+
+587
+00:37:29,769 --> 00:37:31,020
+[Jo] Por aquí, por favor.
+
+588
+00:37:33,731 --> 00:37:34,941
+—Ven aquí.
+—Señor.
+
+589
+00:37:35,024 --> 00:37:36,067
+¿Qué es esto?
+
+590
+00:37:37,026 --> 00:37:38,111
+Sé más sutil.
+
+591
+00:37:39,237 --> 00:37:40,864
+Disculpas.
+ESTILO
+::cue()
+
+592
+00:37:45,076 --> 00:37:48,079
+[canto de pájaros]
+
+593
+00:37:52,917 --> 00:37:54,127
+Oye, pisa el acelerador.
+
+594
+00:37:54,627 --> 00:37:58,131
+Me empieza a doler el estómago
+por toda la comida grasienta que he tenido que comer.
+
+595
+00:37:59,007 --> 00:38:00,133
+[exhala]
+
+596
+00:38:04,429 --> 00:38:06,598
+¿De verdad tengo que preguntar sobre eso?
+
+597
+00:38:07,473 --> 00:38:08,766
+Sí, correcto.
+
+598
+00:38:10,935 --> 00:38:13,688
+-Así que, Lee Dokyung, él...
+-Logró escapar del hospital.
+
+599
+00:38:16,649 --> 00:38:18,109
+¿Estás bromeando, verdad?
+
+600
+00:38:18,192 --> 00:38:20,236
+¿Por qué tuve que escuchar eso
+de otra persona?
+
+601
+00:38:20,320 --> 00:38:21,905
+Parecía que tenías una agenda muy ocupada.
+
+602
+00:38:21,988 --> 00:38:24,741
+Así que pensaba informarte
+cuando volvieras.
+
+603
+00:38:24,824 --> 00:38:27,076
+Tú no tomas decisiones por mí.
+
+604
+00:38:27,160 --> 00:38:28,536
+Sí, señor.
+
+605
+00:38:30,496 --> 00:38:31,581
+Entonces el ataúd.
+
+606
+00:38:32,123 --> 00:38:34,500
+¿Nos está esperando en el hotel?
+
+607
+00:38:35,793 --> 00:38:37,337
+Lo siento, señor.
+
+608
+00:38:38,546 --> 00:38:40,882
+Basta ya de disculpas y
+tonterías como "Lo siento".
+
+609
+00:38:43,009 --> 00:38:45,136
+A estas alturas , deberías conocerme mejor
+que nadie.
+
+610
+00:38:46,262 --> 00:38:48,765
+¿He dicho alguna vez algo sobre todas
+esas tonterías?
+
+611
+00:38:48,848 --> 00:38:51,309
+¿O la forma en que todos se apuñalan por
+la espalda?
+
+612
+00:38:51,851 --> 00:38:54,228
+Solo hay una cosa que no puedo perdonar.
+
+613
+00:38:54,312 --> 00:38:57,398
+Y eso incluye cualquier daño a la empresa.
+No lo permitiré.
+
+614
+00:38:59,400 --> 00:39:00,652
+Asumo la responsabilidad.
+
+615
+00:39:02,195 --> 00:39:03,529
+Yo encontraré el ataúd, señor.
+
+616
+00:39:06,157 --> 00:39:07,408
+Ya es demasiado tarde.
+
+617
+00:39:13,539 --> 00:39:16,542
+[♪ música de suspense]
+
+618
+00:39:21,005 --> 00:39:24,467
+CONSTRUCCIÓN DE HOTELES Y RESORTS HS
+
+619
+00:39:24,550 --> 00:39:26,302
+[gemidos]
+
+620
+00:39:29,555 --> 00:39:31,683
+[gemidos]
+
+621
+00:39:42,527 --> 00:39:45,738
+[Gyuseok] Mmm, ya sabes, tal vez cavamos
+demasiado hondo.
+
+622
+00:39:45,822 --> 00:39:46,948
+[gruñidos]
+
+623
+00:39:47,031 --> 00:39:48,199
+Hola, Park Hocheol.
+
+624
+00:39:50,368 --> 00:39:53,079
+[Gyuseok] Mira dónde estás.
+Mierda.
+
+625
+00:39:53,162 --> 00:39:54,539
+Piénsalo bien ahora.
+
+626
+00:39:56,499 --> 00:39:58,835
+¿Cómo supiste lo que había en el ataúd?
+
+627
+00:39:59,377 --> 00:40:00,962
+Kim Jinman, él...
+
+628
+00:40:01,921 --> 00:40:03,172
+...me lo dijo.
+
+629
+00:40:03,881 --> 00:40:05,133
+Ah.
+
+630
+00:40:05,216 --> 00:40:07,760
+Así que la policía ya se enteró.
+
+631
+00:40:08,928 --> 00:40:10,972
+Y decidiste no decírmelo.
+
+632
+00:40:11,556 --> 00:40:13,016
+No lo mencionaste.
+
+633
+00:40:13,433 --> 00:40:14,434
+Eso significaba...
+
+634
+00:40:14,517 --> 00:40:16,811
+[tos]
+
+635
+00:40:16,894 --> 00:40:18,646
+[arcadas]
+
+636
+00:40:18,730 --> 00:40:20,857
+Eso significaba que no podía...
+
+637
+00:40:20,940 --> 00:40:22,108
+No sabría decírtelo.
+
+638
+00:40:22,191 --> 00:40:24,068
+[arcadas]
+
+639
+00:40:24,152 --> 00:40:26,279
+[Gyuseok] Esa no es la razón.
+
+640
+00:40:26,362 --> 00:40:29,532
+De lo contrario, simplemente me lo habrías preguntado.
+
+641
+00:40:31,367 --> 00:40:33,786
+[Gyuseok] ¿Planeabas encontrarlo
+y quedártelo?
+
+642
+00:40:33,870 --> 00:40:35,329
+[salpicaduras]
+
+643
+00:40:35,413 --> 00:40:37,915
+[Gyuseok] ¿O ya lo hiciste
+y ahora estás mintiendo?
+
+644
+00:40:38,249 --> 00:40:40,084
+¿Planeaste esto con Lee Dokyung?
+
+645
+00:40:41,252 --> 00:40:43,129
+No. No, señor.
+
+646
+00:40:43,212 --> 00:40:44,422
+[Gyuseok] Correcto.
+
+647
+00:40:44,505 --> 00:40:46,841
+Porque si lo hubieras hecho,
+no seguirías en Geumseong.
+
+648
+00:40:47,425 --> 00:40:50,386
+[gruñidos]
+
+649
+00:40:51,804 --> 00:40:53,931
+Probablemente ya habrías huido.
+
+650
+00:40:55,600 --> 00:40:57,518
+[Gyuseok] No te metas en el asunto
+del ataúd.
+
+651
+00:40:58,728 --> 00:41:01,731
+Vuelve a Yes Money
+y sigue haciendo lo que hacías antes.
+ESTILO
+::cue()
+
+652
+00:41:03,274 --> 00:41:05,693
+[Gyuseok] Saluden a los accionistas
+de Gold Land.
+
+653
+00:41:05,777 --> 00:41:07,487
+Haz que firmen ese contrato.
+
+654
+00:41:08,988 --> 00:41:12,825
+Sí, cuanto más lo pienso,
+más me doy cuenta de que es para lo que realmente estás hecho.
+
+655
+00:41:12,909 --> 00:41:14,994
+[Hocheol respira de forma irregular]
+
+656
+00:41:15,078 --> 00:41:16,287
+Sáquenlo de aquí.
+
+657
+00:41:18,164 --> 00:41:21,667
+Joder, debo estar envejeciendo.
+Me estoy volviendo un poco blando, ¿eh?
+
+658
+00:41:24,879 --> 00:41:26,589
+[Woojin] ¿Sabes qué?
+[clics más suaves]
+
+659
+00:41:27,507 --> 00:41:29,717
+Deberías haber denunciado
+todo esto de inmediato.
+
+660
+00:41:29,801 --> 00:41:32,261
+Podríamos haber evitado la ira del presidente.
+
+661
+00:41:34,013 --> 00:41:35,515
+[inhala]
+
+662
+00:41:36,015 --> 00:41:38,017
+Sin embargo, al final tuviste bastante suerte.
+
+663
+00:41:38,434 --> 00:41:40,311
+[Woojin] Quiero decir, quería
+cortarte la oreja.
+
+664
+00:41:40,394 --> 00:41:41,813
+A duras penas logré convencerlo de que no lo hiciera.
+
+665
+00:41:42,855 --> 00:41:44,899
+Mmm, de ahora en adelante,
+
+666
+00:41:44,982 --> 00:41:47,401
+Deberías mantener la cabeza gacha
+en Yes Money. Dame eso.
+
+667
+00:41:48,111 --> 00:41:50,738
+Yo me encargo de los lingotes de oro, ¿de acuerdo?
+Toma.
+
+668
+00:41:51,239 --> 00:41:52,406
+Vamos, Park.
+
+669
+00:41:53,449 --> 00:41:55,618
+¿Cómo supiste lo de los lingotes de oro?
+
+670
+00:41:56,619 --> 00:41:58,663
+Yo estaba en Yangpo entonces, ¿no?
+
+671
+00:41:58,746 --> 00:42:00,289
+[risas]
+
+672
+00:42:00,373 --> 00:42:02,625
+Envié el ataúd.
+Siempre lo supe.
+
+673
+00:42:03,292 --> 00:42:06,796
+[Woojin] Has perdido tu maldito toque,
+¿sabes?
+
+674
+00:42:06,879 --> 00:42:08,965
+[Woojin inhala el humo del cigarrillo]
+
+675
+00:42:09,048 --> 00:42:10,675
+No conoces tu lugar.
+
+676
+00:42:11,634 --> 00:42:13,136
+Hola, aquí tienes.
+
+677
+00:42:13,219 --> 00:42:14,470
+[sonido metálico de pala]
+
+678
+00:42:14,554 --> 00:42:15,847
+¡Buena suerte para salir de ahí!
+
+679
+00:42:16,681 --> 00:42:18,182
+[Cerrando las puertas del coche]
+
+680
+00:42:18,266 --> 00:42:21,269
+[motores acelerando]
+
+681
+00:42:37,785 --> 00:42:39,203
+[gruñidos]
+
+682
+00:42:41,372 --> 00:42:44,375
+[gruñidos]
+
+683
+00:42:44,458 --> 00:42:46,544
+[respirando con dificultad]
+
+684
+00:43:06,397 --> 00:43:09,400
+[sonido de soplete]
+
+685
+00:43:09,483 --> 00:43:11,235
+[Heeju] Park no es la única.
+
+686
+00:43:11,736 --> 00:43:13,613
+Creo que alguien más también me vio.
+
+687
+00:43:13,696 --> 00:43:15,239
+¿Qué quieres decir? ¿
+Quién te vio?
+
+688
+00:43:16,532 --> 00:43:17,533
+Kim Jinman.
+
+689
+00:43:19,160 --> 00:43:21,704
+Creo que me vio subirme
+al coche esa noche.
+
+690
+00:43:22,955 --> 00:43:26,167
+Cuando huía del
+club nocturno de Jeongsan con Cha Yujin.
+
+691
+00:43:26,250 --> 00:43:27,919
+¡Escúchame! ¡Abre la puerta!
+
+692
+00:43:28,002 --> 00:43:30,129
+¡Mira, mira, mira! ¡
+Baja, baja, baja la ventanilla!
+
+693
+00:43:30,213 --> 00:43:32,548
+No debió haberte visto
+porque te habría denunciado.
+
+694
+00:43:32,632 --> 00:43:34,050
+a mi empresa de inmediato.
+
+695
+00:43:35,092 --> 00:43:36,385
+Sí, pero ya sabes...
+
+696
+00:43:37,261 --> 00:43:40,306
+...¿y si no dice nada
+porque quiere el oro para él solo?
+
+697
+00:43:40,389 --> 00:43:42,308
+Park tampoco dijo nada.
+
+698
+00:43:42,391 --> 00:43:44,018
+Ah, mierda.
+
+699
+00:43:46,854 --> 00:43:47,855
+Ey.
+
+700
+00:43:48,522 --> 00:43:51,400
+Tu viejo teléfono y tu tarjeta de crédito.
+Los tiraste, ¿verdad?
+
+701
+00:43:53,986 --> 00:43:55,613
+Entonces no te queda otra opción.
+
+702
+00:43:57,615 --> 00:43:59,742
+Tienes que ser Ju Haran
+por el resto de tu vida.
+
+703
+00:44:00,409 --> 00:44:02,453
+[exhala bruscamente]
+
+704
+00:44:02,536 --> 00:44:04,330
+No te preocupes por eso.
+
+705
+00:44:05,373 --> 00:44:06,832
+Si el detective Kim se entera...
+
+706
+00:44:07,583 --> 00:44:09,293
+...entonces simplemente iré
+y lo mataré por ti.
+
+707
+00:44:10,795 --> 00:44:12,463
+[Woogy] Entonces puedes darme
+una patata extra.
+
+708
+00:44:14,507 --> 00:44:15,508
+¿Trato?
+ESTILO
+::cue()
+
+709
+00:44:19,470 --> 00:44:20,471
+[Jinman] Hola.
+
+710
+00:44:20,554 --> 00:44:23,557
+[Sirenas a lo lejos]
+
+711
+00:44:28,980 --> 00:44:30,690
+Hola. Hola.
+
+712
+00:44:31,357 --> 00:44:33,150
+Eh, habitación cinco.
+
+713
+00:44:33,234 --> 00:44:35,194
+¿Yeo Sunok ya recibió el alta?
+
+714
+00:44:35,278 --> 00:44:37,905
+Eh, no. La trasladaron
+a una habitación privada.
+
+715
+00:44:38,531 --> 00:44:39,699
+—¿Ella lo era?
+—[Enfermera] Sí.
+
+716
+00:44:41,951 --> 00:44:43,411
+[Miya] ¡Guau, qué bonito!
+
+717
+00:44:44,161 --> 00:44:45,663
+[Mija se ríe]
+[La puerta se abre]
+
+718
+00:44:45,746 --> 00:44:47,331
+En ningún lugar.
+
+719
+00:44:47,415 --> 00:44:48,582
+[Mia] ¡Ah!
+
+720
+00:44:48,666 --> 00:44:51,460
+Oh, vaya.
+Qué habitación tan bonita tienes aquí.
+
+721
+00:44:51,544 --> 00:44:52,586
+-¿Eh?
+-[Mija] Lo siento, ¿quién-
+
+722
+00:44:52,670 --> 00:44:54,839
+-[Jinman] Debe ser bastante caro.
+-[Mija] ¿Quién eres?
+
+723
+00:44:55,172 --> 00:44:56,173
+[Ambos] Oh.
+
+724
+00:44:56,257 --> 00:44:57,383
+¿Es de urgencias?
+
+725
+00:44:57,883 --> 00:45:00,386
+-¿Podrías darnos un segundo?
+-[Mija] ¿Hmm?
+
+726
+00:45:02,096 --> 00:45:03,097
+Oh.
+
+727
+00:45:06,225 --> 00:45:09,729
+[Jinman] Esta es una habitación realmente bonita.
+Guau.
+
+728
+00:45:09,812 --> 00:45:10,980
+[Jinman se aclara la garganta]
+
+729
+00:45:11,063 --> 00:45:13,649
+[Jinman] ¿Cuándo te metieron aquí?
+Joder, mira esta vista.
+
+730
+00:45:14,358 --> 00:45:15,943
+¿No es demasiado caro?
+
+731
+00:45:16,444 --> 00:45:17,528
+¿Por qué estás aquí?
+
+732
+00:45:17,611 --> 00:45:19,530
+Solo quería saludar
+a un viejo amigo.
+
+733
+00:45:19,613 --> 00:45:20,740
+¿Acaso un hombre no puede hacer eso?
+
+734
+00:45:20,823 --> 00:45:23,743
+¿Quién sabe?
+Quizás no nos quede mucho tiempo.
+
+735
+00:45:24,577 --> 00:45:26,662
+No estoy hablando solo de ti.
+
+736
+00:45:26,746 --> 00:45:30,333
+O sea, a nuestra edad, ¿quién no tiene algún
+tipo de enfermedad o alguna otra mierda?
+
+737
+00:45:30,416 --> 00:45:32,126
+Tengo diabetes.
+
+738
+00:45:32,209 --> 00:45:33,794
+[Jinman] Y mi hígado tampoco está muy bien.
+
+739
+00:45:33,878 --> 00:45:36,213
+Podría irme cualquier día de estos, ¿sabes?
+
+740
+00:45:36,297 --> 00:45:38,341
+[inhala y exhala bruscamente]
+
+741
+00:45:39,592 --> 00:45:40,801
+Ey.
+
+742
+00:45:40,885 --> 00:45:42,595
+¿No es raro que ambos vivamos en Jeongsan?
+
+743
+00:45:42,678 --> 00:45:44,764
+¿Pero nunca nos habíamos encontrado
+antes?
+
+744
+00:45:44,847 --> 00:45:46,891
+[Sunok] Más bien fingimos que no lo hicimos.
+
+745
+00:45:47,641 --> 00:45:49,685
+Te vi un par de veces.
+
+746
+00:45:49,769 --> 00:45:50,936
+¿Por qué no dijiste nada?
+
+747
+00:45:51,687 --> 00:45:52,938
+[se burla]
+
+748
+00:45:53,022 --> 00:45:54,482
+¿Qué sentido tiene eso?
+
+749
+00:45:55,399 --> 00:45:57,234
+Ya no queda nada entre nosotros.
+
+750
+00:45:57,318 --> 00:45:58,319
+[se burla]
+
+751
+00:45:58,944 --> 00:45:59,945
+[Se aclara la garganta]
+
+752
+00:46:00,446 --> 00:46:01,447
+¿Y tu marido?
+
+753
+00:46:02,239 --> 00:46:03,366
+[Jinman] ¿Ha venido a verte?
+
+754
+00:46:04,492 --> 00:46:06,035
+No, no lo ha hecho.
+
+755
+00:46:06,994 --> 00:46:09,080
+Bueno, aun así, no parece
+ser tan mala persona.
+
+756
+00:46:09,163 --> 00:46:10,498
+Es decir, incluso retiró los cargos.
+
+757
+00:46:12,041 --> 00:46:13,209
+[inhala]
+
+758
+00:46:13,292 --> 00:46:15,669
+Si ya terminaste de saludar,
+deberías irte.
+
+759
+00:46:16,379 --> 00:46:19,382
+En lugar de quedarme aquí,
+desenterrando viejos recuerdos.
+
+760
+00:46:19,465 --> 00:46:21,550
+¡Ay, vamos!
+No seas así.
+
+761
+00:46:23,552 --> 00:46:25,137
+Ah, por cierto.
+¿Quién es Ju Haran?
+
+762
+00:46:25,930 --> 00:46:28,641
+Pregunté en la recepción
+y la recepcionista dijo Ju Haran.
+
+763
+00:46:28,724 --> 00:46:30,810
+es tu tutor,
+pero pensé que sería Han Cheoljung.
+
+764
+00:46:31,727 --> 00:46:32,728
+No sé.
+
+765
+00:46:32,812 --> 00:46:34,271
+¿Qué quieres decir?
+Es tu guardián.
+
+766
+00:46:34,355 --> 00:46:35,731
+No me digas que no lo sabes.
+
+767
+00:46:37,983 --> 00:46:39,193
+Aquí, espera.
+
+768
+00:46:40,486 --> 00:46:41,487
+Mira esto.
+
+769
+00:46:42,363 --> 00:46:43,364
+[Jinman] Es ella.
+
+770
+00:46:44,031 --> 00:46:45,116
+Sí.
+
+771
+00:46:45,825 --> 00:46:46,826
+¿Bien?
+
+772
+00:46:47,868 --> 00:46:49,829
+Debe ser. Sí.
+
+773
+00:46:49,912 --> 00:46:52,706
+Recuerdo haberla visto aquí el otro día
+cuando vine a visitarte.
+
+774
+00:46:53,666 --> 00:46:54,959
+[Jinman] Es ella, ¿verdad?
+
+775
+00:46:55,042 --> 00:46:56,377
+[inhala]
+
+776
+00:46:56,460 --> 00:46:57,753
+Pero entonces pensé,
+
+777
+00:46:57,837 --> 00:47:01,006
+"Esta mujer se llama Kim Heeju, ¿verdad?"
+
+778
+00:47:01,632 --> 00:47:02,675
+¿Quién es ella?
+
+779
+00:47:02,758 --> 00:47:03,801
+¿Tu hija?
+
+780
+00:47:04,885 --> 00:47:05,886
+No.
+
+781
+00:47:06,345 --> 00:47:07,596
+Mi sobrina.
+
+782
+00:47:07,680 --> 00:47:08,722
+¿Tu sobrina?
+
+783
+00:47:09,473 --> 00:47:11,308
+No sabía que tenías una sobrina.
+
+784
+00:47:11,851 --> 00:47:14,061
+-Sí.
+-[Jinman] Ya veo.
+
+785
+00:47:14,645 --> 00:47:18,107
+Ah, entonces tu sobrina
+debe tener una buena posición económica, ¿verdad?
+
+786
+00:47:19,066 --> 00:47:20,401
+Ella te metió en esta habitación elegante
+
+787
+00:47:20,484 --> 00:47:21,777
+y ya se hicieron cargo
+de sus facturas del hospital.
+
+788
+00:47:23,237 --> 00:47:24,530
+[Jinman] ¿Dónde vive ella?
+
+789
+00:47:24,613 --> 00:47:25,906
+¿Jeongsan?
+
+790
+00:47:25,990 --> 00:47:27,408
+¿Cuándo regresa?
+
+791
+00:47:28,367 --> 00:47:29,368
+No sé.
+
+792
+00:47:30,661 --> 00:47:33,080
+Ella pasó a verme cuando se enteró de que estaba enferma.
+
+793
+00:47:33,789 --> 00:47:34,874
+¿Por qué lo preguntas?
+
+794
+00:47:35,916 --> 00:47:38,669
+¿Por qué quieres saber cuándo estará aquí?
+
+795
+00:47:38,752 --> 00:47:41,213
+Bueno, me dijiste que es tu sobrina,
+así que me gustaría conocerla.
+
+796
+00:47:42,047 --> 00:47:43,340
+¿Qué? ¿Por qué?
+
+797
+00:47:43,924 --> 00:47:45,593
+¿Ha estado jugando o algo así?
+
+798
+00:47:46,093 --> 00:47:47,303
+¿Está en problemas?
+
+799
+00:47:47,386 --> 00:47:48,387
+No.
+
+800
+00:47:49,180 --> 00:47:50,389
+[Sunok] Entonces...
+
+801
+00:47:51,056 --> 00:47:53,309
+¿Acaso asesinó a alguien
+o algo por el estilo?
+
+802
+00:47:53,726 --> 00:47:56,312
+Vamos.
+Qué cosa tan horrible de decir.
+
+803
+00:47:56,395 --> 00:47:57,771
+Nada de eso.
+
+804
+00:47:57,855 --> 00:47:59,732
+[Jinman] No, solo pidió dinero prestado.
+
+805
+00:48:00,733 --> 00:48:02,318
+-¿Cuánto costó?
+-[Jinman] Mucho.
+
+806
+00:48:02,401 --> 00:48:03,903
+De hecho...
+
+807
+00:48:04,695 --> 00:48:06,280
+...no se trata solo de dinero.
+
+808
+00:48:07,072 --> 00:48:09,742
+Aunque me daría mucha pena que alguien de su edad
+acabara con antecedentes penales.
+
+809
+00:48:10,201 --> 00:48:11,994
+[Jinman] Todavía no es demasiado tarde para que
+lo devuelva.
+
+810
+00:48:12,077 --> 00:48:13,996
+O si eso no es posible,
+
+811
+00:48:14,079 --> 00:48:16,332
+Entonces podría intentar llegar
+al menos a algún tipo de acuerdo.
+
+812
+00:48:16,415 --> 00:48:19,376
+Parece que apagó el teléfono
+y desapareció.
+
+813
+00:48:20,503 --> 00:48:21,670
+[Jinman] Por eso la mencioné.
+
+814
+00:48:22,171 --> 00:48:24,423
+Así que si ella te llama o viene a visitarte,
+
+815
+00:48:24,507 --> 00:48:26,008
+Por favor, avísame.
+
+816
+00:48:26,634 --> 00:48:28,636
+Estaré encantado
+de ayudarla a resolver el asunto.
+
+817
+00:48:28,719 --> 00:48:29,845
+[Jinman] ¿Todo bien?
+
+818
+00:48:30,387 --> 00:48:31,722
+Pero no le digas que estuve aquí.
+
+819
+00:48:31,805 --> 00:48:34,225
+Si sabe que la policía está involucrada,
+no se presentará.
+
+820
+00:48:37,645 --> 00:48:41,273
+No hay nada de qué preocuparse, ¿eh?
+No le haré nada a tu sobrina.
+
+821
+00:48:41,732 --> 00:48:44,443
+-[Jinman] Llámame, ¿de acuerdo?
+-[Enfermera] ¿Señorita Yeo Sunok?
+
+822
+00:48:44,527 --> 00:48:46,028
+Necesito comprobar tu temperatura.
+
+823
+00:48:46,987 --> 00:48:47,988
+[se aclara la garganta]
+ESTILO
+::cue()
+
+824
+00:48:49,198 --> 00:48:50,199
+¿Eh?
+
+825
+00:48:54,495 --> 00:48:57,206
+Muy bien.
+Me voy ahora.
+
+826
+00:48:57,289 --> 00:48:59,083
+Me llamarás, ¿verdad?
+
+827
+00:49:00,042 --> 00:49:01,043
+Sí.
+
+828
+00:49:01,585 --> 00:49:02,753
+[pitido de máquina]
+
+829
+00:49:02,836 --> 00:49:04,797
+[Jinman] Cuídate.
+Descansa un poco.
+
+830
+00:49:08,801 --> 00:49:11,095
+[exhala]
+
+831
+00:49:11,178 --> 00:49:15,099
+[TALLER JEIL]
+
+832
+00:49:15,182 --> 00:49:18,185
+[♪ música dramática]
+
+833
+00:49:30,990 --> 00:49:31,991
+[exhala]
+
+834
+00:49:33,200 --> 00:49:34,201
+[Se enciende la luz]
+
+835
+00:49:50,384 --> 00:49:51,719
+[exhala bruscamente]
+
+836
+00:49:55,598 --> 00:49:56,599
+[sonido de teléfono]
+
+837
+00:49:56,682 --> 00:49:59,685
+[sonido de teléfono]
+
+838
+00:49:59,768 --> 00:50:00,769
+[el receptor hace clic]
+
+839
+00:50:01,604 --> 00:50:03,230
+[Dokyung] Hola, Heeju.
+¿Dónde estás?
+
+840
+00:50:06,317 --> 00:50:07,860
+-Eh, Dokyung-
+-[Dokyung] Dime dónde estás
+
+841
+00:50:07,943 --> 00:50:09,445
+Y vendré a buscarte
+para que podamos hablar.
+
+842
+00:50:17,578 --> 00:50:19,413
+No estoy muy seguro de que sea una buena idea.
+
+843
+00:50:19,496 --> 00:50:20,497
+[olfatea]
+
+844
+00:50:21,999 --> 00:50:24,585
+¿Crees que podemos volver
+a como eran las cosas antes?
+
+845
+00:50:25,586 --> 00:50:26,712
+[Dokyung] ¿Qué quieres decir?
+
+846
+00:50:27,963 --> 00:50:30,132
+¿Es esto por
+todo el asunto de Cha Yujin?
+
+847
+00:50:30,215 --> 00:50:31,675
+¿Porque nunca te hablé de ella?
+
+848
+00:50:33,218 --> 00:50:34,219
+[exhala]
+
+849
+00:50:36,263 --> 00:50:37,890
+Tienes razón.
+
+850
+00:50:37,973 --> 00:50:40,351
+Me aproveché de una mujer con la que salía,
+pero Heeju...
+
+851
+00:50:41,226 --> 00:50:42,603
+...con nosotros es diferente.
+
+852
+00:50:44,188 --> 00:50:45,356
+[Heeju] Creo que...
+
+853
+00:50:46,357 --> 00:50:49,109
+...En realidad, fui yo
+quien se aprovechó de ti.
+
+854
+00:50:49,902 --> 00:50:50,903
+Cuando nos conocimos...
+
+855
+00:50:51,862 --> 00:50:53,864
+...Te veía como mi única salida.
+
+856
+00:50:55,115 --> 00:50:58,202
+No, Heeju, está bien.
+Podemos ser felices como antes.
+
+857
+00:50:58,285 --> 00:51:00,954
+Ese dinero lo arreglará todo.
+¿Qué más podríamos necesitar?
+
+858
+00:51:04,500 --> 00:51:05,751
+Yangpo está fuera.
+
+859
+00:51:06,335 --> 00:51:08,379
+Han reforzado la seguridad.
+Es demasiado arriesgado.
+
+860
+00:51:09,755 --> 00:51:12,424
+Así que pensé que
+un barco podría ser nuestra mejor opción.
+
+861
+00:51:13,634 --> 00:51:14,760
+[Dokyung] ¿Nos colamos?
+
+862
+00:51:15,386 --> 00:51:16,387
+Mm-hmm.
+
+863
+00:51:17,346 --> 00:51:20,599
+[Heeju] Conozco a alguien que utiliza
+buques de carga para exportar coches.
+
+864
+00:51:22,267 --> 00:51:23,644
+¿Cómo los conoces?
+
+865
+00:51:25,688 --> 00:51:27,523
+Resulta que el dinero puede hacer cualquier cosa.
+
+866
+00:51:28,023 --> 00:51:30,693
+[Dokyung] De acuerdo, entonces.
+Movámonos lo más rápido posible.
+
+867
+00:51:31,193 --> 00:51:33,320
+[Heeju] No, no voy a ir contigo.
+
+868
+00:51:33,862 --> 00:51:35,114
+Vas a ir solo.
+
+869
+00:51:35,698 --> 00:51:37,491
+Y los lingotes de oro...
+
+870
+00:51:39,326 --> 00:51:40,536
+...deberíamos dividirlos.
+
+871
+00:51:41,120 --> 00:51:42,121
+[Dokyung] ¿Qué?
+
+872
+00:51:42,788 --> 00:51:43,789
+I...
+
+873
+00:51:44,707 --> 00:51:47,167
+Creo que me merezco al menos eso. ¿
+No crees?
+
+874
+00:51:47,251 --> 00:51:50,462
+Arriesgué mi vida para mantenerlos ocultos.
+Así que esto es lo que haremos.
+
+875
+00:51:51,088 --> 00:51:55,134
+El día que te vayas a Camboya,
+te llevaré tu parte en coche.
+
+876
+00:51:55,217 --> 00:51:56,927
+[Heeju] Yo también traeré tu pasaporte.
+
+877
+00:51:57,010 --> 00:51:58,887
+Entonces puedes encontrarte conmigo en el puerto.
+
+878
+00:52:00,723 --> 00:52:02,975
+Y no intentarás encontrar el resto
+de las barras de oro.
+
+879
+00:52:03,058 --> 00:52:05,185
+[Dokyung] ¿Qué? Heeju.
+¿De qué estás hablando?
+
+880
+00:52:05,269 --> 00:52:07,312
+Mira, dime dónde estás.
+
+881
+00:52:07,396 --> 00:52:08,772
+¿Podemos hablar de esto
+en persona, por favor?
+
+882
+00:52:09,523 --> 00:52:10,607
+Lo que tú digas.
+
+883
+00:52:11,150 --> 00:52:13,402
+Podemos simplemente dividir los lingotes de oro,
+si eso es lo que quieres.
+
+884
+00:52:13,485 --> 00:52:15,154
+Pero, ¿podemos al menos hablar en persona?
+
+885
+00:52:15,696 --> 00:52:16,822
+[Dokyung] ¿Dónde estás ahora?
+
+886
+00:52:16,905 --> 00:52:18,365
+¿Sigues alojado en la casa de empeños?
+
+887
+00:52:18,449 --> 00:52:20,367
+No, ya no estoy allí.
+
+888
+00:52:20,993 --> 00:52:22,119
+No vayas allí.
+
+889
+00:52:22,703 --> 00:52:24,663
+Y tampoco vengas a buscarme.
+
+890
+00:52:25,289 --> 00:52:26,290
+[sonido de teléfono]
+
+891
+00:52:27,207 --> 00:52:28,876
+Espera, Hee-Heeju.
+[Suena el teléfono y se corta la llamada]
+
+892
+00:52:31,754 --> 00:52:34,506
+[teléfono móvil vibrando]
+
+893
+00:52:34,590 --> 00:52:35,591
+[exhala bruscamente]
+
+894
+00:52:35,674 --> 00:52:38,093
+LLAMADA ENTRANTE
+
+895
+00:52:44,558 --> 00:52:46,018
+APAGADO
+
+896
+00:52:46,101 --> 00:52:47,102
+[Heeju exhala]
+[Suena el teléfono]
+
+897
+00:52:52,858 --> 00:52:54,193
+[suspira]
+
+898
+00:52:59,198 --> 00:53:00,324
+[sonido de teléfono]
+
+899
+00:53:00,407 --> 00:53:03,160
+[Operadora femenina] Su llamada ha sido
+transferida a un sistema de voz automatizado.
+
+900
+00:53:03,243 --> 00:53:05,329
+[sonido de teléfono]
+
+901
+00:53:06,038 --> 00:53:08,373
+¡Mierda! ¿Por qué haces esto?
+
+902
+00:53:08,457 --> 00:53:11,084
+[respirando con dificultad]
+
+903
+00:53:11,168 --> 00:53:12,461
+[gemidos]
+
+904
+00:53:13,045 --> 00:53:14,505
+[exhala]
+ESTILO
+::cue()
+
+905
+00:53:19,718 --> 00:53:22,721
+[coche acercándose]
+
+906
+00:53:26,266 --> 00:53:27,768
+[Hoonseok] Jefe.
+
+907
+00:53:27,851 --> 00:53:29,311
+Quiero recompensarte por todo.
+
+908
+00:53:30,103 --> 00:53:33,857
+Sé que esto no es nada especial,
+pero lo hice para ti.
+
+909
+00:53:34,358 --> 00:53:35,359
+Aquí.
+
+910
+00:53:37,277 --> 00:53:39,613
+Es un trébol de cuatro hojas.
+Trae buena suerte.
+
+911
+00:53:41,240 --> 00:53:44,785
+Así que si lo usas, tendrás suerte.
+
+912
+00:53:46,954 --> 00:53:49,581
+Oh, lo hice con mi propia porción
+de papas,
+
+913
+00:53:49,665 --> 00:53:51,625
+Así que no tienes que preocuparte por eso.
+
+914
+00:53:53,335 --> 00:53:54,503
+¿Es eso cierto?
+
+915
+00:53:54,586 --> 00:53:55,587
+¿Qué?
+
+916
+00:53:56,547 --> 00:53:57,798
+[Heeju] Si me quedo con esto...
+
+917
+00:53:59,758 --> 00:54:02,219
+...¿realmente me traerá buena suerte,
+incluso a mí?
+
+918
+00:54:02,803 --> 00:54:05,430
+Eh, bueno, no.
+
+919
+00:54:06,014 --> 00:54:08,517
+Es solo una superstición, por supuesto.
+
+920
+00:54:08,600 --> 00:54:13,730
+Pero creer en cosas así
+aún puede brindarnos consuelo.
+
+921
+00:54:17,943 --> 00:54:18,944
+[exhala]
+
+922
+00:54:24,616 --> 00:54:25,617
+Gracias.
+
+923
+00:54:26,618 --> 00:54:29,580
+Cuídate, Heeju.
+
+924
+00:54:41,717 --> 00:54:43,760
+[Woogy] Muy bien.
+¿Qué dijo?
+
+925
+00:54:43,844 --> 00:54:46,722
+[sonido de motor de coche]
+
+926
+00:54:46,805 --> 00:54:49,766
+[Aceleración del motor]
+
+927
+00:54:56,565 --> 00:54:57,733
+[Woogy] Por cierto.
+
+928
+00:54:59,276 --> 00:55:02,279
+Heeju, ¿tenías que llegar tan lejos?
+
+929
+00:55:02,362 --> 00:55:03,822
+¿Solo por Lee Dokyung?
+
+930
+00:55:04,906 --> 00:55:06,783
+Es decir, le estás ayudando con sus viajes.
+
+931
+00:55:08,493 --> 00:55:10,287
+Y
+también le dimos la mitad de los lingotes de oro.
+
+932
+00:55:13,790 --> 00:55:16,543
+Ayer te oí hablar por
+teléfono.
+
+933
+00:55:17,502 --> 00:55:19,212
+No es que lo haya hecho a propósito.
+
+934
+00:55:19,463 --> 00:55:21,340
+¡Fue un accidente!
+Lo fue.
+
+935
+00:55:21,423 --> 00:55:23,925
+Volví a buscar algo que había dejado
+y te oí.
+
+936
+00:55:24,009 --> 00:55:26,094
+Realmente, realmente fue un accidente.
+
+937
+00:55:30,641 --> 00:55:32,184
+Era suyo desde el principio.
+
+938
+00:55:32,893 --> 00:55:35,354
+Pensé que debía darle lo que le correspondía.
+
+939
+00:55:35,437 --> 00:55:37,648
+¿ La parte de Lee Dokyung
+es la mitad de los bares?
+
+940
+00:55:37,731 --> 00:55:39,066
+[Woogy se burla]
+¿En serio?
+
+941
+00:55:39,650 --> 00:55:41,026
+Heeju, ¿tú-
+
+942
+00:55:41,109 --> 00:55:42,653
+¿Sigues queriendo a ese imbécil?
+
+943
+00:55:43,195 --> 00:55:45,739
+¿Eh? ¿Incluso después de todo lo que te hizo?
+
+944
+00:55:45,822 --> 00:55:47,324
+¿No rompieron ya?
+
+945
+00:55:48,492 --> 00:55:49,618
+Sí, lo hicimos.
+
+946
+00:55:53,163 --> 00:55:54,373
+Estamos rompiendo.
+
+947
+00:55:55,540 --> 00:55:58,126
+Pero no es que quiera que
+sea infeliz.
+
+948
+00:55:58,210 --> 00:55:59,795
+¿Qué significa eso?
+
+949
+00:56:01,046 --> 00:56:02,964
+Uf, no lo sé.
+Déjame en paz.
+
+950
+00:56:03,048 --> 00:56:04,216
+De todas formas, es mi oro.
+
+951
+00:56:04,299 --> 00:56:05,509
+¡No, también es mío!
+
+952
+00:56:06,551 --> 00:56:09,221
+De esas 100 barras de oro,
+el 5% me pertenece.
+
+953
+00:56:10,597 --> 00:56:12,391
+¿Solo le vas a dar la mitad a Dokyung?
+
+954
+00:56:12,474 --> 00:56:13,475
+De acuerdo, entonces.
+
+955
+00:56:13,934 --> 00:56:15,769
+Puedes quedarte con el 10% de mi parte.
+
+956
+00:56:16,353 --> 00:56:19,856
+Por cada lingote de oro de diez kilos que yo cambie,
+tú te llevas uno de un kilo.
+
+957
+00:56:20,148 --> 00:56:21,149
+¿Te parece bien?
+
+958
+00:56:24,444 --> 00:56:25,445
+[inhala bruscamente]
+
+959
+00:56:25,529 --> 00:56:27,489
+Espera un momento.
+Déjame hacer los cálculos.
+
+960
+00:56:28,115 --> 00:56:29,741
+Cuatro, cinco, seis, siete.
+
+961
+00:56:30,784 --> 00:56:32,661
+[jadeos]
+¿Diez mil millones?
+
+962
+00:56:34,663 --> 00:56:35,747
+¿Obtengo diez mil millones?
+
+963
+00:56:39,793 --> 00:56:43,630
+¡Guau! ¡Diez billetes! ¡Joder!
+
+964
+00:56:44,172 --> 00:56:45,882
+[Heeju] ¿Eso es suficiente para ti?
+
+965
+00:56:46,383 --> 00:56:47,843
+¿Eso es todo lo que siempre has querido?
+ESTILO
+::cue()
+
+966
+00:56:49,261 --> 00:56:51,096
+¿Por qué?
+
+967
+00:56:52,889 --> 00:56:54,266
+[Woogy] ¿Me darás más si te lo pido?
+
+968
+00:56:56,601 --> 00:56:58,186
+No, solo tenía curiosidad.
+
+969
+00:56:58,770 --> 00:57:00,397
+Harías cualquier cosa por dinero.
+
+970
+00:57:00,856 --> 00:57:02,607
+Sin embargo, has sido el menos codicioso.
+
+971
+00:57:04,151 --> 00:57:08,155
+Todas las personas a mi alrededor han intentado
+robarme todo lo que tenía.
+
+972
+00:57:09,489 --> 00:57:11,908
+¿En serio? Vaya.
+Yo, eh, nunca lo había pensado.
+
+973
+00:57:16,496 --> 00:57:19,499
+[sonido de motor de motocicleta]
+
+974
+00:57:21,334 --> 00:57:22,711
+[chirrido de frenos]
+
+975
+00:57:32,596 --> 00:57:34,723
+[Repartidor] Hola, buenas noches.
+¿Ha pedido entrega urgente?
+
+976
+00:57:34,806 --> 00:57:35,807
+Sí.
+
+977
+00:57:35,891 --> 00:57:36,933
+[Repartidor] De acuerdo.
+
+978
+00:57:40,687 --> 00:57:43,690
+[♪ música tensa]
+
+979
+00:58:00,165 --> 00:58:02,167
+[Aceleración del motor del coche]
+
+980
+00:58:08,965 --> 00:58:11,426
+CASA DE EMPEÑO HAENGBOK
+
+981
+00:58:11,510 --> 00:58:14,513
+[suena el teléfono]
+
+982
+00:58:25,440 --> 00:58:27,025
+[sonido de teléfono]
+
+983
+00:58:27,108 --> 00:58:28,109
+[sonido de teléfono]
+
+984
+00:58:44,668 --> 00:58:47,671
+[Traqueteo de la puerta]
+
+985
+00:58:52,425 --> 00:58:55,303
+[golpe de puerta]
+
+986
+00:58:55,387 --> 00:58:56,388
+Mierda.
+
+987
+00:59:05,647 --> 00:59:08,650
+[crujiente]
+
+988
+00:59:15,949 --> 00:59:16,950
+[chasquidos]
+
+989
+00:59:17,033 --> 00:59:20,036
+[crujido de puerta]
+
+990
+00:59:22,998 --> 00:59:24,499
+[crujiente]
+
+991
+00:59:25,333 --> 00:59:26,334
+[clics de cerradura]
+
+992
+00:59:46,646 --> 00:59:49,649
+[clic del detector de metales]
+
+993
+00:59:52,986 --> 00:59:55,989
+[pitido del detector de metales]
+
+994
+01:00:04,623 --> 01:00:05,624
+[Se enciende la luz]
+
+995
+01:00:06,583 --> 01:00:07,584
+¿Por qué estás aquí?
+
+996
+01:00:08,752 --> 01:00:09,794
+J-Je.
+
+997
+01:00:10,462 --> 01:00:11,504
+[se amartilla el arma]
+
+998
+01:00:12,172 --> 01:00:14,841
+[♪ música de suspense]
+ESTILO
+::cue()
+
+999
+01:00:38,490 --> 01:00:41,493
+[♪ La música continúa]
+
+1000
+01:01:00,637 --> 01:01:03,640
+[♪ música dramática]
+
+1001
+01:01:10,772 --> 01:01:15,402
+[Cantante masculino] ♪ Otro día, otra hora ♪
+
+1002
+01:01:15,485 --> 01:01:19,781
+♪ Cayendo libremente en mi mente ♪
+
+1003
+01:01:19,864 --> 01:01:26,871
+♪ Encontraré todas las razones
+para irme ♪
+
+1004
+01:01:29,207 --> 01:01:34,295
+♪ Cuando todos a mi alrededor están cambiando ♪
+
+1005
+01:01:34,379 --> 01:01:38,758
+♪ Todos menos yo ♪
+
+1006
+01:01:38,842 --> 01:01:43,179
+♪ Todas las cosas que pensé que podría ser ♪
+
+1007
+01:01:44,264 --> 01:01:46,725
+♪ Están fuera de alcance ♪
+
+1008
+01:01:48,643 --> 01:01:53,231
+♪ Lo dejo todo atrás ♪
+
+1009
+01:01:53,314 --> 01:01:57,277
+♪ Mientras te pones en fila ♪
+
+1010
+01:01:57,360 --> 01:02:01,865
+♪ No espero ninguna luz
+en tu puerta ♪
+
+1011
+01:02:01,948 --> 01:02:03,616
+♪ No queda nada ♪
+
+1012
+01:02:03,700 --> 01:02:09,956
+♪ Solo los fragmentos de todo lo
+que pudimos haber sido antes ♪
+
+1013
+01:02:10,040 --> 01:02:14,252
+♪ Evermore ♪
+
+1014
+01:02:14,335 --> 01:02:20,175
+♪ Ya no lo siento como antes ♪
+
+1015
+01:02:20,258 --> 01:02:22,510
+♪ Ya no ♪
+
+1016
+01:02:35,148 --> 01:02:39,736
+♪ Podrías encontrarme en la oscuridad ♪
+
+1017
+01:02:39,819 --> 01:02:44,032
+♪ Sigue llamando durante la noche ♪
+
+1018
+01:02:44,115 --> 01:02:48,995
+♪ Dejo atrás todas las estaciones ♪
+
+1019
+01:02:49,079 --> 01:02:51,748
+♪ He soñado con ♪
+
+1020
+01:02:54,125 --> 01:03:01,049
+♪ Pero el agua está subiendo sobre
+todo lo que he conocido ♪
+
+1021
+01:03:01,132 --> 01:03:07,138
+♪ Vagando por aquí completamente solo ♪
+
+1022
+01:03:08,765 --> 01:03:12,852
+♪ Por tu cuenta ♪
+
+1023
+01:03:12,936 --> 01:03:17,482
+♪ Así que déjalo todo atrás ♪
+
+1024
+01:03:17,565 --> 01:03:21,945
+♪ Mientras te pones en fila ♪
+
+1025
+01:03:22,028 --> 01:03:26,324
+♪ No espero ninguna luz
+en tu puerta ♪
+
+1026
+01:03:26,407 --> 01:03:27,992
+♪ No queda nada ♪
+
+1027
+01:03:28,076 --> 01:03:34,207
+♪ Solo los fragmentos de todo lo
+que pudimos haber sido antes ♪
+
+1028
+01:03:34,290 --> 01:03:38,586
+♪ Evermore ♪
+
+1029
+01:03:38,670 --> 01:03:41,214
+♪ Yo no... ♪
