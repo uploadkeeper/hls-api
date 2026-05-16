@@ -1,0 +1,2534 @@
+1
+00:01:10,000 --> 00:01:13,000
+"Doble hélice"
+
+2
+00:01:16,360 --> 00:01:17,976
+Lu Feng, puedes encontrar a cualquier
+otra persona con quien meterte.
+
+3
+00:01:18,000 --> 00:01:19,440
+Pero no me uses como chivo expiatorio.
+
+4
+00:01:23,240 --> 00:01:25,440
+No puedo entender su comportamiento tan extraño.
+
+5
+00:01:26,360 --> 00:01:28,720
+Y no soporto su
+actitud frívola y burlona.
+
+6
+00:01:31,000 --> 00:01:33,700
+(Episodio 2: Lu Feng, ambos hemos crecido)
+
+7
+00:01:35,840 --> 00:01:36,600
+Cheng Yichen.
+
+8
+00:01:36,760 --> 00:01:38,560
+¿Puedes ayudarme con
+este problema, Xiao Chen?
+
+9
+00:01:39,280 --> 00:01:41,280
+Si añades esto a esto,
+puedes usar esta fórmula.
+
+10
+00:01:48,320 --> 00:01:49,960
+Xiao Chen, lo siento.
+
+11
+00:01:50,520 --> 00:01:52,080
+Lo siento, todo es culpa mía.
+
+12
+00:01:52,280 --> 00:01:53,920
+Por favor, deja de ignorarme.
+
+13
+00:01:54,320 --> 00:01:55,320
+Me equivoqué.
+
+14
+00:02:35,280 --> 00:02:36,280
+Xiao Chen.
+
+15
+00:02:37,520 --> 00:02:38,520
+Xiao Chen.
+
+16
+00:02:40,493 --> 00:02:42,293
+Xiao Chen, por favor, no
+te enfades más conmigo.
+
+17
+00:02:44,640 --> 00:02:45,800
+Es mi culpa.
+
+18
+00:02:46,520 --> 00:02:47,680
+Deja de intentar engatusarme.
+
+19
+00:02:48,040 --> 00:02:49,320
+Sé que estoy soñando.
+
+20
+00:02:58,520 --> 00:03:00,320
+Efectivamente, solo era un sueño.
+
+21
+00:03:01,200 --> 00:03:03,360
+No le importan
+en absoluto los sentimientos de los demás.
+
+22
+00:03:04,600 --> 00:03:06,400
+Y ni siquiera me consideró nunca un amigo.
+
+23
+00:03:14,680 --> 00:03:15,440
+¿Vas a dejar de ser tan molesto alguna vez?
+
+24
+00:03:15,441 --> 00:03:16,841
+Ya te dije que no me gusta.
+
+25
+00:03:16,960 --> 00:03:17,600
+Lu Feng.
+
+26
+00:03:17,680 --> 00:03:19,000
+¿Lu Feng? ¿Qué haces aquí?
+
+27
+00:03:19,160 --> 00:03:19,800
+Lu Feng.
+
+28
+00:03:20,080 --> 00:03:21,680
+¿No me oíste llamándote, Lu Feng?
+
+29
+00:03:27,760 --> 00:03:28,760
+I...
+
+30
+00:03:30,640 --> 00:03:31,640
+Piérdase.
+
+31
+00:03:36,560 --> 00:03:37,560
+¡Lu Feng, cuidado!
+
+32
+00:04:00,960 --> 00:04:02,560
+¿Entonces no regresó anoche?
+
+33
+00:04:03,160 --> 00:04:04,160
+¿Te refieres a Lu Feng?
+
+34
+00:04:04,400 --> 00:04:05,880
+Quién sabe adónde se fue de fiesta.
+
+35
+00:04:06,040 --> 00:04:08,400
+Últimamente , muchas chicas del colegio se
+le han declarado.
+
+36
+00:04:08,520 --> 00:04:09,920
+Probablemente se haya ido con una de ellas.
+
+37
+00:04:11,080 --> 00:04:12,760
+¿Qué, estás celoso?
+
+38
+00:04:13,880 --> 00:04:15,440
+¿Qué tiene eso que ver conmigo?
+
+39
+00:04:17,120 --> 00:04:20,200
+Hoy comenzamos nuestra
+lección sobre funciones elementales.
+
+40
+00:04:21,040 --> 00:04:24,520
+Las funciones elementales se derivan
+de funciones elementales básicas...
+
+41
+00:04:24,840 --> 00:04:27,160
+mediante un número finito
+de operaciones aritméticas...
+
+42
+00:04:27,440 --> 00:04:30,320
+y un número finito
+de composiciones de funciones.
+
+43
+00:04:30,680 --> 00:04:31,880
+Así es como se obtienen.
+
+44
+00:04:39,343 --> 00:04:40,523
+[Lu Feng escrito cincuenta y once veces]
+
+45
+00:04:41,000 --> 00:04:42,280
+¿Quién está enojado con él?
+
+46
+00:04:42,600 --> 00:04:44,400
+Ustedes dos solían ser inseparables.
+
+47
+00:04:44,520 --> 00:04:45,776
+Ahora ni siquiera
+se dirigen la palabra.
+
+48
+00:04:45,800 --> 00:04:46,896
+Si eso no es estar loco, ¿qué lo es?
+
+49
+00:04:46,920 --> 00:04:48,680
+Simplemente estoy muy ocupado este semestre, eso es todo.
+
+50
+00:04:48,920 --> 00:04:50,416
+No tengo tiempo para perder con él.
+
+51
+00:04:50,440 --> 00:04:51,920
+Simplemente no quiero suspender mis clases.
+
+52
+00:04:51,960 --> 00:04:53,240
+De acuerdo, siempre y cuando no estés enojado.
+
+53
+00:04:53,560 --> 00:04:54,919
+Nos volveremos a ver
+cuando Lu Feng regrese.
+
+54
+00:04:54,920 --> 00:04:55,560
+Espera un segundo.
+
+55
+00:04:55,680 --> 00:04:56,680
+Necesito atender esta llamada.
+
+56
+00:05:05,240 --> 00:05:06,920
+¿Por qué no llevas tus gafas hoy?
+
+57
+00:05:08,760 --> 00:05:09,920
+No sé adónde fueron.
+
+58
+00:05:23,200 --> 00:05:25,240
+Puedes seguir respirando mientras te besas, tonto.
+
+59
+00:05:25,840 --> 00:05:27,440
+¡Lu Feng, no puedes hacer esto!
+
+60
+00:05:40,760 --> 00:05:41,760
+Xiao Chen.
+
+61
+00:05:42,680 --> 00:05:43,680
+Estos últimos días...
+
+62
+00:05:45,000 --> 00:05:46,400
+Me he dado cuenta de algo.
+
+63
+00:05:51,400 --> 00:05:52,440
+Me gustas.
+
+64
+00:05:56,360 --> 00:05:57,360
+Lu Feng.
+
+65
+00:05:58,480 --> 00:06:00,240
+¿Cómo es posible que te guste?
+
+66
+00:06:00,840 --> 00:06:02,000
+Soy un chico.
+
+67
+00:06:06,040 --> 00:06:07,040
+Ven aquí.
+
+68
+00:06:07,560 --> 00:06:08,560
+Ven, siéntate.
+
+69
+00:06:16,280 --> 00:06:18,200
+Para las preguntas que estoy a punto de hacerles...
+
+70
+00:06:19,240 --> 00:06:21,080
+Simplemente responde que sí...
+
+71
+00:06:22,320 --> 00:06:23,440
+o no.
+
+72
+00:06:26,480 --> 00:06:29,080
+¿Te alegras de verme?
+
+73
+00:06:38,720 --> 00:06:40,200
+Y cuando supiste que estaba herido...
+
+74
+00:06:41,800 --> 00:06:43,280
+¿Estabas preocupado?
+
+75
+00:06:49,040 --> 00:06:50,040
+Y...
+
+76
+00:06:51,600 --> 00:06:53,680
+¿Te gusta estar conmigo?
+
+77
+00:07:01,720 --> 00:07:03,440
+¿Estar conmigo es lo que más te gusta?
+
+78
+00:07:11,600 --> 00:07:12,600
+Y...
+
+79
+00:07:14,320 --> 00:07:15,840
+Cuando nos estábamos besando hace un momento...
+
+80
+00:07:18,640 --> 00:07:20,600
+¿Lo disfrutaste?
+
+81
+00:07:27,600 --> 00:07:28,760
+Dime la verdad.
+
+82
+00:07:38,360 --> 00:07:39,360
+Entonces...
+
+83
+00:07:40,600 --> 00:07:41,720
+Yo también te gusto.
+
+84
+00:07:47,200 --> 00:07:48,320
+Te gusto.
+
+85
+00:07:48,800 --> 00:07:49,800
+¿Bien?
+
+86
+00:07:51,560 --> 00:07:53,160
+¿Por qué me besaste de repente?
+
+87
+00:07:54,720 --> 00:07:56,000
+¿No es eso pervertido?
+
+88
+00:07:56,400 --> 00:07:58,840
+Entonces, ¿estás diciendo...?
+
+89
+00:07:59,280 --> 00:08:00,280
+¿Que soy un pervertido?
+
+90
+00:08:00,480 --> 00:08:01,480
+No, no es eso.
+
+91
+00:08:02,360 --> 00:08:03,520
+Eres una buena persona.
+
+92
+00:08:04,520 --> 00:08:07,440
+Pero, ¿cómo podrías quererme?
+
+93
+00:08:09,240 --> 00:08:10,280
+Déjame decirte algo.
+
+94
+00:08:10,960 --> 00:08:13,080
+Si dos personas están enamoradas...
+
+95
+00:08:13,800 --> 00:08:15,160
+Entonces deberían estar juntos.
+
+96
+00:08:16,080 --> 00:08:17,440
+No te preocupes por lo que digan los demás.
+
+97
+00:08:21,920 --> 00:08:23,760
+¿Quién está enamorado de ti?
+
+98
+00:08:28,600 --> 00:08:29,600
+¿Está seguro?
+
+99
+00:08:48,920 --> 00:08:50,320
+Me gustas.
+
+100
+00:08:51,760 --> 00:08:53,080
+Es así de simple.
+
+101
+00:08:56,160 --> 00:08:57,240
+Supongo...
+
+102
+00:08:58,800 --> 00:09:00,240
+Es sencillo.
+
+103
+00:10:50,960 --> 00:10:51,960
+Xiao Chen.
+
+104
+00:10:56,680 --> 00:10:57,840
+¿Con qué estabas soñando?
+
+105
+00:10:58,440 --> 00:10:59,440
+¿Un sueño?
+
+106
+00:11:00,000 --> 00:11:01,520
+Todo giraba en torno a lo que me hiciste...
+
+107
+00:11:02,640 --> 00:11:05,000
+¿Qué...
+qué hice?
+
+108
+00:11:05,160 --> 00:11:06,160
+¿Qué estás haciendo?
+
+109
+00:11:06,800 --> 00:11:08,080
+Eres un verdadero asqueroso.
+
+110
+00:11:10,160 --> 00:11:11,320
+¿Así que soy un bicho raro, eh?
+
+111
+00:11:15,080 --> 00:11:16,440
+Lu Feng, ¿qué estás haciendo?
+
+112
+00:11:17,600 --> 00:11:18,600
+Ser un pervertido.
+
+113
+00:11:24,520 --> 00:11:25,520
+¿De dónde sacaste eso?
+
+114
+00:11:26,000 --> 00:11:27,000
+Acabo de comprarlo.
+
+115
+00:11:27,040 --> 00:11:28,080
+En realidad es bastante agradable.
+
+116
+00:11:30,080 --> 00:11:31,640
+¿Cómo puede alguien ser tan lindo?
+
+117
+00:11:31,880 --> 00:11:32,880
+Aquí mismo.
+
+118
+00:11:34,400 --> 00:11:35,680
+Mírate a los ojos.
+
+119
+00:11:40,480 --> 00:11:41,600
+¿Cómo pueden ser tan lindos?
+
+120
+00:11:45,880 --> 00:11:47,080
+Pon una cara aún más fea.
+
+121
+00:11:47,720 --> 00:11:48,560
+¿Más feo? ¿Por qué?
+
+122
+00:11:48,561 --> 00:11:49,840
+¡Hazlo ya, vamos!
+
+123
+00:11:50,040 --> 00:11:51,040
+No lo voy a hacer.
+
+124
+00:11:54,120 --> 00:11:55,120
+Ojos grandes.
+
+125
+00:11:56,320 --> 00:11:57,680
+Te estoy tomando una foto a tus ojos.
+
+126
+00:12:01,320 --> 00:12:02,320
+Abre los ojos.
+
+127
+00:12:03,080 --> 00:12:04,240
+¿De dónde sacaste esto?
+
+128
+00:12:05,160 --> 00:12:06,160
+¿Te gusta?
+
+129
+00:12:08,080 --> 00:12:09,080
+Alguien viene.
+
+130
+00:12:09,280 --> 00:12:10,440
+¿Adónde vas corriendo?
+
+131
+00:12:11,080 --> 00:12:12,080
+¡Regresar!
+
+132
+00:12:12,800 --> 00:12:13,800
+Yichen.
+
+133
+00:12:30,760 --> 00:12:31,760
+¡Ataque de pez globo!
+
+134
+00:12:34,920 --> 00:12:35,800
+Te encanta reír, ¿verdad?
+
+135
+00:12:35,800 --> 00:12:36,800
+Ni siquiera tengo cosquillas.
+
+136
+00:12:38,720 --> 00:12:40,400
+Cabeza de hongo malvada.
+
+137
+00:12:53,200 --> 00:12:54,400
+¿Qué estás haciendo?
+
+138
+00:12:59,640 --> 00:13:01,000
+¿Qué es esto?
+
+139
+00:13:01,200 --> 00:13:02,200
+¿Qué es esto?
+
+140
+00:13:02,280 --> 00:13:03,560
+Es medio corazón.
+
+141
+00:13:04,680 --> 00:13:05,680
+Nada mal.
+
+142
+00:13:05,760 --> 00:13:06,760
+Échale un vistazo.
+
+143
+00:13:06,800 --> 00:13:07,480
+Mira a la cámara.
+
+144
+00:13:07,680 --> 00:13:08,680
+Mira aquí.
+
+145
+00:13:31,040 --> 00:13:32,520
+Oh, disculpen la interrupción.
+
+146
+00:13:34,560 --> 00:13:35,760
+¿Estás listo?
+
+147
+00:13:36,480 --> 00:13:37,480
+Voy a cantar ahora.
+
+148
+00:13:38,360 --> 00:13:41,520
+Feliz cumpleaños.
+
+149
+00:13:46,600 --> 00:13:47,600
+Cierra los ojos.
+
+150
+00:13:48,680 --> 00:13:49,680
+Feliz cumpleaños.
+
+151
+00:13:50,600 --> 00:13:51,600
+Un girasol.
+
+152
+00:13:53,200 --> 00:13:54,200
+¿Te gusta?
+
+153
+00:13:54,760 --> 00:13:55,760
+Lo hice yo mismo.
+
+154
+00:13:57,040 --> 00:13:58,480
+¿En realidad?
+
+155
+00:14:09,520 --> 00:14:10,520
+No te alejes demasiado.
+
+156
+00:14:11,320 --> 00:14:12,320
+No te transformes.
+
+157
+00:14:13,400 --> 00:14:14,400
+Es aterrador.
+
+158
+00:14:15,520 --> 00:14:16,520
+Cheng Yichen.
+
+159
+00:14:19,280 --> 00:14:20,280
+¿Me amas?
+
+160
+00:14:25,000 --> 00:14:26,000
+Sí.
+
+161
+00:14:27,040 --> 00:14:28,040
+¿Cuánto cuesta?
+
+162
+00:14:28,520 --> 00:14:29,520
+Mucho.
+
+163
+00:14:29,600 --> 00:14:30,960
+Muchísimo, muchísimo.
+
+164
+00:14:31,680 --> 00:14:33,240
+¿Cuánto tiempo te quedarás conmigo?
+
+165
+00:14:33,480 --> 00:14:34,480
+Para siempre.
+
+166
+00:14:34,600 --> 00:14:36,400
+Lo dijiste con tanta facilidad.
+
+167
+00:14:36,680 --> 00:14:37,680
+No suena sincero.
+
+168
+00:14:38,840 --> 00:14:40,280
+Quiero estar contigo.
+
+169
+00:14:40,600 --> 00:14:41,600
+Para siempre.
+
+170
+00:14:42,560 --> 00:14:43,560
+Lo pensaré.
+
+171
+00:14:44,320 --> 00:14:45,400
+Ya veré cómo te comportas.
+
+172
+00:14:45,640 --> 00:14:46,840
+En una escala del uno al cien...
+
+173
+00:14:47,253 --> 00:14:48,309
+¿Cuánto te gusto?
+
+174
+00:14:48,360 --> 00:14:49,880
+Ciento.
+
+175
+00:15:01,640 --> 00:15:02,640
+Ciento.
+
+176
+00:15:03,040 --> 00:15:03,760
+Ciento.
+
+177
+00:15:04,040 --> 00:15:05,040
+Para siempre.
+
+178
+00:15:05,560 --> 00:15:06,560
+Para siempre.
+
+179
+00:15:16,560 --> 00:15:17,800
+Lu Feng, deja de hacer el tonto.
+
+180
+00:15:18,040 --> 00:15:19,199
+No haré nada más, solo un beso.
+
+181
+00:15:19,200 --> 00:15:20,320
+Bésame el trasero.
+
+182
+00:15:23,240 --> 00:15:24,520
+¿Quieres venir a mi casa?
+
+183
+00:15:24,960 --> 00:15:25,760
+¿Por qué iría yo a tu casa?
+
+184
+00:15:25,840 --> 00:15:27,520
+Mi padre y mi hermana están ambos en Estados Unidos.
+
+185
+00:15:28,240 --> 00:15:29,440
+Ahora mismo no hay nadie en casa.
+
+186
+00:15:32,520 --> 00:15:33,160
+¿Entonces?
+
+187
+00:15:33,320 --> 00:15:36,160
+Solo necesitamos...
+estar de vuelta aquí el domingo a las 11:00.
+
+188
+00:15:36,840 --> 00:15:37,880
+Solo tenemos...
+
+189
+00:15:39,320 --> 00:15:40,520
+Quedan unas treinta horas.
+
+190
+00:15:42,627 --> 00:15:44,240
+¿Estás seguro de que quieres quedarte aquí?
+
+191
+00:15:47,160 --> 00:15:48,760
+Bien.
+
+192
+00:15:53,360 --> 00:15:53,840
+Xiao Pang.
+
+193
+00:15:53,880 --> 00:15:55,240
+Voy a la biblioteca a estudiar.
+
+194
+00:15:57,720 --> 00:15:58,720
+¿Qué está haciendo?
+
+195
+00:16:06,840 --> 00:16:07,840
+Hagámoslo de nuevo.
+
+196
+00:16:43,920 --> 00:16:44,920
+¿Qué estás haciendo?
+
+197
+00:16:45,560 --> 00:16:46,560
+Quiero abrazarte.
+
+198
+00:16:47,160 --> 00:16:48,160
+¿Abrázame?
+
+199
+00:16:48,600 --> 00:16:49,600
+¿Cómo?
+
+200
+00:16:49,680 --> 00:16:50,680
+Te lo mostraré.
+
+201
+00:16:57,040 --> 00:16:58,040
+No hay necesidad.
+
+202
+00:16:58,185 --> 00:16:59,185
+No te pongas nervioso.
+
+203
+00:16:59,932 --> 00:17:00,932
+Lu Feng.
+
+204
+00:17:01,400 --> 00:17:02,160
+En absoluto.
+
+205
+00:17:02,360 --> 00:17:03,736
+Realmente no puedo. Hablemos
+de esto más tarde.
+
+206
+00:17:03,760 --> 00:17:05,016
+No hay nada que temer.
+
+207
+00:17:05,040 --> 00:17:06,040
+¿A qué le tienes miedo?
+
+208
+00:17:06,640 --> 00:17:08,040
+Cualquiera tendría miedo.
+
+209
+00:17:27,280 --> 00:17:28,320
+¿Qué estás haciendo?
+
+210
+00:17:35,400 --> 00:17:36,800
+Quiero que seas mía.
+
+211
+00:18:07,040 --> 00:18:08,040
+Lu Feng.
+
+212
+00:18:22,320 --> 00:18:23,320
+Lu Feng.
+
+213
+00:18:39,400 --> 00:18:40,960
+¿Por qué te levantaste solo?
+
+214
+00:18:42,080 --> 00:18:43,080
+No es nada.
+
+215
+00:18:45,366 --> 00:18:47,526
+¿Estás molesto/a por
+lo que pasó antes?
+
+216
+00:18:57,200 --> 00:18:58,760
+¿No quieres tener intimidad conmigo?
+
+217
+00:19:02,160 --> 00:19:03,160
+No.
+
+218
+00:19:04,000 --> 00:19:05,600
+Mírate a la cara ahora mismo.
+
+219
+00:19:06,400 --> 00:19:07,520
+¿A eso le llamas "no"?
+
+220
+00:19:12,000 --> 00:19:13,760
+Si estar conmigo es
+una lucha tan grande para ti,
+
+221
+00:19:15,200 --> 00:19:16,480
+Entonces, simplemente no estemos juntos.
+
+222
+00:19:27,080 --> 00:19:30,840
+Solo han transcurrido doce horas
+desde que estuvimos juntos.
+
+223
+00:19:32,960 --> 00:19:34,240
+El tiempo restante,
+
+224
+00:19:35,080 --> 00:19:36,640
+Me está asfixiando.
+
+225
+00:20:10,120 --> 00:20:12,080
+¿No puedes tener en cuenta cómo me siento?
+
+226
+00:20:13,680 --> 00:20:15,400
+Al fin y al cabo, soy un hombre.
+
+227
+00:20:15,960 --> 00:20:17,920
+¿Por qué debería hacer lo que tú digas?
+
+228
+00:20:19,000 --> 00:20:20,840
+¿No puedo dudar? ¿No puedo luchar?
+
+229
+00:20:38,680 --> 00:20:39,760
+¿Por qué estás sentado aquí?
+
+230
+00:20:41,840 --> 00:20:42,880
+¿No te ibas?
+
+231
+00:20:43,160 --> 00:20:44,160
+Ocúpate de tus propios asuntos.
+
+232
+00:20:44,440 --> 00:20:45,600
+¿No puedo simplemente tomarme un descanso?
+
+233
+00:20:46,880 --> 00:20:49,680
+¿Prefieres quedarte aquí sentado hasta el amanecer?
+
+234
+00:20:50,480 --> 00:20:51,680
+¿Entonces vuelve a mí?
+
+235
+00:20:54,040 --> 00:20:55,040
+¿Adónde ir?
+
+236
+00:20:56,160 --> 00:20:57,160
+No te preocupes por eso.
+
+237
+00:20:57,240 --> 00:20:58,920
+De todas formas, no te importa lo que yo piense.
+
+238
+00:21:00,520 --> 00:21:02,000
+¿Cuándo no me has importado?
+
+239
+00:21:02,560 --> 00:21:03,280
+Vuelve conmigo.
+
+240
+00:21:03,280 --> 00:21:04,280
+No.
+
+241
+00:21:05,320 --> 00:21:06,336
+¿Vas a volver o no?
+
+242
+00:21:06,360 --> 00:21:07,120
+Aquí vamos de nuevo.
+
+243
+00:21:07,240 --> 00:21:08,240
+Eso es todo lo que haces.
+
+244
+00:21:08,880 --> 00:21:09,880
+No voy a volver.
+
+245
+00:21:10,000 --> 00:21:10,840
+Maldito seas.
+
+246
+00:21:10,841 --> 00:21:12,976
+Todo eso de que les gusto
+, de que me aman, es todo falso.
+
+247
+00:21:13,000 --> 00:21:14,160
+Solo te importas a ti mismo.
+
+248
+00:21:14,280 --> 00:21:15,840
+Estoy pasando por un momento difícil y no quiero esto.
+
+249
+00:21:16,040 --> 00:21:16,680
+Soy un hombre adulto.
+
+250
+00:21:16,681 --> 00:21:18,096
+¿Por qué tengo que ser yo la que sea secuestrada?
+
+251
+00:21:18,120 --> 00:21:18,880
+Si no fuera porque me gustas,
+
+252
+00:21:18,881 --> 00:21:20,016
+¿Por qué me sometería a esto?
+
+253
+00:21:20,040 --> 00:21:21,040
+¿Por qué debería escuchar...?
+
+254
+00:21:21,600 --> 00:21:22,600
+a un pervertido.
+
+255
+00:21:28,160 --> 00:21:29,320
+¿Y si me enfermo?
+
+256
+00:21:29,440 --> 00:21:30,480
+¿Y si otros se enteran?
+
+257
+00:21:30,600 --> 00:21:32,040
+¿Y si mis padres dejan de quererme?
+
+258
+00:21:32,240 --> 00:21:33,480
+¿Alguna vez has pensado en mí?
+
+259
+00:21:39,680 --> 00:21:40,760
+No, es cierto.
+
+260
+00:21:41,480 --> 00:21:42,480
+Pero no te preocupes.
+
+261
+00:21:43,920 --> 00:21:44,920
+Mientras yo esté aquí,
+
+262
+00:21:46,480 --> 00:21:47,480
+No tienes nada que temer.
+
+263
+00:21:55,440 --> 00:21:57,040
+Volvamos atrás, ¿de acuerdo?
+
+264
+00:22:00,160 --> 00:22:01,200
+¿Bueno?
+
+265
+00:22:02,600 --> 00:22:03,920
+¿Por favor?
+
+266
+00:22:09,400 --> 00:22:10,440
+¿Duele?
+
+267
+00:22:16,160 --> 00:22:18,040
+¿Te duelen los pies de tanto caminar?
+
+268
+00:22:23,440 --> 00:22:24,440
+Déjame llevarte.
+
+269
+00:22:55,280 --> 00:22:56,280
+Xiao Chen.
+
+270
+00:22:57,280 --> 00:22:58,440
+Todos quieren
+
+271
+00:22:58,840 --> 00:23:00,720
+tener intimidad con la persona que aman.
+
+272
+00:23:02,160 --> 00:23:03,240
+Yo soy igual.
+
+273
+00:23:06,120 --> 00:23:07,760
+Me gustas mucho.
+
+274
+00:23:10,200 --> 00:23:11,760
+Cuando estoy contigo,
+
+275
+00:23:13,400 --> 00:23:15,440
+Me siento muy feliz.
+
+276
+00:23:15,840 --> 00:23:16,840
+Pensé
+
+277
+00:23:18,320 --> 00:23:20,040
+Tú serías tan feliz como yo.
+
+278
+00:23:21,520 --> 00:23:22,520
+Pero entonces,
+
+279
+00:23:23,040 --> 00:23:24,360
+Tenías esa expresión en la cara.
+
+280
+00:23:25,280 --> 00:23:26,440
+Perdí el control.
+
+281
+00:23:33,080 --> 00:23:34,080
+Lo lamento.
+
+282
+00:23:42,480 --> 00:23:44,080
+No intento obligarte.
+
+283
+00:23:45,280 --> 00:23:47,080
+Definitivamente no quiero hacerte daño.
+
+284
+00:23:47,560 --> 00:23:48,560
+Es que...
+
+285
+00:23:48,760 --> 00:23:50,960
+Me gustas mucho, mucho.
+
+286
+00:23:51,120 --> 00:23:52,240
+Por eso actué de esa manera.
+
+287
+00:23:55,400 --> 00:23:56,920
+Ni siquiera sé lo que estoy diciendo.
+
+288
+00:23:57,440 --> 00:23:59,840
+Haz como si no hubieras oído nada.
+
+289
+00:24:02,560 --> 00:24:04,840
+La forma en que divagaba y era tímido,
+
+290
+00:24:06,240 --> 00:24:08,560
+Es una escena con la que soñaría a menudo más adelante.
+
+291
+00:24:12,600 --> 00:24:18,160
+Muy bien, como tarea, por favor escriban un
+ensayo de 3 párrafos utilizando cualquier argumento de su elección.
+
+292
+00:24:18,760 --> 00:24:20,520
+La fecha límite es el próximo lunes.
+
+293
+00:24:20,880 --> 00:24:22,280
+Nos vemos la semana que viene.
+
+294
+00:24:23,400 --> 00:24:24,400
+¡Profesor, espere un momento!
+
+295
+00:24:26,200 --> 00:24:27,680
+¡Tres, dos, uno!
+
+296
+00:24:27,960 --> 00:24:32,120
+¡Felicidades por tu boda, profesora!
+
+297
+00:24:33,360 --> 00:24:34,440
+Gracias..
+
+298
+00:24:40,040 --> 00:24:41,840
+Ahora, demos la bienvenida a la pareja.
+
+299
+00:24:45,680 --> 00:24:46,680
+Sr. Lu Feng,
+
+300
+00:24:46,720 --> 00:24:48,640
+¿Aceptas al señor Cheng
+Yichen como tu esposo?
+
+301
+00:24:50,200 --> 00:24:51,200
+Sí.
+
+302
+00:24:52,160 --> 00:24:53,160
+Sr. Cheng Yichen,
+
+303
+00:24:53,320 --> 00:24:55,040
+¿Aceptas al señor Lu Feng como tu esposo?
+
+304
+00:24:55,160 --> 00:24:56,160
+Sí.
+
+305
+00:25:01,600 --> 00:25:04,080
+Ahora, por favor, intercambien los anillos.
+
+306
+00:25:21,080 --> 00:25:23,160
+Sabiendo que no
+habrá una boda propia,
+
+307
+00:25:24,120 --> 00:25:25,120
+ahora mismo,
+
+308
+00:25:26,120 --> 00:25:28,480
+Solo estoy robando un poquito de
+la felicidad de otra persona.
+
+309
+00:26:02,800 --> 00:26:04,560
+Tengo algo para ti.
+
+310
+00:26:05,560 --> 00:26:06,800
+No sé si te gustará.
+
+311
+00:26:06,880 --> 00:26:07,880
+¿Qué es?
+
+312
+00:26:12,640 --> 00:26:14,440
+Lo estás sujetando tan
+fuerte, ¿cómo puedo verlo?
+
+313
+00:26:25,800 --> 00:26:26,880
+Es simplemente plata.
+
+314
+00:26:27,160 --> 00:26:28,520
+Nada caro.
+
+315
+00:26:30,640 --> 00:26:31,640
+Este...
+
+316
+00:26:31,720 --> 00:26:32,720
+Este es tuyo.
+
+317
+00:26:37,680 --> 00:26:39,320
+¿No te gusta?
+
+318
+00:26:41,480 --> 00:26:42,600
+Lo hice yo mismo.
+
+319
+00:26:43,000 --> 00:26:44,600
+Puede que sea un poco tosco.
+
+320
+00:26:49,800 --> 00:26:50,800
+¿Qué ocurre?
+
+321
+00:26:51,400 --> 00:26:52,400
+Tú...
+
+322
+00:26:52,840 --> 00:26:54,080
+¿No te gusta mucho?
+
+323
+00:26:56,840 --> 00:26:57,840
+Lu Feng,
+
+324
+00:27:01,560 --> 00:27:02,560
+Te amo.
+
+325
+00:27:11,160 --> 00:27:12,200
+Yo también te amo.
+
+326
+00:27:19,520 --> 00:27:20,520
+Mirar.
+
+327
+00:27:20,960 --> 00:27:23,040
+Lu Feng ama a Cheng Yichen.
+
+328
+00:27:45,040 --> 00:27:46,040
+Lu Feng,
+
+329
+00:27:47,760 --> 00:27:49,440
+¿Puedes prometerme algo?
+
+330
+00:27:51,400 --> 00:27:53,760
+Si algún día rompemos,
+
+331
+00:27:54,840 --> 00:27:55,840
+el anillo...
+
+332
+00:27:56,720 --> 00:27:57,760
+No lo retires.
+
+333
+00:27:59,320 --> 00:28:00,640
+Puedo pagarlo.
+
+334
+00:28:01,720 --> 00:28:02,720
+Déjamelo a mí.
+
+335
+00:28:03,080 --> 00:28:04,080
+¿Bueno?
+
+336
+00:28:11,160 --> 00:28:12,680
+Nunca nos separaremos.
+
+337
+00:28:15,040 --> 00:28:16,880
+Quiero estar contigo
+el resto de mi vida.
+
+338
+00:28:25,360 --> 00:28:27,680
+Un beso tan sincero y tangible como este,
+
+339
+00:28:28,720 --> 00:28:29,720
+en el futuro,
+
+340
+00:28:30,240 --> 00:28:31,920
+Nadie más podrá jamás dármelo.
+
+341
+00:28:32,800 --> 00:28:33,800
+Esto no es...
+
+342
+00:28:35,440 --> 00:28:36,440
+Este...
+
+343
+00:28:37,920 --> 00:28:38,920
+Ellos...
+
+344
+00:28:39,560 --> 00:28:40,560
+Maldita sea.
+
+345
+00:28:46,200 --> 00:28:48,000
+Personalmente respeto
+
+346
+00:28:48,120 --> 00:28:49,240
+tu libertad de amar,
+
+347
+00:28:50,320 --> 00:28:51,400
+pero el impacto
+
+348
+00:28:52,320 --> 00:28:53,320
+es muy negativo.
+
+349
+00:28:53,760 --> 00:28:54,760
+Te traje aquí hoy
+
+350
+00:28:54,960 --> 00:28:56,280
+para aclarar que
+
+351
+00:28:56,520 --> 00:28:58,280
+Solo estás perdiendo el tiempo.
+
+352
+00:28:58,440 --> 00:28:59,440
+¿Tocando?
+
+353
+00:29:00,040 --> 00:29:02,080
+Director, usted es el que está perdiendo el tiempo.
+
+354
+00:29:02,520 --> 00:29:04,120
+Tenemos una relación seria.
+
+355
+00:29:04,240 --> 00:29:05,600
+¿Dos hombres en una relación?
+
+356
+00:29:05,760 --> 00:29:07,520
+¿Quién dice que dos hombres
+no pueden tener una relación?
+
+357
+00:29:07,960 --> 00:29:09,240
+¿Existe alguna ley que lo prohíba?
+
+358
+00:29:10,040 --> 00:29:11,200
+No hemos infringido ninguna ley,
+
+359
+00:29:11,360 --> 00:29:12,720
+ni hemos infringido las normas escolares.
+
+360
+00:29:12,840 --> 00:29:14,440
+¿Te molesta que estemos juntos?
+
+361
+00:29:15,120 --> 00:29:16,840
+Tu familia paga tu educación universitaria.
+
+362
+00:29:17,080 --> 00:29:18,440
+¿Para que hagas esto?
+
+363
+00:29:19,120 --> 00:29:20,120
+Él es inocente.
+
+364
+00:29:20,320 --> 00:29:21,640
+Me vi obligado a hacerlo.
+
+365
+00:29:22,520 --> 00:29:24,120
+La escuela ya no puede con ustedes dos.
+
+366
+00:29:24,320 --> 00:29:25,600
+Te sugiero que cambies de escuela.
+
+367
+00:29:27,840 --> 00:29:30,400
+Su
+lucha desesperada por protegerme
+
+368
+00:29:31,440 --> 00:29:33,240
+Me hizo sentir lástima por él.
+
+369
+00:29:37,040 --> 00:29:38,560
+No permitiré que te transfieran.
+
+370
+00:29:39,200 --> 00:29:40,200
+Me iré yo.
+
+371
+00:29:40,760 --> 00:29:42,520
+Y luego volveré a escondidas para verte.
+
+372
+00:29:43,360 --> 00:29:45,240
+Pero mis padres ya deben saberlo.
+
+373
+00:29:46,680 --> 00:29:47,800
+Háganles saber.
+
+374
+00:29:48,320 --> 00:29:49,320
+Si te lo preguntan,
+
+375
+00:29:49,360 --> 00:29:50,760
+Di simplemente que te obligué.
+
+376
+00:29:51,520 --> 00:29:53,160
+Tu padre también debe saberlo.
+
+377
+00:29:53,320 --> 00:29:54,440
+No le tengo miedo.
+
+378
+00:29:55,240 --> 00:29:57,080
+Lo peor que puede hacer es pegarme.
+
+379
+00:29:57,520 --> 00:29:58,720
+Mientras no me mate,
+
+380
+00:29:59,040 --> 00:30:00,320
+Sin duda estaré contigo.
+
+381
+00:30:02,840 --> 00:30:03,960
+¿No es ese Lu Feng?
+
+382
+00:30:04,640 --> 00:30:06,120
+¿Tomados de la mano con un hombre?
+
+383
+00:30:06,800 --> 00:30:07,840
+¿No te da asco?
+
+384
+00:30:07,960 --> 00:30:09,240
+Tú eres el asqueroso.
+
+385
+00:30:09,680 --> 00:30:10,840
+¿Qué demonios eres?
+
+386
+00:30:11,000 --> 00:30:12,120
+¿Por qué estás en todas partes?
+
+387
+00:30:13,200 --> 00:30:14,840
+Tenemos una relación legítima.
+
+388
+00:30:15,320 --> 00:30:16,160
+¿Qué te importa?
+
+389
+00:30:16,240 --> 00:30:17,320
+Lu Feng, vámonos.
+
+390
+00:30:17,640 --> 00:30:18,760
+¿Lu Feng se lo está pasando bien?
+
+391
+00:30:20,560 --> 00:30:21,640
+¿Quién te dijo que lo tocaras?
+
+392
+00:30:22,320 --> 00:30:23,000
+¿Estás bien?
+
+393
+00:30:23,120 --> 00:30:24,120
+Estoy bien.
+
+394
+00:30:27,280 --> 00:30:28,296
+Vale, vale, vale.
+
+395
+00:30:28,320 --> 00:30:29,320
+Tienes agallas.
+
+396
+00:30:29,440 --> 00:30:30,576
+¡Ustedes, todos ustedes, ataquen!
+
+397
+00:30:30,600 --> 00:30:31,600
+¡Golpéalo hasta matarlo!
+
+398
+00:30:32,080 --> 00:30:33,576
+¿Qué estás haciendo? ¿Qué estás haciendo?
+
+399
+00:30:33,600 --> 00:30:34,600
+Ven aquí.
+
+400
+00:30:34,640 --> 00:30:35,840
+Déjame divertirme un poco contigo.
+
+401
+00:30:35,920 --> 00:30:37,039
+¡Piérdete! ¡Mentira!
+
+402
+00:30:37,040 --> 00:30:38,320
+¿Sigues contestando? ¡Suéltalo!
+
+403
+00:30:38,440 --> 00:30:39,559
+¡Déjalo ir! Si Lu Feng puede
+divertirse con él, ¿por qué yo no?
+
+404
+00:30:39,560 --> 00:30:42,040
+Te desnudaré y veré
+si sigues siendo tan duro. ¡Suéltame!
+
+405
+00:30:43,040 --> 00:30:44,040
+Déjalo ir.
+
+406
+00:30:44,360 --> 00:30:45,400
+¡Aléjate de mí!
+
+407
+00:30:48,080 --> 00:30:49,080
+¡Lu Feng!
+
+408
+00:30:52,320 --> 00:30:53,320
+¡Piérdase!
+
+409
+00:30:56,560 --> 00:30:57,560
+¡Déjalo ir!
+
+410
+00:30:58,840 --> 00:31:00,280
+¿Quién te dijo que lo tocaras, Lu Feng?
+
+411
+00:31:00,880 --> 00:31:02,000
+Mirando hacia atrás,
+
+412
+00:31:03,040 --> 00:31:04,720
+Debo haber estado fuera de mí por el miedo,
+
+413
+00:31:05,360 --> 00:31:07,760
+haber gritado tan
+desesperadamente para que Lu Feng me salvara.
+
+414
+00:31:08,600 --> 00:31:10,080
+¡Vuelve a tocarlo y verás lo que pasa!
+
+415
+00:31:15,200 --> 00:31:16,200
+¡Lu Feng!
+
+416
+00:31:16,360 --> 00:31:17,360
+¿Estás bien?
+
+417
+00:31:18,720 --> 00:31:19,720
+¿Estás bien?
+
+418
+00:31:33,120 --> 00:31:33,760
+¡Entra!
+
+419
+00:31:33,920 --> 00:31:34,440
+¡Papá!
+
+420
+00:31:34,720 --> 00:31:35,160
+¡Papá!
+
+421
+00:31:35,160 --> 00:31:36,160
+¡Deja de causarnos problemas!
+
+422
+00:31:36,160 --> 00:31:37,160
+¡Papá! ¡Mamá!
+
+423
+00:31:37,161 --> 00:31:38,920
+- ¡Entra!
+- ¡Papá, por favor, déjame salir!
+
+424
+00:31:39,080 --> 00:31:41,680
+¡Papá! ¡Papá! ¡Papá!
+
+425
+00:31:44,000 --> 00:31:45,320
+¡Simplemente cometió un error, mamá!
+
+426
+00:31:45,440 --> 00:31:46,976
+No podemos permitir que siga
+cometiendo estos errores.
+
+427
+00:31:47,000 --> 00:31:49,199
+¡Papá! ¡Papá! ¡Papá!
+
+428
+00:31:49,200 --> 00:31:50,080
+No me llames papá.
+
+429
+00:31:50,160 --> 00:31:51,400
+Nunca crié a un hijo como tú.
+
+430
+00:31:51,640 --> 00:31:53,400
+Quédate ahí y piensa detenidamente.
+
+431
+00:31:53,560 --> 00:31:54,480
+Cuando finalmente hayas entrado en razón,
+
+432
+00:31:54,520 --> 00:31:55,800
+En ese momento te dejaré salir.
+
+433
+00:31:56,200 --> 00:31:58,600
+Xiao Chen,
+esta vez solo escucha a tu padre.
+
+434
+00:31:58,680 --> 00:31:59,896
+No puedes seguir comportándote así.
+
+435
+00:31:59,920 --> 00:32:01,216
+¿Tienes idea de lo grave que es esto?
+
+436
+00:32:01,240 --> 00:32:03,160
+¡Ya te han expulsado!
+
+437
+00:32:03,480 --> 00:32:04,920
+No puedes seguir siendo tan imprudente.
+
+438
+00:32:08,080 --> 00:32:09,960
+¡Mamá, por favor, déjame salir!
+
+439
+00:32:10,040 --> 00:32:11,480
+- ¡Te lo ruego, mamá!
+- No.
+
+440
+00:32:11,640 --> 00:32:14,040
+Mendigar no servirá de nada. Simplemente
+reflexiona sobre lo que has hecho.
+
+441
+00:32:14,120 --> 00:32:15,120
+¡Mamá!
+
+442
+00:32:25,840 --> 00:32:26,840
+Permítame preguntarle algo.
+
+443
+00:32:27,080 --> 00:32:28,160
+Estás involucrada con un hombre.
+
+444
+00:32:28,240 --> 00:32:29,400
+¿Te das cuenta de que estás equivocado?
+
+445
+00:32:29,680 --> 00:32:30,680
+No me equivoco.
+
+446
+00:32:32,000 --> 00:32:33,280
+Simplemente lo amo.
+
+447
+00:32:38,720 --> 00:32:39,720
+Hoy...
+
+448
+00:32:40,160 --> 00:32:41,440
+¡Te voy a matar a golpes!
+
+449
+00:32:41,880 --> 00:32:42,880
+¡Papá!
+
+450
+00:32:44,320 --> 00:32:45,440
+Todo está resuelto.
+
+451
+00:32:45,640 --> 00:32:47,160
+Han acordado llegar a un acuerdo extrajudicial.
+
+452
+00:32:47,440 --> 00:32:49,480
+Haré que el
+departamento de finanzas prepare el dinero.
+
+453
+00:32:49,800 --> 00:32:51,320
+Y el billete de avión ya está reservado.
+
+454
+00:32:53,440 --> 00:32:54,080
+¿Un billete de avión?
+
+455
+00:32:54,400 --> 00:32:55,840
+Hermana, ¿qué billete de avión?
+
+456
+00:32:56,240 --> 00:32:57,240
+Baja la voz.
+
+457
+00:32:58,320 --> 00:32:59,320
+¿Adónde me envías?
+
+458
+00:32:59,640 --> 00:33:00,640
+Pasado mañana.
+
+459
+00:33:01,360 --> 00:33:02,520
+Llévalo y vete primero.
+
+460
+00:33:03,520 --> 00:33:04,840
+Yo me encargaré de la familia Yang.
+
+461
+00:33:05,520 --> 00:33:06,520
+Mi dinero...
+
+462
+00:33:06,800 --> 00:33:08,080
+No es tan fácil de aceptar.
+
+463
+00:33:12,720 --> 00:33:13,960
+Hermana, ¿qué billete de avión?
+
+464
+00:33:14,120 --> 00:33:15,000
+¿Me estás enviando a Estados Unidos?
+
+465
+00:33:15,120 --> 00:33:15,960
+¡Necesito encontrar a Xiao Chen!
+
+466
+00:33:16,040 --> 00:33:16,840
+¡No quiero ir a Estados Unidos!
+
+467
+00:33:16,920 --> 00:33:18,016
+- Hermana, ¡no quiero ir a Estados Unidos!
+- ¡Deja de gritar!
+
+468
+00:33:18,040 --> 00:33:19,216
+- ¡No quiero ir!
+- ¡Basta!
+
+469
+00:33:19,240 --> 00:33:20,760
+¿No tienes miedo de que papá te mate?
+
+470
+00:33:21,520 --> 00:33:22,760
+Por ahora, solo sé obediente, ¿de acuerdo?
+
+471
+00:33:22,920 --> 00:33:25,080
+Tendrás otras oportunidades
+una vez que estés en Estados Unidos.
+
+472
+00:33:26,400 --> 00:33:27,600
+No te pongas tan ansioso ahora mismo.
+
+473
+00:33:27,880 --> 00:33:30,080
+¿No te da miedo lo que papá
+pueda hacerle a Cheng Yichen?
+
+474
+00:33:35,000 --> 00:33:36,000
+Hermana.
+
+475
+00:33:36,840 --> 00:33:37,840
+Hazme un favor.
+
+476
+00:33:39,440 --> 00:33:41,440
+Por favor, envíale un mensaje a Xiao Chen de mi parte.
+
+477
+00:33:42,200 --> 00:33:43,000
+Dile...
+
+478
+00:33:43,200 --> 00:33:44,840
+que sin duda volveré por él.
+
+479
+00:33:45,320 --> 00:33:46,960
+Solo voy a estar en Estados Unidos por un tiempo.
+
+480
+00:33:47,160 --> 00:33:48,440
+¿Harías esto por mí?
+
+481
+00:34:01,040 --> 00:34:02,040
+Xiao Chen,
+
+482
+00:34:02,120 --> 00:34:04,376
+Mi familia ya ha resuelto
+la situación con Yang Wei.
+
+483
+00:34:04,400 --> 00:34:05,400
+No te preocupes.
+
+484
+00:34:05,560 --> 00:34:07,056
+Vuelo a Estados Unidos
+pasado mañana.
+
+485
+00:34:07,080 --> 00:34:08,640
+Mi padre quiere que me mantenga discreto por un tiempo.
+
+486
+00:34:08,680 --> 00:34:10,080
+Pero volveré pronto.
+
+487
+00:34:10,280 --> 00:34:11,480
+Debes esperarme.
+
+488
+00:34:30,520 --> 00:34:31,520
+Hermana.
+
+489
+00:34:33,000 --> 00:34:34,000
+Seguir.
+
+490
+00:35:02,440 --> 00:35:03,440
+Hermano.
+
+491
+00:35:04,280 --> 00:35:05,440
+Mamá y papá todavía están dormidos.
+
+492
+00:35:05,960 --> 00:35:07,080
+Come algo, ¿de acuerdo?
+
+493
+00:35:07,280 --> 00:35:08,280
+Cheng Yi-chen.
+
+494
+00:35:09,400 --> 00:35:10,400
+Cheng Yi-chen.
+
+495
+00:35:11,560 --> 00:35:12,880
+Por favor, déjenme salir.
+
+496
+00:35:14,840 --> 00:35:15,840
+Hermano.
+
+497
+00:35:17,200 --> 00:35:18,816
+¿Cuánto tiempo más vas
+a seguir siendo tan terco?
+
+498
+00:35:18,840 --> 00:35:20,296
+Ahora mismo no me importa nada más.
+
+499
+00:35:20,320 --> 00:35:21,680
+Solo quiero verlo.
+
+500
+00:35:22,440 --> 00:35:23,840
+Déjame verlo una última vez.
+
+501
+00:35:24,200 --> 00:35:25,200
+¿A quién ver?
+
+502
+00:35:25,600 --> 00:35:26,600
+¿Ese bicho raro?
+
+503
+00:35:26,840 --> 00:35:28,160
+¡Te ha dejado
+en un estado lamentable!
+
+504
+00:35:29,320 --> 00:35:31,120
+Pero ya no tienes que
+pensar en ello.
+
+505
+00:35:32,680 --> 00:35:34,000
+Pronto se marchará a Estados Unidos.
+
+506
+00:35:36,713 --> 00:35:37,913
+Él nunca volverá.
+
+507
+00:35:46,400 --> 00:35:47,520
+¿Cómo lo sabes?
+
+508
+00:35:49,040 --> 00:35:50,040
+Eso es imposible.
+
+509
+00:35:50,240 --> 00:35:51,240
+¿Por qué es imposible?
+
+510
+00:35:51,320 --> 00:35:52,120
+Su familia es muy conocida.
+
+511
+00:35:52,240 --> 00:35:53,600
+Es fácil averiguarlo.
+
+512
+00:35:54,000 --> 00:35:55,920
+Está acusado de intento de asesinato.
+
+513
+00:35:56,080 --> 00:35:57,399
+La única razón por la que
+no está en la cárcel es porque...
+
+514
+00:35:57,400 --> 00:35:58,840
+Su familia tiene muchísima influencia.
+
+515
+00:36:00,120 --> 00:36:01,760
+Su negocio ya está presente en Estados Unidos.
+
+516
+00:36:02,280 --> 00:36:03,280
+Enviarlo al extranjero...
+
+517
+00:36:03,800 --> 00:36:05,000
+Es simplemente el siguiente paso lógico.
+
+518
+00:36:06,200 --> 00:36:07,920
+No, eso no puede ser. ¡Tengo que encontrarlo!
+
+519
+00:36:08,280 --> 00:36:09,280
+¡Hermano!
+
+520
+00:36:09,800 --> 00:36:10,800
+¡Hermano, te lo ruego!
+
+521
+00:36:11,440 --> 00:36:12,440
+¡Por favor, no te vayas!
+
+522
+00:36:13,120 --> 00:36:14,120
+¡No vayas!
+
+523
+00:36:16,207 --> 00:36:18,447
+Es lo mejor que se vaya.
+
+524
+00:36:18,902 --> 00:36:21,240
+Una vez que se vaya, podrás volver
+a la normalidad, ¿verdad?
+
+525
+00:36:21,393 --> 00:36:22,393
+¿Bien?
+
+526
+00:36:22,680 --> 00:36:23,680
+Somos gente normal.
+
+527
+00:36:23,681 --> 00:36:24,799
+Nuestros sentimientos son normales.
+
+528
+00:36:24,800 --> 00:36:26,040
+No hemos hecho nada malo.
+
+529
+00:36:26,760 --> 00:36:27,760
+¡Hermano!
+
+530
+00:36:29,560 --> 00:36:30,960
+No me obligues a llamar a mamá y papá.
+
+531
+00:36:32,880 --> 00:36:33,880
+Cheng Yi-chen.
+
+532
+00:36:34,160 --> 00:36:35,160
+Te lo ruego.
+
+533
+00:36:36,120 --> 00:36:37,440
+Déjame verlo solo una vez.
+
+534
+00:36:38,000 --> 00:36:39,000
+¿Puedo?
+
+535
+00:36:41,200 --> 00:36:43,000
+Esta es la única esperanza que me queda.
+
+536
+00:36:43,880 --> 00:36:45,520
+No puedo renunciar a ello.
+
+537
+00:36:50,760 --> 00:36:51,760
+¿Por favor?
+
+538
+00:36:53,040 --> 00:36:54,400
+Déjame verlo solo una vez.
+
+539
+00:36:55,240 --> 00:36:56,240
+¿Por favor?
+
+540
+00:36:59,640 --> 00:37:01,080
+¿De qué servirá que vayas?
+
+541
+00:37:02,640 --> 00:37:03,960
+De todas formas, se va a ir.
+
+542
+00:37:04,560 --> 00:37:05,560
+Me lo prometió...
+
+543
+00:37:06,800 --> 00:37:08,600
+que estaríamos juntos para siempre.
+
+544
+00:37:09,320 --> 00:37:10,120
+Solo quiero preguntarle...
+
+545
+00:37:10,121 --> 00:37:11,680
+si esa promesa sigue vigente.
+
+546
+00:37:12,080 --> 00:37:13,080
+Cheng Yi-chen.
+
+547
+00:37:13,400 --> 00:37:14,400
+No te preocupes.
+
+548
+00:37:14,800 --> 00:37:15,920
+No lo detendré.
+
+549
+00:37:16,400 --> 00:37:17,680
+Solo quiero una respuesta.
+
+550
+00:37:23,960 --> 00:37:24,960
+¡He terminado contigo!
+
+551
+00:37:33,000 --> 00:37:34,000
+¡Déjalo ir!
+
+552
+00:37:34,960 --> 00:37:35,640
+¡Déjalo ir!
+
+553
+00:37:35,880 --> 00:37:36,880
+¡Déjalo ir!
+
+554
+00:37:38,920 --> 00:37:39,920
+¡Sí!
+
+555
+00:37:41,760 --> 00:37:42,760
+¡Sí!
+
+556
+00:37:45,880 --> 00:37:46,880
+¡Sí!
+
+557
+00:37:48,000 --> 00:37:49,000
+El señorito.
+
+558
+00:37:49,200 --> 00:37:50,200
+Sube al coche.
+
+559
+00:37:53,320 --> 00:37:54,320
+¡Sí!
+
+560
+00:37:54,920 --> 00:37:57,400
+¡Hermana! ¡Hermana! ¡Hermana!
+
+561
+00:37:59,120 --> 00:38:01,680
+¡Hermana, todavía no puedo irme!
+
+562
+00:38:02,680 --> 00:38:04,520
+- No sé nada de Xiao Chen...
+- ¡Lu Feng!
+
+563
+00:38:05,720 --> 00:38:06,680
+Si sigues actuando así,
+
+564
+00:38:06,681 --> 00:38:08,201
+No hay nada más que pueda hacer por ti.
+
+565
+00:38:26,200 --> 00:38:27,640
+¡Detenga el coche! ¡Conductor, detenga el coche!
+
+566
+00:38:31,360 --> 00:38:32,360
+¡Lu Feng!
+
+567
+00:38:32,600 --> 00:38:33,600
+¡Lu Feng!
+
+568
+00:38:34,800 --> 00:38:35,800
+¡Hermano!
+
+569
+00:38:38,080 --> 00:38:39,080
+¡Lu Feng!
+
+570
+00:38:41,880 --> 00:38:42,920
+¡Lu Feng!
+
+571
+00:38:45,480 --> 00:38:46,560
+¡Lu Feng!
+
+572
+00:38:49,480 --> 00:38:50,800
+¡Lu Feng!
+
+573
+00:38:52,360 --> 00:38:53,800
+¡Lu Feng!
+
+574
+00:39:01,280 --> 00:39:02,320
+¡Lu Feng!
+
+575
+00:39:04,120 --> 00:39:05,120
+¡Lu Feng!
+
+576
+00:39:05,360 --> 00:39:06,360
+¡Hermano!
+
+577
+00:39:06,400 --> 00:39:07,400
+¡Lu Feng!
+
+578
+00:39:08,800 --> 00:39:09,800
+¡Lu Feng!
+
+579
+00:39:10,520 --> 00:39:11,120
+¡Hermano!
+
+580
+00:39:11,120 --> 00:39:12,120
+¡Lu Feng!
+
+581
+00:39:12,360 --> 00:39:13,360
+¡Hermano!
+
+582
+00:39:13,840 --> 00:39:14,840
+¡Lu Feng!
+
+583
+00:39:15,920 --> 00:39:16,920
+Vámonos a casa.
+
+584
+00:39:21,640 --> 00:39:22,920
+Cheng Yi-chen tenía razón.
+
+585
+00:39:24,400 --> 00:39:25,840
+Ya era demasiado tarde.
+
+586
+00:39:29,880 --> 00:39:31,000
+¡Lu Feng!
+
+587
+00:39:37,960 --> 00:39:38,960
+¡Cheng Yichen!
+
+588
+00:39:58,040 --> 00:39:59,040
+¡Hermano!
+
+589
+00:39:59,760 --> 00:40:00,760
+Te acompañaré a tu salida.
+
+590
+00:40:08,080 --> 00:40:09,240
+Después de este incidente,
+
+591
+00:40:10,440 --> 00:40:12,240
+Yo también me cambié de escuela, igual que Lu Feng.
+
+592
+00:40:13,600 --> 00:40:15,840
+Todos fingieron
+que no había pasado nada.
+
+593
+00:40:17,640 --> 00:40:20,160
+Sabía que algo se me había escapado de las manos.
+
+594
+00:40:21,720 --> 00:40:23,400
+pero no podía expresarlo con palabras.
+
+595
+00:40:30,640 --> 00:40:32,240
+Llámame cuando llegues a tu nueva escuela.
+
+596
+00:41:26,440 --> 00:41:28,280
+¿Cuánto tiempo más
+vas a seguir así?
+
+597
+00:41:44,240 --> 00:41:45,880
+¿Dónde está mi pasaporte?
+
+598
+00:41:46,720 --> 00:41:47,720
+Deja de preguntar.
+
+599
+00:41:48,033 --> 00:41:50,033
+Aunque lo tuvieras,
+no podrías irte.
+
+600
+00:41:51,040 --> 00:41:52,376
+¡Devuélvanme mi pasaporte ahora mismo!
+
+601
+00:41:52,400 --> 00:41:53,920
+¡Tengo que volver a ver a Cheng Yichen!
+
+602
+00:41:55,320 --> 00:41:56,320
+¿Quieres verlo?
+
+603
+00:41:56,480 --> 00:41:58,000
+¿Crees que siquiera quiere verte?
+
+604
+00:41:59,480 --> 00:42:00,520
+¿Se ha puesto en contacto contigo?
+
+605
+00:42:00,600 --> 00:42:02,040
+¿Te ha respondido alguna vez?
+
+606
+00:42:02,960 --> 00:42:03,680
+¿Alguna vez lo has considerado?
+
+607
+00:42:03,681 --> 00:42:05,840
+¿Que podría haber seguido
+adelante y comenzado una nueva vida?
+
+608
+00:42:06,400 --> 00:42:08,160
+¿Crees que todo el mundo es tan tonto como tú?
+
+609
+00:42:09,640 --> 00:42:11,376
+Renunciar a tu
+educación y a tu familia
+
+610
+00:42:11,400 --> 00:42:13,336
+¿Para una relación que
+debe permanecer en la sombra?
+
+611
+00:42:13,360 --> 00:42:15,000
+Lo dejaste todo.
+
+612
+00:42:16,680 --> 00:42:18,160
+Mírate ahora mismo.
+
+613
+00:42:18,600 --> 00:42:20,120
+¿Así es como luce una persona?
+
+614
+00:42:50,049 --> 00:42:52,537
+(Cuatro años después)
+
+615
+00:43:03,640 --> 00:43:04,640
+Cuando esto termine,
+
+616
+00:43:04,800 --> 00:43:06,240
+¿No le vas a invitar a una copa?
+
+617
+00:43:06,960 --> 00:43:08,039
+Todavía es solo un niño.
+
+618
+00:43:08,040 --> 00:43:09,040
+¿Por qué estaría bebiendo?
+
+619
+00:43:13,920 --> 00:43:14,760
+Ha pasado tanto tiempo.
+
+620
+00:43:14,920 --> 00:43:16,160
+¿Sigue sin haber avances?
