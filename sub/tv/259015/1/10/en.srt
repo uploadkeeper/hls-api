@@ -1,3083 +1,3443 @@
 1
-00:00:12,340 --> 00:00:13,729
+00:00:26,340 --> 00:00:27,630
 [Team Leader Baek Su Jeong]
 
 2
-00:00:13,730 --> 00:00:16,420
-[Moon Ga Young]
+00:00:27,630 --> 00:00:30,320
+[Mun Ka Young]
 
 3
-00:00:17,750 --> 00:00:19,129
+00:00:31,750 --> 00:00:33,030
 [Director Ban Ju Yeon]
 
 4
-00:00:19,130 --> 00:00:21,989
-[Choi Hyeon Wook]
+00:00:33,030 --> 00:00:35,890
+[Choi Hyun Wook]
 
 5
-00:00:21,990 --> 00:00:23,830
-[Yongsung's successor. [The new chaebol director?]
+00:00:35,890 --> 00:00:37,630
+[Yongsung's successor. New chaebol director?]
 
 6
-00:00:25,850 --> 00:00:27,980
+00:00:39,850 --> 00:00:41,880
 [Im Se Mi]
 
 7
-00:00:28,750 --> 00:00:30,770
-[Kwak Shi Yang]
+00:00:42,750 --> 00:00:44,670
+[Kwak Si Yang]
 
 8
-00:00:41,360 --> 00:00:45,019
-[My Dearest Enemy]
+00:00:55,360 --> 00:00:59,020
+[My Dearest Nemesis]
 
 9
-00:00:45,020 --> 00:00:47,939
-[This series is fictional.]
+00:00:59,020 --> 00:01:01,840
+[This drama is fiction.]
 
 10
-00:00:47,940 --> 00:00:49,920
-[Characters and settings are fictional.]
+00:01:01,840 --> 00:01:03,720
+[Characters and settings are fictitious.]
 
 11
-00:01:00,880 --> 00:01:03,170
+00:01:14,780 --> 00:01:16,870
 Why are you crying?
 
 12
-00:01:04,470 --> 00:01:06,570
+00:01:18,470 --> 00:01:20,270
 When I look at you like this...
 
 13
-00:01:10,310 --> 00:01:12,670
-You look even more angelic.
+00:01:24,310 --> 00:01:26,370
+you look even more angelic.
 
 14
-00:01:14,570 --> 00:01:17,180
-Oh my, really.
+00:01:28,570 --> 00:01:30,880
+Gosh, seriously.
 
 15
-00:01:20,790 --> 00:01:25,920
-Now that I think about it, you said the same thing when we first met.
+00:01:34,790 --> 00:01:37,590
+Thinking now, you also said that
 
 16
-00:01:28,900 --> 00:01:31,840
-What is Melek?
+00:01:37,590 --> 00:01:39,520
+when we first met.
 
 17
-00:01:32,660 --> 00:01:34,639
-Always...
+00:01:42,900 --> 00:01:45,640
+Angel?
 
 18
-00:01:34,640 --> 00:01:37,569
-You would say such things without any shame.
+00:01:46,660 --> 00:01:48,740
+You always said...
 
 19
-00:01:37,570 --> 00:01:40,370
-But you really do look like an angel.
+00:01:48,740 --> 00:01:51,570
+stuff like this so shamelessly.
 
 20
-00:01:41,170 --> 00:01:43,910
-You were like that then, and you are like that now.
+00:01:51,570 --> 00:01:54,270
+But you do look like an angel.
 
 21
-00:01:45,950 --> 00:01:49,130
-I'll make you some soup. Sleep a little longer.
+00:01:55,070 --> 00:01:57,710
+You did then and even now.
 
 22
-00:01:59,750 --> 00:02:01,049
-[Chapter 10]
+00:01:59,950 --> 00:02:02,930
+I'll make you porridge. Sleep more.
 
 23
-00:02:01,050 --> 00:02:05,569
-Take the medicine again before bed. Don't forget.
+00:02:13,750 --> 00:02:15,050
+[Episode 10]
 
 24
-00:02:05,570 --> 00:02:07,700
-I'm feeling better now.
+00:02:15,050 --> 00:02:19,570
+Take the medicine again before bed. Don't forget.
 
 25
-00:02:08,300 --> 00:02:09,539
-No, you're not.
+00:02:19,570 --> 00:02:21,400
+I'm all better now.
 
 26
-00:02:09,540 --> 00:02:11,240
-I'm really fine.
+00:02:22,200 --> 00:02:23,440
+No, you aren't.
 
 27
-00:02:14,000 --> 00:02:17,140
-Buy it anyway. You never know.
+00:02:23,440 --> 00:02:24,940
+I really am.
 
 28
-00:02:19,600 --> 00:02:21,569
-Are you really going?
+00:02:28,000 --> 00:02:30,940
+Still take it. You never know.
 
 29
-00:02:21,570 --> 00:02:23,559
-Why don't you stay a little longer?
+00:02:33,600 --> 00:02:35,570
+Are you really leaving?
 
 30
-00:02:23,560 --> 00:02:26,189
-I have to go. It's getting late.
+00:02:35,570 --> 00:02:37,560
+Why don't you stay a bit longer?
 
 31
-00:02:26,190 --> 00:02:28,169
-You should rest today.
+00:02:37,560 --> 00:02:40,190
+I need to go. It's late.
 
 32
-00:02:28,170 --> 00:02:31,250
-We can be together from now on.
+00:02:40,190 --> 00:02:42,170
+You should rest today.
 
 33
-00:02:31,880 --> 00:02:36,280
-Okay. You should rest at home too.
+00:02:42,170 --> 00:02:45,050
+We can be together from now on.
 
 34
-00:02:43,640 --> 00:02:45,670
-Thank you.
+00:02:45,880 --> 00:02:49,980
+Okay. You should rest at home, too.
 
 35
-00:02:59,300 --> 00:03:01,090
-See you tomorrow.
-
-36
-00:03:01,810 --> 00:03:03,519
-Get home safely.
-
-37
-00:03:03,520 --> 00:03:05,790
-Call me when you arrive.
-
-38
-00:03:32,800 --> 00:03:34,710
-I can't do it.
-
-39
-00:03:35,660 --> 00:03:37,730
-I can't leave you.
-
-40
-00:03:39,480 --> 00:03:41,730
-Please stay with me.
-
-41
-00:05:08,720 --> 00:05:10,359
-What's wrong?
-
-42
-00:05:10,360 --> 00:05:13,050
-When did I fall asleep?
-
-43
-00:05:32,180 --> 00:05:33,729
-Baek Su Jeong.
-
-44
-00:05:33,730 --> 00:05:35,819
-Dad, you're up.
-
-45
-00:05:35,820 --> 00:05:42,170
-Well, I need to get back to work—were you with the director?
-
-46
-00:05:45,280 --> 00:05:47,450
-Have you reconciled?
-
-47
-00:05:48,570 --> 00:05:50,199
-Yes.
-
-48
-00:05:50,200 --> 00:05:52,979
-Su Jeong's family isn't a normal family.
-
-49
-00:05:52,980 --> 00:05:55,059
-According to the articles, many eyes are on him.
-
-50
-00:05:55,060 --> 00:05:56,839
-A lot of people are talking.
-
-51
-00:05:56,840 --> 00:06:00,790
-You know I don't care about things like that.
-
-52
-00:06:01,560 --> 00:06:06,389
-I really love him/her.
-
-53
-00:06:06,390 --> 00:06:09,710
-So, can't you just give permission?
-
-54
-00:06:15,090 --> 00:06:17,450
-What does "to allow" mean?
-
-55
-00:06:20,100 --> 00:06:22,840
-I need to trust your decision.
-
-56
-00:06:23,480 --> 00:06:27,839
-But, Su Jeong, tell me you're having a hard time.
-
-57
-00:06:27,840 --> 00:06:29,699
-Just keep it inside.
-
-58
-00:06:29,700 --> 00:06:31,750
-I don't care about anything else.
-
-59
-00:06:32,590 --> 00:06:34,669
-I just want you to be happy.
-
-60
-00:06:34,670 --> 00:06:36,560
-That's enough.
-
-61
-00:06:38,340 --> 00:06:39,919
-Okay.
-
-62
-00:06:39,920 --> 00:06:42,499
-Anyway. Now go to work.
-
-63
-00:06:42,500 --> 00:06:43,799
-Okay, I'll go.
-
-64
-00:06:43,800 --> 00:06:46,350
-But staying outside...
-
-65
-00:06:48,050 --> 00:06:50,029
-Just don't get caught.
-
-66
-00:06:50,030 --> 00:06:52,750
-Okay, I'll never get caught.
-
-67
-00:06:54,140 --> 00:06:56,970
-Tell him you won't stay out all night!
-
-68
-00:07:06,010 --> 00:07:07,540
-[Chief Secretary]
-
-69
-00:07:15,140 --> 00:07:16,429
-Director Ban.
-
-70
-00:07:16,430 --> 00:07:17,529
-Yes.
-
-71
-00:07:17,530 --> 00:07:21,300
-You are dismissed from your job effective today.
-
-72
-00:07:38,610 --> 00:07:41,640
-I knew this would happen.
-
-73
-00:07:43,210 --> 00:07:48,439
-Didn't you say nothing was wrong?
-
-74
-00:07:48,440 --> 00:07:50,310
-Yes, Madam President.
-
-75
-00:07:51,210 --> 00:07:53,189
-It is clearly evident that...
-
-76
-00:07:53,190 --> 00:07:56,569
-There's nothing between them.
-
-77
-00:07:56,570 --> 00:08:00,780
-I'm sorry I disappointed you.
-
-78
-00:08:02,080 --> 00:08:03,650
-[Resignation Letter]
-
-79
-00:08:05,450 --> 00:08:08,330
-Thank you for everything.
-
-80
-00:08:11,530 --> 00:08:12,909
-[Notice of Termination]
-
-81
-00:08:12,910 --> 00:08:14,179
-[Strategy Team Director Ban Ju Yeon]
-
-82
-00:08:14,180 --> 00:08:15,580
-[Bbanjju]
-
-83
-00:08:18,390 --> 00:08:21,290
-The customer is currently unavailable.
-
-84
-00:08:22,950 --> 00:08:25,860
-The mayor is going too far.
-
-85
-00:08:26,660 --> 00:08:28,679
-Was the director fired?
-
-86
-00:08:28,680 --> 00:08:30,049
-Suddenly?
-
-87
-00:08:30,050 --> 00:08:32,399
-Is this about the rumor concerning the Team Leader?
-
-88
-00:08:32,400 --> 00:08:33,739
-I can't be.
-
-89
-00:08:33,740 --> 00:08:35,699
-There's no other way to explain it.
-
-90
-00:08:35,700 --> 00:08:38,069
-And overnight? In the middle of the project?
-
-91
-00:08:38,070 --> 00:08:40,970
-But still. Layoffs?
-
-92
-00:08:42,500 --> 00:08:45,700
-- What will our project be? - Team Leader.
-
-93
-00:08:50,850 --> 00:08:53,120
-Director...
-
-94
-00:08:56,390 --> 00:08:58,420
-Team Leader!
-
-95
-00:09:01,930 --> 00:09:03,189
-The call is not going through.
-
-96
-00:09:03,190 --> 00:09:05,670
-You will be connected...
-
-97
-00:09:08,260 --> 00:09:12,029
-What happened to the manager, the director, all of a sudden?
-
-98
-00:09:12,030 --> 00:09:13,579
-You're in too much of a hurry.
-
-99
-00:09:13,580 --> 00:09:17,429
-You're no longer hiding your relationship.
-
-100
-00:09:17,430 --> 00:09:18,679
-No problem.
-
-101
-00:09:18,680 --> 00:09:21,919
-The mayor knows now, too.
-
-102
-00:09:21,920 --> 00:09:23,056
-Sir?
-
-103
-00:09:23,068 --> 00:09:26,509
-He knows when the director comes in and out of his house.
-
-104
-00:09:26,510 --> 00:09:27,809
-He knows everything.
-
-105
-00:09:27,810 --> 00:09:31,029
-Apparently, he had many guards.
-
-106
-00:09:31,030 --> 00:09:33,020
-This is what happened...
-
-107
-00:09:36,360 --> 00:09:38,400
-Kwon is the manager.
-
-108
-00:09:38,980 --> 00:09:40,970
-I am resigning.
-
-109
-00:09:42,080 --> 00:09:45,039
-- Why? - Because I knew it from the beginning.
-
-110
-00:09:45,040 --> 00:09:48,140
-But I kept it a secret.
-
-111
-00:09:56,050 --> 00:09:59,249
-Take good care of the director.
-
-112
-00:09:59,250 --> 00:10:04,400
-But I'm glad someone like you is by his side.
-
-113
-00:10:19,230 --> 00:10:21,660
-[Kwon In Gyeong, Manager]
-
-114
-00:10:25,780 --> 00:10:29,630
-Director, where is the president right now?
-
-115
-00:10:52,930 --> 00:10:54,690
-Madam President.
-
-116
-00:10:58,090 --> 00:10:59,949
-How do you get in here?
-
-117
-00:10:59,950 --> 00:11:02,679
-I know you're unhappy...
-
-118
-00:11:02,680 --> 00:11:04,179
-about our relationship.
-
-119
-00:11:04,180 --> 00:11:08,280
-But I won't let my personal feelings put Yongsung in danger,
-
-120
-00:11:08,292 --> 00:11:12,070
-That's why—I told you it would end if you disappointed me.
-
-121
-00:11:18,580 --> 00:11:20,420
-Grandmother.
-
-122
-00:11:30,530 --> 00:11:32,970
-You know, I...
-
-123
-00:11:34,350 --> 00:11:37,499
-I did everything for Yongsung.
-
-124
-00:11:37,500 --> 00:11:39,199
-I will be better from now on.
-
-125
-00:11:39,200 --> 00:11:42,459
-As your granddaughter, I will work even harder.
-
-126
-00:11:42,460 --> 00:11:48,050
-I thought I could replace you, but you turned out to be flawed.
-
-127
-00:11:49,900 --> 00:11:53,179
-The fact that you're related to me disgusts me.
-
-128
-00:11:53,180 --> 00:11:55,560
-What about me?
-
-129
-00:11:56,300 --> 00:11:57,651
-What?
-
-130
-00:11:57,663 --> 00:12:01,749
-Since my parents passed away, I haven't been able to freely grieve or rejoice.
-
-131
-00:12:01,750 --> 00:12:03,849
-Because I was always an unworthy grandchild.
-
-132
-00:12:03,850 --> 00:12:08,799
-No matter how painful it was, I persevered and worked very hard every day.
-
-133
-00:12:08,800 --> 00:12:13,559
-I thought that if I lived the way you wanted, one day you would accept me.
-
-134
-00:12:13,560 --> 00:12:17,419
-I'm trying to meet your standards.
-
-135
-00:12:17,420 --> 00:12:20,220
-But I can't even do it...
-
-136
-00:12:22,230 --> 00:12:24,669
-- To love him? - Of course not.
-
-137
-00:12:24,670 --> 00:12:26,859
-You said you wanted to be my heir.
-
-138
-00:12:26,860 --> 00:12:28,449
-Love?
-
-139
-00:12:28,450 --> 00:12:33,090
-With a subordinate, the daughter of a hardware store owner?
-
-140
-00:12:33,930 --> 00:12:40,010
-I should never have hired an unqualified person.
-
-141
-00:12:42,770 --> 00:12:44,630
-I think...
-
-142
-00:12:47,230 --> 00:12:50,629
-I could never be good enough for you.
-
-143
-00:12:50,630 --> 00:12:52,360
-TRUE.
-
-144
-00:13:06,520 --> 00:13:07,630
-[Yongsung]
-
-145
-00:13:39,840 --> 00:13:41,609
-Ben...
-
-146
-00:13:41,610 --> 00:13:43,649
-I will fill my father's place.
-
-147
-00:13:43,650 --> 00:13:48,899
-I thought I could replace you, but you turned out to be flawed.
-
-148
-00:13:48,900 --> 00:13:53,200
-The fact that you're related to me disgusts me.
-
-149
-00:14:31,040 --> 00:14:32,669
-Are you ok?
-
-150
-00:14:32,670 --> 00:14:35,280
-Call me when you see this.
-
-151
-00:14:42,260 --> 00:14:43,869
-I am good.
-
-152
-00:14:43,870 --> 00:14:46,370
-I'm sorry for worrying you.
-
-153
-00:14:48,930 --> 00:14:51,310
-See you after work.
-
-154
-00:14:55,640 --> 00:14:56,919
-Where are you?
-
-155
-00:14:56,920 --> 00:14:59,370
-I'm leaving now.
-
-156
-00:15:08,540 --> 00:15:09,809
-Here you are.
-
-157
-00:15:09,810 --> 00:15:11,459
-You must be hungry.
-
-158
-00:15:11,460 --> 00:15:12,799
-What should we eat?
-
-159
-00:15:12,800 --> 00:15:16,779
-Director, you can tell the president that we're leaving.
-
-160
-00:15:16,780 --> 00:15:18,109
-I really don't care.
-
-161
-00:15:18,110 --> 00:15:19,959
-There's no need to deny our relationship.
-
-162
-00:15:19,960 --> 00:15:22,240
-And we shouldn't.
-
-163
-00:15:23,210 --> 00:15:25,380
-I apologize for everything.
-
-164
-00:15:30,380 --> 00:15:31,799
-Where should we go?
-
-165
-00:15:31,800 --> 00:15:34,740
-Now I can go on dates anywhere.
-
-166
-00:15:35,510 --> 00:15:37,009
-You are right.
-
-167
-00:15:37,010 --> 00:15:39,230
-Now we can do it.
-
-168
-00:15:40,000 --> 00:15:42,520
-We can also hold hands like this.
-
-169
-00:15:44,590 --> 00:15:46,780
-I like it.
-
-170
-00:15:49,000 --> 00:15:52,969
-You can freely go to concerts as well.
-
-171
-00:15:52,970 --> 00:15:57,069
-Since I went public, I never thought I'd be able to go to a concert again.
-
-172
-00:15:57,070 --> 00:16:00,350
-Now I can move on to the next one.
-
-173
-00:16:01,620 --> 00:16:03,929
-Shall we go together?
-
-174
-00:16:03,930 --> 00:16:06,159
-Of course, I'd love to go with you.
-
-175
-00:16:06,160 --> 00:16:09,256
-From now on, the things you do alone...
-
-176
-00:16:09,268 --> 00:16:12,029
-...I'll do it together. No matter what.
-
-177
-00:16:12,030 --> 00:16:14,059
-Sounds good.
-
-178
-00:16:14,060 --> 00:16:17,129
-I'll be quite well.
-
-179
-00:16:17,130 --> 00:16:19,629
-Then you will continue to be fine.
-
-180
-00:16:19,630 --> 00:16:22,900
-Because I'll stay with you.
-
-181
-00:16:29,810 --> 00:16:32,420
-How can I not worry?
-
-182
-00:16:33,310 --> 00:16:35,780
-I'm with Su Jeong.
-
-183
-00:16:37,850 --> 00:16:40,069
-Kim Shin Won.
-
-184
-00:16:40,070 --> 00:16:42,689
-Why is it so hard to see you these days?
-
-185
-00:16:42,690 --> 00:16:44,719
-Because I'm with my girlfriend.
-
-186
-00:16:44,720 --> 00:16:46,369
-Do you think I don't know this?
-
-187
-00:16:46,370 --> 00:16:48,839
-Because you've been coming home less often lately.
-
-188
-00:16:48,840 --> 00:16:50,989
-My son.
-
-189
-00:16:50,990 --> 00:16:53,129
-You said you didn't paint portraits.
-
-190
-00:16:53,130 --> 00:16:54,929
-But what are you working on now?
-
-191
-00:16:54,930 --> 00:16:57,259
-I wanted to draw it just once.
-
-192
-00:16:57,260 --> 00:16:59,169
-It would later make a lovely gift.
-
-193
-00:16:59,170 --> 00:17:03,470
-It seems like you've finally found the right person.
-
-194
-00:17:04,420 --> 00:17:06,770
-I think so too.
-
-195
-00:17:07,490 --> 00:17:09,569
-Are you even considering marrying him?
-
-196
-00:17:09,570 --> 00:17:11,939
-I haven't thought about that yet, but...
-
-197
-00:17:11,940 --> 00:17:13,839
-How should I say this?
-
-198
-00:17:13,840 --> 00:17:15,649
-I always want to be with him.
-
-199
-00:17:15,650 --> 00:17:17,889
-I don't want to be separated from him.
-
-200
-00:17:17,890 --> 00:17:24,260
-If I could share a lifetime with him/her like I did with the two of you, I would definitely be happy.
-
-201
-00:17:28,500 --> 00:17:32,840
-I never expected to see you dressed like this.
-
-202
-00:17:33,530 --> 00:17:36,140
-I'm not your boss anymore.
-
-203
-00:17:36,940 --> 00:17:39,100
-Why did you do this?
-
-204
-00:17:40,140 --> 00:17:43,329
-The truth is you upset the President's wife.
-
-205
-00:17:43,330 --> 00:17:45,229
-I don't understand this.
-
-206
-00:17:45,230 --> 00:17:47,399
-Do you know...
-
-207
-00:17:47,400 --> 00:17:52,700
-When did I start to respect and admire the president?
-
-208
-00:17:53,660 --> 00:18:00,359
-This may seem cruel to you, but it was after she lost her son.
-
-209
-00:18:00,360 --> 00:18:10,600
-Seeing how strong he was at that time, I thought, 'I can trust someone like that.'
-
-210
-00:18:13,230 --> 00:18:16,730
-You don't like espresso, do you?
-
-211
-00:18:17,390 --> 00:18:21,199
-Sometimes you go to concerts.
-
-212
-00:18:21,200 --> 00:18:26,589
-I didn't check the contents of the packages you ordered under that strange name.
-
-213
-00:18:26,590 --> 00:18:29,030
-When you know all of this,
-
-214
-00:18:29,920 --> 00:18:31,639
-Why didn't you tell him?
-
-215
-00:18:31,640 --> 00:18:35,769
-You hid these things so you could be the person he wanted you to be.
-
-216
-00:18:35,770 --> 00:18:42,939
-Hiding and suppressing your emotions hasn't been easy, but you've persevered.
-
-217
-00:18:42,940 --> 00:18:47,809
-This side of her looked very much like the president.
-
-218
-00:18:47,810 --> 00:18:52,699
-And I thought he was the heir she had in mind.
-
-219
-00:18:52,700 --> 00:18:55,669
-- Then, this time too- - No.
-
-220
-00:18:55,670 --> 00:19:00,880
-I was just an ordinary person drawn to love.
-
-221
-00:19:02,120 --> 00:19:07,419
-Being an heir is nice, but I've known you since you were a child.
-
-222
-00:19:07,420 --> 00:19:13,460
-I thought it would be nice for you to be happy with someone you love.
-
-223
-00:19:19,330 --> 00:19:22,089
-So, Manager Kwon...
-
-224
-00:19:22,090 --> 00:19:23,990
-That's how you felt.
-
-225
-00:19:24,660 --> 00:19:27,770
-Yes. I felt it.
-
-226
-00:19:36,330 --> 00:19:40,930
-Thank you for working with me during this time.
-
-227
-00:20:02,200 --> 00:20:04,210
-What should I do now?
-
-228
-00:20:09,960 --> 00:20:12,470
-What are you going to do now?
-
-229
-00:20:14,380 --> 00:20:16,539
-Would you like to read comic books in the attic?
-
-230
-00:20:16,540 --> 00:20:19,119
-I think Su Bin is home.
-
-231
-00:20:19,120 --> 00:20:20,940
-Okay.
-
-232
-00:20:35,500 --> 00:20:37,289
-I'm approaching the shop now.
-
-233
-00:20:37,290 --> 00:20:40,029
-What? I'm still coming back from grocery shopping.
-
-234
-00:20:40,030 --> 00:20:41,769
-No problem. I can wait.
-
-235
-00:20:41,770 --> 00:20:43,349
-I took half a day off today.
-
-236
-00:20:43,350 --> 00:20:45,149
-We really need to watch a movie today.
-
-237
-00:20:45,150 --> 00:20:48,259
-We can't just suddenly go to a hotel like last time.
-
-238
-00:20:48,260 --> 00:20:51,509
-Did you gladly change your destination?
-
-239
-00:20:51,510 --> 00:20:55,769
-Oh dear. We're on the same page too often.
-
-240
-00:20:55,770 --> 00:20:58,060
-Okay, see you later.
-
-241
-00:21:24,420 --> 00:21:25,949
-What?
-
-242
-00:21:25,950 --> 00:21:29,200
-What are you doing here at this hour?
-
-243
-00:21:34,010 --> 00:21:38,139
-So, your grandmother kicked you out and you lost your job.
-
-244
-00:21:38,140 --> 00:21:40,689
-This is for you...
-
-245
-00:21:40,690 --> 00:21:44,080
-It means you're unemployed. Just like me.
-
-246
-00:21:45,310 --> 00:21:46,429
-Unemployed?
-
-247
-00:21:46,430 --> 00:21:48,849
-Aren't you?
-
-248
-00:21:48,850 --> 00:21:51,500
-Is there anything you can do?
-
-249
-00:21:52,370 --> 00:21:54,669
-No.
-
-250
-00:21:54,670 --> 00:21:57,949
-That's why you wanted to wait for Sister at our place.
-
-251
-00:21:57,950 --> 00:22:04,799
-Not exactly—by the way, what exactly do you like about him?
-
-252
-00:22:04,800 --> 00:22:06,129
-She's beautiful.
-
-253
-00:22:06,130 --> 00:22:08,339
-Are you out of your mind?
-
-254
-00:22:08,340 --> 00:22:10,169
-Going mad with love is not a sin.
-
-255
-00:22:10,170 --> 00:22:12,820
-Aman, hard.
-
-256
-00:22:13,770 --> 00:22:17,239
-I think I'm going to throw up. Please stop talking.
-
-257
-00:22:17,240 --> 00:22:21,050
-And he loves me just the way I am.
-
-258
-00:22:21,890 --> 00:22:24,429
-She cried because of the breakup.
-
-259
-00:22:24,430 --> 00:22:27,849
-But you're both completely madly in love. Really.
-
-260
-00:22:27,850 --> 00:22:30,649
-Did Su Jeong cry?
-
-261
-00:22:30,650 --> 00:22:31,979
-Yes.
-
-262
-00:22:31,980 --> 00:22:34,469
-My father and I have never seen her cry like this before.
-
-263
-00:22:34,470 --> 00:22:37,399
-That sent shivers down my spine... just kidding.
-
-264
-00:22:37,400 --> 00:22:39,419
-Thinking about it, he had done the same thing back then.
-
-265
-00:22:39,420 --> 00:22:42,269
-Because of the Black Dragon, or whatever it is.
-
-266
-00:22:42,270 --> 00:22:43,379
-Black Dragon.
-
-267
-00:22:43,380 --> 00:22:45,729
-There is such a man. He was her first love.
-
-268
-00:22:45,730 --> 00:22:50,309
-Dark days. If he finds out I know, he'll bite his tongue and kill himself.
-
-269
-00:22:50,310 --> 00:22:53,459
-Did she cry a lot then too?
-
-270
-00:22:53,460 --> 00:22:54,749
-Yes.
-
-271
-00:22:54,750 --> 00:22:56,799
-He didn't eat for days.
-
-272
-00:22:56,800 --> 00:22:59,819
-My father was very worried too, but he couldn't show it.
-
-273
-00:22:59,820 --> 00:23:02,600
-It was the worst thing he ever did.
-
-274
-00:23:03,700 --> 00:23:05,719
-Ye.
-
-275
-00:23:05,720 --> 00:23:07,450
-Okay.
-
-276
-00:23:13,490 --> 00:23:16,009
-[No. 1 Hardware]
-
-277
-00:23:16,010 --> 00:23:17,699
-Baba.
-
-278
-00:23:17,700 --> 00:23:19,800
-Give me the heavy things.
-
-279
-00:23:20,760 --> 00:23:22,029
-What brought you here?
-
-280
-00:23:22,030 --> 00:23:25,139
-I don't know. Suddenly he wants to help you.
-
-281
-00:23:25,140 --> 00:23:26,589
-He must be busy.
-
-282
-00:23:26,590 --> 00:23:28,839
-No. Unemployed.
-
-283
-00:23:28,840 --> 00:23:30,389
-I will do everything I can to help you.
-
-284
-00:23:30,390 --> 00:23:34,079
-I have no skills, but I have power.
-
-285
-00:23:34,080 --> 00:23:36,869
-I don't think so.
-
-286
-00:23:36,870 --> 00:23:38,949
-Do you see?
-
-287
-00:23:38,950 --> 00:23:41,419
-Then follow me.
-
-288
-00:23:41,420 --> 00:23:43,029
-- Me too? - Yes, help him.
-
-289
-00:23:43,030 --> 00:23:44,189
-B-What?
-
-290
-00:23:44,190 --> 00:23:47,390
-I was planning to relax on my day off.
-
-291
-00:23:48,510 --> 00:23:51,150
-- Give it to me. - Okay.
-
-292
-00:23:52,500 --> 00:23:54,950
-Where should I start?
-
-293
-00:23:55,590 --> 00:23:57,749
-You said you have no skills.
-
-294
-00:23:57,750 --> 00:23:59,649
-Can you do these things?
-
-295
-00:23:59,650 --> 00:24:01,889
-You just need to replace the door handle.
-
-296
-00:24:01,890 --> 00:24:06,059
-Of course. I'll try to handle it myself.
-
-297
-00:24:06,060 --> 00:24:08,079
-If you can't do it, let me know.
-
-298
-00:24:08,080 --> 00:24:10,789
-Su Jeong does this with her eyes closed.
-
-299
-00:24:10,790 --> 00:24:13,910
-I'm bad at being bad at something.
-
-300
-00:24:19,370 --> 00:24:21,799
-Is he going to do it with his bare hands?
-
-301
-00:24:21,800 --> 00:24:24,340
-Go help him.
-
-302
-00:24:34,590 --> 00:24:35,609
-How can I do this...?
-
-303
-00:24:35,610 --> 00:24:39,189
-If you do that, you'll have to glue it.
-
-304
-00:24:39,190 --> 00:24:42,319
-This is how you do it. Do you understand?
-
-305
-00:24:42,320 --> 00:24:44,419
-And you... No.
-
-306
-00:24:44,420 --> 00:24:47,059
-Use this to solve it.
-
-307
-00:24:47,060 --> 00:24:50,279
-I'll try it myself then.
-
-308
-00:24:50,280 --> 00:24:52,809
-Be careful. Then...
-
-309
-00:24:52,810 --> 00:24:54,379
-Keep this for me.
-
-310
-00:24:54,380 --> 00:24:56,379
-- I'll hold it. - Okay.
-
-311
-00:24:56,380 --> 00:24:58,189
-Is it expensive?
-
-312
-00:24:58,190 --> 00:25:01,359
-Well, I really don't know.
-
-313
-00:25:01,360 --> 00:25:02,770
-Well...
-
-314
-00:25:03,580 --> 00:25:05,599
-No, no, no.
-
-315
-00:25:05,600 --> 00:25:09,279
-If you don't know how to do that, you'd better let me know.
-
-316
-00:25:09,280 --> 00:25:11,490
-Thank you for teaching me.
-
-317
-00:25:12,220 --> 00:25:14,679
-- I can do it well. - Can you?
-
-318
-00:25:14,680 --> 00:25:16,890
-Okay.
-
-319
-00:25:22,880 --> 00:25:27,110
-Dad, I've accomplished this important task.
-
-320
-00:25:28,160 --> 00:25:30,209
-You're doing the same thing, aren't you?
-
-321
-00:25:30,210 --> 00:25:33,180
-- Opposite direction. - Same direction, right?
-
-322
-00:25:44,700 --> 00:25:47,320
-Why isn't he/she answering?
-
-323
-00:25:49,900 --> 00:25:52,709
-Guess what your boyfriend is doing.
-
-324
-00:25:52,710 --> 00:25:54,340
-What?
-
-325
-00:25:57,880 --> 00:26:01,939
-There is a great deal of concern about the vacant director position.
-
-326
-00:26:01,940 --> 00:26:06,490
-Also, regarding the heir other than Director Ban-
-
-327
-00:26:07,830 --> 00:26:11,780
-Do you think there's no one who can change him?
-
-328
-00:26:13,050 --> 00:26:17,339
-Yongsung Trading'den Park Ji Cheol'u ara.
-
-329
-00:26:17,340 --> 00:26:18,739
-Yes.
-
-330
-00:26:18,740 --> 00:26:23,709
-For Team Leader Baek Su Jeong - Get rid of him quietly.
-
-331
-00:26:23,710 --> 00:26:25,220
-Okay.
-
-332
-00:26:36,560 --> 00:26:38,349
-You worked very hard today.
-
-333
-00:26:38,350 --> 00:26:40,529
-Why don't we have dinner together?
-
-334
-00:26:40,530 --> 00:26:43,249
-Yes, I will enjoy it.
-
-335
-00:26:43,250 --> 00:26:46,229
-How do you know you'll enjoy it?
-
-336
-00:26:46,230 --> 00:26:49,949
-What are we going to eat today?
-
-337
-00:26:49,950 --> 00:26:51,239
-Shall I cook it then?
-
-338
-00:26:51,240 --> 00:26:56,350
-I'm strong, but I can also cook.
-
-339
-00:26:57,050 --> 00:26:59,290
-I don't think you can do it.
-
-340
-00:27:16,310 --> 00:27:19,239
-He spent the whole day trying to impress you.
-
-341
-00:27:19,240 --> 00:27:21,519
-That was pretty good, wasn't it?
-
-342
-00:27:21,520 --> 00:27:24,999
-- Trying to impress me? - You're your girlfriend's father.
-
-343
-00:27:25,000 --> 00:27:27,919
-That's right. You don't have to do that.
-
-344
-00:27:27,920 --> 00:27:30,119
-As long as Su Jeong is happy, I am happy.
-
-345
-00:27:30,120 --> 00:27:31,359
-Hey, come on.
-
-346
-00:27:31,360 --> 00:27:33,129
-I know you don't trust him.
-
-347
-00:27:33,130 --> 00:27:34,329
-Did I not trust you?
-
-348
-00:27:34,330 --> 00:27:37,189
-Did I not trust you? That's not true.
-
-349
-00:27:37,190 --> 00:27:39,449
-Of course, you're worried.
-
-350
-00:27:39,450 --> 00:27:42,739
-I don't come from a normal background.
-
-351
-00:27:42,740 --> 00:27:46,799
-You trust Su Jeong, but not me.
-
-352
-00:27:46,800 --> 00:27:51,579
-That's my situation right now, but I'll make sure you don't worry.
-
-353
-00:27:51,580 --> 00:27:57,190
-No matter what, I won't make her cry or leave her alone.
-
-354
-00:27:59,800 --> 00:28:02,599
-I'm such a bad father.
-
-355
-00:28:02,600 --> 00:28:06,200
-All I could do was trust him, and nothing else.
-
-356
-00:28:07,100 --> 00:28:09,339
-But thanks to you, I feel relieved.
-
-357
-00:28:09,340 --> 00:28:12,610
-I'll make sure you don't have to worry.
-
-358
-00:28:20,790 --> 00:28:23,169
-Su Jeong, welcome.
-
-359
-00:28:23,170 --> 00:28:24,649
-What are you doing?
-
-360
-00:28:24,650 --> 00:28:26,199
-What's this headscarf all about?
-
-361
-00:28:26,200 --> 00:28:27,789
-Welcome, Su Jeong. Let's eat.
-
-362
-00:28:27,790 --> 00:28:31,279
-My son-in-law is a fantastic cook.
-
-363
-00:28:31,280 --> 00:28:35,949
-- What? - I learned to cook when I was a child.
-
-364
-00:28:35,950 --> 00:28:38,769
-Galbijjim is amazing, Brother-in-law.
-
-365
-00:28:38,770 --> 00:28:40,099
-Brother-in-law?
-
-366
-00:28:40,100 --> 00:28:44,200
-Su Jeong, I did this because you like it.
-
-367
-00:28:46,070 --> 00:28:47,549
-Ok.
-
-368
-00:28:47,550 --> 00:28:49,699
-What is all this?
-
-369
-00:28:49,700 --> 00:28:51,299
-Okay.
-
-370
-00:28:51,300 --> 00:28:53,479
-Get a loan.
-
-371
-00:28:53,480 --> 00:28:55,180
-'Ah' the.
-
-372
-00:29:02,080 --> 00:29:03,629
-What?
-
-373
-00:29:03,630 --> 00:29:05,249
-Why is it so beautiful?
-
-374
-00:29:05,250 --> 00:29:06,929
-Isn't it?
-
-375
-00:29:06,930 --> 00:29:08,399
-A creation by Chef Ban Ju Yeon.
-
-376
-00:29:08,400 --> 00:29:10,530
-Let's eat.
-
-377
-00:29:27,160 --> 00:29:28,729
-How nice.
-
-378
-00:29:28,730 --> 00:29:33,350
-Eating and talking together like this at home.
-
-379
-00:29:36,720 --> 00:29:40,650
-For the first time since my parents passed away.
-
-380
-00:29:41,690 --> 00:29:45,170
-He must have been going through tough times.
-
-381
-00:29:49,370 --> 00:29:51,629
-Stay here.
-
-382
-00:29:51,630 --> 00:29:53,220
-Sir?
-
-383
-00:29:54,380 --> 00:29:55,899
-You worked very hard today.
-
-384
-00:29:55,900 --> 00:29:57,979
-Have a drink with us and stay here.
-
-385
-00:29:57,980 --> 00:29:59,769
-We'll have breakfast together tomorrow as well.
-
-386
-00:29:59,770 --> 00:30:02,599
-I'll prepare breakfast.
-
-387
-00:30:02,600 --> 00:30:05,109
-- Will that be a problem? - Of course.
-
-388
-00:30:05,110 --> 00:30:06,499
-Let's share a room.
-
-389
-00:30:06,500 --> 00:30:08,179
-Your room is messy.
-
-390
-00:30:08,180 --> 00:30:09,959
-An important guest cannot sleep there.
-
-391
-00:30:09,960 --> 00:30:11,979
-Sleep with me in the master bedroom.
-
-392
-00:30:11,980 --> 00:30:14,499
-You snore like a storm.
-
-393
-00:30:14,500 --> 00:30:16,749
-He can't sleep. You'll sleep in my room, won't you?
-
-394
-00:30:16,750 --> 00:30:18,739
-You both want me. This is a difficult situation.
-
-395
-00:30:18,740 --> 00:30:21,160
-I only have one body.
-
-396
-00:30:21,750 --> 00:30:23,309
-Only sleep in my room.
-
-397
-00:30:23,310 --> 00:30:25,009
-- Are you crazy? - Are you crazy?
-
-398
-00:30:25,010 --> 00:30:26,829
-What are you thinking?
-
-399
-00:30:26,830 --> 00:30:29,490
-I can sleep in the living room.
-
-400
-00:30:30,240 --> 00:30:32,650
-Oh, okay.
-
-401
-00:32:17,110 --> 00:32:18,529
-Are you sleeping?
-
-402
-00:32:18,530 --> 00:32:21,670
-If you're not asleep, could I see you briefly?
-
-403
-00:32:28,760 --> 00:32:30,350
-What's wrong?
-
-404
-00:32:40,430 --> 00:32:45,299
-I bought this for you, but I realized I only bought one.
-
-405
-00:32:45,300 --> 00:32:48,099
-If I had put it in the refrigerator, my father or Su Bin would have drunk it.
-
-406
-00:32:48,100 --> 00:32:50,049
-I thought she was a good girl.
-
-407
-00:32:50,050 --> 00:32:52,390
-You're only interested in me.
-
-408
-00:32:53,190 --> 00:32:57,139
-Thank you. I wanted something sweet.
-
-409
-00:32:57,140 --> 00:32:59,729
-Are you okay after drinking alcohol?
-
-410
-00:32:59,730 --> 00:33:00,949
-I am good.
-
-411
-00:33:00,950 --> 00:33:05,380
-You're the only one who can kill me.
-
-412
-00:33:08,360 --> 00:33:10,279
-Anyway, what did you do today?
-
-413
-00:33:10,280 --> 00:33:11,999
-I told you to read comics and relax.
-
-414
-00:33:12,000 --> 00:33:15,800
-I ate tteokbokki with your brother and helped your father.
-
-415
-00:33:16,990 --> 00:33:18,439
-Do you know?
-
-416
-00:33:18,440 --> 00:33:21,410
-I'm the kind of guy who knows how to change doorknobs.
-
-417
-00:33:22,230 --> 00:33:24,909
-Unbelievable. Did you do that?
-
-418
-00:33:24,910 --> 00:33:28,149
-You're a good cook too. You're good at everything.
-
-419
-00:33:28,150 --> 00:33:30,279
-I know.
-
-420
-00:33:30,280 --> 00:33:32,710
-I know how to do something.
-
-421
-00:33:34,020 --> 00:33:36,180
-Good job.
-
-422
-00:33:37,320 --> 00:33:40,299
-Was everything alright with you?
-
-423
-00:33:40,300 --> 00:33:43,889
-Yes, of course, everything was fine.
-
-424
-00:33:43,890 --> 00:33:45,889
-That's good to hear.
-
-425
-00:33:45,890 --> 00:33:47,499
-Read comic books while you're here.
-
-426
-00:33:47,500 --> 00:33:50,009
-Really? Let's read it together.
-
-427
-00:33:50,010 --> 00:33:51,409
-I'll suggest one to you.
-
-428
-00:33:51,410 --> 00:33:53,150
-Sounds good.
-
-429
-00:33:56,250 --> 00:33:57,339
-This is it.
-
-430
-00:33:57,340 --> 00:34:02,699
-I read this when I'm feeling like a warrior.
-
-431
-00:34:02,700 --> 00:34:05,079
-- Did you get that signature? - Yes, that's right.
-
-432
-00:34:05,080 --> 00:34:10,200
-You could say this is one of my proudest achievements.
-
-433
-00:34:14,240 --> 00:34:16,330
-This is what happened...
-
-434
-00:34:17,450 --> 00:34:20,240
-Look at the spot I've marked.
-
-435
-00:34:29,620 --> 00:34:32,499
-You don't need to see me off.
-
-436
-00:34:32,500 --> 00:34:35,499
-I wish I could take you to work.
-
-437
-00:34:35,500 --> 00:34:38,770
-But breakfast with family is more important.
-
-438
-00:34:39,600 --> 00:34:41,699
-Did you sleep well?
-
-439
-00:34:41,700 --> 00:34:43,399
-You should have slept comfortably at home.
-
-440
-00:34:43,400 --> 00:34:45,849
-My father and Su Bin went too far.
-
-441
-00:34:45,850 --> 00:34:47,149
-I felt comfortable.
-
-442
-00:34:47,150 --> 00:34:49,220
-More than my home.
-
-443
-00:34:50,530 --> 00:34:52,859
-That's a relief then.
-
-444
-00:34:52,860 --> 00:34:56,739
-I'm happy that you're a beloved sister and friend.
-
-445
-00:34:56,740 --> 00:34:59,229
-That's why I can be loved.
-
-446
-00:34:59,230 --> 00:35:01,240
-Like family.
-
-447
-00:35:03,890 --> 00:35:05,109
-Come in now.
-
-448
-00:35:05,110 --> 00:35:07,420
-You'll be late for breakfast.
-
-449
-00:35:10,670 --> 00:35:12,310
-I'm going.
-
-450
-00:35:15,040 --> 00:35:16,790
-Su Jeong.
-
-451
-00:35:22,440 --> 00:35:24,760
-I made my decision yesterday.
-
-452
-00:35:25,460 --> 00:35:29,760
-I won't make you cry a third time.
-
-453
-00:35:38,390 --> 00:35:40,889
-Then, return safely.
-
-454
-00:35:40,890 --> 00:35:43,939
-Fall or injury.
-
-455
-00:35:43,940 --> 00:35:46,520
-Don't worry about me either.
-
-456
-00:36:12,020 --> 00:36:14,050
-[Personnel Assignment Notification]
-
-457
-00:36:23,300 --> 00:36:25,380
-[Baek Su Jeong - Removal from Position or Transfer]
-
-458
-00:36:28,890 --> 00:36:30,839
-What is this, Team Leader?
-
-459
-00:36:30,840 --> 00:36:32,259
-From where...
-
-460
-00:36:32,260 --> 00:36:34,139
-This makes no sense.
-
-461
-00:36:34,140 --> 00:36:37,589
-They can't do that based on a false rumor.
-
-462
-00:36:37,590 --> 00:36:41,219
-The rumor is true.
-
-463
-00:36:41,220 --> 00:36:42,329
-Sir?
-
-464
-00:36:42,330 --> 00:36:44,109
-You said then that wasn't the case.
-
-465
-00:36:44,110 --> 00:36:46,169
-With the director?
-
-466
-00:36:46,170 --> 00:36:49,229
-I'm sorry. That wasn't right at the time.
-
-467
-00:36:49,230 --> 00:36:52,250
-But we're leaving now.
-
-468
-00:36:53,800 --> 00:36:55,319
-Okay.
-
-469
-00:36:55,320 --> 00:36:59,309
-Okay, but still—yes, this is unfair.
-
-470
-00:36:59,310 --> 00:37:02,719
-Team Leader, you're not going to brush this off like that.
-
-471
-00:37:02,720 --> 00:37:04,530
-Isn't it?
-
-472
-00:37:10,460 --> 00:37:14,740
-I'm sorry this had to happen while I was busy.
-
-473
-00:37:22,070 --> 00:37:24,090
-Team Leader.
-
-474
-00:37:29,770 --> 00:37:33,429
-Why did he send his girlfriend, who is rumored to be having an affair with his grandson, here?
-
-475
-00:37:33,430 --> 00:37:35,369
-He probably has no skills whatsoever.
-
-476
-00:37:35,370 --> 00:37:36,909
-That's why he sent him here.
-
-477
-00:37:36,910 --> 00:37:40,129
-So he does nothing, gives up of his own accord, and leaves.
-
-478
-00:37:40,130 --> 00:37:42,010
-Excuse me.
-
-479
-00:37:43,360 --> 00:37:45,719
-I won't stand in your way.
-
-480
-00:37:45,720 --> 00:37:49,989
-If there's any task that's too much trouble for you, give it to me.
-
-481
-00:37:49,990 --> 00:37:53,070
-I'm sure there are things I can do.
-
-482
-00:37:58,300 --> 00:38:01,139
-W-What? What?
-
-483
-00:38:01,140 --> 00:38:05,059
-Something must be wrong. It won't turn off.
-
-484
-00:38:05,060 --> 00:38:07,229
-What? An hour?
-
-485
-00:38:07,230 --> 00:38:08,870
-H-Hey...
-
-486
-00:38:09,570 --> 00:38:11,510
-Let me give it a try.
-
-487
-00:38:12,140 --> 00:38:14,679
-This isn't something everyone can fix.
-
-488
-00:38:14,680 --> 00:38:16,969
-I have electrician and fire safety certifications.
-
-489
-00:38:16,970 --> 00:38:18,800
-No problem, right?
-
-490
-00:38:42,720 --> 00:38:44,710
-It worked.
-
-491
-00:38:50,110 --> 00:38:52,330
-What else can I do?
-
-492
-00:38:57,180 --> 00:38:59,190
-One minute.
-
-493
-00:39:02,460 --> 00:39:05,820
-Why are you all standing here...?
-
-494
-00:39:17,500 --> 00:39:19,829
-What are you doing?
-
-495
-00:39:19,830 --> 00:39:22,339
-I thought she wouldn't put up with things like that.
-
-496
-00:39:22,340 --> 00:39:24,789
-And you? Why are you angry?
-
-497
-00:39:24,790 --> 00:39:28,709
-I thought you'd be happy not to see annoying subordinates in meetings.
-
-498
-00:39:28,710 --> 00:39:33,399
-The reason I don't love you is because you can't tolerate anything.
-
-499
-00:39:33,400 --> 00:39:35,718
-I walked on eggshells and...
-
-500
-00:39:35,730 --> 00:39:38,399
-...I gave up my self-respect to get this far.
-
-501
-00:39:38,400 --> 00:39:40,409
-But you can't tolerate anything.
-
-502
-00:39:40,410 --> 00:39:44,449
-You say everything you want to say and you maintain your pride.
-
-503
-00:39:44,450 --> 00:39:46,409
-You think you're superior.
-
-504
-00:39:46,410 --> 00:39:49,480
-I really hated it, but...
-
-505
-00:39:50,950 --> 00:39:54,949
-But seeing you put up with it—do you hate it now too?
-
-506
-00:39:54,950 --> 00:39:56,649
-Yes.
-
-507
-00:39:56,650 --> 00:39:58,439
-I hate it.
-
-508
-00:39:58,440 --> 00:40:05,609
-Baek Su Jeong, - why just... Senior, there are some things I haven't put up with until now...
-
-509
-00:40:05,610 --> 00:40:08,109
-To protect myself.
-
-510
-00:40:08,110 --> 00:40:13,040
-But to protect someone else, I have to put up with certain things.
-
-511
-00:40:14,170 --> 00:40:16,290
-I'm leaving now.
-
-512
-00:40:51,010 --> 00:40:53,120
-- Hello. - Hello.
-
-513
-00:40:58,340 --> 00:40:59,769
-Please drink this.
-
-514
-00:40:59,770 --> 00:41:01,779
-- Thank you. - Thank you.
-
-515
-00:41:01,780 --> 00:41:03,809
-Thanks.
-
-516
-00:41:03,810 --> 00:41:06,129
-This is the new director.
-
-517
-00:41:06,130 --> 00:41:09,770
-Do you think that's all there is to it for Director Ban?
-
-518
-00:41:12,300 --> 00:41:16,808
-Ban Ju Yeon, the strategy team director at Yongsung Store, has been fired...
-
-519
-00:41:16,820 --> 00:41:21,819
-...was removed and Park Ji Cheol from Yongsung Trading was hired for the position.
-
-520
-00:41:21,820 --> 00:41:25,489
-This appointment, according to the source, was made by President Jeong Hyo...
-
-521
-00:41:25,501 --> 00:41:29,720
-...it strongly reflects Seon's will.
-
-522
-00:41:34,740 --> 00:41:35,980
-[Director Ban Ju Yeon]
-
-523
-00:41:48,020 --> 00:41:50,070
-[Preparations for Hana City Business Agreement Ceremony]
-
-524
-00:41:52,620 --> 00:41:53,979
-[Will]
-
-525
-00:41:53,980 --> 00:41:55,360
-[Throw it in the trash]
-
-526
-00:42:12,070 --> 00:42:13,599
-Are you ok?
-
-527
-00:42:13,600 --> 00:42:16,010
-I heard the news.
-
-528
-00:42:16,800 --> 00:42:18,600
-Certainly.
-
-529
-00:42:19,200 --> 00:42:21,380
-Aren't you exaggerating?
-
-530
-00:42:22,090 --> 00:42:24,080
-Does it seem that way?
-
-531
-00:42:25,940 --> 00:42:31,150
-But nobody would be okay in that situation.
-
-532
-00:42:31,940 --> 00:42:34,650
-I should try to look happier.
-
-533
-00:42:35,450 --> 00:42:38,530
-I have a request.
-
-534
-00:42:39,400 --> 00:42:40,809
-This...
-
-535
-00:42:40,810 --> 00:42:44,150
-Can you keep this a secret from the director for now?
-
-536
-00:42:45,150 --> 00:42:47,869
-She'll be upset if she finds out.
-
-537
-00:42:47,870 --> 00:42:50,830
-All he can do is tell me to quit my job.
-
-538
-00:42:51,480 --> 00:42:53,729
-According to me...
-
-539
-00:42:53,730 --> 00:42:56,229
-That would be even better.
-
-540
-00:42:56,230 --> 00:42:59,140
-You have the capacity to work anywhere.
-
-541
-00:42:59,870 --> 00:43:02,279
-I know, but...
-
-542
-00:43:02,280 --> 00:43:06,370
-If I left, everything would be over completely.
-
-543
-00:43:07,520 --> 00:43:11,020
-That's why I'll try everything I can.
-
-544
-00:43:17,760 --> 00:43:19,820
-[Grace]
-
-545
-00:43:20,860 --> 00:43:23,839
-That's when things should feel unsettling.
-
-546
-00:43:23,840 --> 00:43:25,539
-How is Su Jeong?
-
-547
-00:43:25,540 --> 00:43:27,939
-She sounded cheerful on the phone.
-
-548
-00:43:27,940 --> 00:43:29,409
-Okay, that's it.
-
-549
-00:43:29,410 --> 00:43:31,199
-Personally, he was cheerful too.
-
-550
-00:43:31,200 --> 00:43:33,119
-I know it's not easy.
-
-551
-00:43:33,120 --> 00:43:36,510
-That's what happens when things get tough.
-
-552
-00:43:37,510 --> 00:43:39,780
-- Welcome. - Welcome.
-
-553
-00:43:40,340 --> 00:43:43,460
-- Mom. - Hey, Ha Jin. I-
-
-554
-00:43:44,140 --> 00:43:46,160
-Who's this?
-
-555
-00:43:48,760 --> 00:43:51,429
-Hi, I'm Ha Jin's male colleague—he's a part-time employee.
-
-556
-00:43:51,430 --> 00:43:54,019
-Hey, why would you hire someone when you don't have any customers?
-
-557
-00:43:54,020 --> 00:43:55,699
-That's why I just fired him.
-
-558
-00:43:55,700 --> 00:44:00,000
-I will deposit the payment for the work you did.
-
-559
-00:44:01,930 --> 00:44:03,529
-I'm so, so sorry.
-
-560
-00:44:03,530 --> 00:44:04,859
-I'll call you after my mother leaves.
-
-561
-00:44:04,860 --> 00:44:06,389
-Can't I just be your boyfriend?
-
-562
-00:44:06,390 --> 00:44:08,249
-Then he would have married us off right away.
-
-563
-00:44:08,250 --> 00:44:10,180
-That's fine with me.
-
-564
-00:44:13,140 --> 00:44:16,369
-Ha Jin, it's been a long time.
-
-565
-00:44:16,370 --> 00:44:20,459
-He asked me for help to convince you.
-
-566
-00:44:20,460 --> 00:44:22,610
-Crazy jerk.
-
-567
-00:44:23,420 --> 00:44:26,009
-Hey, what's your problem?
-
-568
-00:44:26,010 --> 00:44:28,339
-They want to get back together.
-
-569
-00:44:28,340 --> 00:44:32,149
-H-Ha Jin, Anne wants it very much too.
-
-570
-00:44:32,150 --> 00:44:34,129
-Let's try to get things right.
-
-571
-00:44:34,130 --> 00:44:37,460
-I miss the crab stew you used to make and...
-
-572
-00:44:38,530 --> 00:44:40,169
-Being alone is very difficult.
-
-573
-00:44:40,170 --> 00:44:41,859
-Hey!
-
-574
-00:44:41,860 --> 00:44:48,639
-I quietly divorced you because I didn't want to regret the time I spent in my twenties with you.
-
-575
-00:44:48,640 --> 00:44:52,449
-So stop the nonsense and leave.
-
-576
-00:44:52,450 --> 00:44:54,809
-Seo Ha Jin! Aman.
-
-577
-00:44:54,810 --> 00:44:56,359
-Why are you so mean?
-
-578
-00:44:56,360 --> 00:45:00,399
-When you got divorced, he also gave you money to open this shop.
-
-579
-00:45:00,400 --> 00:45:02,939
-Do you think you did this for me?
-
-580
-00:45:02,940 --> 00:45:04,570
-What?
-
-581
-00:45:05,270 --> 00:45:06,599
-So what then?
-
-582
-00:45:06,600 --> 00:45:08,280
-Ha Jin.
-
-583
-00:45:11,680 --> 00:45:12,570
-What's wrong?
-
-584
-00:45:12,571 --> 00:45:15,399
-If you have a conscience, you can't do this.
-
-585
-00:45:15,400 --> 00:45:17,820
-Especially in front of Anne.
-
-586
-00:45:20,160 --> 00:45:22,709
-I didn't get divorced for nothing.
-
-587
-00:45:22,710 --> 00:45:24,569
-This jerk cheated on me.
-
-588
-00:45:24,570 --> 00:45:26,940
-With another woman at work.
-
-589
-00:45:27,910 --> 00:45:30,410
-What? Hey...
-
-590
-00:45:31,520 --> 00:45:35,870
-Is this true—M-Mom, um...
-
-591
-00:45:36,540 --> 00:45:38,659
-It was a mistake.
-
-592
-00:45:38,660 --> 00:45:39,869
-- A mistake. - A mistake?
-
-593
-00:45:39,870 --> 00:45:43,559
-- M-Mom, I-I'm sorry. - Was it a mistake?
-
-594
-00:45:43,560 --> 00:45:44,779
-- Mom! - Mom.
-
-595
-00:45:44,780 --> 00:45:47,020
-- Mom. - Mom.
-
-596
-00:45:55,990 --> 00:45:59,640
-Oh dear, I showed him all sorts of things.
-
-597
-00:46:06,780 --> 00:46:08,809
-Seo Ha Jin.
-
-598
-00:46:08,810 --> 00:46:11,170
-Mom, are you awake?
-
-599
-00:46:11,990 --> 00:46:13,649
-Are you awake, darling?
-
-600
-00:46:13,650 --> 00:46:15,259
-Safe.
-
-601
-00:46:15,260 --> 00:46:21,180
-Hey, why didn't you tell me? Huh?
-
-602
-00:46:21,990 --> 00:46:24,119
-I had no idea.
-
-603
-00:46:24,120 --> 00:46:27,950
-Instead, I blamed my precious daughter.
-
-604
-00:46:31,060 --> 00:46:33,050
-It must have hurt him.
-
-605
-00:46:34,000 --> 00:46:35,849
-It didn't hurt at all.
-
-606
-00:46:35,850 --> 00:46:39,009
-Your fists are soft now.
-
-607
-00:46:39,010 --> 00:46:40,209
-Oh no...
-
-608
-00:46:40,210 --> 00:46:42,909
-Oh dear, poor me.
-
-609
-00:46:42,910 --> 00:46:45,900
-Why should our daughter be treated like this...?
-
-610
-00:46:49,470 --> 00:46:52,650
-I didn't tell you because I knew you'd be upset.
-
-611
-00:46:53,780 --> 00:46:56,019
-Do you think I don't feel sorry when I blame you?
-
-612
-00:46:56,020 --> 00:46:57,299
-Baby! Baby!
-
-613
-00:46:57,300 --> 00:47:00,119
-Honey, calm down. Come on...
-
-614
-00:47:00,120 --> 00:47:03,269
-It's good that we finally learned this.
-
-615
-00:47:03,270 --> 00:47:04,659
-Safe...
-
-616
-00:47:04,660 --> 00:47:10,770
-Even just putting it in the refrigerator and making cold sashimi wouldn't be enough.
-
-617
-00:47:13,750 --> 00:47:19,329
-If he comes back again, call me first. Understood?
-
-618
-00:47:19,330 --> 00:47:22,300
-- Okay. - Do you understand?
-
-619
-00:47:23,160 --> 00:47:26,489
-Yes, I'll call.
-
-620
-00:47:26,490 --> 00:47:28,039
-Hey.
-
-621
-00:47:28,040 --> 00:47:30,199
-Meanwhile, the previous guy...
-
-622
-00:47:30,200 --> 00:47:32,939
-that part-time worker...
-
-623
-00:47:32,940 --> 00:47:35,020
-Is he a boyfriend?
-
-624
-00:47:37,130 --> 00:47:39,480
-Do you have a boyfriend?
-
-625
-00:47:42,310 --> 00:47:44,010
-Yes.
-
-626
-00:47:44,910 --> 00:47:46,519
-How old?
-
-627
-00:47:46,520 --> 00:47:49,019
-Is she divorced? Or just single?
-
-628
-00:47:49,020 --> 00:47:51,159
-Does she want to get married?
-
-629
-00:47:51,160 --> 00:47:52,379
-Oh dear, Mom.
-
-630
-00:47:52,380 --> 00:47:53,909
-Well...
-
-631
-00:47:53,910 --> 00:47:57,349
-I realized he was very handsome.
-
-632
-00:47:57,350 --> 00:47:59,989
-Oh, wait. I'm happy with how I am right now.
-
-633
-00:47:59,990 --> 00:48:02,480
-You're fine now. Let's go.
-
-634
-00:48:08,990 --> 00:48:12,109
-Mrs. Baek doesn't seem willing to leave quietly.
-
-635
-00:48:12,110 --> 00:48:17,170
-Because people are noticing him here and there, there's more talk inside.
-
-636
-00:48:18,940 --> 00:48:21,210
-What should I do?
-
-637
-00:48:31,500 --> 00:48:32,549
-Yes.
-
-638
-00:48:32,550 --> 00:48:33,809
-Did you call?
-
-639
-00:48:33,810 --> 00:48:35,240
-Did I call?
-
-640
-00:48:35,960 --> 00:48:38,959
-Oh, I must have pressed it while changing it.
-
-641
-00:48:38,960 --> 00:48:41,000
-Why did you change?
-
-642
-00:48:41,810 --> 00:48:44,759
-Well, I spilled water on myself.
-
-643
-00:48:44,760 --> 00:48:46,459
-Have you had lunch?
-
-644
-00:48:46,460 --> 00:48:47,719
-I haven't eaten it yet.
-
-645
-00:48:47,720 --> 00:48:49,319
-Go and eat.
-
-646
-00:48:49,320 --> 00:48:51,869
-You know you need to eat well at times like these.
-
-647
-00:48:51,870 --> 00:48:53,499
-There isn't much food at home.
-
-648
-00:48:53,500 --> 00:48:56,490
-Shall we do some grocery shopping after work?
-
-649
-00:48:59,750 --> 00:49:03,439
-Su Jeong, what's wrong?
-
-650
-00:49:03,440 --> 00:49:07,210
-I need to do something. I'll call you back.
-
-651
-00:49:26,390 --> 00:49:28,830
-You wanted to see me, Madam President.
-
-652
-00:49:35,540 --> 00:49:38,019
-From where...
-
-653
-00:49:38,020 --> 00:49:39,929
-Are you fighting to stay?
-
-654
-00:49:39,930 --> 00:49:43,140
-Can't you understand that I want you to leave quietly?
-
-655
-00:49:43,740 --> 00:49:47,750
-Because the director might come back.
-
-656
-00:49:49,690 --> 00:49:51,559
-I understand.
-
-657
-00:49:51,560 --> 00:49:54,099
-It was because you were stupid.
-
-658
-00:49:54,100 --> 00:49:59,339
-I understand he wants to be the heir again, but this...
-
-659
-00:49:59,351 --> 00:50:04,319
-I'm not interested in bringing back someone so incompetent.
-
-660
-00:50:04,320 --> 00:50:06,849
-Then that position will remain vacant forever.
-
-661
-00:50:06,850 --> 00:50:12,100
-If the director isn't qualified, who can fill that position?
-
-662
-00:50:13,990 --> 00:50:15,999
-How can you be so sure?
-
-663
-00:50:16,000 --> 00:50:18,210
-Because you...
-
-664
-00:50:18,830 --> 00:50:21,420
-You are his only family.
-
-665
-00:50:22,100 --> 00:50:26,809
-She worked hard to be recognized and loved by her only family.
-
-666
-00:50:26,810 --> 00:50:30,299
-Do you think anyone else would work this hard?
-
-667
-00:50:30,300 --> 00:50:33,020
-- What? - You don't know...
-
-668
-00:50:33,620 --> 00:50:36,259
-How you feel too.
-
-669
-00:50:36,260 --> 00:50:42,270
-Does it comfort you to blame your misfortunes on your grandchild?
-
-670
-00:50:43,840 --> 00:50:48,959
-And what I hope to get back is not the heir position.
-
-671
-00:50:48,960 --> 00:50:51,660
-The director's family.
-
-672
-00:51:21,020 --> 00:51:23,139
-Hey, Ju Yeon. Is everything alright?
-
-673
-00:51:23,140 --> 00:51:26,910
-Brother, be honest with me.
-
-674
-00:51:29,260 --> 00:51:31,410
-Too much...
-
-675
-00:51:35,800 --> 00:51:37,619
-Please have some of this.
-
-676
-00:51:37,620 --> 00:51:39,440
-What's this?
-
-677
-00:51:45,220 --> 00:51:46,349
-What are you thinking?
-
-678
-00:51:46,350 --> 00:51:49,020
-Doesn't it wake you up?
-
-679
-00:51:55,900 --> 00:51:57,639
-After carrying these, we're done for today, right?
-
-680
-00:51:57,640 --> 00:51:59,059
-Yes.
-
-681
-00:51:59,060 --> 00:52:02,319
-It's nice to have a young person around.
-
-682
-00:52:02,320 --> 00:52:04,660
-It makes us so happy.
-
-683
-00:52:32,200 --> 00:52:33,909
-What are you doing?
-
-684
-00:52:33,910 --> 00:52:35,829
-You should have told me.
-
-685
-00:52:35,830 --> 00:52:38,679
-Or you should have resigned immediately. Why...?
-
-686
-00:52:38,680 --> 00:52:40,810
-Are you doing this?
-
-687
-00:52:41,470 --> 00:52:43,299
-Why are you putting up with this for me?
-
-688
-00:52:43,300 --> 00:52:44,809
-Because I knew this would happen.
-
-689
-00:52:44,810 --> 00:52:48,329
-Because you would blame yourself and feel bad.
-
-690
-00:52:48,330 --> 00:52:49,479
-That's why I couldn't tell you.
-
-691
-00:52:49,480 --> 00:52:50,789
-TRUE.
-
-692
-00:52:50,790 --> 00:52:54,499
-You wouldn't have been a victim if it weren't for me.
-
-693
-00:52:54,500 --> 00:52:56,730
-Why are you putting up with this?
-
-694
-00:52:57,460 --> 00:53:01,322
-Because of a word from the mayor, I've spent this much time here...
-
-695
-00:53:01,334 --> 00:53:05,579
-...should I just let the time and effort go to waste and leave?
-
-696
-00:53:05,580 --> 00:53:08,059
-I made this decision for myself.
-
-697
-00:53:08,060 --> 00:53:10,830
-Because I love you, and for myself.
-
-698
-00:53:11,640 --> 00:53:15,440
-Because I had to stay here for what came next.
-
-699
-00:53:16,200 --> 00:53:20,000
-Therefore, please respect my decision.
-
-700
-00:53:23,110 --> 00:53:25,510
-I'll make a decision then.
-
-701
-00:53:27,630 --> 00:53:29,700
-For you, Su Jeong.
-
-702
-00:53:35,180 --> 00:53:36,639
+00:02:57,640 --> 00:02:59,470
 Thank you.
 
-703
-00:53:36,640 --> 00:53:38,789
-You didn't have to drive me.
+36
+00:03:13,300 --> 00:03:14,990
+See you tomorrow.
 
-704
-00:53:38,790 --> 00:53:39,989
-Aren't you tired?
+37
+00:03:15,810 --> 00:03:17,520
+Get home safely.
 
-705
-00:53:39,990 --> 00:53:41,689
-Not at all.
+38
+00:03:17,520 --> 00:03:19,590
+Call me when you arrive.
 
-706
-00:53:41,690 --> 00:53:45,549
-I must have exercised a lot to be able to do this.
+39
+00:03:46,800 --> 00:03:48,610
+I can't.
 
-707
-00:53:45,550 --> 00:53:49,509
-And it would be difficult to carry them alone.
+40
+00:03:49,660 --> 00:03:51,630
+I can't let you go.
 
-708
-00:53:49,510 --> 00:53:51,629
-That's why I had to drive you today.
+41
+00:03:53,480 --> 00:03:55,530
+Please stay with me.
 
-709
-00:53:51,630 --> 00:53:53,569
-What are all of these?
+42
+00:05:22,720 --> 00:05:24,360
+What's wrong?
 
-710
-00:53:53,570 --> 00:53:55,029
-For me?
+43
+00:05:24,360 --> 00:05:26,950
+When did I fall asleep?
 
-711
-00:53:55,030 --> 00:53:59,480
-I'm sorry, but they're not for you.
+44
+00:05:46,080 --> 00:05:47,730
+Baek Su Jeong.
 
-712
-00:54:00,300 --> 00:54:02,260
-For your mother.
+45
+00:05:47,730 --> 00:05:49,720
+Dad, you're up.
 
-713
-00:54:02,850 --> 00:54:07,029
-And how about installing a security camera in the shop?
+46
+00:05:49,720 --> 00:05:53,240
+The thing is, I need to go back to work-
 
-714
-00:54:07,030 --> 00:54:10,499
-Your ex-husband didn't look very well.
+47
+00:05:53,240 --> 00:05:55,970
+Were you with the Director?
 
-715
-00:54:10,500 --> 00:54:13,200
-You never know when he'll come back.
+48
+00:05:59,280 --> 00:06:01,350
+Are you back together?
 
-716
-00:54:15,270 --> 00:54:17,330
-Shin Won,
+49
+00:06:02,570 --> 00:06:04,200
+Yes.
 
-717
-00:54:19,140 --> 00:54:27,289
-I couldn't help then, but your worrying bothers me.
+50
+00:06:04,200 --> 00:06:06,980
+Su Jeong, his family isn't a normal family.
 
-718
-00:54:27,290 --> 00:54:31,470
-Not to mention my ex-husband and my family.
+51
+00:06:06,980 --> 00:06:09,060
+According to the article, many eyes are on him.
 
-719
-00:54:32,550 --> 00:54:36,080
-Regarding the gifts, I appreciate your thoughtfulness.
+52
+00:06:09,060 --> 00:06:10,740
+A lot of people are talking.
 
-720
-00:54:39,040 --> 00:54:41,520
-Drive home safely.
+53
+00:06:10,740 --> 00:06:14,590
+You know I don't care about stuff like that.
 
-721
-00:54:58,030 --> 00:54:59,770
+54
+00:06:15,560 --> 00:06:20,390
+I really like him a lot.
+
+55
+00:06:20,390 --> 00:06:23,510
+So, can't you just allow it?
+
+56
+00:06:29,090 --> 00:06:31,250
+What do you mean allow?
+
+57
+00:06:34,000 --> 00:06:36,640
+I should trust your decision.
+
+58
+00:06:37,480 --> 00:06:39,450
+But Su Jeong,
+
+59
+00:06:39,450 --> 00:06:41,840
+tell me you're having a hard time.
+
+60
+00:06:41,840 --> 00:06:43,700
+Don't just hold it in.
+
+61
+00:06:43,700 --> 00:06:45,650
+I don't care about anything else.
+
+62
+00:06:46,490 --> 00:06:48,670
+I just want you to be happy.
+
+63
+00:06:48,670 --> 00:06:50,360
+That's enough.
+
+64
+00:06:52,340 --> 00:06:53,920
+Okay.
+
+65
+00:06:53,920 --> 00:06:56,500
+Whatever. Go to work now.
+
+66
+00:06:56,500 --> 00:06:57,700
+Okay, I will.
+
+67
+00:06:57,700 --> 00:07:00,150
+But sleeping outside is...
+
+68
+00:07:02,050 --> 00:07:04,030
+Just don't get caught.
+
+69
+00:07:04,030 --> 00:07:06,550
+Okay, I'll never get caught.
+
+70
+00:07:08,140 --> 00:07:10,770
+Say you won't stay out all night!
+
+71
+00:07:20,010 --> 00:07:21,440
+[Chief Secretary]
+
+72
+00:07:29,140 --> 00:07:30,430
+Director Ban.
+
+73
+00:07:30,430 --> 00:07:31,530
+Yes.
+
+74
+00:07:31,530 --> 00:07:35,000
+You're dismissed as of today.
+
+75
+00:07:52,610 --> 00:07:55,340
+I knew this would happen.
+
+76
+00:07:57,210 --> 00:08:02,440
+Didn't you say there was nothing going on?
+
+77
+00:08:02,440 --> 00:08:04,210
+Yes, Chairwoman.
+
+78
+00:08:05,210 --> 00:08:07,090
+It seems clear...
+
+79
+00:08:07,090 --> 00:08:10,570
+there is nothing going on between them.
+
+80
+00:08:10,570 --> 00:08:14,580
+I'm sorry for disappointing you.
+
+81
+00:08:16,080 --> 00:08:17,550
+[Resignation Letter]
+
+82
+00:08:19,450 --> 00:08:22,130
+Thank you for everything.
+
+83
+00:08:25,530 --> 00:08:26,810
+[Dismissal Notice]
+
+84
+00:08:26,810 --> 00:08:28,080
+[Strategy Team Director Ban Ju Yeon]
+
+85
+00:08:28,080 --> 00:08:29,380
+[Bbanjju]
+
+86
+00:08:32,390 --> 00:08:35,190
+The customer is not available at the moment.
+
+87
+00:08:36,950 --> 00:08:39,660
+The Chairwoman is taking it too far.
+
+88
+00:08:40,660 --> 00:08:42,680
+Did the Director get fired?
+
+89
+00:08:42,680 --> 00:08:44,050
+All of a sudden?
+
+90
+00:08:44,050 --> 00:08:46,400
+Is this about the rumor involving the Team Leader?
+
+91
+00:08:46,400 --> 00:08:47,740
+It can't be.
+
+92
+00:08:47,740 --> 00:08:49,700
+There's no other way to explain it.
+
+93
+00:08:49,700 --> 00:08:52,070
+And overnight? In the middle of the project?
+
+94
+00:08:52,070 --> 00:08:54,770
+But still. Dismissal?
+
+95
+00:08:56,500 --> 00:08:59,400
+- What about our project?
+- Team Leader.
+
+96
+00:09:04,750 --> 00:09:06,920
+Director...
+
+97
+00:09:10,390 --> 00:09:12,220
+Team Leader!
+
+98
+00:09:15,830 --> 00:09:17,090
+The call is not going through.
+
+99
+00:09:17,090 --> 00:09:19,470
+You'll be connected to...
+
+100
+00:09:22,260 --> 00:09:23,590
+Chief,
+
+101
+00:09:23,590 --> 00:09:26,030
+what happened to the Director out of the blue?
+
+102
+00:09:26,030 --> 00:09:27,580
+You're in such a hurry.
+
+103
+00:09:27,580 --> 00:09:31,430
+You aren't hiding your relationship anymore.
+
+104
+00:09:31,430 --> 00:09:32,680
+It's okay.
+
+105
+00:09:32,680 --> 00:09:35,920
+The Chairwoman also knows about it now.
+
+106
+00:09:35,920 --> 00:09:37,610
+- Pardon?
+- She knows when you
+
+107
+00:09:37,610 --> 00:09:40,510
+entered and left the Director's house.
+
+108
+00:09:40,510 --> 00:09:41,810
+She knows everything.
+
+109
+00:09:41,810 --> 00:09:45,030
+Looks like she had many lookouts.
+
+110
+00:09:45,030 --> 00:09:46,620
+That's what happened...
+
+111
+00:09:50,260 --> 00:09:52,100
+Chief Kwon.
+
+112
+00:09:52,980 --> 00:09:54,870
+I quit.
+
+113
+00:09:56,080 --> 00:09:59,040
+- Why?
+- Because I knew from the beginning.
+
+114
+00:09:59,040 --> 00:10:01,940
+But I kept it a secret.
+
+115
+00:10:10,050 --> 00:10:13,250
+Take good care of the Director.
+
+116
+00:10:13,250 --> 00:10:16,250
+But I'm relieved someone like you
+
+117
+00:10:16,250 --> 00:10:18,100
+are by his side.
+
+118
+00:10:33,230 --> 00:10:35,560
+[Chief Kwon In Gyeong]
+
+119
+00:10:39,780 --> 00:10:43,430
+Chief, where's the Chairwoman right now?
+
+120
+00:11:06,930 --> 00:11:08,490
+Chairwoman.
+
+121
+00:11:12,090 --> 00:11:13,950
+How dare you come in here?
+
+122
+00:11:13,950 --> 00:11:16,580
+I know you aren't happy...
+
+123
+00:11:16,580 --> 00:11:18,080
+about our relationship.
+
+124
+00:11:18,080 --> 00:11:19,670
+But I won't let my
+
+125
+00:11:19,670 --> 00:11:21,870
+personal feelings jeopardize Yongsung, so-
+
+126
+00:11:21,870 --> 00:11:25,870
+I said it'd be over if you disappointed me.
+
+127
+00:11:32,580 --> 00:11:34,220
+Grandmother.
+
+128
+00:11:44,530 --> 00:11:46,770
+You know I've done...
+
+129
+00:11:48,350 --> 00:11:51,500
+everything for Yongsung.
+
+130
+00:11:51,500 --> 00:11:53,200
+I'll be better from now on.
+
+131
+00:11:53,200 --> 00:11:56,360
+I'll work harder as your grandson.
+
+132
+00:11:56,360 --> 00:11:59,340
+I thought you could be a substitute,
+
+133
+00:11:59,340 --> 00:12:01,850
+but you were a defect.
+
+134
+00:12:03,900 --> 00:12:07,180
+I'm disgusted that you're related to me.
+
+135
+00:12:07,180 --> 00:12:09,260
+What about me, then?
+
+136
+00:12:10,300 --> 00:12:12,890
+- What?
+- Ever since my parents passed,
+
+137
+00:12:12,890 --> 00:12:15,750
+I couldn't even be sad or happy freely.
+
+138
+00:12:15,750 --> 00:12:17,850
+Because I was always an unworthy grandson.
+
+139
+00:12:17,850 --> 00:12:19,950
+No matter how painful that was,
+
+140
+00:12:19,950 --> 00:12:22,800
+I endured it and worked hard every day.
+
+141
+00:12:22,800 --> 00:12:25,450
+I thought you'd acknowledge me someday
+
+142
+00:12:25,450 --> 00:12:27,560
+if I lived the way you wanted me to.
+
+143
+00:12:27,560 --> 00:12:31,420
+I've been trying to satisfy your standards.
+
+144
+00:12:31,420 --> 00:12:34,020
+But I can't even...
+
+145
+00:12:36,130 --> 00:12:38,570
+- love her?
+- Of course not.
+
+146
+00:12:38,570 --> 00:12:40,760
+You said you want to be my successor.
+
+147
+00:12:40,760 --> 00:12:42,450
+Love?
+
+148
+00:12:42,450 --> 00:12:44,170
+With a junior employee,
+
+149
+00:12:44,170 --> 00:12:46,790
+a daughter of a hardware store owner?
+
+150
+00:12:47,930 --> 00:12:51,300
+I never should've accepted
+
+151
+00:12:51,300 --> 00:12:53,810
+someone who wasn't qualified.
+
+152
+00:12:56,670 --> 00:12:58,430
+I guess...
+
+153
+00:13:01,230 --> 00:13:04,530
+I never would've been good enough for you.
+
+154
+00:13:04,530 --> 00:13:06,060
+That's right.
+
+155
+00:13:53,840 --> 00:13:55,610
+I...
+
+156
+00:13:55,610 --> 00:13:57,650
+will fill in for my father.
+
+157
+00:13:57,650 --> 00:14:00,090
+I thought you could be a substitute,
+
+158
+00:14:00,090 --> 00:14:02,800
+but you were a defect.
+
+159
+00:14:02,800 --> 00:14:06,900
+I'm disgusted that you're related to me.
+
+160
+00:14:45,040 --> 00:14:46,670
+Are you okay?
+
+161
+00:14:46,670 --> 00:14:48,980
+Call me when you see this.
+
+162
+00:14:56,160 --> 00:14:57,870
+I'm okay.
+
+163
+00:14:57,870 --> 00:15:00,070
+I'm sorry for making you worry.
+
+164
+00:15:02,930 --> 00:15:05,010
+See you after work.
+
+165
+00:15:09,640 --> 00:15:10,920
+Where are you?
+
+166
+00:15:10,920 --> 00:15:13,070
+I'm leaving now.
+
+167
+00:15:22,540 --> 00:15:23,810
+Here you are.
+
+168
+00:15:23,810 --> 00:15:25,460
+You must be hungry.
+
+169
+00:15:25,460 --> 00:15:26,800
+What should we eat?
+
+170
+00:15:26,800 --> 00:15:27,950
+Director,
+
+171
+00:15:27,950 --> 00:15:30,780
+you can tell the Chairwoman that we broke up.
+
+172
+00:15:30,780 --> 00:15:32,110
+I really don't care.
+
+173
+00:15:32,110 --> 00:15:33,960
+There's no need to deny our relationship.
+
+174
+00:15:33,960 --> 00:15:35,940
+And we shouldn't.
+
+175
+00:15:37,210 --> 00:15:39,080
+I'm sorry for everything.
+
+176
+00:15:44,380 --> 00:15:45,800
+Where should we go?
+
+177
+00:15:45,800 --> 00:15:48,540
+I can have a date anywhere now.
+
+178
+00:15:49,510 --> 00:15:50,910
+You're right.
+
+179
+00:15:50,910 --> 00:15:53,030
+We can do that now.
+
+180
+00:15:54,000 --> 00:15:56,120
+We can hold hands like this, too.
+
+181
+00:15:58,490 --> 00:16:00,380
+I like it.
+
+182
+00:16:03,000 --> 00:16:06,970
+You can go to concerts freely, too.
+
+183
+00:16:06,970 --> 00:16:08,600
+Ever since I became public,
+
+184
+00:16:08,600 --> 00:16:11,070
+I never thought I'd go to a concert again.
+
+185
+00:16:11,070 --> 00:16:14,150
+I can go to the next one now.
+
+186
+00:16:15,620 --> 00:16:17,930
+Should we go together?
+
+187
+00:16:17,930 --> 00:16:20,060
+I'd love to go with you, of course.
+
+188
+00:16:20,060 --> 00:16:22,360
+I'll do the things you've done alone
+
+189
+00:16:22,360 --> 00:16:26,030
+with you from now on. Whatever it is.
+
+190
+00:16:26,030 --> 00:16:28,060
+Sounds good.
+
+191
+00:16:28,060 --> 00:16:31,130
+I'll be okay as long as I have you.
+
+192
+00:16:31,130 --> 00:16:33,630
+You'll continue to be okay, then.
+
+193
+00:16:33,630 --> 00:16:36,600
+Because I'll stay by your side.
+
+194
+00:16:43,710 --> 00:16:46,320
+How could I not worry?
+
+195
+00:16:47,310 --> 00:16:49,580
+I'm with Su Jeong.
+
+196
+00:16:51,850 --> 00:16:54,070
+Kim Sin Won.
+
+197
+00:16:54,070 --> 00:16:56,690
+Why is it so hard to see you these days?
+
+198
+00:16:56,690 --> 00:16:58,620
+Because I've been with my girlfriend.
+
+199
+00:16:58,620 --> 00:17:00,270
+You think I don't know that?
+
+200
+00:17:00,270 --> 00:17:02,740
+It's because you come home less these days.
+
+201
+00:17:02,740 --> 00:17:04,990
+Son.
+
+202
+00:17:04,990 --> 00:17:07,030
+You said you don't do portraits.
+
+203
+00:17:07,030 --> 00:17:08,830
+But look what you're working on now.
+
+204
+00:17:08,830 --> 00:17:11,260
+I wanted to draw it once.
+
+205
+00:17:11,260 --> 00:17:13,170
+It'd be a nice gift later, too.
+
+206
+00:17:13,170 --> 00:17:17,170
+Looks like you finally found the right one.
+
+207
+00:17:18,420 --> 00:17:20,570
+I think so, too.
+
+208
+00:17:21,490 --> 00:17:23,570
+Are you thinking of even marrying her?
+
+209
+00:17:23,570 --> 00:17:25,940
+I haven't considered that yet, but...
+
+210
+00:17:25,940 --> 00:17:27,840
+How should I say it?
+
+211
+00:17:27,840 --> 00:17:29,650
+I want to always be with her.
+
+212
+00:17:29,650 --> 00:17:31,890
+I don't want to be apart from her.
+
+213
+00:17:31,890 --> 00:17:35,580
+If I got to share a lifetime with her like you two,
+
+214
+00:17:35,580 --> 00:17:38,060
+I'd definitely be happy.
+
+215
+00:17:42,500 --> 00:17:46,640
+I didn't think I'd be seeing you dressed like this.
+
+216
+00:17:47,530 --> 00:17:50,040
+I'm no longer your boss.
+
+217
+00:17:51,040 --> 00:17:52,800
+Why did you do that?
+
+218
+00:17:54,140 --> 00:17:57,330
+The fact that you upset the Chairwoman.
+
+219
+00:17:57,330 --> 00:17:59,230
+I just don't understand it.
+
+220
+00:17:59,230 --> 00:18:01,400
+Do you know...
+
+221
+00:18:01,400 --> 00:18:04,300
+when I started to respect and look up to
+
+222
+00:18:04,300 --> 00:18:06,400
+the Chairwoman?
+
+223
+00:18:07,660 --> 00:18:12,150
+This might sound cruel to you,
+
+224
+00:18:12,150 --> 00:18:14,360
+but it was after she lost her son.
+
+225
+00:18:14,360 --> 00:18:17,300
+Seeing how strong she was at the time,
+
+226
+00:18:17,300 --> 00:18:24,100
+I thought, "I can trust someone like her."
+
+227
+00:18:27,230 --> 00:18:30,530
+You don't like espresso, right?
+
+228
+00:18:31,390 --> 00:18:35,200
+You go to concerts sometimes.
+
+229
+00:18:35,200 --> 00:18:37,530
+I didn't check inside the packages
+
+230
+00:18:37,530 --> 00:18:40,590
+you ordered under a strange name.
+
+231
+00:18:40,590 --> 00:18:42,730
+When you knew all that,
+
+232
+00:18:44,020 --> 00:18:45,640
+why didn't you report it to her?
+
+233
+00:18:45,640 --> 00:18:49,770
+You hid that to become the person she wanted.
+
+234
+00:18:49,770 --> 00:18:52,980
+Hiding emotions and suppressing them
+
+235
+00:18:52,980 --> 00:18:56,940
+couldn't have been easy, but you endured it.
+
+236
+00:18:56,940 --> 00:19:01,810
+That side of you resembled the Chairwoman a lot.
+
+237
+00:19:01,810 --> 00:19:06,700
+And I thought that was the successor she had in mind.
+
+238
+00:19:06,700 --> 00:19:09,670
+- Then, this time also-
+- No.
+
+239
+00:19:09,670 --> 00:19:14,580
+I was just an ordinary person, drawn to affection.
+
+240
+00:19:16,120 --> 00:19:18,520
+Being a successor is nice,
+
+241
+00:19:18,520 --> 00:19:21,420
+but I've known you since you were a child.
+
+242
+00:19:21,420 --> 00:19:25,140
+I thought it'd be nice for you to be happy
+
+243
+00:19:25,140 --> 00:19:27,160
+with someone you love.
+
+244
+00:19:33,330 --> 00:19:35,990
+So, Chief Kwon...
+
+245
+00:19:35,990 --> 00:19:37,790
+that's how you felt.
+
+246
+00:19:38,660 --> 00:19:41,270
+Yes. I did.
+
+247
+00:19:50,330 --> 00:19:54,830
+Thank you for working with me all this time.
+
+248
+00:20:16,200 --> 00:20:18,010
+What do I do now?
+
+249
+00:20:23,960 --> 00:20:26,170
+What are you going to do now?
+
+250
+00:20:28,380 --> 00:20:30,440
+Do you want to read comic books in the attic?
+
+251
+00:20:30,440 --> 00:20:33,020
+I think Su Bin is home.
+
+252
+00:20:33,020 --> 00:20:34,810
+Okay.
+
+253
+00:20:49,400 --> 00:20:51,290
+I'm nearing the shop now.
+
+254
+00:20:51,290 --> 00:20:54,030
+Huh? I'm still on my way from grocery shopping.
+
+255
+00:20:54,030 --> 00:20:55,770
+It's okay. I can wait.
+
+256
+00:20:55,770 --> 00:20:57,250
+I took a half day off today.
+
+257
+00:20:57,250 --> 00:20:59,150
+We really have to see a movie today.
+
+258
+00:20:59,150 --> 00:21:02,260
+We can't suddenly go to a hotel like last time.
+
+259
+00:21:02,260 --> 00:21:05,510
+Didn't you gladly change the destination?
+
+260
+00:21:05,510 --> 00:21:09,770
+Geez. We're on the same page too often.
+
+261
+00:21:09,770 --> 00:21:11,860
+Okay, see you later.
+
+262
+00:21:38,320 --> 00:21:39,950
+What?
+
+263
+00:21:39,950 --> 00:21:42,900
+What are you doing here at this hour?
+
+264
+00:21:48,010 --> 00:21:50,380
+So, your grandma threw you out
+
+265
+00:21:50,380 --> 00:21:52,140
+and you lost your job.
+
+266
+00:21:52,140 --> 00:21:54,690
+That means you're...
+
+267
+00:21:54,690 --> 00:21:57,780
+jobless. Just like me.
+
+268
+00:21:59,310 --> 00:22:00,430
+Jobless?
+
+269
+00:22:00,430 --> 00:22:02,750
+Well, aren't you?
+
+270
+00:22:02,750 --> 00:22:05,300
+Do you have something to do?
+
+271
+00:22:06,370 --> 00:22:08,670
+I do not.
+
+272
+00:22:08,670 --> 00:22:11,950
+That's why you wanted to wait for Noona at our place.
+
+273
+00:22:11,950 --> 00:22:13,340
+It's not exactly that-
+
+274
+00:22:13,340 --> 00:22:18,800
+By the way, what exactly do you like about her?
+
+275
+00:22:18,800 --> 00:22:20,130
+She's pretty.
+
+276
+00:22:20,130 --> 00:22:22,340
+Are you crazy by chance?
+
+277
+00:22:22,340 --> 00:22:24,170
+Being crazy in love isn't a sin.
+
+278
+00:22:24,170 --> 00:22:26,720
+Geez, stop.
+
+279
+00:22:27,670 --> 00:22:31,140
+I think I'll puke. Stop talking, please.
+
+280
+00:22:31,140 --> 00:22:34,850
+And she loves me as I am.
+
+281
+00:22:35,790 --> 00:22:38,430
+She cried about breaking up.
+
+282
+00:22:38,430 --> 00:22:41,850
+But you're both totally head over heels. Seriously.
+
+283
+00:22:41,850 --> 00:22:44,650
+Did Su Jeong cry?
+
+284
+00:22:44,650 --> 00:22:45,980
+Yes.
+
+285
+00:22:45,980 --> 00:22:48,370
+Dad and I never saw her bawling like that.
+
+286
+00:22:48,370 --> 00:22:51,400
+It gave me chills... not.
+
+287
+00:22:51,400 --> 00:22:53,420
+Thinking now, she did that back then, too.
+
+288
+00:22:53,420 --> 00:22:56,270
+Because of Black Dragon or whatever.
+
+289
+00:22:56,270 --> 00:22:57,380
+Black Dragon.
+
+290
+00:22:57,380 --> 00:22:59,730
+There's this guy. He was her first love.
+
+291
+00:22:59,730 --> 00:23:01,940
+Her dark days. If she finds out that I know,
+
+292
+00:23:01,940 --> 00:23:04,310
+she'd bite her tongue and kill herself.
+
+293
+00:23:04,310 --> 00:23:07,460
+Did she cry a lot then, too?
+
+294
+00:23:07,460 --> 00:23:08,750
+Yes.
+
+295
+00:23:08,750 --> 00:23:10,700
+She didn't eat for days.
+
+296
+00:23:10,700 --> 00:23:13,820
+Dad was very worried, too. But he couldn't show it.
+
+297
+00:23:13,820 --> 00:23:16,400
+It was the most unfilial thing she did.
+
+298
+00:23:17,700 --> 00:23:19,720
+Eat.
+
+299
+00:23:19,720 --> 00:23:21,150
+Okay.
+
+300
+00:23:27,490 --> 00:23:30,010
+[No. 1 Hardware]
+
+301
+00:23:30,010 --> 00:23:31,700
+Father.
+
+302
+00:23:31,700 --> 00:23:33,630
+Hand me the heavy stuff.
+
+303
+00:23:34,660 --> 00:23:35,930
+What brings you here?
+
+304
+00:23:35,930 --> 00:23:39,040
+I don't know. He suddenly wants to help you.
+
+305
+00:23:39,040 --> 00:23:40,590
+He must be busy, though.
+
+306
+00:23:40,590 --> 00:23:42,840
+He's not. He's jobless.
+
+307
+00:23:42,840 --> 00:23:44,390
+I'll do my best to help you.
+
+308
+00:23:44,390 --> 00:23:48,080
+I have no skills, but I have strength.
+
+309
+00:23:48,080 --> 00:23:50,870
+I don't think you do.
+
+310
+00:23:50,870 --> 00:23:52,950
+You see?
+
+311
+00:23:52,950 --> 00:23:55,420
+Follow me, then.
+
+312
+00:23:55,420 --> 00:23:56,930
+- Me, too?
+- Yes, help him.
+
+313
+00:23:56,930 --> 00:23:58,190
+M-Me?
+
+314
+00:23:58,190 --> 00:24:01,090
+I was going to rest because it's my day off.
+
+315
+00:24:02,510 --> 00:24:04,850
+- Hand me that.
+- Okay.
+
+316
+00:24:06,500 --> 00:24:08,650
+What should I start with?
+
+317
+00:24:09,590 --> 00:24:11,750
+You said you have no skills.
+
+318
+00:24:11,750 --> 00:24:13,550
+Can you do this stuff?
+
+319
+00:24:13,550 --> 00:24:15,890
+You just need to change the doorknob.
+
+320
+00:24:15,890 --> 00:24:20,060
+Of course. I'll try to take care of it myself.
+
+321
+00:24:20,060 --> 00:24:22,080
+Just let me know if you can't.
+
+322
+00:24:22,080 --> 00:24:24,790
+Su Jeong does this with her eyes closed.
+
+323
+00:24:24,790 --> 00:24:27,610
+I'm bad at being bad at things.
+
+324
+00:24:33,370 --> 00:24:35,800
+Will he do it with bare hands?
+
+325
+00:24:35,800 --> 00:24:38,040
+Go help him.
+
+326
+00:24:48,490 --> 00:24:49,610
+How do I do this...
+
+327
+00:24:49,610 --> 00:24:53,190
+You have to glue it if you do it that way.
+
+328
+00:24:53,190 --> 00:24:56,220
+You do it like this. Got it?
+
+329
+00:24:56,220 --> 00:24:58,420
+And you... No.
+
+330
+00:24:58,420 --> 00:25:00,960
+Use this to undo this.
+
+331
+00:25:00,960 --> 00:25:04,180
+I'll try this myself, then.
+
+332
+00:25:04,180 --> 00:25:06,810
+Be careful. Then...
+
+333
+00:25:06,810 --> 00:25:08,380
+Hold this for me.
+
+334
+00:25:08,380 --> 00:25:10,280
+- I'll hold it.
+- Okay.
+
+335
+00:25:10,280 --> 00:25:12,190
+Is it expensive?
+
+336
+00:25:12,190 --> 00:25:15,360
+Well, I don't really know.
+
+337
+00:25:15,360 --> 00:25:16,670
+So...
+
+338
+00:25:17,580 --> 00:25:19,600
+No, no, no.
+
+339
+00:25:19,600 --> 00:25:21,640
+If you don't know how to do this,
+
+340
+00:25:21,640 --> 00:25:23,280
+it'd be good if you let me know.
+
+341
+00:25:23,280 --> 00:25:25,190
+Thank you for teaching me.
+
+342
+00:25:26,120 --> 00:25:28,680
+- I can do it well.
+- Can you?
+
+343
+00:25:28,680 --> 00:25:30,390
+Okay.
+
+344
+00:25:36,880 --> 00:25:40,910
+Father, I accomplished this important task.
+
+345
+00:25:42,160 --> 00:25:44,110
+You do the same, right?
+
+346
+00:25:44,110 --> 00:25:46,980
+- The opposite direction.
+- The same way, right?
+
+347
+00:25:58,700 --> 00:26:01,120
+Why won't he respond?
+
+348
+00:26:03,900 --> 00:26:06,710
+Guess what your boyfriend is doing.
+
+349
+00:26:06,710 --> 00:26:08,140
+What?
+
+350
+00:26:11,880 --> 00:26:14,130
+There's a lot of concern about
+
+351
+00:26:14,130 --> 00:26:15,940
+the vacant director position.
+
+352
+00:26:15,940 --> 00:26:20,090
+Also, about the successor, besides Director Ban-
+
+353
+00:26:21,830 --> 00:26:25,580
+You think there's no one to replace him?
+
+354
+00:26:27,050 --> 00:26:29,440
+Call Yongsung Trading's
+
+355
+00:26:29,440 --> 00:26:31,340
+Park Ji Cheol.
+
+356
+00:26:31,340 --> 00:26:32,740
+Yes.
+
+357
+00:26:32,740 --> 00:26:35,560
+And as for Team Leader Baek Su Jeong-
+
+358
+00:26:35,560 --> 00:26:37,610
+Get rid of her discreetly.
+
+359
+00:26:37,610 --> 00:26:39,020
+Okay.
+
+360
+00:26:50,560 --> 00:26:52,350
+You worked hard today.
+
+361
+00:26:52,350 --> 00:26:54,530
+Why don't we have dinner together?
+
+362
+00:26:54,530 --> 00:26:57,250
+Yes, I'll enjoy it.
+
+363
+00:26:57,250 --> 00:27:00,230
+How do you know if you'll enjoy it?
+
+364
+00:27:00,230 --> 00:27:03,950
+What are we supposed to eat today?
+
+365
+00:27:03,950 --> 00:27:05,240
+Should I cook, then?
+
+366
+00:27:05,240 --> 00:27:08,110
+I'm strong,
+
+367
+00:27:08,110 --> 00:27:10,150
+but I can cook, too.
+
+368
+00:27:10,950 --> 00:27:13,090
+I don't think you can.
+
+369
+00:27:30,310 --> 00:27:33,240
+He was desperate to impress you all day.
+
+370
+00:27:33,240 --> 00:27:35,520
+That was pretty good, huh?
+
+371
+00:27:35,520 --> 00:27:39,000
+- Impress me?
+- You're his girlfriend's dad.
+
+372
+00:27:39,000 --> 00:27:41,920
+Right. You don't have to do that.
+
+373
+00:27:41,920 --> 00:27:44,020
+I'm happy as long as Su Jeong is happy.
+
+374
+00:27:44,020 --> 00:27:45,260
+Hey, come on.
+
+375
+00:27:45,260 --> 00:27:47,130
+I know you didn't trust him.
+
+376
+00:27:47,130 --> 00:27:48,330
+I didn't?
+
+377
+00:27:48,330 --> 00:27:51,190
+I didn't? That's not true.
+
+378
+00:27:51,190 --> 00:27:53,450
+Of course, you're worried.
+
+379
+00:27:53,450 --> 00:27:56,740
+I don't come from a normal background.
+
+380
+00:27:56,740 --> 00:28:00,800
+You must trust Su Jeong, but not me.
+
+381
+00:28:00,800 --> 00:28:02,720
+My situation is like this now,
+
+382
+00:28:02,720 --> 00:28:05,580
+but I'll make sure you won't worry.
+
+383
+00:28:05,580 --> 00:28:08,230
+No matter what,
+
+384
+00:28:08,230 --> 00:28:10,990
+I won't make her cry or leave her alone.
+
+385
+00:28:13,700 --> 00:28:16,700
+I'm such a bad dad.
+
+386
+00:28:16,700 --> 00:28:20,000
+All I could do was trust her and nothing else.
+
+387
+00:28:21,100 --> 00:28:23,340
+But I'm relieved, thanks to you.
+
+388
+00:28:23,340 --> 00:28:26,310
+I'll make sure you won't have to worry.
+
+389
+00:28:34,790 --> 00:28:37,170
+Su Jeong, welcome.
+
+390
+00:28:37,170 --> 00:28:38,650
+What are you doing?
+
+391
+00:28:38,650 --> 00:28:40,100
+What's with the headwrap?
+
+392
+00:28:40,100 --> 00:28:41,790
+Welcome, Su Jeong. Let's eat.
+
+393
+00:28:41,790 --> 00:28:45,280
+My son-in-law is a great cook.
+
+394
+00:28:45,280 --> 00:28:49,950
+- Your what?
+- I learned how to cook as a child.
+
+395
+00:28:49,950 --> 00:28:52,770
+The galbijjim is amazing, Brother-in-law.
+
+396
+00:28:52,770 --> 00:28:54,100
+Brother-in-law?
+
+397
+00:28:54,100 --> 00:28:57,900
+Su Jeong, I made it because you like that.
+
+398
+00:29:00,070 --> 00:29:01,550
+All right.
+
+399
+00:29:01,550 --> 00:29:03,700
+What's all this?
+
+400
+00:29:03,700 --> 00:29:05,300
+Okay.
+
+401
+00:29:05,300 --> 00:29:06,580
+Wow.
+
+402
+00:29:07,460 --> 00:29:08,880
+Say ah.
+
+403
+00:29:16,080 --> 00:29:17,630
+What?
+
+404
+00:29:17,630 --> 00:29:19,150
+Why is it so good?
+
+405
+00:29:19,150 --> 00:29:20,930
+I know, right?
+
+406
+00:29:20,930 --> 00:29:22,400
+It's by Chef Ban Ju Yeon.
+
+407
+00:29:22,400 --> 00:29:24,130
+Let's eat.
+
+408
+00:29:41,160 --> 00:29:42,730
+How nice.
+
+409
+00:29:42,730 --> 00:29:47,050
+Eating and talking together at home like this.
+
+410
+00:29:50,720 --> 00:29:54,450
+It's my first time since my parents passed away.
+
+411
+00:29:55,690 --> 00:29:58,970
+He must've had a hard time.
+
+412
+00:30:03,370 --> 00:30:05,630
+Sleep over.
+
+413
+00:30:05,630 --> 00:30:07,020
+Pardon?
+
+414
+00:30:08,380 --> 00:30:09,900
+You worked hard today.
+
+415
+00:30:09,900 --> 00:30:11,980
+Drink with us and sleep over.
+
+416
+00:30:11,980 --> 00:30:13,770
+We'll have breakfast tomorrow, too.
+
+417
+00:30:13,770 --> 00:30:16,700
+I'll make breakfast.
+
+418
+00:30:16,700 --> 00:30:19,210
+- Would that be okay?
+- Of course.
+
+419
+00:30:19,210 --> 00:30:20,500
+Let's share my room.
+
+420
+00:30:20,500 --> 00:30:22,180
+Your room is messy.
+
+421
+00:30:22,180 --> 00:30:23,860
+An important guest can't sleep there.
+
+422
+00:30:23,860 --> 00:30:25,880
+Sleep with me in the main bedroom.
+
+423
+00:30:25,880 --> 00:30:28,400
+You'll snore up a storm.
+
+424
+00:30:28,400 --> 00:30:30,750
+He can't sleep. You'll sleep in my room, right?
+
+425
+00:30:30,750 --> 00:30:32,740
+You both want me. This is tricky.
+
+426
+00:30:32,740 --> 00:30:34,860
+I only have one body.
+
+427
+00:30:35,750 --> 00:30:37,310
+Just sleep in my room.
+
+428
+00:30:37,310 --> 00:30:39,010
+- Are you crazy?
+- Are you crazy?
+
+429
+00:30:39,010 --> 00:30:40,730
+What are you thinking?
+
+430
+00:30:40,730 --> 00:30:43,190
+I can sleep in the living room.
+
+431
+00:30:44,240 --> 00:30:46,450
+Oh, okay.
+
+432
+00:31:34,110 --> 00:31:36,310
+Goodnight.
+
+433
+00:32:31,110 --> 00:32:32,430
+Are you sleeping?
+
+434
+00:32:32,430 --> 00:32:35,470
+Can I see you briefly if you aren't?
+
+435
+00:32:42,760 --> 00:32:44,250
+What is it?
+
+436
+00:32:54,430 --> 00:32:56,730
+I bought this for you,
+
+437
+00:32:56,730 --> 00:32:59,300
+but I realized I only got one.
+
+438
+00:32:59,300 --> 00:33:00,470
+Dad or Su Bin
+
+439
+00:33:00,470 --> 00:33:02,100
+would drink it if I put it in the fridge.
+
+440
+00:33:02,100 --> 00:33:04,050
+I thought you were a filial daughter.
+
+441
+00:33:04,050 --> 00:33:06,190
+You only care about me.
+
+442
+00:33:07,190 --> 00:33:11,040
+Thank you. I was craving something sweet.
+
+443
+00:33:11,040 --> 00:33:13,730
+Are you okay after drinking?
+
+444
+00:33:13,730 --> 00:33:14,950
+I'm fine.
+
+445
+00:33:14,950 --> 00:33:19,180
+You're the only one who could kill me.
+
+446
+00:33:22,360 --> 00:33:24,180
+Anyway, what did you do today?
+
+447
+00:33:24,180 --> 00:33:26,000
+I told you to read comic books and rest.
+
+448
+00:33:26,000 --> 00:33:29,600
+I had tteokbokki with your brother and helped Father.
+
+449
+00:33:30,990 --> 00:33:32,440
+You know what?
+
+450
+00:33:32,440 --> 00:33:35,210
+I'm a man who knows how to change doorknobs.
+
+451
+00:33:36,130 --> 00:33:38,910
+Daebak. You did that?
+
+452
+00:33:38,910 --> 00:33:42,150
+You're a good cook, too. You're good at everything.
+
+453
+00:33:42,150 --> 00:33:44,280
+I know.
+
+454
+00:33:44,280 --> 00:33:46,510
+I know how to do something.
+
+455
+00:33:47,920 --> 00:33:49,980
+Good work.
+
+456
+00:33:51,320 --> 00:33:54,300
+Was everything okay with you?
+
+457
+00:33:54,300 --> 00:33:57,890
+Yes, of course, everything was fine.
+
+458
+00:33:57,890 --> 00:33:59,890
+That's good to hear.
+
+459
+00:33:59,890 --> 00:34:01,500
+Read comic books since you're here.
+
+460
+00:34:01,500 --> 00:34:04,010
+Should I? Let's read together.
+
+461
+00:34:04,010 --> 00:34:05,410
+I'll recommend you one.
+
+462
+00:34:05,410 --> 00:34:06,950
+Sounds good.
+
+463
+00:34:10,250 --> 00:34:11,340
+This is it.
+
+464
+00:34:11,340 --> 00:34:16,700
+I read it when I feel combative.
+
+465
+00:34:16,700 --> 00:34:18,980
+- Did you get that autograph?
+- Yes, right.
+
+466
+00:34:18,980 --> 00:34:24,000
+You can say this is one of my proud achievements.
+
+467
+00:34:28,240 --> 00:34:30,230
+This is what happened...
+
+468
+00:34:31,450 --> 00:34:34,140
+Look where I marked it.
+
+469
+00:34:43,620 --> 00:34:46,500
+You don't have to see me off.
+
+470
+00:34:46,500 --> 00:34:49,500
+I wish I could drive you to work.
+
+471
+00:34:49,500 --> 00:34:52,570
+But the breakfast with family is more important.
+
+472
+00:34:53,600 --> 00:34:55,700
+Did you sleep comfortably?
+
+473
+00:34:55,700 --> 00:34:57,300
+You should've slept comfortably at home.
+
+474
+00:34:57,300 --> 00:34:59,850
+Dad and Su Bin took it too far.
+
+475
+00:34:59,850 --> 00:35:01,150
+I felt comfortable.
+
+476
+00:35:01,150 --> 00:35:02,920
+More than I do at home.
+
+477
+00:35:04,530 --> 00:35:06,860
+That's a relief, then.
+
+478
+00:35:06,860 --> 00:35:10,740
+I'm glad you're a loved daughter and sister.
+
+479
+00:35:10,740 --> 00:35:13,230
+I can be loved because of that, too.
+
+480
+00:35:13,230 --> 00:35:14,940
+Like family.
+
+481
+00:35:17,890 --> 00:35:19,010
+Go inside now.
+
+482
+00:35:19,010 --> 00:35:21,220
+You'll be late for breakfast.
+
+483
+00:35:24,570 --> 00:35:26,210
+I'll go.
+
+484
+00:35:28,940 --> 00:35:30,690
+Su Jeong.
+
+485
+00:35:36,340 --> 00:35:38,660
+I made up my mind yesterday.
+
+486
+00:35:39,360 --> 00:35:43,660
+I won't make you cry for the third time.
+
+487
+00:35:52,390 --> 00:35:54,890
+So, get back safely.
+
+488
+00:35:54,890 --> 00:35:57,940
+Don't fall or get hurt.
+
+489
+00:35:57,940 --> 00:36:00,320
+Don't worry about me, either.
+
+490
+00:36:26,020 --> 00:36:27,950
+[Personnel Appointment Notice]
+
+491
+00:36:37,200 --> 00:36:39,180
+[Baek Su Jeong - Removal or Transfer from Position]
+
+492
+00:36:42,790 --> 00:36:44,840
+What's this, Team Leader?
+
+493
+00:36:44,840 --> 00:36:46,260
+Why would you...
+
+494
+00:36:46,260 --> 00:36:48,040
+This makes no sense.
+
+495
+00:36:48,040 --> 00:36:50,890
+They can't do this over a false rumor.
+
+496
+00:36:51,550 --> 00:36:55,220
+The rumor is true.
+
+497
+00:36:55,220 --> 00:36:56,330
+Pardon?
+
+498
+00:36:56,330 --> 00:36:58,110
+You said it wasn't then.
+
+499
+00:36:58,110 --> 00:37:00,170
+With Director?
+
+500
+00:37:00,170 --> 00:37:03,330
+I'm sorry. It wasn't true then.
+
+501
+00:37:03,330 --> 00:37:05,950
+But we are dating now.
+
+502
+00:37:07,800 --> 00:37:09,320
+Okay.
+
+503
+00:37:09,320 --> 00:37:11,070
+Okay, but still-
+
+504
+00:37:11,070 --> 00:37:13,310
+Yes, it's unjust.
+
+505
+00:37:13,310 --> 00:37:16,720
+Team Leader, you won't just let this slide.
+
+506
+00:37:16,720 --> 00:37:18,230
+Right?
+
+507
+00:37:24,460 --> 00:37:28,440
+I'm sorry this happened while we're busy.
+
+508
+00:37:36,070 --> 00:37:37,890
+Team Leader.
+
+509
+00:37:43,670 --> 00:37:45,450
+Why did she send her
+
+510
+00:37:45,450 --> 00:37:47,330
+grandson's rumored girlfriend here?
+
+511
+00:37:47,330 --> 00:37:49,270
+She probably has no skills.
+
+512
+00:37:49,270 --> 00:37:50,810
+That's why she sent her here.
+
+513
+00:37:50,810 --> 00:37:54,130
+So, she'd do nothing, give up on her own, and leave.
+
+514
+00:37:54,130 --> 00:37:55,810
+Excuse me.
+
+515
+00:37:57,360 --> 00:37:59,720
+I won't get in your way.
+
+516
+00:37:59,720 --> 00:38:01,840
+If you have any task that's a hassle for you,
+
+517
+00:38:01,840 --> 00:38:03,990
+just give it to me.
+
+518
+00:38:03,990 --> 00:38:06,870
+I'm sure there are things I can do.
+
+519
+00:38:12,300 --> 00:38:15,040
+W-What? Huh?
+
+520
+00:38:15,040 --> 00:38:19,060
+Something must be broken. It won't shut off.
+
+521
+00:38:19,060 --> 00:38:21,230
+What? An hour?
+
+522
+00:38:21,230 --> 00:38:22,570
+H-Hey...
+
+523
+00:38:23,570 --> 00:38:25,310
+Let me give it a try.
+
+524
+00:38:26,040 --> 00:38:28,580
+This isn't something anyone can fix.
+
+525
+00:38:28,580 --> 00:38:30,870
+I have electrician and fire inspection certificates.
+
+526
+00:38:30,870 --> 00:38:32,500
+You don't mind, right?
+
+527
+00:38:56,720 --> 00:38:58,210
+It worked.
+
+528
+00:39:04,110 --> 00:39:06,130
+What else can I do?
+
+529
+00:39:11,180 --> 00:39:12,890
+Just one moment.
+
+530
+00:39:16,460 --> 00:39:19,520
+Why are you all standing here...
+
+531
+00:39:31,500 --> 00:39:33,830
+What are you doing?
+
+532
+00:39:33,830 --> 00:39:36,340
+I thought you didn't tolerate stuff like this.
+
+533
+00:39:36,340 --> 00:39:38,790
+How about you? Why are you angry?
+
+534
+00:39:38,790 --> 00:39:40,060
+I thought you'd be happy to
+
+535
+00:39:40,060 --> 00:39:42,710
+not see the annoying junior in meetings.
+
+536
+00:39:42,710 --> 00:39:45,140
+The reason I don't like you is because
+
+537
+00:39:45,140 --> 00:39:47,400
+you don't tolerate anything.
+
+538
+00:39:47,400 --> 00:39:49,300
+I've walked around eggshells and
+
+539
+00:39:49,300 --> 00:39:52,400
+gave up on self-respect to come this far.
+
+540
+00:39:52,400 --> 00:39:54,410
+But you never tolerate anything.
+
+541
+00:39:54,410 --> 00:39:55,670
+You say everything you want to say
+
+542
+00:39:55,670 --> 00:39:58,450
+and protect your sense of pride.
+
+543
+00:39:58,450 --> 00:40:00,310
+You think you're so superior.
+
+544
+00:40:00,310 --> 00:40:03,180
+I really hated that, but...
+
+545
+00:40:04,950 --> 00:40:07,130
+But seeing you tolerate this-
+
+546
+00:40:07,130 --> 00:40:08,950
+You hate this, too?
+
+547
+00:40:08,950 --> 00:40:10,550
+Yes.
+
+548
+00:40:10,550 --> 00:40:12,340
+I hate it.
+
+549
+00:40:12,340 --> 00:40:14,200
+Baek Su Jeong,
+
+550
+00:40:14,200 --> 00:40:16,810
+- why don't you just-
+- Sunbae,
+
+551
+00:40:16,810 --> 00:40:19,510
+I haven't tolerated things all this time...
+
+552
+00:40:19,510 --> 00:40:22,010
+to protect myself.
+
+553
+00:40:22,010 --> 00:40:24,660
+But to protect someone else,
+
+554
+00:40:24,660 --> 00:40:26,940
+I do have to tolerate some things.
+
+555
+00:40:28,170 --> 00:40:30,090
+I'll get going now.
+
+556
+00:41:04,910 --> 00:41:06,920
+- Hello.
+- Hello.
+
+557
+00:41:12,340 --> 00:41:13,770
+Please drink this.
+
+558
+00:41:13,770 --> 00:41:15,780
+- Thank you.
+- Thank you.
+
+559
+00:41:15,780 --> 00:41:17,810
+Thank you.
+
+560
+00:41:17,810 --> 00:41:20,130
+That's the new director.
+
+561
+00:41:20,130 --> 00:41:23,570
+Do you think this is it for Director Ban?
+
+562
+00:41:26,200 --> 00:41:28,590
+Yongsung Department Store's strategy team director,
+
+563
+00:41:28,590 --> 00:41:31,140
+Ban Ju Yeon was dismissed
+
+564
+00:41:31,140 --> 00:41:33,780
+and Yongsung Trading's Park Ji Cheol
+
+565
+00:41:33,780 --> 00:41:35,720
+was hired for the position.
+
+566
+00:41:35,720 --> 00:41:37,840
+This appointment strongly
+
+567
+00:41:37,840 --> 00:41:39,790
+reflected Chairwoman Jung Hyo Sun's
+
+568
+00:41:39,790 --> 00:41:43,520
+will, according to the source.
+
+569
+00:41:48,740 --> 00:41:49,780
+[Director Ban Ju Yeon]
+
+570
+00:42:02,020 --> 00:42:03,970
+[Hana City Business Agreement Ceremony Prep]
+
+571
+00:42:06,620 --> 00:42:07,880
+[Delete]
+
+572
+00:42:07,880 --> 00:42:09,160
+[Move to trash]
+
+573
+00:42:26,070 --> 00:42:27,600
+Are you okay?
+
+574
+00:42:27,600 --> 00:42:29,710
+I heard the news.
+
+575
+00:42:30,800 --> 00:42:32,400
+Of course.
+
+576
+00:42:33,100 --> 00:42:35,180
+Aren't you overdoing it?
+
+577
+00:42:35,990 --> 00:42:37,880
+Does it seem that way?
+
+578
+00:42:39,940 --> 00:42:42,760
+But no one would be okay
+
+579
+00:42:42,760 --> 00:42:44,950
+in this situation.
+
+580
+00:42:45,840 --> 00:42:48,450
+I should try to look happier.
+
+581
+00:42:49,450 --> 00:42:52,330
+I have a favor to ask.
+
+582
+00:42:53,400 --> 00:42:54,810
+Could you keep this...
+
+583
+00:42:54,810 --> 00:42:57,850
+a secret from the Director for now?
+
+584
+00:42:59,150 --> 00:43:01,870
+He'd get upset if he found out.
+
+585
+00:43:01,870 --> 00:43:04,630
+He might tell me to just quit.
+
+586
+00:43:05,380 --> 00:43:07,630
+I think...
+
+587
+00:43:07,630 --> 00:43:10,130
+that'd be better, too.
+
+588
+00:43:10,130 --> 00:43:12,940
+You're capable of working anywhere.
+
+589
+00:43:13,770 --> 00:43:16,280
+I know, but...
+
+590
+00:43:16,280 --> 00:43:20,170
+if I left, everything would be completely over.
+
+591
+00:43:21,520 --> 00:43:24,720
+So, I'll try doing everything I can.
+
+592
+00:43:31,760 --> 00:43:33,720
+[Sulo]
+
+593
+00:43:34,860 --> 00:43:37,840
+Things must feel unsettling at work.
+
+594
+00:43:37,840 --> 00:43:39,540
+How's Su Jeong doing?
+
+595
+00:43:39,540 --> 00:43:41,940
+She sounded cheerful over the phone.
+
+596
+00:43:41,940 --> 00:43:43,410
+All done.
+
+597
+00:43:43,410 --> 00:43:45,200
+She was cheerful in person, too.
+
+598
+00:43:45,200 --> 00:43:47,120
+I know it can't be easy.
+
+599
+00:43:47,120 --> 00:43:50,310
+She's like that when things are difficult.
+
+600
+00:43:51,510 --> 00:43:53,480
+- Welcome.
+- Welcome.
+
+601
+00:43:54,240 --> 00:43:57,360
+- Mom.
+- Hey, Ha Jin. I-
+
+602
+00:43:58,140 --> 00:43:59,960
+Who's this?
+
+603
+00:44:02,760 --> 00:44:04,360
+Hello, I'm Ha Jin's boy-
+
+604
+00:44:04,360 --> 00:44:05,530
+He's a part-timer.
+
+605
+00:44:05,530 --> 00:44:07,920
+Hey, why hire one when you have no customers?
+
+606
+00:44:07,920 --> 00:44:09,700
+That's why I just fired him.
+
+607
+00:44:09,700 --> 00:44:13,400
+I'll deposit the payment for the work you've done.
+
+608
+00:44:15,830 --> 00:44:17,430
+I'm so, so sorry.
+
+609
+00:44:17,430 --> 00:44:18,760
+I'll call you after Mom leaves.
+
+610
+00:44:18,760 --> 00:44:20,290
+Can't I just be your boyfriend?
+
+611
+00:44:20,290 --> 00:44:22,150
+She'd get us married immediately, then.
+
+612
+00:44:22,150 --> 00:44:23,980
+I'm fine with that.
+
+613
+00:44:27,140 --> 00:44:30,370
+Ha Jin, long time no see.
+
+614
+00:44:30,370 --> 00:44:34,460
+He asked me to help persuade you.
+
+615
+00:44:34,460 --> 00:44:36,410
+Crazy bastard.
+
+616
+00:44:37,420 --> 00:44:40,010
+Hey, what's wrong with you?
+
+617
+00:44:40,010 --> 00:44:42,340
+He wants to get back together.
+
+618
+00:44:42,340 --> 00:44:43,960
+H-Ha Jin,
+
+619
+00:44:43,960 --> 00:44:46,150
+Mother wants it so badly, too.
+
+620
+00:44:46,150 --> 00:44:48,130
+Let's try to make things work.
+
+621
+00:44:48,130 --> 00:44:51,160
+I miss the crab stew you make and...
+
+622
+00:44:52,530 --> 00:44:54,170
+It's so hard being alone.
+
+623
+00:44:54,170 --> 00:44:55,860
+Hey,
+
+624
+00:44:55,860 --> 00:44:57,840
+because I didn't want to
+
+625
+00:44:57,840 --> 00:45:00,030
+regret the 20s I spent with you,
+
+626
+00:45:00,030 --> 00:45:02,640
+I got divorced quietly.
+
+627
+00:45:02,640 --> 00:45:05,340
+So, stop talking bullshit
+
+628
+00:45:05,340 --> 00:45:06,450
+and get lost.
+
+629
+00:45:06,450 --> 00:45:08,810
+Seo Ha Jin! Gosh.
+
+630
+00:45:08,810 --> 00:45:10,360
+Why are you so mean?
+
+631
+00:45:10,360 --> 00:45:11,920
+When you got divorced,
+
+632
+00:45:11,920 --> 00:45:14,300
+he gave you money to start this shop, too.
+
+633
+00:45:14,300 --> 00:45:16,940
+You think he did that for me?
+
+634
+00:45:16,940 --> 00:45:18,270
+What?
+
+635
+00:45:19,270 --> 00:45:20,500
+What, then?
+
+636
+00:45:20,500 --> 00:45:22,080
 Ha Jin.
 
+637
+00:45:25,680 --> 00:45:26,570
+What's with you?
+
+638
+00:45:26,570 --> 00:45:29,400
+You can't do this if you have conscience.
+
+639
+00:45:29,400 --> 00:45:31,520
+Especially not in front of Mother.
+
+640
+00:45:34,060 --> 00:45:36,710
+I didn't get divorced for no reason.
+
+641
+00:45:36,710 --> 00:45:38,570
+This bastard cheated on me.
+
+642
+00:45:38,570 --> 00:45:40,740
+With another woman at work.
+
+643
+00:45:41,810 --> 00:45:44,210
+What? Hey...
+
+644
+00:45:45,520 --> 00:45:47,070
+Is that true-
+
+645
+00:45:47,070 --> 00:45:49,670
+M-Mother, well...
+
+646
+00:45:50,440 --> 00:45:52,560
+It was a mistake.
+
+647
+00:45:52,560 --> 00:45:53,770
+- Mistake.
+- Mistake?
+
+648
+00:45:53,770 --> 00:45:57,460
+- M-Mother, I-I'm sorry.
+- Mistake?
+
+649
+00:45:57,460 --> 00:45:58,680
+- Mother!
+- Mom.
+
+650
+00:45:58,680 --> 00:46:00,820
+- Mother.
+- Mom.
+
+651
+00:46:09,990 --> 00:46:13,440
+Gosh, I made him see all sorts of things.
+
+652
+00:46:20,780 --> 00:46:22,810
+Seo Ha Jin.
+
+653
+00:46:22,810 --> 00:46:24,970
+Mom, are you awake?
+
+654
+00:46:25,990 --> 00:46:27,650
+Are you awake, Honey?
+
+655
+00:46:27,650 --> 00:46:29,260
+Gosh.
+
+656
+00:46:29,260 --> 00:46:31,040
+Hey,
+
+657
+00:46:31,040 --> 00:46:34,880
+why didn't you tell me? Huh?
+
+658
+00:46:35,990 --> 00:46:38,120
+I had no idea.
+
+659
+00:46:38,120 --> 00:46:41,650
+I blamed my precious daughter instead.
+
+660
+00:46:45,060 --> 00:46:46,850
+It must've hurt.
+
+661
+00:46:48,000 --> 00:46:49,850
+It didn't hurt at all.
+
+662
+00:46:49,850 --> 00:46:52,310
+Your fists are soft now.
+
+663
+00:46:53,030 --> 00:46:54,210
+Aigoo...
+
+664
+00:46:54,210 --> 00:46:56,910
+Gosh, poor me.
+
+665
+00:46:56,910 --> 00:46:59,700
+Why should our daughter be treated...
+
+666
+00:47:03,470 --> 00:47:06,450
+I didn't tell you because I knew you'd be upset.
+
+667
+00:47:07,780 --> 00:47:09,920
+You think I wasn't upset when I blamed you?
+
+668
+00:47:09,920 --> 00:47:11,200
+Dad, Dad!
+
+669
+00:47:11,200 --> 00:47:14,120
+Honey, calm down. Come on...
+
+670
+00:47:14,120 --> 00:47:16,770
+Good thing we finally found out.
+
+671
+00:47:17,400 --> 00:47:18,660
+Aigoo...
+
+672
+00:47:18,660 --> 00:47:21,550
+Putting him in the fridge to make cold sashimi out of him
+
+673
+00:47:21,550 --> 00:47:24,470
+wouldn't be good enough.
+
+674
+00:47:27,750 --> 00:47:30,230
+If he comes back again,
+
+675
+00:47:30,230 --> 00:47:33,330
+call me first thing. Got it?
+
+676
+00:47:33,330 --> 00:47:36,200
+- Okay.
+- Do you understand?
+
+677
+00:47:37,260 --> 00:47:40,490
+Yes, I will.
+
+678
+00:47:40,490 --> 00:47:42,040
+Hey.
+
+679
+00:47:42,040 --> 00:47:44,200
+By the way, that man earlier...
+
+680
+00:47:44,200 --> 00:47:46,940
+that part-timer...
+
+681
+00:47:46,940 --> 00:47:48,720
+Is he a boyfriend?
+
+682
+00:47:51,130 --> 00:47:53,180
+Did you have a boyfriend?
+
+683
+00:47:56,310 --> 00:47:57,910
+Yes.
+
+684
+00:47:58,910 --> 00:48:00,520
+How old is he?
+
+685
+00:48:00,520 --> 00:48:03,020
+Is he a divorcee? Or just single?
+
+686
+00:48:03,020 --> 00:48:05,060
+Does he want to get married?
+
+687
+00:48:05,060 --> 00:48:06,280
+Gosh, Mom.
+
+688
+00:48:06,280 --> 00:48:07,910
+I mean...
+
+689
+00:48:07,910 --> 00:48:11,250
+I noticed he was very handsome.
+
+690
+00:48:11,250 --> 00:48:13,890
+Gosh, stop. I'm happy with the way it is now.
+
+691
+00:48:13,890 --> 00:48:16,080
+You're fine now. Let's go.
+
+692
+00:48:22,990 --> 00:48:26,110
+It doesn't seem Ms. Baek is willing to leave quietly.
+
+693
+00:48:26,110 --> 00:48:28,070
+Since people notice her here and there,
+
+694
+00:48:28,070 --> 00:48:30,870
+there are more talks internally.
+
+695
+00:48:32,940 --> 00:48:34,910
+What should I do?
+
+696
+00:48:45,400 --> 00:48:46,550
+Yes.
+
+697
+00:48:46,550 --> 00:48:47,810
+Did you call?
+
+698
+00:48:47,810 --> 00:48:49,140
+Did I?
+
+699
+00:48:49,860 --> 00:48:52,960
+Oh, I must've pressed it while changing.
+
+700
+00:48:52,960 --> 00:48:54,700
+Why did you change?
+
+701
+00:48:55,910 --> 00:48:58,760
+Well, I spilled water on me.
+
+702
+00:48:58,760 --> 00:49:00,360
+Did you have lunch?
+
+703
+00:49:00,360 --> 00:49:01,720
+I haven't yet.
+
+704
+00:49:01,720 --> 00:49:03,320
+Go ahead and eat.
+
+705
+00:49:03,320 --> 00:49:05,870
+You know you have to eat well at times like this.
+
+706
+00:49:05,870 --> 00:49:07,500
+You don't have much food at home.
+
+707
+00:49:07,500 --> 00:49:10,190
+Should we get groceries after work?
+
+708
+00:49:13,750 --> 00:49:15,800
+Su Jeong,
+
+709
+00:49:15,800 --> 00:49:17,340
+what's wrong?
+
+710
+00:49:17,340 --> 00:49:20,910
+I need to do something. I'll call you back.
+
+711
+00:49:40,390 --> 00:49:42,630
+You wanted to see me, Chairwoman.
+
+712
+00:49:49,540 --> 00:49:52,020
+Why are you...
+
+713
+00:49:52,020 --> 00:49:53,930
+fighting to stay?
+
+714
+00:49:53,930 --> 00:49:56,940
+Can't you tell I want you to leave quietly?
+
+715
+00:49:57,640 --> 00:50:01,450
+It's because the Director might come back.
+
+716
+00:50:03,690 --> 00:50:05,560
+I see.
+
+717
+00:50:05,560 --> 00:50:08,100
+It was because you were dumb.
+
+718
+00:50:08,100 --> 00:50:12,940
+I get you want him to become the successor again,
+
+719
+00:50:12,940 --> 00:50:15,750
+but I have no interest in bringing back
+
+720
+00:50:15,750 --> 00:50:18,320
+someone so unqualified.
+
+721
+00:50:18,320 --> 00:50:20,850
+That position will be vacant forever, then.
+
 722
-00:55:02,230 --> 00:55:07,130
-You just drew a line between us, didn't you?
+00:50:20,850 --> 00:50:23,030
+If the Director isn't qualified,
 
 723
-00:55:09,640 --> 00:55:11,450
-Or...
+00:50:23,030 --> 00:50:25,900
+who would fill that position?
 
 724
-00:55:12,150 --> 00:55:14,059
-Only...
+00:50:27,990 --> 00:50:29,900
+How can you be so confident?
 
 725
-00:55:14,060 --> 00:55:16,330
-Can I ignore that line?
+00:50:29,900 --> 00:50:32,010
+Because you are...
 
 726
-00:55:17,190 --> 00:55:18,820
-Ben...
+00:50:32,730 --> 00:50:35,220
+his only family.
 
 727
-00:55:19,710 --> 00:55:22,249
-I have so much fun when I'm with you.
+00:50:36,100 --> 00:50:38,340
+He worked hard to be acknowledged
 
 728
-00:55:22,250 --> 00:55:25,170
-It excites me and makes me feel at home.
+00:50:38,340 --> 00:50:40,810
+and be loved by his only family.
 
 729
-00:55:25,780 --> 00:55:29,460
-That's why I want to share boring, painful, and sad things with you.
+00:50:40,810 --> 00:50:44,300
+You think anyone else would work that hard?
 
 730
-00:55:30,140 --> 00:55:32,460
-I want it so much...
+00:50:44,300 --> 00:50:46,920
+- What?
+- You don't know...
 
 731
-00:55:33,330 --> 00:55:37,570
-To become deeply involved in his life—but I'm saying I don't want that.
+00:50:47,620 --> 00:50:50,260
+how you feel, either.
 
 732
-00:55:40,510 --> 00:55:42,960
-Don't you understand what I'm saying?
+00:50:50,260 --> 00:50:54,010
+After blaming your misfortunes on your grandson,
 
 733
-00:55:43,870 --> 00:55:45,179
-I understand.
+00:50:54,010 --> 00:50:55,970
+does that make you feel at ease?
 
 734
-00:55:45,180 --> 00:55:49,990
-I know why you dislike it and why you're afraid, but—you don't understand.
+00:50:57,840 --> 00:51:00,200
+And what I'm hoping to get back
 
 735
-00:55:51,460 --> 00:55:53,890
-Then we can't do that.
+00:51:00,200 --> 00:51:02,960
+isn't the successor position.
 
 736
-00:56:17,650 --> 00:56:18,929
-Where are you going?
+00:51:02,960 --> 00:51:05,360
+It's the Director's family.
 
 737
-00:56:18,930 --> 00:56:20,869
-There is a signing ceremony today.
+00:51:35,020 --> 00:51:37,140
+Hey, Ju Yeon. Is everything okay?
 
 738
-00:56:20,870 --> 00:56:22,869
-The ceremony took place as part of the renovation project.
+00:51:37,140 --> 00:51:38,430
+Hyung,
 
 739
-00:56:22,870 --> 00:56:25,629
-Hana City is generously supporting this, isn't it?
+00:51:38,430 --> 00:51:40,610
+be honest with me.
 
 740
-00:56:25,630 --> 00:56:26,719
-Yes.
+00:51:43,160 --> 00:51:45,310
+It's too much...
 
 741
-00:56:26,720 --> 00:56:30,460
-The Team Leader and Director had completed all the preparations.
+00:51:49,800 --> 00:51:51,620
+Please have some of this.
 
 742
-00:56:32,910 --> 00:56:35,399
-[Yongsung]
+00:51:51,620 --> 00:51:53,140
+What is it?
 
 743
-00:56:35,400 --> 00:56:37,889
-[Business Agreement for Global Tourism]
+00:51:59,220 --> 00:52:00,350
+What do you think?
 
 744
-00:56:37,890 --> 00:56:38,989
-Hello.
+00:52:00,350 --> 00:52:02,820
+Doesn't it wake you up?
 
 745
-00:56:38,990 --> 00:56:41,560
-Nice to see you.
+00:52:09,900 --> 00:52:11,640
+We're done for the day after moving these, right?
 
 746
-00:56:42,570 --> 00:56:44,530
-- Sit down. - Okay.
-
-747
-00:56:46,300 --> 00:56:50,160
-Madam President, you need to step outside for a moment.
-
-748
-00:56:58,300 --> 00:57:01,895
-Between Hana City and Yongsung Store...
-
-749
-00:57:01,907 --> 00:57:06,029
-...we will launch a business agreement for global tourism.
-
-750
-00:57:06,030 --> 00:57:10,450
-Please greet the Mayor of Hana City, Oh Hyeok Su.
-
-751
-00:57:18,030 --> 00:57:20,309
-Next...
-
-752
-00:57:20,310 --> 00:57:22,420
-I am really sad.
-
-753
-00:57:23,650 --> 00:57:26,550
-What? What are they doing?
-
-754
-00:57:28,560 --> 00:57:30,540
-One minute.
-
-755
-00:58:13,300 --> 00:58:16,780
-My name is Ban Ju Yeon.
-
-756
-00:58:17,440 --> 00:58:18,609
+00:52:11,640 --> 00:52:13,060
 Yes.
 
+747
+00:52:13,060 --> 00:52:16,220
+It's nice to have a young person around.
+
+748
+00:52:16,220 --> 00:52:18,460
+She cheers us up like this.
+
+749
+00:52:46,200 --> 00:52:47,910
+What are you doing?
+
+750
+00:52:47,910 --> 00:52:49,830
+You should've told me.
+
+751
+00:52:49,830 --> 00:52:52,680
+Or you should've quit immediately. Why...
+
+752
+00:52:52,680 --> 00:52:54,510
+are you doing this?
+
+753
+00:52:55,370 --> 00:52:57,200
+Why are you enduring this for me?
+
+754
+00:52:57,200 --> 00:52:58,710
+Because I knew you'd be like this.
+
+755
+00:52:58,710 --> 00:53:02,230
+Because you'd blame yourself and be upset.
+
+756
+00:53:02,230 --> 00:53:03,380
+That's why I couldn't tell you.
+
 757
-00:58:18,610 --> 00:58:23,830
-This is Ban Ju Yeon, the Director of the Strategy Team at Yongsung Store.
+00:53:03,380 --> 00:53:04,790
+It's true.
 
 758
-00:58:46,730 --> 00:58:50,799
-[My Dearest Enemy]
+00:53:04,790 --> 00:53:08,500
+You wouldn't be victimized if it wasn't for me.
 
 759
-00:58:50,800 --> 00:58:53,500
-[Thank you to Shin Hyun Soo for his special participation]
+00:53:08,500 --> 00:53:10,530
+Why are you tolerating it?
 
 760
-00:59:17,730 --> 00:59:19,979
-Your plan is to fire Team Leader Baek Su Jeong.
+00:53:11,360 --> 00:53:13,760
+Just because of a word from the Chairwoman,
 
 761
-00:59:19,980 --> 00:59:21,249
-Please withdraw.
+00:53:13,760 --> 00:53:16,660
+should I let my time and effort devoted here
 
 762
-00:59:21,250 --> 00:59:24,059
-Team Leader! I missed you so much.
+00:53:16,660 --> 00:53:19,580
+be forgotten and leave?
 
 763
-00:59:24,060 --> 00:59:25,899
-But with one condition.
+00:53:19,580 --> 00:53:22,060
+I made this decision for me.
 
 764
-00:59:25,900 --> 00:59:28,809
-The renovation project must be successful.
+00:53:22,060 --> 00:53:24,630
+For myself because I love you.
 
 765
-00:59:28,810 --> 00:59:31,049
-Don't try to be responsible for everything.
+00:53:25,640 --> 00:53:29,240
+Because I had to stay here for what comes next.
 
 766
-00:59:31,050 --> 00:59:34,019
-We agreed to lean on each other so as not to be alone.
+00:53:30,200 --> 00:53:33,800
+So, please respect my decision.
 
 767
-00:59:34,020 --> 00:59:36,899
-They are canceling the refresh performance.
+00:53:37,110 --> 00:53:39,310
+I'll make a decision, too, then.
 
 768
-00:59:36,900 --> 00:59:38,599
-The opening is just around the corner.
+00:53:41,530 --> 00:53:43,600
+For you, Su Jeong.
 
 769
-00:59:38,600 --> 00:59:41,929
-If you fail, you will lose everything.
+00:53:49,080 --> 00:53:50,640
+Thank you.
 
 770
-00:59:41,930 --> 00:59:43,519
-Mine.
+00:53:50,640 --> 00:53:52,790
+You didn't have to drive me.
 
 771
-00:59:43,520 --> 00:59:45,380
+00:53:52,790 --> 00:53:53,990
+Aren't you tired?
+
+772
+00:53:53,990 --> 00:53:55,690
+Not at all.
+
+773
+00:53:55,690 --> 00:53:59,550
+I must've been working out so much to do this.
+
+774
+00:53:59,550 --> 00:54:03,510
+And these would've been hard to carry alone.
+
+775
+00:54:03,510 --> 00:54:05,630
+That's why I had to drive you today.
+
+776
+00:54:05,630 --> 00:54:07,570
+What are all these?
+
+777
+00:54:07,570 --> 00:54:09,030
+Are they for me?
+
+778
+00:54:09,030 --> 00:54:13,280
+I'm sorry, but they aren't for you.
+
+779
+00:54:14,300 --> 00:54:16,160
+They're for your mother.
+
+780
+00:54:16,850 --> 00:54:18,610
+And how about you
+
+781
+00:54:18,610 --> 00:54:21,030
+install a CCTV at the shop?
+
+782
+00:54:21,030 --> 00:54:24,500
+Your ex-husband didn't look so nice.
+
+783
+00:54:24,500 --> 00:54:27,000
+You never know when he'd be back.
+
+784
+00:54:29,270 --> 00:54:31,130
+Sin Won,
+
+785
+00:54:33,040 --> 00:54:36,270
+I couldn't help it then, but
+
+786
+00:54:36,270 --> 00:54:39,480
+it makes me uncomfortable that you worry
+
+787
+00:54:39,480 --> 00:54:41,290
+about me this much.
+
+788
+00:54:41,290 --> 00:54:45,270
+Not to mention my ex-husband and family.
+
+789
+00:54:46,550 --> 00:54:49,880
+As for the gifts, I appreciate the gesture.
+
+790
+00:54:53,040 --> 00:54:55,320
+Drive home safely.
+
+791
+00:55:11,930 --> 00:55:13,570
+Ha Jin.
+
+792
+00:55:16,230 --> 00:55:18,540
+You drew a line
+
+793
+00:55:18,540 --> 00:55:20,930
+between us just now, right?
+
+794
+00:55:23,640 --> 00:55:25,250
+But...
+
+795
+00:55:26,150 --> 00:55:28,060
+can I just...
+
+796
+00:55:28,060 --> 00:55:30,230
+ignore that line?
+
+797
+00:55:31,090 --> 00:55:32,620
+I...
+
+798
+00:55:33,710 --> 00:55:36,250
+have so much fun when I'm with you.
+
+799
+00:55:36,250 --> 00:55:38,870
+It excites me, and I feel at home.
+
+800
+00:55:39,680 --> 00:55:41,360
+So, I want to share boring, painful,
+
+801
+00:55:41,360 --> 00:55:43,260
+and sad things with you.
+
+802
+00:55:44,040 --> 00:55:46,260
+That's how much I want to
+
+803
+00:55:47,330 --> 00:55:48,950
+get deeply involved in your life-
+
+804
+00:55:48,950 --> 00:55:51,270
+But I'm saying I don't want that.
+
+805
+00:55:54,510 --> 00:55:56,760
+Don't you understand what I'm saying?
+
+806
+00:55:57,870 --> 00:55:59,180
+I do.
+
+807
+00:55:59,180 --> 00:56:01,820
+I know what you dislike and fear, but-
+
+808
+00:56:01,820 --> 00:56:03,790
+You didn't get it.
+
+809
+00:56:05,460 --> 00:56:07,590
+Then, we can't do this.
+
+810
+00:56:31,650 --> 00:56:32,930
+Where are you guys going?
+
+811
+00:56:32,930 --> 00:56:34,870
+There's an agreement ceremony today.
+
+812
+00:56:34,870 --> 00:56:36,870
+The one that's happening with the renewal project.
+
+813
+00:56:36,870 --> 00:56:39,630
+Hana City is supporting it generously, right?
+
+814
+00:56:39,630 --> 00:56:40,720
+Yes.
+
+815
+00:56:40,720 --> 00:56:44,160
+Team Leader and Director did all the prep for it.
+
+816
+00:56:49,400 --> 00:56:51,190
+[Business Agreement for Global Tourism]
+
+817
+00:56:51,780 --> 00:56:52,890
+Hello.
+
+818
+00:56:52,890 --> 00:56:55,360
+Good to see you.
+
+819
+00:56:56,570 --> 00:56:58,430
+- Have a seat.
+- Okay.
+
+820
+00:57:00,300 --> 00:57:03,960
+Chairwoman, you should step out for a moment.
+
+821
+00:57:12,300 --> 00:57:15,500
+We'll kick off the business agreement between
+
+822
+00:57:15,500 --> 00:57:17,600
+Hana City and Yongsung Department Store
+
+823
+00:57:17,600 --> 00:57:20,030
+for global tourism.
+
+824
+00:57:20,030 --> 00:57:24,250
+Please welcome Hana City's Mayor, Oh Hyeok Su.
+
+825
+00:57:32,030 --> 00:57:34,210
+Next is...
+
+826
+00:57:34,210 --> 00:57:36,220
+I'm so sorry.
+
+827
+00:57:37,650 --> 00:57:40,450
+What? What are they doing?
+
+828
+00:57:42,560 --> 00:57:44,440
+Just one moment.
+
+829
+00:58:27,300 --> 00:58:30,680
+My name is Ban Ju Yeon
+
+830
+00:58:31,440 --> 00:58:32,510
+Yes.
+
+831
+00:58:32,510 --> 00:58:35,040
+This is Yongsung Department Store's strategy team's
+
+832
+00:58:35,040 --> 00:58:37,530
+Director Ban Ju Yeon.
+
+833
+00:59:00,730 --> 00:59:04,700
+[My Dearest Nemesis]
+
+834
+00:59:04,700 --> 00:59:07,300
+[We thank Shin Hyun Soo for the special appearance]
+
+835
+00:59:09,110 --> 00:59:14,510
+♫ The showering stars and the rising moon ♫
+
+836
+00:59:14,510 --> 00:59:17,430
+♫ I whisper in the river ♫
+
+837
+00:59:17,430 --> 00:59:19,810
+♫ Draw me now ♫
+
+838
+00:59:19,810 --> 00:59:22,710
+♫ We glow under the moonlight ♫
+
+839
+00:59:22,710 --> 00:59:25,060
+♫ The moon goes down ♫
+
+840
+00:59:25,060 --> 00:59:28,080
+♫ Even if a dark night comes ♫
+
+841
+00:59:28,080 --> 00:59:31,630
+♫ It'd shine on you by the window ♫
+
+842
+00:59:31,630 --> 00:59:33,980
+Your plan to oust Team Leader Baek Su Jeong.
+
+843
+00:59:33,980 --> 00:59:35,150
+Please withdraw it.
+
+844
+00:59:35,150 --> 00:59:38,060
+Team Leader! I missed you so much.
+
+845
+00:59:38,060 --> 00:59:39,900
+But under one condition.
+
+846
+00:59:39,900 --> 00:59:42,810
+The renewal project must become a success.
+
+847
+00:59:42,810 --> 00:59:45,050
+Don't try to be responsible for everything.
+
+848
+00:59:45,050 --> 00:59:46,850
+We agreed to lean on each other
+
+849
+00:59:46,850 --> 00:59:48,020
+so we aren't lonely.
+
+850
+00:59:48,020 --> 00:59:50,900
+They're canceling the renewal performance.
+
+851
+00:59:50,900 --> 00:59:52,500
+The opening is around the corner.
+
+852
+00:59:52,500 --> 00:59:55,930
+If you fail, you'll lose everything.
+
+853
+00:59:55,930 --> 00:59:57,520
+It's me.
+
+854
+00:59:57,520 --> 00:59:59,180
 Black Dragon.
