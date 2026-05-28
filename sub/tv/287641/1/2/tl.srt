@@ -1,0 +1,2857 @@
+1
+00:01:38,966 --> 00:01:41,588
+[Episode 2]
+
+2
+00:01:45,680 --> 00:01:47,359
+Xing Wu! ako...
+
+3
+00:01:47,359 --> 00:01:48,920
+Anong problema?
+
+4
+00:01:48,920 --> 00:01:51,719
+May mga insekto.
+
+5
+00:01:51,719 --> 00:01:52,799
+Mga insekto?
+
+6
+00:01:52,799 --> 00:01:54,988
+Ang daming malalaking insekto!
+
+7
+00:01:59,720 --> 00:02:01,439
+Nakita mo ba sila?
+
+8
+00:02:01,439 --> 00:02:02,599
+Walang malalaking insekto.
+
+9
+00:02:02,599 --> 00:02:03,760
+Napakarami!
+
+10
+00:02:03,760 --> 00:02:05,439
+Ito ba ang isang ito?
+
+11
+00:02:05,439 --> 00:02:08,619
+Huwag kang pumunta rito! Dumiretso ka!
+
+12
+00:02:10,130 --> 00:02:12,280
+Ano ba ang malaking bagay?
+
+13
+00:02:12,280 --> 00:02:13,599
+Hayaan na lang?
+
+14
+00:02:13,599 --> 00:02:14,960
+Sumisigaw nang napakalakas,
+
+15
+00:02:14,960 --> 00:02:17,280
+Tinakot mo ang lahat ng kaibigan nito.
+
+16
+00:02:17,280 --> 00:02:18,439
+Ayos lang.
+
+17
+00:02:18,439 --> 00:02:20,599
+Masasanay ka rin pagkatapos ng ilang beses.
+
+18
+00:02:20,599 --> 00:02:23,234
+Bilisan mo at maghugas ka.
+
+19
+00:02:42,800 --> 00:02:44,899
+Ang init kaya.
+
+20
+00:02:47,919 --> 00:02:49,120
+Hindi ka ba mainit?
+
+21
+00:02:49,120 --> 00:02:50,520
+May simoy ng dagat sa labas.
+
+22
+00:02:50,520 --> 00:02:52,360
+At may bentilador sa loob.
+
+23
+00:02:52,360 --> 00:02:54,160
+Hindi ako mainit.
+
+24
+00:02:59,800 --> 00:03:01,199
+Mas malamig ang air conditioner.
+
+25
+00:03:01,199 --> 00:03:02,439
+Bakit hindi ka mag-install ng isa?
+
+26
+00:03:02,439 --> 00:03:04,939
+Ang isang kalmadong isipan ay nagpapanatili sa iyo na kalmado.
+
+27
+00:03:06,000 --> 00:03:07,319
+Kung sobrang init mo,
+
+28
+00:03:07,319 --> 00:03:08,455
+kunin mo ang bentilador.
+
+29
+00:03:08,455 --> 00:03:11,280
+Aba,
+hindi naman dapat mahal ang isang segunda-manong air conditioner, 'di ba?
+
+30
+00:03:11,280 --> 00:03:14,000
+Paano kung ganito?
+Hatiin natin ang presyo at bumili ng isa.
+
+31
+00:03:14,000 --> 00:03:16,363
+Sa ganoong paraan, pagkatapos kong umalis, magagamit mo pa rin ito.
+
+32
+00:03:16,363 --> 00:03:18,182
+Panalo lahat.
+
+33
+00:03:21,435 --> 00:03:23,319
+Sa tingin ko magandang ideya iyan.
+
+34
+00:03:23,319 --> 00:03:24,879
+Dahil sa mga kondisyon sa Zhazhating,
+
+35
+00:03:24,879 --> 00:03:26,199
+kung mayaman ka naman talaga,
+
+36
+00:03:26,199 --> 00:03:28,319
+maaari kang magpa-install ng isa sa bawat bahay.
+
+37
+00:03:28,319 --> 00:03:29,680
+Para sa kapakanan ng buong bayan.
+
+38
+00:03:29,680 --> 00:03:31,480
+Kumusta naman 'yan?
+
+39
+00:03:57,240 --> 00:04:00,080
+Matutulog ka na ba?
+
+40
+00:04:00,080 --> 00:04:01,360
+Hindi ka natutulog?
+
+41
+00:04:01,360 --> 00:04:04,439
+Sabi ng nanay mo, hindi ka na raw makakabalik sa pagtulog.
+
+42
+00:04:04,439 --> 00:04:06,759
+Naniniwala ka ba sa lahat ng sinasabi ng nanay ko?
+
+43
+00:04:06,759 --> 00:04:09,120
+Hindi, ang ibig kong sabihin...
+
+44
+00:04:09,120 --> 00:04:12,100
+Plano mo bang matulog dito ngayong gabi?
+
+45
+00:04:29,639 --> 00:04:33,120
+Wala ka naman talagang balak
+matulog dito, 'di ba?
+
+46
+00:04:33,120 --> 00:04:35,300
+Sa tingin ko, tayong dalawa...
+
+47
+00:04:36,360 --> 00:04:38,460
+Kumusta naman tayo?
+
+48
+00:04:39,279 --> 00:04:42,059
+Hindi angkop na magsama tayo sa isang kwarto.
+
+49
+00:04:54,000 --> 00:04:56,220
+Sumasang-ayon ako.
+
+50
+00:05:20,040 --> 00:05:21,319
+Tulog ka ba?
+
+51
+00:05:21,319 --> 00:05:22,439
+Kumusta ang pakiramdam mo?
+
+52
+00:05:22,439 --> 00:05:24,379
+Nag-aayos ka ba nang maayos?
+
+53
+00:05:30,079 --> 00:05:34,179
+Mapunta, mamatay, mapunta sa kahon. Isa itong ganap na sakuna.
+
+54
+00:05:38,160 --> 00:05:41,214
+Parang bumalik ka sa nakaraan nang 20 taon.
+
+55
+00:05:42,800 --> 00:05:45,860
+Pupunta ako sa ibang bansa kapag natapos na ang buwang ito.
+
+56
+00:05:47,560 --> 00:05:50,160
+Siya nga pala, ipinadala mo ba ang pakete?
+
+57
+00:05:50,160 --> 00:05:52,360
+Narito ang tracking number at larawan.
+
+58
+00:05:52,360 --> 00:05:54,399
+Ipinadala ko ito gamit ang express. Bantayan mo ito.
+
+59
+00:05:54,399 --> 00:05:56,904
+Kailangan mo ring mag-record ng video
+para sa aplikasyon mo sa kurso.
+
+60
+00:05:56,904 --> 00:05:57,991
+Huwag mong kalimutan.
+
+61
+00:05:57,991 --> 00:05:59,199
+Kung kailangan mo ng tulong,
+
+62
+00:05:59,199 --> 00:06:01,259
+Nandito lang ako palagi.
+
+63
+00:06:02,120 --> 00:06:03,600
+Sa totoo lang, pagkarating ko rito,
+
+64
+00:06:03,600 --> 00:06:06,179
+Gusto kong bumalik sa Beijing.
+
+65
+00:06:09,035 --> 00:06:12,238
+Pero medyo mahirap para sa iyo
+na bumalik sa Beijing ngayon, 'di ba?
+
+66
+00:06:43,274 --> 00:06:46,579
+Wu, kumusta ang pinsan natin?
+
+67
+00:06:48,639 --> 00:06:49,879
+Isang batang babae mula sa malaking lungsod
+
+68
+00:06:49,879 --> 00:06:52,160
+Iba talaga ang dating.
+
+69
+00:06:52,800 --> 00:06:54,819
+Maghugas ka at matulog ka na.
+
+70
+00:08:06,319 --> 00:08:08,240
+Paparating na!
+
+71
+00:08:08,240 --> 00:08:11,240
+Matamis na puding ng tokwa, lugaw na dawa,
+at atsara.
+
+72
+00:08:11,240 --> 00:08:13,300
+Umupo sa tabi ng bintana.
+
+73
+00:08:14,079 --> 00:08:16,199
+Para sa almusal: tinapay, wonton,
+youtiao at tofu curd.
+
+74
+00:08:16,199 --> 00:08:18,279
+- Napili mo?
+- Isang malaking mangkok ng wonton na may tatlong lasa.
+
+75
+00:08:18,279 --> 00:08:19,959
+- May damong-dagat at pinatuyong hipon.
+- Tita Jin!
+
+76
+00:08:19,959 --> 00:08:21,439
+- Tita Jin!
+- Damong-dagat at pinatuyong hipon.
+
+77
+00:08:21,439 --> 00:08:23,560
+Pinapunta ako ng nanay ko para bumili ng
+dumplings na baboy at repolyo.
+
+78
+00:08:23,560 --> 00:08:25,439
+- Tatlumpu sila.
+- Tatlumpu. Nakuha ko.
+
+79
+00:08:25,439 --> 00:08:27,540
+Sige, susunduin ko sila mamayang tanghali.
+
+80
+00:08:29,710 --> 00:08:31,279
+Hoy, mahal.
+
+81
+00:08:31,279 --> 00:08:33,039
+Uminom ba ng gamot si Hu?
+
+82
+00:08:33,039 --> 00:08:35,787
+Hindi. Sabi niya masyadong mapait daw.
+
+83
+00:08:35,787 --> 00:08:37,120
+Kung gusto mong maging pinakamagaling,
+
+84
+00:08:37,120 --> 00:08:38,639
+kailangan mong tiisin ang pinakamasama.
+
+85
+00:08:38,639 --> 00:08:41,120
+Kung hindi niya ito kayang tiisin,
+paano niya magagamot ang pagkautal niya?
+
+86
+00:08:41,120 --> 00:08:43,960
+Pero sabi nga sa libro,
+lahat ng gamot ay may bahaging lason, di ba?
+
+87
+00:08:43,960 --> 00:08:46,159
+- Hindi kita maaasahan. Ako na ang bahala.
+- Nagbebenta...
+
+88
+00:08:46,159 --> 00:08:48,695
+Nagbebenta ng tokwa!
+
+89
+00:08:49,662 --> 00:08:50,840
+Bagay ka talaga.
+
+90
+00:08:50,840 --> 00:08:53,120
+- Anong meron?
+- Tingnan mo!
+
+91
+00:08:53,120 --> 00:08:54,879
+- Nakasakay ako rito!
+- Gumalaw! Lahat, gumalaw!
+
+92
+00:08:54,879 --> 00:08:57,720
+Bakit ganito... Paano ka nakapasok sa akin?
+
+93
+00:08:57,720 --> 00:08:58,759
+Bilisan mo!
+
+94
+00:08:58,759 --> 00:09:00,519
+Bilisan mo!
+
+95
+00:09:00,519 --> 00:09:03,300
+Magbayad ka na! Magbayad ka na at tapos na tayo.
+
+96
+00:09:03,919 --> 00:09:05,679
+- Hindi ka nga makalakad?
+- Tingnan mo ito!
+
+97
+00:09:05,679 --> 00:09:06,759
+Magbayad na ngayon!
+
+98
+00:09:06,759 --> 00:09:08,399
+Magbayad ka para maayos ito!
+
+99
+00:09:08,399 --> 00:09:12,159
+Magbayad ka! Magbayad ka!
+Hindi ka aalis hangga't hindi ka nagbabayad!
+
+100
+00:09:12,159 --> 00:09:14,519
+Bakit ang ingay-ingay ng ganito kaaga?
+
+101
+00:09:14,519 --> 00:09:18,240
+Ginugulo mo ako.
+Pwede akong tumawag ng pulis, alam mo ba?
+
+102
+00:09:18,240 --> 00:09:19,399
+Siya...
+
+103
+00:09:19,399 --> 00:09:20,759
+Sabi niya tatawagan niya ang pulis.
+
+104
+00:09:20,759 --> 00:09:23,200
+- Sino ang aarestuhin?
+- Ang babaeng ito ay taga-lungsod.
+
+105
+00:09:23,200 --> 00:09:25,279
+Mas mainitin ang ulo niya kaysa sa inyong lahat.
+
+106
+00:09:25,279 --> 00:09:26,279
+Hatiin mo! Magkalat!
+
+107
+00:09:26,279 --> 00:09:28,039
+Hindi pwede 'yan. Hindi na maibebenta ang tokwa na ito ngayon.
+
+108
+00:09:28,039 --> 00:09:30,740
+Bibilhin ko lahat ng tokwa mo.
+
+109
+00:09:53,327 --> 00:09:55,120
+Masakit!
+
+110
+00:09:55,120 --> 00:09:56,879
+Anong problema?
+
+111
+00:09:56,879 --> 00:09:58,979
+Hindi ko nakita.
+
+112
+00:09:59,840 --> 00:10:01,600
+- Anong nangyari?
+- Teka! Huwag!
+
+113
+00:10:01,600 --> 00:10:02,799
+Hindi pa kita nagagalaw.
+
+114
+00:10:02,799 --> 00:10:03,919
+Tulungan mo siyang bumangon. Tulungan mo siyang bumangon.
+
+115
+00:10:03,919 --> 00:10:05,519
+Hindi kita ginalaw, pero umiiyak ka pa rin.
+
+116
+00:10:05,519 --> 00:10:07,960
+Ang paa ko, ang paa ko!
+
+117
+00:10:07,960 --> 00:10:09,840
+Dahan-dahan lang. Dahan-dahan lang!
+
+118
+00:10:09,840 --> 00:10:11,200
+- Nagiging madali lang ako.
+- Masakit.
+
+119
+00:10:11,200 --> 00:10:13,279
+- Kapit ka lang. May iba pa bang lugar?
+- Bumangon ka muna sandali.
+
+120
+00:10:13,279 --> 00:10:14,879
+- Dahan-dahan.
+- Okay.
+
+121
+00:10:14,879 --> 00:10:16,000
+Dahan-dahan lang, dahan-dahan lang.
+
+122
+00:10:16,000 --> 00:10:18,120
+Masakit talaga, masakit talaga.
+
+123
+00:10:18,120 --> 00:10:20,279
+Sige, sige. Dahan-dahan, dahan-dahan.
+
+124
+00:10:20,279 --> 00:10:22,260
+Hindi makayuko.
+
+125
+00:10:25,080 --> 00:10:27,380
+Saan ka nasaktan?
+
+126
+00:10:28,240 --> 00:10:30,120
+Pinapatay ako nito.
+
+127
+00:10:30,120 --> 00:10:32,360
+- Sobrang sakit.
+- Oo.
+
+128
+00:10:32,360 --> 00:10:33,734
+Ang mga mata mo...
+
+129
+00:10:33,734 --> 00:10:35,840
+Kamukha nila ang 2-dot tile.
+
+130
+00:10:35,840 --> 00:10:37,640
+Ako...
+
+131
+00:10:40,200 --> 00:10:41,600
+Ano ba ang problema sa mga mata ko?
+
+132
+00:10:41,600 --> 00:10:43,440
+Paano nangyari ito?
+
+133
+00:10:43,440 --> 00:10:44,759
+Huwag mong hawakan ito gamit ang iyong mga kamay.
+
+134
+00:10:44,759 --> 00:10:46,080
+Ito...
+
+135
+00:10:46,080 --> 00:10:47,600
+- Anong nangyayari?
+- Aba, ang mga mata mo
+
+136
+00:10:47,600 --> 00:10:49,399
+malamang nakagat ng lamok.
+
+137
+00:10:49,399 --> 00:10:51,320
+Mukhang allergic reaction ang bahaging ito.
+
+138
+00:10:51,320 --> 00:10:53,240
+Ano ang dapat kong gawin?
+
+139
+00:10:53,240 --> 00:10:54,759
+Bakit hindi ako makakita nang malinaw ngayon?
+
+140
+00:10:54,759 --> 00:10:55,879
+Dati maayos naman ang nakikita ko.
+
+141
+00:10:55,879 --> 00:10:57,440
+Hindi naman ako magbubulag-bulagan, 'di ba?
+
+142
+00:10:57,440 --> 00:11:00,000
+Manahimik ka na lang. Hindi naman ganoon kalala ang bahay ko.
+Hindi ka mabubulag.
+
+143
+00:11:00,000 --> 00:11:01,080
+Kung gayon, ano ang gagawin natin ngayon?
+
+144
+00:11:01,080 --> 00:11:03,840
+Ayos lang. Dalhin ka na natin sa klinika.
+
+145
+00:11:03,840 --> 00:11:06,200
+Pero... Nasa taas pa rin ang ID ko.
+
+146
+00:11:06,200 --> 00:11:07,879
+- Tigilan mo na ang pagkuskos diyan.
+- Kailangan mo lang magpakita.
+
+147
+00:11:07,879 --> 00:11:08,960
+- Tama.
+- Kung gayon ako...
+
+148
+00:11:08,960 --> 00:11:10,279
+Kailangan ko nang umakyat at magpalit.
+
+149
+00:11:10,279 --> 00:11:12,240
+Hindi ako pwedeng lumabas nang naka-PJ. Nakakahiya talaga.
+
+150
+00:11:12,240 --> 00:11:13,360
+Nasa kalye.
+
+151
+00:11:13,360 --> 00:11:15,399
+- Para saan ang pagbabago? Walang may pakialam dito.
+- Tama.
+
+152
+00:11:15,399 --> 00:11:16,919
+Kung gayon... Paano naman ito, Tita?
+
+153
+00:11:16,919 --> 00:11:18,159
+Kunin mo na ang sunglasses ko.
+
+154
+00:11:18,159 --> 00:11:19,639
+S-Singles...
+
+155
+00:11:19,639 --> 00:11:22,380
+Anong sunglasses? Bulag ka na.
+
+156
+00:11:49,399 --> 00:11:50,519
+Ibaba mo ako!
+
+157
+00:11:50,519 --> 00:11:52,120
+Nakakahiya talaga ito.
+
+158
+00:11:52,120 --> 00:11:54,679
+Takpan mo lang ang mukha mo.
+Para walang makakilala sa'yo.
+
+159
+00:11:54,679 --> 00:11:57,339
+Tulong! Talaga...
+
+160
+00:12:06,519 --> 00:12:07,639
+Ibaba mo ako!
+
+161
+00:12:07,639 --> 00:12:08,759
+Dr. Zhuang!
+
+162
+00:12:08,759 --> 00:12:09,919
+May namamatay!
+
+163
+00:12:09,919 --> 00:12:11,600
+Ikaw ang namamatay.
+
+164
+00:12:11,600 --> 00:12:13,759
+Ayos lang ba talaga itong maliit na klinika na ito?
+
+165
+00:12:13,759 --> 00:12:17,120
+Sa Zhazhating,
+ito ang primera klaseng ospital.
+
+166
+00:12:17,120 --> 00:12:19,279
+Gusto kong pumunta sa isang tunay na primera klaseng ospital.
+
+167
+00:12:19,279 --> 00:12:20,360
+Ayos.
+
+168
+00:12:20,360 --> 00:12:21,759
+Limang minuto papunta sa hintuan ng bus,
+
+169
+00:12:21,759 --> 00:12:22,960
+40 minuto sa bus,
+
+170
+00:12:22,960 --> 00:12:24,320
+pagkatapos ay isa pang dalawampung minutong lakad.
+
+171
+00:12:24,320 --> 00:12:25,440
+Parang 30 o 40 kilometro.
+
+172
+00:12:25,440 --> 00:12:26,519
+Pumunta ka roon mismo.
+
+173
+00:12:26,519 --> 00:12:29,039
+Nagsisinungaling ka.
+
+174
+00:12:29,039 --> 00:12:31,519
+Prinsesa, tumigil ka na sa kaka-drama.
+
+175
+00:12:31,519 --> 00:12:34,099
+Ganito talaga sa Zhazhating.
+
+176
+00:12:39,399 --> 00:12:41,200
+Napakaaga pa naman.
+
+177
+00:12:41,200 --> 00:12:43,120
+Anong problema? Sino ang namamatay?
+
+178
+00:12:43,120 --> 00:12:46,120
+- Siya. Mamamatay na siya.
+- Mamamatay ka na.
+
+179
+00:12:46,120 --> 00:12:48,360
+Kalokohan. Anong problema mo?
+
+180
+00:12:48,360 --> 00:12:50,399
+Pakitingnan naman.
+
+181
+00:12:50,399 --> 00:12:52,759
+Nabubulag siya at nabali ang binti niya.
+
+182
+00:12:52,759 --> 00:12:54,600
+Ito...
+
+183
+00:12:54,600 --> 00:12:56,979
+Mas maraming kalokohan.
+
+184
+00:12:58,399 --> 00:13:00,120
+Sige, tingnan ko.
+
+185
+00:13:00,120 --> 00:13:02,459
+Idilat mo ang iyong mga mata. Hayaan mong makita ko.
+
+186
+00:13:03,120 --> 00:13:05,260
+Buksan mo sila.
+
+187
+00:13:05,960 --> 00:13:07,720
+Sige, buksan mo.
+
+188
+00:13:07,720 --> 00:13:08,960
+Tumingala ka.
+
+189
+00:13:08,960 --> 00:13:11,000
+Tumingin sa ibaba.
+
+190
+00:13:11,000 --> 00:13:13,120
+Tumingin sa kaliwa.
+
+191
+00:13:13,120 --> 00:13:14,200
+Doktor,
+
+192
+00:13:14,200 --> 00:13:15,519
+sapat na ba ang pagtingin lang?
+
+193
+00:13:15,519 --> 00:13:18,120
+Hindi ba dapat ako magpa-blood test, magpa-X-ray,
+
+194
+00:13:18,120 --> 00:13:19,240
+o CT scan o kung ano pa man?
+
+195
+00:13:19,240 --> 00:13:20,519
+Hindi kailangan.
+
+196
+00:13:20,519 --> 00:13:21,960
+Ang kanang mata mo...
+
+197
+00:13:21,960 --> 00:13:23,639
+ay dahil sa pagtulog dito.
+
+198
+00:13:23,639 --> 00:13:26,380
+At kinagat ng lamok ang kaliwang mata mo.
+
+199
+00:13:28,679 --> 00:13:30,740
+Ano ba ang sinabi ko sa iyo?
+
+200
+00:13:31,519 --> 00:13:33,960
+Kung gayon... paano ito dapat tratuhin?
+
+201
+00:13:33,960 --> 00:13:36,960
+Gumamit ka lang ng ilang eye drops at magiging maayos din ang lahat.
+
+202
+00:13:36,960 --> 00:13:39,240
+Walang iniinom na iniksiyon, tabletas, o anti-inflammatory?
+
+203
+00:13:39,240 --> 00:13:40,720
+Bakit mga putok?
+
+204
+00:13:40,720 --> 00:13:41,840
+Bakit mga tableta?
+
+205
+00:13:41,840 --> 00:13:42,960
+Kayong mga kabataan, huwag kayong kumilos.
+
+206
+00:13:42,960 --> 00:13:44,039
+parang pasyente ka.
+
+207
+00:13:44,039 --> 00:13:47,339
+Tandaan, huwag kuskusin ang iyong mga mata sa loob ng ilang araw.
+
+208
+00:13:47,994 --> 00:13:49,519
+Sandali lang, Doktor.
+
+209
+00:13:49,519 --> 00:13:52,320
+Masakit din ang binti ko. Sino ang mag-aayos niyan?
+
+210
+00:13:52,320 --> 00:13:53,639
+- Masakit din ba ang binti mo?
+- Oo.
+
+211
+00:13:53,639 --> 00:13:55,320
+Tingnan ko.
+
+212
+00:13:55,320 --> 00:13:57,403
+S-Sandali. Ikaw pa rin?
+
+213
+00:13:57,403 --> 00:13:59,879
+Hindi ba kailangan ko munang magpa-X-ray?
+
+214
+00:13:59,879 --> 00:14:01,840
+Kailangan ko muna itong tingnan.
+
+215
+00:14:01,840 --> 00:14:04,080
+Lumalangoy man ito, lumilipad,
+o naglalakad sa lupa,
+
+216
+00:14:04,080 --> 00:14:05,279
+Magamot ito ni Dr. Zhuang.
+
+217
+00:14:05,279 --> 00:14:08,639
+Nailigtas pa niya ang dalawang nalason na lobohound.
+
+218
+00:14:08,639 --> 00:14:10,559
+Doktor ba siya o beterinaryo?
+
+219
+00:14:10,559 --> 00:14:12,600
+Huwag mo siyang pakinggan.
+
+220
+00:14:12,600 --> 00:14:14,600
+Nakakuha ako ng lisensya.
+
+221
+00:14:14,600 --> 00:14:16,740
+Sige, tingnan ko.
+
+222
+00:14:17,519 --> 00:14:20,020
+Masakit!
+
+223
+00:14:24,240 --> 00:14:25,600
+Dito mismo...
+
+224
+00:14:25,600 --> 00:14:27,799
+Nabangga mo lang 'yan nang hindi sinasadya.
+
+225
+00:14:27,799 --> 00:14:29,879
+Sugat lang sa ibabaw. Ayos lang ang buto.
+
+226
+00:14:29,879 --> 00:14:31,320
+Pero masakit!
+
+227
+00:14:31,320 --> 00:14:33,960
+Hindi ba kailangan ko ng X-ray
+para malaman kung maayos ang buto?
+
+228
+00:14:33,960 --> 00:14:36,000
+Kung sasabihin kong ayos lang, ayos lang.
+
+229
+00:14:36,000 --> 00:14:37,679
+Binangga mo lang.
+
+230
+00:14:37,679 --> 00:14:38,759
+Mag-ingat ka sa loob ng ilang araw.
+
+231
+00:14:38,759 --> 00:14:40,000
+Huwag kang masyadong maglakad-lakad.
+
+232
+00:14:40,000 --> 00:14:42,120
+Maglagay ng kaunting iodine at pamahid,
+
+233
+00:14:42,120 --> 00:14:44,240
+at magiging maayos ka.
+
+234
+00:14:44,240 --> 00:14:47,339
+Tara, Wu. Samahan mo akong kunin ang gamot.
+
+235
+00:14:57,399 --> 00:15:00,600
+Sino ba itong babaeng ito para sa iyo?
+
+236
+00:15:00,600 --> 00:15:02,440
+Isang tunay na obra.
+
+237
+00:15:02,440 --> 00:15:04,360
+Ayan na naman.
+
+238
+00:15:04,360 --> 00:15:05,639
+Pinsan ko siya.
+
+239
+00:15:05,639 --> 00:15:06,919
+Ito ang unang beses niya rito,
+
+240
+00:15:06,919 --> 00:15:10,000
+kaya siya ang nag-iingay sa lahat ng bagay.
+
+241
+00:15:10,000 --> 00:15:12,039
+Narito ang gamot ng batang babae.
+
+242
+00:15:12,039 --> 00:15:14,939
+Palitan ang bendahe kada labindalawang oras.
+
+243
+00:15:15,519 --> 00:15:17,720
+Narito ang mga gamot ng lola mo para sa buwang ito.
+
+244
+00:15:17,720 --> 00:15:18,919
+Mga gamot na herbal, iniinom.
+
+245
+00:15:18,919 --> 00:15:20,200
+Pamahid, panlabas.
+
+246
+00:15:20,200 --> 00:15:21,519
+Iyon lang.
+
+247
+00:15:21,519 --> 00:15:23,080
+Nakuha ko. Salamat, Dr. Zhuang.
+
+248
+00:15:23,080 --> 00:15:24,320
+Sige.
+
+249
+00:15:24,320 --> 00:15:26,900
+Tulungan ang batang babae na maglagay ng pamahid.
+
+250
+00:15:35,720 --> 00:15:37,519
+Sige, itaas mo ang paa mo.
+
+251
+00:15:37,519 --> 00:15:39,159
+Ano ang ginagawa mo?
+
+252
+00:15:39,159 --> 00:15:40,240
+Paglalagay ng pamahid.
+
+253
+00:15:40,240 --> 00:15:42,200
+Hindi gagawin ng doktor?
+
+254
+00:15:42,200 --> 00:15:44,360
+Binibini, huwag kang umakto na parang isang walang magawang pasyente.
+
+255
+00:15:44,360 --> 00:15:46,579
+Kailangan mong gawin ito mismo sa bahay.
+
+256
+00:15:47,519 --> 00:15:49,339
+Itaas mo.
+
+257
+00:16:06,840 --> 00:16:08,660
+Masakit.
+
+258
+00:16:40,100 --> 00:16:42,353
+Teka. Ano ba 'to?
+
+259
+00:16:44,159 --> 00:16:46,200
+Wala man lang itong label o permit.
+
+260
+00:16:46,200 --> 00:16:47,679
+Ligtas ba itong gamitin?
+
+261
+00:16:47,679 --> 00:16:49,559
+Ang sikretong pamahid ni Dr. Zhuang.
+
+262
+00:16:49,559 --> 00:16:51,519
+Lalo na para sa mga pilay at pasa.
+
+263
+00:16:51,519 --> 00:16:53,319
+Gumagana ito.
+
+264
+00:17:28,839 --> 00:17:30,639
+Tapos na ang lahat.
+
+265
+00:17:33,400 --> 00:17:35,540
+Hindi ba tayo kailangang magbayad?
+
+266
+00:17:36,400 --> 00:17:37,839
+Hindi kailangan.
+
+267
+00:17:37,839 --> 00:17:39,599
+Ilagay mo sa tab ko.
+
+268
+00:17:39,599 --> 00:17:41,740
+Pwede ka bang magkaroon ng tab dito?
+
+269
+00:17:42,559 --> 00:17:43,759
+Ganoon namin ginagawa dito.
+
+270
+00:17:43,759 --> 00:17:46,659
+Hindi lang basta tab, buwan-buwan din ang binabayaran namin.
+
+271
+00:17:48,279 --> 00:17:49,839
+I-add natin ang isa't isa sa WeChat.
+
+272
+00:17:49,839 --> 00:17:52,180
+Babayaran kita para sa gamot.
+
+273
+00:17:55,079 --> 00:17:56,799
+Kung ayaw mo akong i-add, sige.
+
+274
+00:17:56,799 --> 00:17:58,119
+Sa susunod na kailanganin kita,
+
+275
+00:17:58,119 --> 00:17:59,920
+Sisigaw na lang ako para sa'yo.
+
+276
+00:17:59,920 --> 00:18:02,319
+Sige, idagdag natin ang isa't isa.
+
+277
+00:18:02,319 --> 00:18:05,000
+Habang nandyan ka pa, sagutin mo na rin ang pamasahe ko.
+
+278
+00:18:05,000 --> 00:18:07,099
+Isang yuan kada hakbang.
+
+279
+00:18:10,599 --> 00:18:12,399
+Doon.
+
+280
+00:18:24,039 --> 00:18:26,359
+"Tara na."
+- sabi ni Dr. Zhuang
+
+281
+00:18:26,359 --> 00:18:28,819
+Dapat iwasan ko ang paglalakad.
+
+282
+00:18:34,799 --> 00:18:36,599
+Tara na.
+
+283
+00:18:37,799 --> 00:18:40,339
+Masyadong mahal ang isang yuan kada hakbang.
+
+284
+00:18:42,319 --> 00:18:44,339
+Libre ang pagbabalik.
+
+285
+00:18:49,640 --> 00:18:50,640
+Bilisan mo, bilisan mo.
+
+286
+00:18:50,640 --> 00:18:52,499
+Huwag mong hayaang makita ako ng lahat nang ganito.
+
+287
+00:18:52,499 --> 00:18:54,359
+Bilisan mo.
+
+288
+00:18:55,160 --> 00:18:58,260
+Sinasadya? Pupunta ka ba o hindi?
+
+289
+00:19:00,319 --> 00:19:01,400
+Bilisan mo.
+
+290
+00:19:01,400 --> 00:19:03,460
+Xing Wu!
+
+291
+00:19:04,400 --> 00:19:05,799
+- Wu.
+- Magandang umaga po, ginang.
+
+292
+00:19:05,799 --> 00:19:09,039
+- Anong nangyayari dito?
+- Ito... Ye, anong nangyari sa mga mata mo?
+
+293
+00:19:09,039 --> 00:19:11,119
+At anong nangyari sa paa mo?
+
+294
+00:19:11,119 --> 00:19:15,053
+Nakagat ko ang mata ko, napilay ang paa ko.
+
+295
+00:19:16,000 --> 00:19:18,880
+- Mag-ingat ka.
+- Ibabalik ko na siya ngayon.
+
+296
+00:19:18,880 --> 00:19:20,559
+- Bilisan mo.
+- Magpahinga ka at gumaling ka.
+
+297
+00:19:20,559 --> 00:19:23,119
+Nakuha mo na ang gamot, kaya inumin mo na.
+
+298
+00:19:23,119 --> 00:19:25,079
+Naku! Tingnan mo itong babaeng ito.
+
+299
+00:19:25,079 --> 00:19:27,240
+Pagdating niya rito kahapon,
+nakabihis na siya nang maayos.
+
+300
+00:19:27,240 --> 00:19:29,160
+Ngayon, nasa labas siya na naka-pajama,
+
+301
+00:19:29,160 --> 00:19:30,319
+hinayaan si Xing Wu na buhatin siya.
+
+302
+00:19:30,319 --> 00:19:31,839
+Eksakto.
+
+303
+00:19:31,839 --> 00:19:33,799
+Ang bilis niya talagang umangkop.
+
+304
+00:19:33,799 --> 00:19:35,440
+Wala kang ideya. Ngayong umaga,
+
+305
+00:19:35,440 --> 00:19:36,799
+Sumisigaw siya tulad ni Fang.
+
+306
+00:19:36,799 --> 00:19:38,920
+Sumisigaw nang buong lakas.
+Sobrang bangis.
+
+307
+00:19:38,920 --> 00:19:40,240
+Talaga?
+
+308
+00:19:40,240 --> 00:19:41,240
+Isa na siya sa atin ngayon.
+
+309
+00:19:41,240 --> 00:19:42,599
+Nagiging katutubo lang siya.
+
+310
+00:19:42,599 --> 00:19:44,343
+Totoo.
+
+311
+00:19:44,343 --> 00:19:45,680
+- Nakabalik ka na.
+- Nay.
+
+312
+00:19:45,680 --> 00:19:48,280
+- Dito, dito.
+- Tara na.
+
+313
+00:19:49,680 --> 00:19:51,500
+Mag-ingat.
+
+314
+00:19:53,519 --> 00:19:54,519
+Ibigay mo ito sa akin.
+
+315
+00:19:54,519 --> 00:19:56,400
+Tara na.
+
+316
+00:19:56,400 --> 00:19:58,000
+Umakyat ka na.
+
+317
+00:19:58,000 --> 00:19:59,800
+Mabuti.
+
+318
+00:20:06,720 --> 00:20:08,440
+Ano ang sinabi ni Dr. Zhuang?
+
+319
+00:20:08,440 --> 00:20:10,880
+Hindi kayang hawakan ng klinika ni Dr. Zhuang ang kaso niya.
+
+320
+00:20:10,880 --> 00:20:12,160
+Kailangan ng isang tunay na ospital sa lungsod.
+
+321
+00:20:12,160 --> 00:20:14,119
+Baka kailanganin pa niya ng operasyon.
+
+322
+00:20:14,119 --> 00:20:16,540
+Hindi naman kasali sa amputation.
+
+323
+00:20:17,279 --> 00:20:19,200
+Seryoso 'yan?
+
+324
+00:20:19,200 --> 00:20:20,799
+Kasalanan mo lahat 'to.
+
+325
+00:20:20,799 --> 00:20:23,880
+- Aba...
+- Bakit hindi mo alagaan nang mas mabuti ang pinsan mo?
+
+326
+00:20:23,880 --> 00:20:25,119
+Yehey, pasensya na talaga.
+
+327
+00:20:25,119 --> 00:20:26,759
+Hindi naman ganoon kaseryoso.
+
+328
+00:20:26,759 --> 00:20:28,960
+Huwag mong pakinggan ang mga kalokohan niya.
+
+329
+00:20:28,960 --> 00:20:32,339
+Kaunting patak sa mata at ointment lang,
+at magiging maayos na ako.
+
+330
+00:20:34,960 --> 00:20:36,039
+Nakakagaan ng loob 'yan.
+
+331
+00:20:36,039 --> 00:20:37,400
+Mabuti na lang at hindi naman ganoon kaseryoso.
+
+332
+00:20:37,400 --> 00:20:39,079
+Pagkatapos ay siguraduhing gumamit ka ng mga patak sa mata.
+
+333
+00:20:39,079 --> 00:20:40,799
+At ipahid nang maayos ang ointment.
+
+334
+00:20:40,799 --> 00:20:42,960
+Pumunta ako sa katabing bahay lalo na
+
+335
+00:20:42,960 --> 00:20:45,279
+para ibili ka ng tinapay at pritong dough sticks.
+
+336
+00:20:45,279 --> 00:20:47,359
+At gumawa ako ng sopas na pork trotter para sa iyo.
+
+337
+00:20:47,359 --> 00:20:49,619
+Kainin mo ang mga bagay na nasaktan mo para gumaling ka.
+
+338
+00:20:51,079 --> 00:20:52,940
+Ayos lang.
+
+339
+00:20:54,288 --> 00:20:56,108
+Hindi ako nagugutom.
+
+340
+00:20:57,799 --> 00:20:59,880
+Huwag mag-alala tungkol sa huling bayad.
+
+341
+00:20:59,880 --> 00:21:02,200
+Hindi ito tungkol sa pera.
+
+342
+00:21:02,200 --> 00:21:03,200
+Ako lang...
+
+343
+00:21:03,200 --> 00:21:05,460
+Natutuwa lang ako na ayos ka lang.
+
+344
+00:21:08,160 --> 00:21:09,279
+Busog na ako.
+
+345
+00:21:09,279 --> 00:21:11,180
+Pupunta ako sa Shunyi.
+
+346
+00:21:11,839 --> 00:21:14,740
+Sige, mag-ingat ka sa daan.
+
+347
+00:21:18,720 --> 00:21:20,240
+Ano ang gusto mo para sa tanghalian?
+
+348
+00:21:20,240 --> 00:21:22,319
+Magluluto ako para sa iyo.
+
+349
+00:21:22,319 --> 00:21:24,500
+Hindi pa ako nakapagdesisyon.
+
+350
+00:21:28,880 --> 00:21:31,279
+Bakit hindi ka umorder sa katabing bahay?
+
+351
+00:21:31,279 --> 00:21:33,500
+Masarap ang pagkain nila.
+
+352
+00:21:34,160 --> 00:21:36,720
+Pupunta ako sa Mahjong Club.
+
+353
+00:21:36,720 --> 00:21:37,960
+Maglaro ng mahjong.
+
+354
+00:21:37,960 --> 00:21:39,799
+Sigaw ka lang kung may kailangan ka.
+
+355
+00:21:39,799 --> 00:21:40,839
+Pakikinggan kita.
+
+356
+00:21:40,839 --> 00:21:43,300
+Sige. Naiintindihan ko.
+
+357
+00:21:44,039 --> 00:21:46,619
+Pupunta na lang ako ngayon.
+
+358
+00:22:29,416 --> 00:22:32,557
+[Shunyi Repairs]
+
+359
+00:22:47,880 --> 00:22:49,519
+Tapos na ang mga pagkukumpuni.
+
+360
+00:22:49,519 --> 00:22:51,839
+Sabihin mo sa mga may-ari na sunduin sila.
+
+361
+00:22:51,839 --> 00:22:53,400
+Mabilis iyon.
+
+362
+00:22:53,400 --> 00:22:56,039
+Wu, ayaw mo talagang
+makipag-partner sa Shunyi?
+
+363
+00:22:56,039 --> 00:22:57,400
+Gamit ang ating mga kasanayan,
+
+364
+00:22:57,400 --> 00:23:00,240
+kaya nating mangibabaw sa Anzi County.
+
+365
+00:23:00,240 --> 00:23:03,115
+Iisa lang ang boss na kailangan ni Shunyi, at ikaw iyon.
+
+366
+00:23:04,400 --> 00:23:05,519
+Totoo.
+
+367
+00:23:05,519 --> 00:23:06,759
+Napakaraming tao sa Zhazhating
+
+368
+00:23:06,759 --> 00:23:08,940
+umaasa pa rin sa iyo.
+
+369
+00:23:14,960 --> 00:23:16,559
+Aso.
+
+370
+00:23:16,559 --> 00:23:18,440
+Ipadala mo sa akin ang kahit anong gawa na gusto mo nitong mga nakaraang araw.
+
+371
+00:23:18,440 --> 00:23:19,440
+Ayos lang kahit ano.
+
+372
+00:23:19,440 --> 00:23:21,519
+Mga house call din.
+
+373
+00:23:21,519 --> 00:23:22,559
+Kapos ka ba sa pera?
+
+374
+00:23:22,559 --> 00:23:23,960
+Palagi.
+
+375
+00:23:23,960 --> 00:23:26,759
+Hindi ka kailanman magkakaroon ng sapat na pera.
+
+376
+00:23:26,759 --> 00:23:27,960
+Isang pagkakataon naman.
+
+377
+00:23:27,960 --> 00:23:30,899
+Kaninang umaga, may pumasok na malaking gastador.
+
+378
+00:23:31,839 --> 00:23:34,160
+Bagong-bagong modelo ang telepono niya.
+
+379
+00:23:34,160 --> 00:23:35,720
+Masyado itong bago para sa akin.
+
+380
+00:23:35,720 --> 00:23:38,020
+Hindi ko ito maaayos.
+
+381
+00:23:41,359 --> 00:23:43,220
+Salamat.
+
+382
+00:23:48,799 --> 00:23:51,260
+Mukhang nasa panig mo ang swerte.
+
+383
+00:24:12,359 --> 00:24:15,559
+Ikaw si Qing Ye, 'di ba?
+
+384
+00:24:15,559 --> 00:24:17,720
+Nakita na kita noong bata ka pa.
+
+385
+00:24:17,720 --> 00:24:20,419
+Malalaki na kayo ngayon.
+
+386
+00:24:21,160 --> 00:24:23,020
+Lola.
+
+387
+00:24:23,880 --> 00:24:25,240
+Lola,
+
+388
+00:24:25,240 --> 00:24:26,720
+kung sakaling kailanganin mo ng tulong,
+
+389
+00:24:26,720 --> 00:24:27,799
+ipaalam mo lang sa akin.
+
+390
+00:24:27,799 --> 00:24:30,160
+- Sige.
+- Dito muna ako titira.
+
+391
+00:24:30,160 --> 00:24:31,599
+Pasensya na sa abala.
+
+392
+00:24:31,599 --> 00:24:34,899
+Ayos lang. Salamat.
+
+393
+00:24:36,279 --> 00:24:38,859
+Anong nangyari sa mata mo?
+
+394
+00:24:40,519 --> 00:24:42,619
+Kagat ng lamok.
+
+395
+00:24:43,240 --> 00:24:46,319
+At... nasaktan mo rin ba ang paa mo?
+
+396
+00:24:46,319 --> 00:24:48,559
+Wala lang. Natumba lang ako.
+
+397
+00:24:48,559 --> 00:24:49,920
+Aba...
+
+398
+00:24:49,920 --> 00:24:51,279
+Lola.
+
+399
+00:24:51,279 --> 00:24:52,920
+Lola, hayaan mo akong kumuha ng tubig para sa iyo.
+
+400
+00:24:52,920 --> 00:24:55,359
+Sige, sige.
+
+401
+00:24:55,359 --> 00:24:56,880
+Mabuti.
+
+402
+00:24:58,079 --> 00:25:00,240
+- Salamat.
+- Wala lang.
+
+403
+00:25:00,240 --> 00:25:03,240
+Napakabait mong babae.
+
+404
+00:25:03,240 --> 00:25:04,400
+Aba...
+
+405
+00:25:04,400 --> 00:25:05,880
+Tawagan mo ako kung may kailangan ka.
+
+406
+00:25:05,880 --> 00:25:06,960
+Sige.
+
+407
+00:25:06,960 --> 00:25:09,237
+- Aakyat ako sa taas.
+- Sige.
+
+408
+00:25:10,160 --> 00:25:11,400
+Magpahinga ka na.
+
+409
+00:25:11,400 --> 00:25:12,974
+Sige.
+
+410
+00:25:36,119 --> 00:25:38,575
+Ang pamahid ay gumagana nang maayos.
+
+411
+00:25:40,055 --> 00:25:43,319
+[Yitong Restaurant]
+
+412
+00:25:43,319 --> 00:25:44,640
+Bilisan mo!
+
+413
+00:25:44,640 --> 00:25:46,400
+Ano ang dapat kong laruin?
+
+414
+00:25:46,400 --> 00:25:48,400
+Nandito na si Qing Ye.
+
+415
+00:25:48,400 --> 00:25:50,279
+Bakit ka nandito sa labas?
+
+416
+00:25:50,279 --> 00:25:53,039
+Malapit nang gumaling ang paa ko.
+Lumabas ako para maglakad-lakad.
+
+417
+00:25:53,039 --> 00:25:54,920
+Nagugutom ka ba?
+
+418
+00:25:54,920 --> 00:25:57,200
+Oo. Gusto kong umorder ng pagkain kay Yitong.
+
+419
+00:25:57,200 --> 00:25:58,880
+Wala roon ang may-ari.
+
+420
+00:25:58,880 --> 00:26:00,915
+Nandito lang ako.
+
+421
+00:26:01,519 --> 00:26:03,160
+Ano ang gusto mong kainin?
+
+422
+00:26:03,160 --> 00:26:04,920
+Mas mabuting isulat mo na ito.
+
+423
+00:26:04,920 --> 00:26:06,519
+Apat na putahe at isang sopas para sa bawat kainan.
+
+424
+00:26:06,519 --> 00:26:08,960
+Para sa almusal, kalahati ang serving
+at palitan ng gatas ang sopas.
+
+425
+00:26:08,960 --> 00:26:10,803
+Para sa bawat pagkain, kahit dalawang uri ng protina,
+
+426
+00:26:10,803 --> 00:26:11,970
+kahit dalawang uri ng gulay,
+
+427
+00:26:11,970 --> 00:26:13,338
+at hindi hihigit sa dalawang uri ng carbohydrates.
+
+428
+00:26:13,338 --> 00:26:16,365
+Tama. Gumawa ka ng mas maraming pagkain na madaling lunukin.
+
+429
+00:26:16,365 --> 00:26:18,463
+At magdagdag ng steamed egg na may sea urchin.
+
+430
+00:26:18,463 --> 00:26:21,240
+Siya nga pala, malaki ba talaga ang mga servings mo dito?
+
+431
+00:26:21,240 --> 00:26:23,720
+Dapat sapat na ito para sa dalawang tao.
+
+432
+00:26:24,365 --> 00:26:26,510
+Ang daming demands niyan.
+
+433
+00:26:27,738 --> 00:26:30,119
+Ito ay... hindi ito...
+Hindi ko kinakampihan ang negosyo mo.
+
+434
+00:26:30,119 --> 00:26:32,157
+Tingnan mo, maayos naman ang takbo ng negosyo ko rito.
+
+435
+00:26:32,157 --> 00:26:35,916
+Kapag oras ng kainan,
+masyado talaga akong abala para kayanin.
+
+436
+00:26:37,496 --> 00:26:40,767
+Nakatanggap si Alipay ng 1,000 yuan.
+
+437
+00:26:44,440 --> 00:26:47,839
+Kahit busy ako,
+kailangan kitang unahin, 'di ba?
+
+438
+00:26:47,839 --> 00:26:50,807
+Ito ay isang paunang bayad.
+Kasama rito ang mga bayarin sa paggawa at serbisyo.
+
+439
+00:26:50,807 --> 00:26:52,000
+Magkakaayos tayo mamaya.
+
+440
+00:26:52,000 --> 00:26:54,160
+Sige, sige. Unahin mo ang kalusugan mo.
+
+441
+00:26:54,160 --> 00:26:56,238
+Ano ang ibibigay mo? Sabihin mo ulit 'yan.
+
+442
+00:26:56,238 --> 00:26:57,284
+Tita Shanxi
+
+443
+00:26:57,284 --> 00:26:59,160
+isang order ng mackerel dumplings na lang.
+
+444
+00:26:59,160 --> 00:27:00,480
+Sandali lang.
+
+445
+00:27:00,480 --> 00:27:02,119
+Paano ka nakabalik nang ganoon kabilis?
+
+446
+00:27:02,119 --> 00:27:04,079
+Wala kang pakialam.
+
+447
+00:27:04,079 --> 00:27:05,160
+Sige.
+
+448
+00:27:05,160 --> 00:27:06,519
+- Para sa bawat pagkain,
+- Para sa bawat pagkain,
+
+449
+00:27:06,519 --> 00:27:09,371
+- apat na putahe at isang sopas.
+- apat na putahe at isang sopas.
+
+450
+00:27:11,960 --> 00:27:13,759
+Lola.
+
+451
+00:27:16,000 --> 00:27:18,268
+Lola, oras na para kumain.
+
+452
+00:27:18,904 --> 00:27:21,612
+Hindi pa ako nagugutom.
+
+453
+00:27:22,640 --> 00:27:25,279
+Saan ka nagpunta ngayon lang?
+
+454
+00:27:25,279 --> 00:27:27,079
+Lola,
+
+455
+00:27:27,680 --> 00:27:30,400
+Dinala ko si Qing Ye sa doktor kaninang umaga,
+
+456
+00:27:30,400 --> 00:27:32,599
+Kaya hindi kita madalhan ng pagkain.
+
+457
+00:27:32,599 --> 00:27:34,759
+Ito ang mga dumplings na ginawa ni Auntie Shanxi para sa iyo.
+
+458
+00:27:34,759 --> 00:27:35,839
+Heto, tikman mo.
+
+459
+00:27:35,839 --> 00:27:37,440
+Sige.
+
+460
+00:27:37,440 --> 00:27:38,920
+Dito.
+
+461
+00:27:38,920 --> 00:27:40,528
+Mabango ang suka.
+
+462
+00:27:41,680 --> 00:27:43,720
+Masarap ito.
+
+463
+00:27:43,720 --> 00:27:45,640
+May sasabihin ako sa iyo.
+
+464
+00:27:45,640 --> 00:27:47,000
+Ngayon,
+
+465
+00:27:47,000 --> 00:27:49,680
+hindi na lang ikaw ang nagiging mabait sa kapwa mo.
+
+466
+00:27:49,680 --> 00:27:53,558
+May isa pa akong apo ngayon,
+na nag-aalaga sa akin.
+
+467
+00:27:59,279 --> 00:28:02,119
+Prutas! Prutas!
+
+468
+00:28:02,119 --> 00:28:04,680
+Tokwa!
+
+469
+00:28:04,680 --> 00:28:07,039
+Prutas! Prutas!
+
+470
+00:28:07,039 --> 00:28:09,644
+Tokwa!
+
+471
+00:28:11,425 --> 00:28:13,119
+Wu!
+
+472
+00:28:13,119 --> 00:28:14,319
+Liu Nian.
+
+473
+00:28:14,319 --> 00:28:15,960
+Bakit ka lumalabas ng kwarto ni Lola?
+
+474
+00:28:15,960 --> 00:28:17,359
+Nag-aayos ako ng bahay.
+
+475
+00:28:17,359 --> 00:28:18,440
+Pag-aayos ng bahay?
+
+476
+00:28:18,440 --> 00:28:19,720
+Tumutulong lang kay Lola
+
+477
+00:28:19,720 --> 00:28:22,227
+maglinis ng kanyang kwarto at mag-alis ng alikabok.
+
+478
+00:28:23,440 --> 00:28:24,759
+Maayos naman ang housekeeping.
+
+479
+00:28:24,759 --> 00:28:25,880
+Huwag mo lang istorbohin si Lola.
+
+480
+00:28:25,880 --> 00:28:27,919
+Huwag kang mag-alala, walang problema.
+
+481
+00:29:06,759 --> 00:29:08,119
+Sa isang maliit na lugar na tulad niyan,
+
+482
+00:29:08,119 --> 00:29:09,519
+basta't tama ang pera,
+
+483
+00:29:09,519 --> 00:29:11,359
+Madali lang ang lahat.
+
+484
+00:29:11,359 --> 00:29:14,407
+Bakit hindi niya kinuha ang pera?
+
+485
+00:29:32,000 --> 00:29:34,599
+Pinsan!
+
+486
+00:29:34,599 --> 00:29:37,319
+Tumigil ka na sa pagsigaw. Hindi kita pinsan.
+
+487
+00:29:37,319 --> 00:29:39,200
+Hoy, huwag kang ganyan.
+
+488
+00:29:39,200 --> 00:29:41,295
+Sa unang pagkakataon, estranghero, at sa pangalawang pagkakataon, pamilya.
+
+489
+00:29:41,295 --> 00:29:42,599
+Sa totoo lang, mabuti naman akong tao.
+
+490
+00:29:42,599 --> 00:29:44,383
+Kailangan mo lang akong makilala.
+
+491
+00:29:44,383 --> 00:29:47,264
+Ah, sige. Nakita ko ang pakete mo sa istasyon.
+Kinuha ko ito para sa iyo.
+
+492
+00:29:47,264 --> 00:29:49,799
+Sige, salamat.
+
+493
+00:29:49,799 --> 00:29:51,920
+Huwag mo nang banggitin.
+
+494
+00:29:51,920 --> 00:29:53,925
+Pinsan ko rin ang pinsan ni Wu.
+
+495
+00:29:53,925 --> 00:29:56,720
+Kahit anong kailangan mo, sabihin mo lang.
+
+496
+00:29:56,720 --> 00:29:59,519
+Saan pa ba nagtitinda ng prutas dito?
+Gusto ko ng prutas.
+
+497
+00:29:59,519 --> 00:30:01,335
+Siyempre meron. Tingnan mo,
+
+498
+00:30:01,335 --> 00:30:03,495
+Marami kaming lokal na ani.
+Mayroon kaming lahat ng uri ng prutas.
+
+499
+00:30:03,495 --> 00:30:04,839
+Ano ang gusto mo? Kukunin ko.
+
+500
+00:30:04,839 --> 00:30:07,559
+Gusto ko ng avocado at cherries.
+
+501
+00:30:07,559 --> 00:30:09,799
+- Hindi makuha?
+- Hindi pwede.
+
+502
+00:30:09,799 --> 00:30:11,843
+Hayaan mong sabihin ko sa iyo,
+kahit na nasa North Pole sila,
+
+503
+00:30:11,843 --> 00:30:14,166
+Sisisid ako at lalangoy doon
+para ibalik sila para sa iyo.
+
+504
+00:30:14,166 --> 00:30:15,247
+QR code para sa pagbabayad.
+
+505
+00:30:15,247 --> 00:30:17,253
+Hindi kailangan.
+
+506
+00:30:36,200 --> 00:30:38,517
+Salamat, natanggap ko na lahat.
+
+507
+00:30:39,905 --> 00:30:42,942
+Maghanda para sa paaralan
+sa susunod na ilang araw.
+
+508
+00:30:48,079 --> 00:30:50,799
+Pwede ka bang maging low profile
+dahil bago ka lang dito?
+
+509
+00:30:50,799 --> 00:30:53,037
+Paano ako nagiging high-profile?
+
+510
+00:30:54,079 --> 00:30:55,559
+Ipinagmamalaki ang iyong kayamanan sa sandaling dumating ka.
+
+511
+00:30:55,559 --> 00:30:57,279
+Dito sa paligid, hindi ito katulad ng malaking lungsod ninyo.
+
+512
+00:30:57,279 --> 00:30:58,640
+Mag-ingat na huwag ma-target.
+
+513
+00:30:58,640 --> 00:31:00,559
+Paano ko ipinagmamalaki ang kayamanan?
+
+514
+00:31:00,559 --> 00:31:02,359
+Hindi ako nagyayabang.
+
+515
+00:31:02,359 --> 00:31:05,599
+Nagagastos lang ako sa mga serbisyo.
+
+516
+00:31:05,599 --> 00:31:08,599
+Isa pa, hindi ba't mahilig sa pera ang mga tao rito?
+
+517
+00:31:08,599 --> 00:31:10,079
+Salamat sa babala,
+
+518
+00:31:10,079 --> 00:31:12,798
+pero responsibilidad ko kung paano ko ginagastos ang pera ko.
+
+519
+00:31:14,000 --> 00:31:16,161
+Mag-ayos ka.
+
+520
+00:31:35,359 --> 00:31:38,880
+Magandang araw sa inyong lahat.
+Ikinagagalak kong ipakilala ang aking sarili dito.
+
+521
+00:31:38,880 --> 00:31:40,599
+- Ang pangalan ko ay...
+- Xing Wu!
+
+522
+00:31:40,599 --> 00:31:43,145
+Nababaliw ka na ba?
+
+523
+00:31:44,839 --> 00:31:47,556
+Xing Wu, lumabas ka rito!
+
+524
+00:31:50,677 --> 00:31:53,117
+Pinalitan mo ba yung lock ng pinto?
+
+525
+00:31:55,720 --> 00:31:58,000
+Bakit tayo ang dapat magbago nito?
+
+526
+00:31:58,000 --> 00:32:00,640
+Naka-install na.
+Hindi naman sa humingi ako ng pera sa iyo.
+
+527
+00:32:00,640 --> 00:32:03,559
+Kailangan nang maligo ng babae.
+Paano kung may sumilip sa kanya?
+
+528
+00:32:03,559 --> 00:32:05,960
+Nawala ka na ba sa sarili mo?
+
+529
+00:32:05,960 --> 00:32:08,799
+Ang dami ko nang taon na naliligo rito.
+Sino na ang nakasilip?
+
+530
+00:32:08,799 --> 00:32:11,200
+Isa pa, ano ang ibig mong sabihin sa
+"huwag mo akong hingan ng pera"?
+
+531
+00:32:11,200 --> 00:32:14,880
+Ganyan mo ba ako kausapin?
+Hindi ba't pera mo ang pera ng pamilya natin?
+
+532
+00:32:14,880 --> 00:32:16,960
+- Magkano ang kandadong iyon?
+- Sandali, anong ginagawa mo?
+
+533
+00:32:16,960 --> 00:32:19,039
+Paghahatiin ko sila sa gastos.
+
+534
+00:32:19,039 --> 00:32:20,920
+Kailangan ba talaga iyon?
+
+535
+00:32:20,920 --> 00:32:23,319
+Gumastos ka ng daan-daan sa mga damit
+nang hindi man lang kumikibo.
+
+536
+00:32:23,319 --> 00:32:24,920
+Lock lang naman.
+
+537
+00:32:24,920 --> 00:32:27,000
+Oo, oo nga! Oo nga! Oo nga!
+
+538
+00:32:27,000 --> 00:32:29,079
+Ang showerhead, ang water heater,
+ang mga bumbilya...
+
+539
+00:32:29,079 --> 00:32:31,319
+Pinalitan na ng pamilya namin ang karamihan sa kanila.
+
+540
+00:32:31,319 --> 00:32:33,519
+Nagpapakita ba sila sa atin ng kahit anong pasasalamat?
+
+541
+00:32:33,519 --> 00:32:34,599
+Noong nakaraang taglamig,
+
+542
+00:32:34,599 --> 00:32:36,359
+Nakahanap si Wu Lao Er ng scrap wire
+
+543
+00:32:36,359 --> 00:32:38,200
+at ilagay ito sa aming bakuran
+para gamiting sampayan.
+
+544
+00:32:38,200 --> 00:32:40,839
+Pagkatapos, sa halagang sampung yuan lang,
+hinabol niya ako nang isang buwan.
+
+545
+00:32:40,839 --> 00:32:44,831
+Bakit lagi na lang tayo ang nagbabayad?
+Bakit lagi na lang tayo?
+
+546
+00:32:44,831 --> 00:32:46,697
+Magkano?
+
+547
+00:32:47,655 --> 00:32:49,000
+A-Ano?
+
+548
+00:32:49,000 --> 00:32:50,079
+Magkano ang kandado?
+
+549
+00:32:50,079 --> 00:32:51,359
+Magbabayad ako.
+
+550
+00:32:51,359 --> 00:32:52,880
+Sapat na ba ang limang daan?
+
+551
+00:32:52,880 --> 00:32:55,593
+Teka... Qing Ye.
+
+552
+00:32:57,079 --> 00:32:58,319
+Hindi ko sinasadya na ikaw ang...
+
+553
+00:32:58,319 --> 00:33:02,079
+Nakatanggap si Alipay ng 500 yuan.
+
+554
+00:33:02,079 --> 00:33:05,295
+Isang kandado lang 'yan.
+Sulit ba talaga ang lahat ng kaguluhang ito?
+
+555
+00:33:07,440 --> 00:33:09,353
+Sabihin mo na lang na hiniling ko.
+
+556
+00:33:11,720 --> 00:33:13,079
+Hindi.
+
+557
+00:33:13,079 --> 00:33:17,126
+Hindi namin sinasadyang magbayad ka.
+
+558
+00:33:41,640 --> 00:33:43,000
+Inilipat ko na sa iyo ang 500 yuan.
+
+559
+00:33:43,000 --> 00:33:45,160
+Siguraduhing tanggapin ito.
+
+560
+00:33:45,160 --> 00:33:46,797
+Kalimutan mo na.
+
+561
+00:33:53,720 --> 00:33:55,000
+Nakikipagtalo sa akin si Li Lan Fang
+
+562
+00:33:55,000 --> 00:33:58,720
+dahil pakiramdam niya ay ginagamit siya ng mga kapitbahay.
+Pakiramdam niya ay hindi ito patas.
+
+563
+00:33:58,720 --> 00:34:01,024
+Hindi naman talaga tungkol sa pera.
+
+564
+00:34:01,640 --> 00:34:03,160
+Well, wala naman akong pakialam kahit papaano.
+
+565
+00:34:03,160 --> 00:34:05,790
+Isipin mo na lang na nagbabayad ako
+para sa kaunting kapayapaan at katahimikan.
+
+566
+00:34:08,880 --> 00:34:12,066
+Sa tingin mo ba lahat tayo
+ay mabibili ng pera?
+
+567
+00:34:13,760 --> 00:34:16,559
+- Hindi ko sinabi 'yan.
+- Iba ang sinasabi ng mga kilos mo.
+
+568
+00:34:16,559 --> 00:34:19,146
+Isipin mo kung ano ang gusto mo.
+
+569
+00:34:20,079 --> 00:34:21,440
+Sa totoo lang,
+
+570
+00:34:21,440 --> 00:34:22,719
+Pinakiusapan ako ng nanay mo na manatili rito.
+
+571
+00:34:22,719 --> 00:34:24,239
+At binago mo ang kandado para sa akin.
+
+572
+00:34:24,239 --> 00:34:26,890
+Hindi ba dahil lang sa binayaran kita?
+
+573
+00:34:29,760 --> 00:34:31,537
+Ano ang dahilan ng pagtanggap mo sa amin?
+
+574
+00:34:32,519 --> 00:34:34,228
+Para saan ang pagtanggap ko sa'yo?
+
+575
+00:34:34,960 --> 00:34:37,119
+Eto, tingnan mong mabuti.
+
+576
+00:34:37,119 --> 00:34:39,280
+Partido A at Partido B, nilagdaan at tinatakan.
+
+577
+00:34:39,280 --> 00:34:41,321
+- Tingnan mong mabuti.
+- Hindi ko kailanman kinilala
+
+578
+00:34:41,321 --> 00:34:42,519
+isang salita sa papel na ito.
+
+579
+00:34:42,519 --> 00:34:43,639
+Wala akong pakialam.
+
+580
+00:34:43,639 --> 00:34:45,519
+Partido A at Partido B pa rin tayo.
+
+581
+00:34:45,519 --> 00:34:46,639
+Dahil ako ang magbabayad,
+
+582
+00:34:46,639 --> 00:34:49,559
+Karapat-dapat ako sa isang tahimik at komportableng kapaligiran.
+
+583
+00:34:49,559 --> 00:34:51,519
+Sa ganitong saloobin mo,
+
+584
+00:34:51,519 --> 00:34:54,760
+Madali kong matatanggihan ang pagbabayad ng balanse.
+
+585
+00:34:54,760 --> 00:34:57,719
+Sa tingin mo ba kapag may pera ka,
+puwede mo nang gawin ang lahat ng gusto mo?
+
+586
+00:34:57,719 --> 00:35:00,559
+Nandito ako para sa serbisyo at bakasyon, ha?
+Umalis ka na ngayon din.
+
+587
+00:35:00,559 --> 00:35:03,230
+Mag-impake ka na ng mga gamit mo at pumunta ka na sa hotel.
+
+588
+00:35:09,840 --> 00:35:11,541
+Sige, aalis na ako.
+
+589
+00:35:12,179 --> 00:35:15,436
+Ayokong magtagal pa sa tambakan ng basurahan na ito
+kahit isang segundo pa!
+
+590
+00:35:36,000 --> 00:35:39,360
+- Binibini, kailangan mo ba ng masasakyan?
+- Opo.
+
+591
+00:35:39,360 --> 00:35:40,920
+Ibigay mo rito.
+
+592
+00:35:40,920 --> 00:35:43,245
+Sige. Salamat.
+
+593
+00:35:44,311 --> 00:35:46,000
+Kumapit nang mahigpit.
+
+594
+00:35:46,000 --> 00:35:47,815
+Umupo nang mahigpit.
+
+595
+00:35:48,980 --> 00:35:50,079
+Saan tayo pupunta?
+
+596
+00:35:50,079 --> 00:35:52,360
+Diretso lang sa pagmamaneho.
+
+597
+00:35:52,360 --> 00:35:55,679
+Diretso lang? Mapupunta tayo sa dagat.
+
+598
+00:35:55,679 --> 00:35:58,519
+Tapos dalhin mo ako sa pinakamagandang hotel sa bayan.
+
+599
+00:35:58,519 --> 00:36:00,300
+Nakuha mo.
+
+600
+00:36:02,039 --> 00:36:04,139
+Kapit lang.
+
+601
+00:36:37,880 --> 00:36:41,234
+Hapunan ng pamilya, isang masayang reunion.
+
+602
+00:36:54,208 --> 00:36:56,039
+[Zhazha Grand Hotel]
+
+603
+00:36:56,039 --> 00:36:58,198
+Atakihin siya!
+
+604
+00:37:00,119 --> 00:37:02,268
+Napaka-noob.
+
+605
+00:37:07,294 --> 00:37:09,848
+Sige lang, pare.
+
+606
+00:37:27,360 --> 00:37:29,653
+Hindi, pumunta ka.
+
+607
+00:37:33,599 --> 00:37:35,698
+Kumusta?
+
+608
+00:37:37,840 --> 00:37:39,559
+Kumusta!
+
+609
+00:37:39,559 --> 00:37:40,960
+Kumusta!
+
+610
+00:37:40,960 --> 00:37:43,119
+Teka, teka. May bisita ako.
+
+611
+00:37:43,119 --> 00:37:44,840
+Gusto ko ng kwarto.
+
+612
+00:37:44,840 --> 00:37:47,461
+Pumili ka.
+
+613
+00:37:55,239 --> 00:37:56,559
+588 yuan.
+
+614
+00:37:56,559 --> 00:37:58,320
+Iyan ba ang pinakamagandang kwarto mo?
+
+615
+00:37:58,320 --> 00:37:59,360
+Siyempre.
+
+616
+00:37:59,360 --> 00:38:02,679
+Ang 588 ang aming espesyalidad.
+Isang marangyang suite na may tanawin ng karagatan.
+
+617
+00:38:02,679 --> 00:38:04,880
+Sa buong Zhazhating,
+wala ka nang makikitang mas hihigit pa.
+
+618
+00:38:04,880 --> 00:38:05,960
+May aircon ka ba?
+
+619
+00:38:05,960 --> 00:38:07,719
+- Siyempre naman.
+- Paano naman ang Wi-Fi?
+
+620
+00:38:07,719 --> 00:38:09,719
+Wi-Fi?
+
+621
+00:38:09,719 --> 00:38:11,119
+Babae,
+
+622
+00:38:11,119 --> 00:38:14,160
+Hindi ka pa ba nag-stay sa hotel dati?
+
+623
+00:38:17,000 --> 00:38:19,498
+Paki-check in na lang ako, pakiusap.
+
+624
+00:39:38,360 --> 00:39:41,199
+May aircon at walang Xing Wu.
+
+625
+00:39:41,199 --> 00:39:44,493
+Sa wakas ay makakakatulog na rin ako nang mahimbing.
+
+626
+00:39:52,156 --> 00:39:54,119
+Qing Ye, tiningnan ko ang lagay ng panahon.
+
+627
+00:39:54,119 --> 00:39:56,519
+Umuulan ba diyan sa inyo?
+
+628
+00:39:56,519 --> 00:39:58,760
+May nakita akong mga video at courseware
+para sa mga preparatory courses.
+
+629
+00:39:58,760 --> 00:40:01,079
+Maaari mo silang panoorin tuwing bakasyon sa tag-init.
+
+630
+00:40:01,079 --> 00:40:03,392
+Sige, salamat.
+
+631
+00:40:22,400 --> 00:40:23,519
+Teka...
+
+632
+00:40:23,519 --> 00:40:25,828
+Nasira ang internet?
+
+633
+00:40:45,279 --> 00:40:47,280
+Wu!
+
+634
+00:40:47,280 --> 00:40:49,168
+Darating!
+- Liu Nian.
+
+635
+00:40:50,679 --> 00:40:52,880
+Wu.
+
+636
+00:40:52,880 --> 00:40:54,518
+Wu.
+
+637
+00:40:54,518 --> 00:40:56,288
+Wu!
+
+638
+00:40:56,920 --> 00:40:58,559
+- Dinalhan kita ng pagkain.
+- Sige.
+
+639
+00:40:58,559 --> 00:41:00,920
+Ito ang espesyal na pagkaing inorder ni Qing Ye
+mula sa aking ina.
+
+640
+00:41:00,920 --> 00:41:02,996
+Sapat na ito para sa dalawang tao.
+
+641
+00:41:03,719 --> 00:41:05,519
+Salamat.
+
+642
+00:41:05,519 --> 00:41:07,599
+Kung gayon... Bilisan mo at kumain ka.
+
+643
+00:41:07,599 --> 00:41:09,342
+Sige.
+
+644
+00:41:10,070 --> 00:41:12,970
+- Paalam, Liu Nian.
+- Paalam.
+
+645
+00:41:31,119 --> 00:41:33,320
+Gumawa ng mas maraming pagkain na madaling lunukin.
+
+646
+00:41:33,320 --> 00:41:36,039
+At magdagdag ng steamed egg na may sea urchin.
+
+647
+00:41:36,039 --> 00:41:37,960
+Malaki ba talaga ang mga serving mo rito?
+
+648
+00:41:37,960 --> 00:41:39,679
+Dapat sapat na ito para sa dalawang tao.
+
+649
+00:41:39,679 --> 00:41:42,320
+Hindi lang ikaw ang mabait sa kapwa.
+
+650
+00:41:42,320 --> 00:41:46,795
+Mayroon na akong karagdagang apo
+na nag-aalaga sa akin.
+
+651
+00:41:53,013 --> 00:41:54,703
+Wu.
+
+652
+00:41:55,559 --> 00:41:56,960
+Wu.
+
+653
+00:41:56,960 --> 00:41:58,416
+Tapos na ako sa paglilinis.
+
+654
+00:41:58,416 --> 00:41:59,800
+Aalis na ako ngayon.
+
+655
+00:41:59,800 --> 00:42:01,486
+Sige.
+Magdala ka ng payong.
+
+656
+00:42:01,486 --> 00:42:04,092
+- Sige.
+- Uulan.
+
+657
+00:42:08,719 --> 00:42:11,599
+Wu. May sasabihin pa ako.
+
+658
+00:42:11,599 --> 00:42:13,519
+Sa totoo lang...
+
+659
+00:42:13,519 --> 00:42:15,944
+Mabait naman si Qing Ye.
+
+660
+00:42:16,800 --> 00:42:19,159
+Ah oo? Binili ka ba niya?
+
+661
+00:42:19,159 --> 00:42:21,039
+Hindi. Paano iyon posible?
+
+662
+00:42:21,039 --> 00:42:22,320
+Narito ang bagay.
+
+663
+00:42:22,320 --> 00:42:23,840
+Gusto mo bang kumita ng dagdag na pera?
+
+664
+00:42:23,840 --> 00:42:25,039
+Dagdag na pera?
+
+665
+00:42:25,039 --> 00:42:26,861
+Anong dagdag na pera?
+
+666
+00:42:26,861 --> 00:42:28,446
+Gusto ko lang tulungan mo ako
+
+667
+00:42:28,446 --> 00:42:32,360
+Linisin ang kwarto ko sa itaas at ang kwarto ni Lola.
+Lalo na ang kwarto ni Lola.
+
+668
+00:42:32,360 --> 00:42:34,840
+Siguraduhing punasan mo
+lahat ng alikabok.
+
+669
+00:42:34,840 --> 00:42:36,054
+May sakit si Lola, alam mo na.
+
+670
+00:42:36,054 --> 00:42:39,159
+Masama sa kalusugan niya ang mabahong hangin na iyan.
+
+671
+00:42:39,159 --> 00:42:41,955
+Bumili ka rin ng mga halaman para sa kwarto niya.
+
+672
+00:42:44,159 --> 00:42:46,314
+Aalis na ako, Wu.
+
+673
+00:43:01,446 --> 00:43:02,599
+Anong meron?
+
+674
+00:43:02,599 --> 00:43:04,039
+Gabi na. Natauhan ka na ba?
+
+675
+00:43:04,039 --> 00:43:05,159
+Kumusta, Ginoong Zhu.
+
+676
+00:43:05,159 --> 00:43:07,800
+May nasundo ka bang babae
+sa labas ng bahay ko?
+
+677
+00:43:07,800 --> 00:43:10,320
+Oo. May isang batang babae na may dalang maleta.
+
+678
+00:43:10,320 --> 00:43:12,199
+Oo, siya nga iyon. Saan siya nagpunta?
+
+679
+00:43:12,199 --> 00:43:14,792
+Zhazha Grand Hotel.
+
+680
+00:43:20,719 --> 00:43:22,039
+Uy, Hao.
+
+681
+00:43:22,039 --> 00:43:23,880
+Mayroon bang babaeng nagngangalang Qing Ye?
+
+682
+00:43:23,880 --> 00:43:25,862
+nananatili sa iyong lugar?
+
+683
+00:43:26,559 --> 00:43:27,960
+Nag-check in lang siya.
+
+684
+00:43:27,960 --> 00:43:29,159
+Papunta sa suite na may tanawin ng karagatan.
+
+685
+00:43:29,159 --> 00:43:31,199
+Bantayan mo siya para sa akin.
+
+686
+00:43:31,199 --> 00:43:33,639
+Kontakin mo ako kung may mangyari.
+
+687
+00:43:33,639 --> 00:43:34,760
+Nakuha ko.
+
+688
+00:43:34,760 --> 00:43:36,635
+Salamat.
