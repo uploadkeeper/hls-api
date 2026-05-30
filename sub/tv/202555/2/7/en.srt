@@ -1,0 +1,2883 @@
+1
+00:00:10,063 --> 00:00:12,438
+-[groans]
+-[guard] Come on!
+
+2
+00:00:14,729 --> 00:00:16,854
+[Dr. Merati]
+"They that love beyond the world
+
+3
+00:00:16,938 --> 00:00:18,229
+cannot be separated by it.
+
+4
+00:00:18,563 --> 00:00:20,604
+Death cannot kill what never dies."
+
+5
+00:00:20,938 --> 00:00:23,813
+[Governor] With Vanessa, at least
+I had a sense someone had his ear,
+
+6
+00:00:23,896 --> 00:00:25,438
+someone could rein him in.
+
+7
+00:00:25,521 --> 00:00:27,938
+Pressure on my office is immense.
+I'm getting it from all sides.
+
+8
+00:00:28,021 --> 00:00:31,771
+Hi, Marge. I am here to solve
+your City Hall problem.
+
+9
+00:00:32,229 --> 00:00:34,188
+[Buck] We work for a man
+who can change your life.
+
+10
+00:00:34,271 --> 00:00:37,479
+All he asks in return is loyalty.
+Make a choice.
+
+11
+00:00:37,979 --> 00:00:39,563
+-What is this?
+-Daniel, please.
+
+12
+00:00:39,646 --> 00:00:41,438
+I don't even know
+if I can protect you anymore.
+
+13
+00:00:41,521 --> 00:00:42,646
+Protect me from what?
+
+14
+00:00:42,729 --> 00:00:44,438
+-[cell phone buzzes]
+-From him.
+
+15
+00:00:46,229 --> 00:00:49,354
+[Fisk] We have reason to believe
+that Matt Murdock survived the attack.
+
+16
+00:00:49,438 --> 00:00:51,438
+Help find the lawyer from Hell's Kitchen.
+
+17
+00:00:51,521 --> 00:00:53,688
+Let's bring this hero home.
+
+18
+00:00:53,771 --> 00:00:54,813
+Thank you.
+
+19
+00:00:55,688 --> 00:00:57,854
+-[groans]
+-I can't let you do it, Karen.
+
+20
+00:00:57,938 --> 00:01:01,396
+[Karen] What if this doesn't end
+until one of you goes down?
+
+21
+00:01:01,479 --> 00:01:03,354
+Push those motherfuckers back!
+
+22
+00:01:05,479 --> 00:01:06,646
+Holy shit.
+
+23
+00:01:06,729 --> 00:01:08,896
+Karen fuckin' Page.
+
+24
+00:01:18,229 --> 00:01:21,938
+[sirens wailing in distance]
+
+25
+00:01:25,604 --> 00:01:26,604
+[man] One avocado.
+
+26
+00:01:29,188 --> 00:01:31,229
+[reporter 1] According to
+city officials, vigilantes...
+
+27
+00:01:31,313 --> 00:01:32,604
+[reporter 2]
+...riots at City Hall...
+
+28
+00:01:32,688 --> 00:01:35,729
+[reporter 3] Last night's attack
+on City Hall by criminals...
+
+29
+00:01:36,563 --> 00:01:39,563
+-[man yells indistinctly]
+-[sirens wail, helicopter hovers]
+
+30
+00:01:39,646 --> 00:01:42,188
+-[reporter 4] Protesters...
+-[reporter 5] ...attacked by Task Force.
+
+31
+00:01:44,896 --> 00:01:46,938
+-Three injured.
+-[reporter 4] Two dead.
+
+32
+00:01:48,354 --> 00:01:51,854
+[reporter 6] Mayor Fisk vows
+to restore order to this city.
+
+33
+00:01:53,063 --> 00:01:56,396
+[♪ psychedelic rock music playing,
+David Bowie "It Ain't Easy"]
+
+34
+00:01:56,479 --> 00:02:00,354
+♪ When you climb
+to the top of the mountain ♪
+
+35
+00:02:00,479 --> 00:02:03,688
+♪ Look out over the sea ♪
+
+36
+00:02:04,479 --> 00:02:10,646
+♪ Think about the places, perhaps
+where a young man could be ♪
+
+37
+00:02:10,729 --> 00:02:15,188
+♪ Then you jump back down
+to the rooftops ♪
+
+38
+00:02:15,271 --> 00:02:18,396
+♪ Look out over the town ♪
+
+39
+00:02:18,479 --> 00:02:22,063
+♪ Think about all of the strange things ♪
+
+40
+00:02:22,146 --> 00:02:24,313
+♪ Circulating 'round ♪
+
+41
+00:02:24,396 --> 00:02:27,813
+♪ It ain't easy ♪
+
+42
+00:02:27,896 --> 00:02:30,313
+♪ It ain't easy ♪
+
+43
+00:02:31,354 --> 00:02:36,563
+♪ It ain't easy to get to heaven
+when you're goin' down ♪
+
+44
+00:02:38,854 --> 00:02:43,521
+♪ Well, all the people
+have got their problems ♪
+
+45
+00:02:43,604 --> 00:02:45,729
+♪ That ain't nothin' new ♪
+
+46
+00:02:47,146 --> 00:02:50,771
+♪ With the help of the good Lord ♪
+
+47
+00:02:50,854 --> 00:02:53,438
+♪ We can all pull on through ♪
+
+48
+00:02:53,521 --> 00:02:55,896
+♪ We can all pull on through ♪
+
+49
+00:02:55,979 --> 00:02:57,521
+[inmates chattering indistinctly]
+
+50
+00:02:57,604 --> 00:03:00,979
+♪ And get there in the end ♪
+
+51
+00:03:01,063 --> 00:03:04,396
+♪ Sometimes it'll take you right up ♪
+
+52
+00:03:04,479 --> 00:03:07,104
+♪ And sometimes down again ♪
+
+53
+00:03:07,188 --> 00:03:10,688
+♪ It ain't easy ♪
+
+54
+00:03:10,771 --> 00:03:14,063
+♪ It ain't easy ♪
+
+55
+00:03:14,146 --> 00:03:19,188
+♪ It ain't easy to get to heaven
+when you're goin' down ♪
+
+56
+00:03:19,271 --> 00:03:23,729
+-[door buzzes open, closes]
+-♪ It ain't easy ♪
+
+57
+00:03:23,813 --> 00:03:25,979
+[woman] I don't know.
+Come on, everybody.
+
+58
+00:03:26,063 --> 00:03:27,646
+Hey, where are my cigarettes?
+
+59
+00:03:27,729 --> 00:03:32,479
+♪ It ain't easy to get to heaven
+when you're goin' down ♪
+
+60
+00:03:52,188 --> 00:03:53,646
+[Fisk] Hello, Miss Page.
+
+61
+00:03:55,896 --> 00:03:58,813
+You have... taken people from me.
+
+62
+00:04:01,479 --> 00:04:03,771
+And out there, they believe that you're...
+
+63
+00:04:04,229 --> 00:04:05,563
+a hero.
+
+64
+00:04:06,438 --> 00:04:08,146
+Yet I believe in order.
+
+65
+00:04:09,854 --> 00:04:11,146
+And you are a criminal.
+
+66
+00:04:11,896 --> 00:04:12,896
+Worse,
+
+67
+00:04:13,188 --> 00:04:15,896
+you're the sidekick
+of a deranged vigilante.
+
+68
+00:04:17,771 --> 00:04:18,771
+You,
+
+69
+00:04:19,063 --> 00:04:21,021
+broken and deluded,
+
+70
+00:04:21,688 --> 00:04:23,521
+you abet his crimes.
+
+71
+00:04:24,188 --> 00:04:25,188
+For what?
+
+72
+00:04:26,104 --> 00:04:27,229
+Love?
+
+73
+00:04:28,479 --> 00:04:29,813
+Ha!
+
+74
+00:04:48,021 --> 00:04:50,188
+You know,
+I've never seen you scared before.
+
+75
+00:04:52,313 --> 00:04:53,521
+I kinda like it.
+
+76
+00:04:54,604 --> 00:04:56,813
+No, not fear.
+
+77
+00:04:56,896 --> 00:04:58,688
+[gasps, winces]
+
+78
+00:04:59,188 --> 00:05:00,521
+-[choking]
+-Order,
+
+79
+00:05:00,604 --> 00:05:01,604
+Miss Page.
+
+80
+00:05:02,313 --> 00:05:03,313
+Order.
+
+81
+00:05:03,563 --> 00:05:04,813
+No, no.
+
+82
+00:05:04,896 --> 00:05:07,563
+No, you took it too far last night,
+and you know it.
+
+83
+00:05:07,646 --> 00:05:09,521
+And the city knows it!
+
+84
+00:05:09,604 --> 00:05:11,896
+[choking]
+
+85
+00:05:12,854 --> 00:05:15,771
+[gasps and coughs]
+
+86
+00:05:16,729 --> 00:05:18,563
+You have one phone call.
+
+87
+00:05:19,938 --> 00:05:21,354
+Choose it wisely.
+
+88
+00:05:21,438 --> 00:05:23,729
+[pants, chuckles softly]
+
+89
+00:05:29,271 --> 00:05:32,563
+[♪ theme music playing]
+
+90
+00:07:10,813 --> 00:07:13,354
+[snoring]
+
+91
+00:07:15,188 --> 00:07:17,396
+-[gasps]
+-Good morning, sunshine.
+
+92
+00:07:17,479 --> 00:07:18,729
+Jessica.
+
+93
+00:07:18,813 --> 00:07:20,271
+Wait. Hold, hold, hold on.
+
+94
+00:07:20,354 --> 00:07:22,021
+Listen, before you choose violence--
+
+95
+00:07:22,104 --> 00:07:23,979
+You sent your assholes to my house.
+
+96
+00:07:24,063 --> 00:07:26,479
+That was a mistake. They were
+just supposed to tell you to back off.
+
+97
+00:07:26,563 --> 00:07:27,813
+With my daughter there.
+
+98
+00:07:27,896 --> 00:07:30,104
+I would never hurt your kid--
+I love children.
+
+99
+00:07:30,188 --> 00:07:31,313
+You listen to me.
+
+100
+00:07:31,396 --> 00:07:34,563
+If you ever come at me
+or Danielle ever again,
+
+101
+00:07:34,646 --> 00:07:36,396
+-I swear to God, I will kill you.
+-[groans]
+
+102
+00:07:36,896 --> 00:07:38,354
+-Do you understand me?
+-Yeah.
+
+103
+00:07:38,438 --> 00:07:39,521
+Please don't kill me.
+
+104
+00:07:40,479 --> 00:07:42,896
+Also, I'm not really sure you can anymore,
+
+105
+00:07:42,979 --> 00:07:46,104
+'cause a little birdie said your powers
+ain't what they used to be.
+
+106
+00:07:49,479 --> 00:07:51,271
+Speaking of little birdies,
+
+107
+00:07:51,938 --> 00:07:53,188
+you're talkin' a lotta shit
+
+108
+00:07:53,271 --> 00:07:56,271
+for a guy sittin' there in his underwear
+with very limited options.
+
+109
+00:07:56,354 --> 00:07:59,771
+Don't forget, I am the only one
+that can connect you
+
+110
+00:08:00,188 --> 00:08:01,188
+with Luke.
+
+111
+00:08:05,813 --> 00:08:06,979
+Where is he?
+
+112
+00:08:07,063 --> 00:08:09,271
+He is overseas.
+He's doin' the Lord's work,
+
+113
+00:08:09,354 --> 00:08:10,354
+so you don't have to.
+
+114
+00:08:10,813 --> 00:08:14,229
+-You're behind Fisk's arms deal.
+-No, I'm not.
+
+115
+00:08:14,313 --> 00:08:16,938
+Because a couple
+anti-social vigilantes blew 'em up.
+
+116
+00:08:17,021 --> 00:08:18,938
+No arms, no deal. [scoffs]
+
+117
+00:08:19,021 --> 00:08:21,521
+-Thanks for that, by the way.
+-Why are you covering for him?
+
+118
+00:08:21,604 --> 00:08:22,688
+I'm not, not anymore.
+
+119
+00:08:23,229 --> 00:08:24,521
+It's actually the opposite.
+
+120
+00:08:26,229 --> 00:08:27,813
+The Governor wants Fisk...
+
+121
+00:08:28,438 --> 00:08:30,104
+-out.
+-Good, that's...
+
+122
+00:08:30,188 --> 00:08:31,229
+That's great news.
+
+123
+00:08:31,313 --> 00:08:34,229
+Yeah, except he just went apeshit
+on his own voters.
+
+124
+00:08:34,313 --> 00:08:35,729
+I don't think she can do it.
+
+125
+00:08:36,438 --> 00:08:39,354
+The way I see it,
+this goes all kinds of wrong
+
+126
+00:08:39,688 --> 00:08:41,271
+for Governor McCaffrey.
+
+127
+00:08:42,979 --> 00:08:46,854
+[scoffs] Oh, Christ.
+
+128
+00:08:47,979 --> 00:08:49,646
+[Matt] Fisk is gonna kill the Governor?
+
+129
+00:08:50,104 --> 00:08:51,771
+[Jess] That's what Charles suggested.
+
+130
+00:08:52,063 --> 00:08:53,313
+Very strongly.
+
+131
+00:08:53,396 --> 00:08:54,396
+And you believe him?
+
+132
+00:08:55,021 --> 00:08:57,521
+This guy was working with Fisk
+until about a minute ago.
+
+133
+00:08:58,188 --> 00:09:01,021
+I don't believe a word that asshole says,
+but in this case...
+
+134
+00:09:01,104 --> 00:09:02,771
+-Yeah.
+-...it does track.
+
+135
+00:09:03,854 --> 00:09:07,604
+[sighs] She's the only one
+who can revoke the Freeport's charter.
+
+136
+00:09:08,729 --> 00:09:11,729
+If Fisk puts one of his puppets
+in the Governor's office,
+
+137
+00:09:12,729 --> 00:09:13,729
+New York is his.
+
+138
+00:09:14,313 --> 00:09:16,354
+And we are on another rooftop.
+
+139
+00:09:16,688 --> 00:09:19,438
+Yeah, I'm meeting a friend.
+Cherry, Jessica. Jessica, Cherry.
+
+140
+00:09:19,521 --> 00:09:21,229
+Hey, big fan of your work.
+
+141
+00:09:21,771 --> 00:09:22,771
+Go on.
+
+142
+00:09:23,229 --> 00:09:24,229
+And?
+
+143
+00:09:25,396 --> 00:09:27,646
+-Karen's at the 15th Precinct.
+-Nice, thank you, Cherry.
+
+144
+00:09:27,729 --> 00:09:29,313
+All right, now, hold on there, cowboy.
+
+145
+00:09:29,396 --> 00:09:30,813
+They booked her legit.
+
+146
+00:09:30,896 --> 00:09:33,063
+Prints, photo, phone call, the works.
+
+147
+00:09:33,563 --> 00:09:35,563
+They're fast-trackin' her
+to Vigilante Court.
+
+148
+00:09:35,646 --> 00:09:38,563
+You go in there and bust her out,
+you are the criminal he says you are.
+
+149
+00:09:38,646 --> 00:09:39,896
+She's not safe there.
+
+150
+00:09:39,979 --> 00:09:42,188
+If he was gonna hurt her,
+he'd have done it already.
+
+151
+00:09:42,271 --> 00:09:45,771
+Look, I'm told he went to the precinct,
+they talked, he left.
+
+152
+00:09:47,146 --> 00:09:48,188
+Fisk?
+
+153
+00:09:48,729 --> 00:09:49,896
+Son of a bitch.
+
+154
+00:09:51,313 --> 00:09:52,438
+He's making it legal.
+
+155
+00:09:54,146 --> 00:09:55,563
+We have anybody at the 15th?
+
+156
+00:09:55,646 --> 00:09:57,813
+We do. Come on, Matt, I'm all over this.
+
+157
+00:09:59,979 --> 00:10:02,104
+And you? You stickin' around?
+
+158
+00:10:04,229 --> 00:10:05,646
+I haven't decided yet.
+
+159
+00:10:05,729 --> 00:10:06,813
+City needs you.
+
+160
+00:10:06,896 --> 00:10:09,063
+Tsk. I've heard that before.
+
+161
+00:10:09,146 --> 00:10:10,563
+[chuckles] Me, too.
+
+162
+00:10:11,313 --> 00:10:12,979
+-Nice to meet you, Cherry.
+-You, too.
+
+163
+00:10:13,604 --> 00:10:14,604
+Matt.
+
+164
+00:10:16,063 --> 00:10:18,063
+So, what do ya think?
+Are you gonna hit the 15th?
+
+165
+00:10:18,146 --> 00:10:20,021
+I don't know. There might be another way.
+
+166
+00:10:20,104 --> 00:10:21,604
+-We--
+-I can't help you there.
+
+167
+00:10:22,188 --> 00:10:23,896
+I did what I came here to do.
+
+168
+00:10:23,979 --> 00:10:25,646
+I got Charles off my ass.
+
+169
+00:10:26,896 --> 00:10:28,563
+I need to get home. I have Danielle.
+
+170
+00:10:28,646 --> 00:10:31,354
+I know, you don't need to explain.
+I understand.
+
+171
+00:10:31,438 --> 00:10:32,854
+Fisk isn't gonna stop.
+
+172
+00:10:34,521 --> 00:10:36,188
+Unless someone puts him down.
+
+173
+00:10:36,521 --> 00:10:38,146
+Forgotten how encouraging you were.
+
+174
+00:10:39,521 --> 00:10:40,729
+Don't get yourself killed.
+
+175
+00:10:43,104 --> 00:10:44,271
+The city needs you.
+
+176
+00:10:57,104 --> 00:10:58,896
+[bones cracking]
+
+177
+00:11:15,229 --> 00:11:16,229
+So...
+
+178
+00:11:18,021 --> 00:11:19,021
+what now?
+
+179
+00:11:20,438 --> 00:11:21,896
+You wanted one good deed, right?
+
+180
+00:11:23,146 --> 00:11:24,688
+So we could balance the scales?
+
+181
+00:11:25,188 --> 00:11:26,229
+-Yeah.
+-All right.
+
+182
+00:11:26,313 --> 00:11:27,896
+-Sure.
+-I got it for you.
+
+183
+00:11:30,229 --> 00:11:31,604
+But first, know this.
+
+184
+00:11:34,188 --> 00:11:35,646
+I hate you for Foggy.
+
+185
+00:11:38,146 --> 00:11:39,521
+I hate you for Father Lantom,
+
+186
+00:11:39,604 --> 00:11:40,854
+for Agent Nadeem.
+
+187
+00:11:42,646 --> 00:11:46,104
+And every life you've wasted for no reason
+other than your own twisted soul.
+
+188
+00:11:48,479 --> 00:11:49,938
+Part of me wants to kill you.
+
+189
+00:11:52,646 --> 00:11:53,646
+And...
+
+190
+00:11:55,438 --> 00:11:57,104
+part of me needs to forgive you.
+
+191
+00:11:58,479 --> 00:11:59,479
+Yeah.
+
+192
+00:12:01,729 --> 00:12:03,396
+Well... [clears throat]
+
+193
+00:12:06,271 --> 00:12:07,271
+Thanks.
+
+194
+00:12:07,979 --> 00:12:08,979
+Don't do that.
+
+195
+00:12:09,063 --> 00:12:10,813
+It's not for you, it's for them.
+
+196
+00:12:11,813 --> 00:12:13,146
+Now go, disappear,
+
+197
+00:12:13,229 --> 00:12:14,438
+die, I don't care.
+
+198
+00:12:15,896 --> 00:12:17,313
+But if you mean what you say,
+
+199
+00:12:18,771 --> 00:12:21,063
+you wanna do one good thing
+in a life full of shit,
+
+200
+00:12:21,688 --> 00:12:22,771
+I got it for ya.
+
+201
+00:12:24,521 --> 00:12:27,104
+You know I can't make any promises, right?
+
+202
+00:12:31,104 --> 00:12:32,563
+Wouldn't believe you if you did.
+
+203
+00:12:40,688 --> 00:12:42,271
+What do you want me to do?
+
+204
+00:12:43,521 --> 00:12:45,688
+[♪ suspenseful music playing]
+
+205
+00:12:48,938 --> 00:12:50,813
+[police sirens wailing]
+
+206
+00:12:55,188 --> 00:12:56,771
+[footsteps approaching]
+
+207
+00:13:06,104 --> 00:13:07,104
+Brett.
+
+208
+00:13:08,021 --> 00:13:09,771
+-Hey.
+-Hey, Karen.
+
+209
+00:13:11,063 --> 00:13:12,063
+It's been a while.
+
+210
+00:13:12,146 --> 00:13:13,146
+Yeah.
+
+211
+00:13:14,021 --> 00:13:16,354
+[sighs] Wondered why
+they brought me to the 15th.
+
+212
+00:13:16,438 --> 00:13:19,104
+Hey, you know, Chief of Detective
+gets to pull a few strings.
+
+213
+00:13:19,188 --> 00:13:21,063
+Yeah, yeah. Hotshot, huh?
+
+214
+00:13:24,521 --> 00:13:25,521
+Fisk was here.
+
+215
+00:13:26,854 --> 00:13:27,854
+I know.
+
+216
+00:13:28,479 --> 00:13:29,771
+Only so much I can do.
+
+217
+00:13:30,854 --> 00:13:31,854
+I know.
+
+218
+00:13:36,104 --> 00:13:37,438
+-What are you doing?
+-[unlocking]
+
+219
+00:13:38,438 --> 00:13:39,438
+Come with me.
+
+220
+00:13:41,104 --> 00:13:42,104
+Come.
+
+221
+00:13:46,938 --> 00:13:48,104
+Let's go.
+
+222
+00:13:59,146 --> 00:14:00,688
+[Daredevil sighs in relief]
+
+223
+00:14:04,854 --> 00:14:06,521
+-I'm so sorry.
+-I'm sorry.
+
+224
+00:14:06,938 --> 00:14:08,896
+I'm sorry,
+I shouldn't have said what I did.
+
+225
+00:14:08,979 --> 00:14:09,979
+You know...
+
+226
+00:14:11,104 --> 00:14:13,396
+we all gotta stop meeting up like this.
+
+227
+00:14:14,188 --> 00:14:15,813
+I can't cover for that long, but...
+
+228
+00:14:16,479 --> 00:14:17,563
+you got one minute.
+
+229
+00:14:17,646 --> 00:14:18,646
+-Okay.
+-Thank you.
+
+230
+00:14:18,729 --> 00:14:19,854
+Listen, we don't
+have much time,
+
+231
+00:14:19,938 --> 00:14:21,438
+-I need--
+-I can't go with you.
+
+232
+00:14:21,813 --> 00:14:23,688
+No, I know. I didn't come to get you.
+
+233
+00:14:24,063 --> 00:14:25,479
+Fucking great minds, huh?
+
+234
+00:14:27,396 --> 00:14:30,563
+Look, I don't know what this is, but
+it feels like an opportunity. I think...
+
+235
+00:14:30,646 --> 00:14:32,729
+I have to stay.
+I have to face him in court.
+
+236
+00:14:36,271 --> 00:14:37,813
+They tell you he came to see me?
+
+237
+00:14:38,563 --> 00:14:40,688
+-You okay?
+-[sighs] I'm alive.
+
+238
+00:14:41,896 --> 00:14:42,938
+He's different.
+
+239
+00:14:44,063 --> 00:14:45,521
+I don't know
+what's going on in his mind,
+
+240
+00:14:45,604 --> 00:14:48,229
+but he's scheming, and he's planning,
+and he's way the hell ahead of us.
+
+241
+00:14:48,313 --> 00:14:49,646
+I just don't think we can run.
+
+242
+00:14:49,729 --> 00:14:50,729
+Yeah.
+
+243
+00:14:51,313 --> 00:14:53,271
+'Cause he's losing the city
+and he knows it.
+
+244
+00:14:54,354 --> 00:14:57,813
+So, he's gonna prosecute you
+and humiliate you.
+
+245
+00:14:59,063 --> 00:15:00,271
+Publicly, legitimately,
+
+246
+00:15:00,979 --> 00:15:02,563
+and make everyone cheer for it.
+
+247
+00:15:06,938 --> 00:15:08,229
+Can't say it's not smart.
+
+248
+00:15:11,896 --> 00:15:13,813
+-That means there'll be cameras.
+-Mmm-hmm.
+
+249
+00:15:15,146 --> 00:15:16,771
+-Exactly.
+-Holy shit.
+
+250
+00:15:17,938 --> 00:15:18,938
+Turns out,
+
+251
+00:15:19,354 --> 00:15:21,813
+we may have to cross lines
+to stop him. Just...
+
+252
+00:15:22,646 --> 00:15:23,896
+not the ones you think.
+
+253
+00:15:25,729 --> 00:15:26,729
+Well, then...
+
+254
+00:15:33,021 --> 00:15:34,354
+No. No.
+
+255
+00:15:35,104 --> 00:15:36,104
+Matt, you can't.
+
+256
+00:15:37,771 --> 00:15:38,896
+Yes, I can.
+
+257
+00:15:41,479 --> 00:15:43,229
+[Brett] All right, time's up.
+Let's go.
+
+258
+00:15:57,271 --> 00:15:59,438
+-I'll be there when you need me.
+-[sniffles]
+
+259
+00:16:00,146 --> 00:16:01,146
+Better be.
+
+260
+00:16:17,729 --> 00:16:19,188
+[Hochberg] Aiding and abetting murder,
+
+261
+00:16:19,271 --> 00:16:22,396
+providing material support
+to known terrorist, Daredevil.
+
+262
+00:16:22,479 --> 00:16:25,396
+And that's to say
+nothing of inciting a riot.
+
+263
+00:16:25,729 --> 00:16:27,771
+Just a matter of picking
+our strongest charges.
+
+264
+00:16:27,854 --> 00:16:29,438
+Charge her on all of them.
+
+265
+00:16:29,771 --> 00:16:31,104
+Convict her on all of them.
+
+266
+00:16:32,063 --> 00:16:34,646
+-Well, sir, given the time crunch--
+-All of them.
+
+267
+00:16:36,396 --> 00:16:37,396
+Right.
+
+268
+00:16:37,938 --> 00:16:38,938
+Sir.
+
+269
+00:16:39,438 --> 00:16:42,271
+Do you know the AG
+is gonna want to be involved?
+
+270
+00:16:43,813 --> 00:16:45,188
+Oh, uh...
+
+271
+00:16:46,771 --> 00:16:48,604
+Well, what he and Albany wants
+
+272
+00:16:48,688 --> 00:16:50,354
+is irrelevant at this point.
+
+273
+00:16:51,979 --> 00:16:52,979
+[knocking on door]
+
+274
+00:16:55,771 --> 00:16:58,396
+-Dr. Glenn.
+-Sir, you asked to see me?
+
+275
+00:16:58,479 --> 00:16:59,896
+[Fisk] Yes, please come in.
+
+276
+00:17:00,396 --> 00:17:02,729
+Mr. Hochberg and I,
+we were finished, weren't we?
+
+277
+00:17:03,438 --> 00:17:05,271
+Uh... Of course.
+
+278
+00:17:06,813 --> 00:17:07,813
+Dr. Glenn,
+
+279
+00:17:08,604 --> 00:17:09,938
+it's always such a pleasure.
+
+280
+00:17:10,021 --> 00:17:11,021
+I...
+
+281
+00:17:11,104 --> 00:17:14,979
+might need a little of your expertise
+on this trial, if I may.
+
+282
+00:17:15,813 --> 00:17:16,813
+Of course.
+
+283
+00:17:21,104 --> 00:17:24,271
+District Attorney Hochberg is
+an interesting fellow, isn't he?
+
+284
+00:17:25,896 --> 00:17:28,021
+He's a very skilled litigator.
+
+285
+00:17:28,104 --> 00:17:29,646
+He makes my skin crawl.
+
+286
+00:17:30,146 --> 00:17:31,146
+[chuckles softly]
+
+287
+00:17:31,771 --> 00:17:33,271
+Lawyers, you know, they...
+
+288
+00:17:34,521 --> 00:17:37,438
+use words to twist the truth, don't they?
+
+289
+00:17:39,563 --> 00:17:41,188
+I think I know what you mean.
+
+290
+00:17:41,479 --> 00:17:42,563
+I imagine you do.
+
+291
+00:17:44,854 --> 00:17:46,313
+I wanted to check on you...
+
+292
+00:17:47,646 --> 00:17:48,938
+person-to-person.
+
+293
+00:17:50,646 --> 00:17:51,771
+How are you, sir?
+
+294
+00:17:53,354 --> 00:17:54,771
+I... I don't know.
+
+295
+00:17:56,146 --> 00:17:57,771
+I haven't been asked that.
+
+296
+00:18:06,271 --> 00:18:07,313
+I always...
+
+297
+00:18:10,146 --> 00:18:12,521
+accepted love as a prison.
+
+298
+00:18:16,854 --> 00:18:19,396
+I just never expected
+
+299
+00:18:19,479 --> 00:18:21,313
+to be in it alone.
+
+300
+00:18:22,438 --> 00:18:24,229
+[Heather] Condolences are meaningless.
+
+301
+00:18:24,688 --> 00:18:26,396
+Thoughts and prayers do nothing.
+
+302
+00:18:27,438 --> 00:18:30,021
+No one tells you the truth
+in times like this,
+
+303
+00:18:30,104 --> 00:18:31,104
+which is...
+
+304
+00:18:32,063 --> 00:18:33,229
+This is gonna hurt.
+
+305
+00:18:34,813 --> 00:18:35,813
+And...
+
+306
+00:18:36,396 --> 00:18:37,438
+we don't know when,
+
+307
+00:18:38,063 --> 00:18:39,479
+or if it's going to end.
+
+308
+00:18:41,188 --> 00:18:42,188
+No.
+
+309
+00:18:43,854 --> 00:18:44,854
+Well, I...
+
+310
+00:18:45,729 --> 00:18:46,729
+I, uh...
+
+311
+00:18:48,479 --> 00:18:50,313
+I appreciate your words.
+
+312
+00:19:06,771 --> 00:19:08,979
+Mayor Fisk, I am so sorry,
+
+313
+00:19:09,063 --> 00:19:10,896
+-I was--
+-You don't have to apologize.
+
+314
+00:19:11,938 --> 00:19:13,479
+It's curious, isn't it?
+
+315
+00:19:13,813 --> 00:19:15,521
+When we act on impulse...
+
+316
+00:19:18,146 --> 00:19:20,188
+we surprise even ourselves.
+
+317
+00:19:20,271 --> 00:19:21,813
+I'd like to think I have
+
+318
+00:19:22,396 --> 00:19:23,854
+more self-control than that.
+
+319
+00:19:23,938 --> 00:19:25,146
+But you didn't.
+
+320
+00:19:27,146 --> 00:19:29,979
+No. [chuckles softly]
+
+321
+00:19:35,104 --> 00:19:37,938
+-[♪ suspenseful music playing]
+-[sirens wailing]
+
+322
+00:19:43,521 --> 00:19:46,688
+-[camera shutters clicking]
+-[crowd clamoring indistinctly]
+
+323
+00:19:55,979 --> 00:19:58,521
+[clamoring continues]
+
+324
+00:20:20,938 --> 00:20:22,604
+-[BB] Can I get my shit back?
+-No.
+
+325
+00:20:24,229 --> 00:20:26,146
+This is kidnapping, you know.
+
+326
+00:20:27,813 --> 00:20:29,771
+Okay, look, I understand that you're mad,
+
+327
+00:20:29,854 --> 00:20:31,479
+-but--
+-No, I'm not mad.
+
+328
+00:20:31,563 --> 00:20:32,771
+I'm more than mad.
+
+329
+00:20:32,854 --> 00:20:34,479
+Mad doesn't even begin to cover it.
+
+330
+00:20:35,896 --> 00:20:38,021
+I can't keep stalling Buck.
+
+331
+00:20:38,104 --> 00:20:39,354
+Dude, fuck him!
+
+332
+00:20:39,438 --> 00:20:40,729
+Fuck him? Fuck you!
+
+333
+00:20:41,313 --> 00:20:43,688
+Look, I get it, you used me, I used you.
+
+334
+00:20:43,771 --> 00:20:46,604
+But I'm sorry, I thought
+we actually had each other's backs.
+
+335
+00:20:47,646 --> 00:20:49,396
+Your City Without Fear bullshit?
+
+336
+00:20:49,896 --> 00:20:51,021
+It fucked us.
+
+337
+00:20:51,104 --> 00:20:53,604
+So, what, you were working
+with Karen Page?
+
+338
+00:20:58,146 --> 00:20:59,146
+Wow.
+
+339
+00:20:59,604 --> 00:21:01,396
+-How could you?
+-How could I?
+
+340
+00:21:01,479 --> 00:21:04,063
+I started The BB Report in my dorm room.
+
+341
+00:21:04,146 --> 00:21:07,271
+I put every dime
+and every hour of my life into it.
+
+342
+00:21:07,646 --> 00:21:10,229
+Okay, people trusted it. It was real.
+
+343
+00:21:10,604 --> 00:21:14,646
+And you turned it into some plastic
+commercial for Fisk's fascist New York.
+
+344
+00:21:14,729 --> 00:21:17,354
+-I didn't see you complaining.
+-Okay. Well, clearly,
+
+345
+00:21:17,438 --> 00:21:20,729
+you didn't see City Without Fear.
+That's complaining.
+
+346
+00:21:21,479 --> 00:21:23,771
+And all for what?
+So that you can get outta Staten
+
+347
+00:21:23,854 --> 00:21:25,938
+-and get a douchebag condo?
+-Stop!
+
+348
+00:21:27,229 --> 00:21:28,479
+He killed my uncle.
+
+349
+00:21:28,563 --> 00:21:29,854
+-You don't know that.
+-Yes,
+
+350
+00:21:30,479 --> 00:21:32,438
+I do. And you do, too.
+
+351
+00:21:33,146 --> 00:21:35,813
+You've just decided to turn a blind eye,
+and that is your problem.
+
+352
+00:21:35,896 --> 00:21:36,979
+Fine.
+
+353
+00:21:37,063 --> 00:21:38,646
+Whatever. I did.
+
+354
+00:21:39,021 --> 00:21:41,229
+It is, but you don't understand.
+
+355
+00:21:41,313 --> 00:21:42,813
+That doesn't matter anymore.
+
+356
+00:21:43,271 --> 00:21:47,729
+Because right now, Buck Cashman
+is waiting for me to hand you over to him.
+
+357
+00:21:48,854 --> 00:21:50,063
+And if I don't,
+
+358
+00:21:50,688 --> 00:21:51,896
+then he comes after me.
+
+359
+00:21:53,021 --> 00:21:54,104
+And then you,
+
+360
+00:21:54,604 --> 00:21:55,604
+and my mom,
+
+361
+00:21:56,271 --> 00:21:57,771
+and anyone I care about.
+
+362
+00:21:58,146 --> 00:22:01,229
+So, BB, you should be fucking terrified
+right now, 'cause I am.
+
+363
+00:22:01,896 --> 00:22:02,896
+Then...
+
+364
+00:22:03,479 --> 00:22:05,146
+we should probably get out of here.
+
+365
+00:22:06,104 --> 00:22:07,479
+Yeah, we probably should.
+
+366
+00:22:10,354 --> 00:22:12,021
+-Give me my phone.
+-No.
+
+367
+00:22:12,104 --> 00:22:14,438
+-Why?
+-Because I don't trust you.
+
+368
+00:22:15,646 --> 00:22:17,313
+Just give me a second to fucking think.
+
+369
+00:22:17,396 --> 00:22:19,271
+Just sit there and let me think.
+
+370
+00:22:19,771 --> 00:22:21,813
+[scoffs] Okay.
+
+371
+00:22:25,646 --> 00:22:26,646
+We need a safe house.
+
+372
+00:22:26,729 --> 00:22:28,438
+What are you, Jason Bourne?
+
+373
+00:22:28,521 --> 00:22:29,604
+No, just...
+
+374
+00:22:31,063 --> 00:22:33,438
+Some place Buck doesn't know about.
+
+375
+00:22:37,146 --> 00:22:39,146
+I have a friend. A finance buddy.
+
+376
+00:22:39,229 --> 00:22:41,188
+Works mostly in Hong Kong. I'll text him.
+
+377
+00:22:41,646 --> 00:22:42,813
+Great.
+
+378
+00:22:44,771 --> 00:22:45,771
+[sighs]
+
+379
+00:22:49,479 --> 00:22:50,688
+[vibrates]
+
+380
+00:22:50,771 --> 00:22:53,229
+[reporter] ...Assistant District Attorney
+Kirsten McDuffie...
+
+381
+00:22:53,313 --> 00:22:55,813
+Daniel is proving to be
+quite a team player.
+
+382
+00:22:56,396 --> 00:22:57,396
+Yes, he is.
+
+383
+00:22:57,813 --> 00:23:00,313
+It's not easy to make the hard decisions.
+
+384
+00:23:01,771 --> 00:23:03,729
+You think Karen Page knows?
+
+385
+00:23:04,063 --> 00:23:05,229
+[Buck] Knows what, sir?
+
+386
+00:23:05,688 --> 00:23:07,813
+That she is the wounded soldier
+
+387
+00:23:08,313 --> 00:23:10,188
+screaming in the field,
+
+388
+00:23:10,604 --> 00:23:13,521
+drawing her comrades
+into the line of fire.
+
+389
+00:23:17,396 --> 00:23:19,854
+-[people chattering indistinctly]
+-[woman] Really?
+
+390
+00:23:20,229 --> 00:23:21,688
+-That's good.
+-Either way...
+
+391
+00:23:36,063 --> 00:23:37,521
+[court officer] All rise.
+
+392
+00:23:45,354 --> 00:23:47,146
+[Chief Justice Waters]
+District Attorney Hochberg,
+
+393
+00:23:47,229 --> 00:23:48,771
+your opening statement.
+
+394
+00:23:51,979 --> 00:23:52,979
+Your Honors...
+
+395
+00:23:56,146 --> 00:23:59,396
+I stand before you today
+to ask that you convict
+
+396
+00:24:00,646 --> 00:24:02,313
+and that you punish this woman,
+
+397
+00:24:03,104 --> 00:24:05,604
+this criminal, Karen Page,
+
+398
+00:24:06,354 --> 00:24:09,271
+for the crime she has committed
+against our great city.
+
+399
+00:24:09,354 --> 00:24:11,896
+Your Honors, I could argue
+my client's innocence.
+
+400
+00:24:12,646 --> 00:24:15,771
+I could argue
+the illegitimacy of this court.
+
+401
+00:24:16,729 --> 00:24:18,604
+I could argue against
+
+402
+00:24:19,021 --> 00:24:20,354
+the Safer Streets Act.
+
+403
+00:24:20,438 --> 00:24:24,438
+But first, I want you to think on
+one very important concept.
+
+404
+00:24:26,021 --> 00:24:27,438
+What is a vigilante?
+
+405
+00:24:28,354 --> 00:24:31,104
+Is it he or she who breaks the law
+
+406
+00:24:31,188 --> 00:24:35,146
+in order to get
+their own version of justice? Or...
+
+407
+00:24:35,521 --> 00:24:37,604
+is a vigilante the last resort
+
+408
+00:24:37,688 --> 00:24:39,188
+to obtain the justice
+
+409
+00:24:39,271 --> 00:24:41,938
+that a broken society
+can no longer supply?
+
+410
+00:24:42,021 --> 00:24:44,354
+The evidence will show that
+
+411
+00:24:45,063 --> 00:24:47,021
+Miss Page is not a hero.
+
+412
+00:24:48,021 --> 00:24:49,604
+She's not a "freedom fighter"
+
+413
+00:24:49,688 --> 00:24:51,729
+for a noble resistance. No.
+
+414
+00:24:51,813 --> 00:24:52,813
+No, she's...
+
+415
+00:24:53,313 --> 00:24:54,396
+a criminal
+
+416
+00:24:55,188 --> 00:24:58,646
+responsible for the destruction
+of innocent human lives.
+
+417
+00:24:59,188 --> 00:25:02,313
+[Kirsten] Your Honors,
+you have a duty to this city,
+
+418
+00:25:02,396 --> 00:25:05,479
+and you have a duty
+to the ideals of this court,
+
+419
+00:25:07,146 --> 00:25:11,271
+and fulfilling that duty
+can only come to one conclusion.
+
+420
+00:25:11,354 --> 00:25:12,354
+Guilty.
+
+421
+00:25:12,438 --> 00:25:13,604
+Not guilty.
+
+422
+00:25:15,854 --> 00:25:16,854
+Thank you.
+
+423
+00:25:17,688 --> 00:25:19,729
+Prosecution can now call
+its first witness.
+
+424
+00:25:19,813 --> 00:25:21,771
+Your Honors, before we proceed...
+
+425
+00:25:22,646 --> 00:25:24,354
+I'd like to bring in my co-counsel.
+
+426
+00:25:24,438 --> 00:25:26,271
+[Hochberg] What-- Co-counsel?
+
+427
+00:25:26,354 --> 00:25:28,396
+What, already calling for backup?
+
+428
+00:25:32,146 --> 00:25:33,813
+[audience gasps]
+
+429
+00:25:34,229 --> 00:25:36,271
+Matthew Murdock
+for the defense, Your Honors.
+
+430
+00:25:37,063 --> 00:25:38,896
+-[woman 1] Oh, my God!
+-[man] Is that Matt Murdock?
+
+431
+00:25:38,979 --> 00:25:41,229
+-[woman 2] Matt Murdock?
+-[woman 3] My God. It's Matt Murdock?
+
+432
+00:25:41,313 --> 00:25:42,854
+[Chief Justice Waters] Order in the court.
+
+433
+00:25:42,938 --> 00:25:44,646
+[reporter] In a shocking turn of events,
+
+434
+00:25:44,729 --> 00:25:47,313
+Matthew Murdock,
+the missing lawyer from Hell's Kitchen,
+
+435
+00:25:47,396 --> 00:25:49,396
+has just walked into the courtroom.
+
+436
+00:25:49,479 --> 00:25:51,979
+Despite a citywide search,
+Murdock has not been seen
+
+437
+00:25:52,063 --> 00:25:54,938
+since the destruction of
+his Brooklyn apartment months ago.
+
+438
+00:25:55,021 --> 00:25:58,229
+Murdock is well known for
+his heroic act of saving Mayor Fisk
+
+439
+00:25:58,313 --> 00:25:59,813
+from vigilante gunfire.
+
+440
+00:25:59,896 --> 00:26:02,479
+But he has now reappeared,
+apparently, to support...
+
+441
+00:26:08,188 --> 00:26:09,313
+[Matt] Officer Powell,
+
+442
+00:26:09,396 --> 00:26:13,104
+tell me, what is the mission statement
+for the Anti-Vigilante Task Force?
+
+443
+00:26:13,188 --> 00:26:16,729
+To interdict, apprehend,
+and prosecute extra-legal vigilantes
+
+444
+00:26:16,813 --> 00:26:18,479
+to the fullest extent of the law.
+
+445
+00:26:18,563 --> 00:26:20,146
+"To the fullest extent of the law"?
+
+446
+00:26:20,229 --> 00:26:21,729
+That sounds serious.
+
+447
+00:26:22,313 --> 00:26:23,396
+As a heart attack.
+
+448
+00:26:24,563 --> 00:26:25,771
+[Matt] Huh.
+
+449
+00:26:25,854 --> 00:26:28,688
+And, Officer Powell,
+who formed the Task Force, and...
+
+450
+00:26:29,438 --> 00:26:31,896
+created these, uh, parameters?
+
+451
+00:26:33,313 --> 00:26:34,313
+Mayor Fisk.
+
+452
+00:26:36,313 --> 00:26:37,313
+Of course.
+
+453
+00:26:37,396 --> 00:26:39,604
+[Kirsten] Can you tell me about
+those scars on your face?
+
+454
+00:26:40,104 --> 00:26:43,521
+I got these in a firefight
+with Daredevil and Frank Castle.
+
+455
+00:26:43,604 --> 00:26:45,813
+-In Mr. Murdock's apartment?
+-Yes.
+
+456
+00:26:47,604 --> 00:26:48,979
+[Kirsten] Why were you there?
+
+457
+00:26:49,063 --> 00:26:52,854
+Um, we were performing a welfare check.
+
+458
+00:26:54,313 --> 00:26:55,479
+Welfare check?
+
+459
+00:26:57,479 --> 00:27:00,271
+With assault rifles
+and MRAP personnel carriers?
+
+460
+00:27:00,979 --> 00:27:03,729
+I don't know, seems like
+a lot of hardware for a blind lawyer.
+
+461
+00:27:03,813 --> 00:27:05,479
+[audience chuckles]
+
+462
+00:27:08,104 --> 00:27:09,396
+Was the defendant there?
+
+463
+00:27:12,396 --> 00:27:14,479
+I was told she drove the getaway vehicle.
+
+464
+00:27:16,021 --> 00:27:17,438
+You were told?
+
+465
+00:27:18,146 --> 00:27:20,271
+What else did Officer Powell
+tell you to do?
+
+466
+00:27:21,479 --> 00:27:23,188
+Did he tell you to kill Hector Ayala?
+
+467
+00:27:23,854 --> 00:27:25,729
+-Or maybe that was Mayor Fisk.
+-Objection.
+
+468
+00:27:25,813 --> 00:27:28,104
+Immaterial, misleading, and prejudicial.
+
+469
+00:27:28,188 --> 00:27:30,021
+Sustained. Ms. McDuffie,
+
+470
+00:27:30,104 --> 00:27:32,188
+I will caution you against these theatrics
+
+471
+00:27:32,271 --> 00:27:34,688
+and remind you that
+there's no jury to play to here.
+
+472
+00:27:34,771 --> 00:27:36,229
+Sure about that, Your Honor?
+
+473
+00:27:39,771 --> 00:27:40,771
+No further questions.
+
+474
+00:27:40,854 --> 00:27:41,854
+Thank you.
+
+475
+00:27:49,938 --> 00:27:52,646
+-[line rings]
+-[woman on phone] Alan Steverud's office.
+
+476
+00:27:52,729 --> 00:27:53,771
+It's me.
+
+477
+00:27:54,021 --> 00:27:55,313
+I need the Attorney General.
+
+478
+00:27:56,646 --> 00:27:58,021
+-[AG Steverud] Steverud.
+-Alan,
+
+479
+00:27:58,396 --> 00:28:01,188
+I think it's time we move forward
+on the suspension paperwork.
+
+480
+00:28:01,688 --> 00:28:04,771
+Fisk's reign is over.
+But we do need to move quick, though.
+
+481
+00:28:06,104 --> 00:28:08,271
+No, it's-- It's gotten outta hand. It's...
+
+482
+00:28:09,313 --> 00:28:11,146
+Yeah-- Our window is now.
+
+483
+00:28:13,063 --> 00:28:14,063
+Okay.
+
+484
+00:28:35,063 --> 00:28:36,063
+Daniel?
+
+485
+00:28:37,313 --> 00:28:38,313
+What's going on?
+
+486
+00:28:40,396 --> 00:28:41,396
+Daniel!
+
+487
+00:28:43,229 --> 00:28:45,729
+You know, it's not just Fisk and Buck.
+
+488
+00:28:46,563 --> 00:28:47,563
+It's me, too.
+
+489
+00:28:48,479 --> 00:28:49,604
+I've done things.
+
+490
+00:28:50,146 --> 00:28:52,521
+Really, really fucked up things.
+
+491
+00:28:54,021 --> 00:28:55,396
+What're you talking about?
+
+492
+00:28:57,646 --> 00:28:59,188
+I went upstate with Buck,
+
+493
+00:29:00,521 --> 00:29:02,604
+to the Catskills, and we buried a body.
+
+494
+00:29:04,229 --> 00:29:05,229
+Jesus.
+
+495
+00:29:09,229 --> 00:29:11,188
+And I wish I didn't know I did that.
+
+496
+00:29:16,896 --> 00:29:17,896
+But I can't...
+
+497
+00:29:18,729 --> 00:29:20,854
+have anyone else knowing I did that.
+
+498
+00:29:41,188 --> 00:29:42,188
+Come on.
+
+499
+00:29:50,021 --> 00:29:51,604
+This isn't a safe house, is it?
+
+500
+00:29:52,188 --> 00:29:53,688
+Daniel. Daniel!
+
+501
+00:29:53,771 --> 00:29:55,146
+Daniel, please! Daniel!
+
+502
+00:29:56,688 --> 00:30:00,521
+Is this really the person you wanna be?
+[breathing heavily]
+
+503
+00:30:10,021 --> 00:30:11,229
+Fuck! Fuck.
+
+504
+00:30:11,313 --> 00:30:13,646
+Come on. Come on, before he sees.
+
+505
+00:30:17,646 --> 00:30:19,104
+Here, take this
+
+506
+00:30:19,604 --> 00:30:22,271
+and go. Don't go home.
+Don't tell me where.
+
+507
+00:30:22,354 --> 00:30:24,438
+And do not go anyplace
+he would look, okay?
+
+508
+00:30:25,188 --> 00:30:27,896
+-What're you gonna do?
+-Doing the right thing. Just let me.
+
+509
+00:30:30,938 --> 00:30:31,938
+Thank you.
+
+510
+00:30:32,938 --> 00:30:34,104
+Of course.
+
+511
+00:30:36,563 --> 00:30:37,729
+Just make it count.
+
+512
+00:30:48,146 --> 00:30:50,688
+[Chief Justice Waters] This court
+is adjourned until tomorrow morning.
+
+513
+00:30:54,646 --> 00:30:55,896
+-Yeah.
+-Thank you.
+
+514
+00:30:57,604 --> 00:30:59,354
+I've got it. You focus on the rest.
+
+515
+00:31:00,771 --> 00:31:03,396
+-That went as well as I thought.
+-Yeah, I know. It's okay.
+
+516
+00:31:03,479 --> 00:31:04,479
+It's okay.
+
+517
+00:31:05,229 --> 00:31:06,229
+Be careful.
+
+518
+00:31:06,313 --> 00:31:07,313
+[Matt] You, too.
+
+519
+00:31:12,813 --> 00:31:14,188
+They're not leaving, are they?
+
+520
+00:31:16,146 --> 00:31:17,313
+No, they're not.
+
+521
+00:31:18,521 --> 00:31:20,021
+[Cole] Cameras are all off, sir.
+
+522
+00:31:23,646 --> 00:31:25,813
+[♪ sinister music playing]
+
+523
+00:31:34,938 --> 00:31:35,938
+Hold here.
+
+524
+00:31:42,146 --> 00:31:43,146
+Come on!
+
+525
+00:31:48,771 --> 00:31:51,479
+[guns clicking, engine revving]
+
+526
+00:31:52,354 --> 00:31:53,813
+Run! Cherry!
+
+527
+00:31:53,896 --> 00:31:55,104
+Look out!
+
+528
+00:31:56,146 --> 00:31:57,188
+[♪ suspenseful music playing]
+
+529
+00:32:02,438 --> 00:32:03,688
+Get down!
+
+530
+00:32:09,896 --> 00:32:11,104
+-Holy shit!
+-Fuck!
+
+531
+00:32:13,771 --> 00:32:15,188
+Take the wheel! Take the wheel!
+
+532
+00:32:19,104 --> 00:32:20,771
+Now! Get her outta here!
+
+533
+00:32:21,979 --> 00:32:23,063
+[Kirsten] Matt!
+
+534
+00:32:26,396 --> 00:32:27,813
+[groans]
+
+535
+00:32:33,396 --> 00:32:34,854
+[winces]
+
+536
+00:32:38,188 --> 00:32:39,229
+[grunts]
+
+537
+00:32:48,604 --> 00:32:49,979
+[♪ ominous music playing]
+
+538
+00:32:59,104 --> 00:33:00,188
+[gasps]
+
+539
+00:33:00,563 --> 00:33:01,771
+[choking]
+
+540
+00:33:04,729 --> 00:33:06,063
+[groans]
+
+541
+00:33:12,979 --> 00:33:14,438
+[strains]
+
+542
+00:33:15,438 --> 00:33:17,313
+[groans]
+
+543
+00:33:17,729 --> 00:33:20,396
+-[body thuds]
+-[breathes heavily]
+
+544
+00:33:32,396 --> 00:33:34,938
+[groans]
+
+545
+00:33:36,229 --> 00:33:37,854
+[sirens wailing]
+
+546
+00:33:46,854 --> 00:33:48,063
+[door closes]
+
+547
+00:33:54,229 --> 00:33:55,229
+Hey.
+
+548
+00:34:01,188 --> 00:34:02,229
+Where is she?
+
+549
+00:34:06,021 --> 00:34:07,104
+She's not coming.
+
+550
+00:34:28,521 --> 00:34:29,729
+Where is she, Daniel?
+
+551
+00:34:31,063 --> 00:34:33,146
+I think she had a birthday party.
+
+552
+00:34:33,771 --> 00:34:35,188
+[sighs]
+
+553
+00:34:36,979 --> 00:34:38,063
+[scoffs]
+
+554
+00:34:40,688 --> 00:34:41,896
+[sighs]
+
+555
+00:34:43,063 --> 00:34:44,104
+[rips]
+
+556
+00:34:47,313 --> 00:34:48,688
+Now, sooner or later...
+
+557
+00:34:52,396 --> 00:34:53,646
+we both know...
+
+558
+00:34:56,896 --> 00:34:58,021
+you're gonna tell me.
+
+559
+00:35:02,813 --> 00:35:04,354
+Fuck you, Buck.
+
+560
+00:35:07,104 --> 00:35:08,146
+[sighs]
+
+561
+00:35:09,229 --> 00:35:10,896
+[both grunting]
+
+562
+00:35:16,146 --> 00:35:17,438
+Fuck!
+
+563
+00:35:21,771 --> 00:35:23,896
+[Daniel coughing]
+
+564
+00:35:23,979 --> 00:35:26,646
+[Daniel groaning]
+
+565
+00:35:28,521 --> 00:35:30,771
+[Daniel] No! No!
+
+566
+00:35:33,646 --> 00:35:36,104
+[door buzzes open]
+
+567
+00:35:41,063 --> 00:35:42,104
+Miss Page,
+
+568
+00:35:43,104 --> 00:35:44,688
+it's nice to finally meet you.
+
+569
+00:35:46,771 --> 00:35:47,771
+Ms. Glenn.
+
+570
+00:35:49,854 --> 00:35:51,146
+Are you here for Fisk?
+
+571
+00:35:51,229 --> 00:35:52,896
+I'm part of the Mayor's office, yes.
+
+572
+00:35:53,896 --> 00:35:57,604
+I also conduct psychological evaluations
+for the District Attorney's office.
+
+573
+00:35:57,688 --> 00:35:58,854
+[scoffs]
+
+574
+00:36:00,063 --> 00:36:01,063
+I'll pass.
+
+575
+00:36:03,104 --> 00:36:04,604
+Doesn't really work that way.
+
+576
+00:36:05,938 --> 00:36:08,813
+I'm gonna ask a series of
+true or false questions.
+
+577
+00:36:09,188 --> 00:36:10,188
+Please...
+
+578
+00:36:10,979 --> 00:36:12,146
+answer truthfully.
+
+579
+00:36:12,229 --> 00:36:13,521
+There are no wrong answers.
+
+580
+00:36:13,604 --> 00:36:14,813
+True or false?
+
+581
+00:36:15,854 --> 00:36:17,604
+"I like mechanics magazines."
+
+582
+00:36:18,813 --> 00:36:22,604
+You know, the Minnesota Multiphasic
+Personality Inventory is out of date.
+
+583
+00:36:23,396 --> 00:36:24,813
+-I can game it.
+-Mmm.
+
+584
+00:36:24,896 --> 00:36:25,896
+Most people can.
+
+585
+00:36:27,313 --> 00:36:29,146
+Maybe we should try something else.
+
+586
+00:36:30,271 --> 00:36:31,479
+What did you have in mind?
+
+587
+00:36:35,896 --> 00:36:37,229
+I'm in love with this man.
+
+588
+00:36:39,813 --> 00:36:41,688
+He's completely inaccessible. He's...
+
+589
+00:36:42,438 --> 00:36:43,729
+distant, complicated.
+
+590
+00:36:45,146 --> 00:36:46,313
+There are nights where I...
+
+591
+00:36:47,146 --> 00:36:50,813
+I fall asleep in bed next to him,
+totally unsure of who he is.
+
+592
+00:36:53,604 --> 00:36:54,604
+Worries me.
+
+593
+00:36:55,854 --> 00:36:56,938
+As it should.
+
+594
+00:36:58,354 --> 00:36:59,771
+It's also totally hot.
+
+595
+00:37:01,063 --> 00:37:02,604
+I'm sure you can understand.
+
+596
+00:37:02,688 --> 00:37:03,688
+So,
+
+597
+00:37:04,146 --> 00:37:06,563
+-what does that say about me?
+-[clears throat]
+
+598
+00:37:07,521 --> 00:37:08,521
+[beeps]
+
+599
+00:37:08,604 --> 00:37:10,021
+That's a very good question.
+
+600
+00:37:11,271 --> 00:37:12,271
+I mean,
+
+601
+00:37:12,979 --> 00:37:15,479
+what kind of person
+kills their own brother?
+
+602
+00:37:16,896 --> 00:37:19,063
+The Mayor's office has detailed files.
+
+603
+00:37:19,979 --> 00:37:23,438
+Fratricide is very rare.
+
+604
+00:37:25,313 --> 00:37:27,396
+-Was Kevin molesting you?
+-Don't.
+
+605
+00:37:29,021 --> 00:37:30,021
+No.
+
+606
+00:37:31,021 --> 00:37:32,313
+No, it wasn't like that.
+
+607
+00:37:32,396 --> 00:37:33,479
+[Heather] I'm sure.
+
+608
+00:37:33,563 --> 00:37:35,771
+[chuckles] Did you feel powerful
+
+609
+00:37:36,396 --> 00:37:38,104
+when you murdered James Wesley?
+
+610
+00:37:39,396 --> 00:37:40,979
+After a lifetime of, I don't know,
+
+611
+00:37:41,521 --> 00:37:43,521
+being used as a puppet by all these men.
+
+612
+00:37:44,313 --> 00:37:45,313
+Daddy,
+
+613
+00:37:45,646 --> 00:37:46,646
+brother,
+
+614
+00:37:46,896 --> 00:37:49,521
+-Frank Castle.
+-Fuck you!
+
+615
+00:37:50,146 --> 00:37:52,521
+[chuckles] Funny.
+
+616
+00:37:53,354 --> 00:37:54,854
+That's where the nerve is.
+
+617
+00:37:58,021 --> 00:37:59,021
+Does Matt know?
+
+618
+00:38:00,563 --> 00:38:02,604
+-You wanna know what I think?
+-Mmm.
+
+619
+00:38:04,521 --> 00:38:07,438
+I know that Matt, that mystery beside me,
+loves me in a way
+
+620
+00:38:07,521 --> 00:38:08,938
+that makes every contradiction,
+
+621
+00:38:09,021 --> 00:38:11,188
+every conflict in him
+and in me a part of us.
+
+622
+00:38:12,021 --> 00:38:14,813
+And I'm willing to bet that that's
+the part that you can't really understand.
+
+623
+00:38:16,563 --> 00:38:19,271
+Professionals call that transference.
+
+624
+00:38:19,354 --> 00:38:20,813
+Yeah, well, I call it the truth.
+
+625
+00:38:24,063 --> 00:38:26,229
+You were friends
+with Vanessa Fisk, weren't you?
+
+626
+00:38:26,313 --> 00:38:30,229
+I'm not answering any personal questions.
+That's unprofessional.
+
+627
+00:38:30,313 --> 00:38:33,688
+She had my friend Foggy killed.
+You know that? Is that in those files?
+
+628
+00:38:34,938 --> 00:38:36,063
+Jesus.
+
+629
+00:38:36,146 --> 00:38:37,688
+Matt really hurt you, didn't he?
+
+630
+00:38:37,771 --> 00:38:39,688
+Enough that you'd run to them
+to feel safe.
+
+631
+00:38:40,396 --> 00:38:41,438
+Please.
+
+632
+00:38:41,521 --> 00:38:43,104
+Look, I get it. I'm so sorry.
+
+633
+00:38:43,396 --> 00:38:44,979
+[groans]
+
+634
+00:38:45,063 --> 00:38:46,354
+[yells in pain]
+
+635
+00:38:48,688 --> 00:38:51,354
+-[groans]
+-Don't pity me.
+
+636
+00:38:51,896 --> 00:38:54,646
+[chuckling] Too late.
+
+637
+00:38:55,646 --> 00:38:59,979
+[groans, laughs]
+
+638
+00:39:00,271 --> 00:39:01,271
+Is that all you got?
+
+639
+00:39:02,354 --> 00:39:03,354
+Not even close.
+
+640
+00:39:03,438 --> 00:39:04,938
+[chuckles]
+
+641
+00:39:08,104 --> 00:39:10,563
+-We should do this some other time.
+-I can't wait.
+
+642
+00:39:14,396 --> 00:39:16,271
+-[groans]
+-[Buck] Where, Daniel?
+
+643
+00:39:17,479 --> 00:39:18,771
+I don't enjoy this.
+
+644
+00:39:21,563 --> 00:39:23,604
+I don't know where she is.
+
+645
+00:39:30,313 --> 00:39:31,896
+-[gun clicks]
+-[Daniel] Oh, fuck!
+
+646
+00:39:34,729 --> 00:39:36,188
+This isn't Helmand, Buck.
+
+647
+00:39:36,688 --> 00:39:37,896
+[gun cocks]
+
+648
+00:39:38,438 --> 00:39:39,813
+Last chance.
+
+649
+00:39:46,729 --> 00:39:48,313
+[Matt groaning]
+
+650
+00:39:49,854 --> 00:39:51,688
+[breathing raggedly]
+
+651
+00:39:53,646 --> 00:39:55,729
+[panting]
+
+652
+00:39:59,354 --> 00:40:00,563
+[grunts]
+
+653
+00:40:00,813 --> 00:40:02,938
+[pants]
+
+654
+00:40:03,021 --> 00:40:05,604
+[Daniel] What is followin' his orders
+gonna do for you?
+
+655
+00:40:07,104 --> 00:40:09,104
+How long till you're on the floor
+
+656
+00:40:09,563 --> 00:40:11,313
+with a gun pointed at your head?
+
+657
+00:40:15,104 --> 00:40:17,271
+-[groans]
+-[Matt] Saint Jude...
+
+658
+00:40:19,646 --> 00:40:22,854
+patron of difficult cases...
+[chuckles dryly]
+
+659
+00:40:25,521 --> 00:40:27,396
+of things almost despaired of...
+
+660
+00:40:29,771 --> 00:40:30,771
+pray for me.
+
+661
+00:40:33,396 --> 00:40:35,188
+I am so helpless and alone.
+
+662
+00:40:36,979 --> 00:40:39,729
+Please pray for me that God come to me
+in my hour of need,
+
+663
+00:40:41,854 --> 00:40:44,729
+and I receive consolation
+
+664
+00:40:45,521 --> 00:40:47,479
+in all my tribulations and sufferings.
+
+665
+00:40:56,104 --> 00:40:57,104
+And that...
+
+666
+00:40:57,979 --> 00:40:59,313
+I may bless God...
+
+667
+00:41:02,563 --> 00:41:04,313
+-with the elect for all eternity.
+-[groans]
+
+668
+00:41:05,396 --> 00:41:07,521
+[breath trembling]
+
+669
+00:41:10,938 --> 00:41:12,021
+Amen.
+
+670
+00:41:15,729 --> 00:41:17,104
+[sighs]
+
+671
+00:41:17,896 --> 00:41:20,521
+[panting]
+
+672
+00:41:49,563 --> 00:41:52,563
+[door opens and closes]
