@@ -1,0 +1,2374 @@
+1
+00:00:00,573 --> 00:00:01,773
+Cuatro.
+
+2
+00:00:02,275 --> 00:00:03,975
+Tres.
+
+3
+00:00:03,975 --> 00:00:05,176
+Dos.
+
+4
+00:00:05,176 --> 00:00:07,179
+- ¡Está bien!
+- Cinco.
+
+5
+00:00:07,179 --> 00:00:08,513
+- Vale, tengo tres correctas.
+- Cinco.
+
+6
+00:00:08,514 --> 00:00:10,281
+- ¿Cinco? ¿Por qué cinco?
+- Tres.
+
+7
+00:00:10,281 --> 00:00:12,684
+- ¡Está bien!
+- Cuatro.
+
+8
+00:00:12,684 --> 00:00:13,918
+-¿Cuatro?
+-Cuatro.
+
+9
+00:00:13,918 --> 00:00:15,386
+¿Cómo es que son las cuatro?
+
+10
+00:00:15,386 --> 00:00:18,687
+Dos. Tres.
+
+11
+00:00:18,687 --> 00:00:21,658
+Tres. Uno.
+
+12
+00:00:21,658 --> 00:00:23,567
+- No puedo oír...
+- Cuatro...
+
+13
+00:01:02,440 --> 00:01:05,000
+[Park Ji Hoon]
+
+14
+00:01:05,000 --> 00:01:07,730
+[Choi Hyeon Wook]
+
+15
+00:01:07,730 --> 00:01:10,280
+[Hong Kyeong]
+
+16
+00:01:10,280 --> 00:01:12,240
+[Lee Yeon]
+
+17
+00:01:12,240 --> 00:01:14,340
+[Shin Seung Ho]
+
+18
+00:01:14,340 --> 00:01:18,300
+[CLASE DE HÉROE DÉBIL 1]
+♫ El corazón que sacas después de pasar ♫
+
+19
+00:01:18,300 --> 00:01:21,000
+♫ Es un viejo arrepentimiento ♫
+
+20
+00:01:21,000 --> 00:01:25,520
+♫ Ya es demasiado tarde ♫
+
+21
+00:01:27,090 --> 00:01:30,070
+♫ Palabras que no quería escuchar ♫
+
+22
+00:01:30,070 --> 00:01:33,100
+♫ Una cara cubierta con una mano ♫
+
+23
+00:01:33,100 --> 00:01:37,730
+♫ No sabía que te extrañaría ♫
+
+24
+00:01:37,730 --> 00:01:49,890
+♫ Lo lamento, no lloremos más ♫
+
+25
+00:01:49,890 --> 00:02:01,930
+♫ Suspiro. Por favor, no te escondas ♫
+
+26
+00:02:06,280 --> 00:02:09,780
+[Original: SeoPass - Kim Jin Seok "El héroe débil"]
+
+27
+00:02:12,471 --> 00:02:15,239
+[Estado de admisión a la universidad de la escuela secundaria Byeoksan]
+
+28
+00:02:15,239 --> 00:02:18,009
+[Universidad Nacional de Seúl: 3 admitidos]
+
+29
+00:02:19,245 --> 00:02:24,983
+["El pájaro lucha para salir del huevo"]
+
+30
+00:02:24,984 --> 00:02:27,186
+[De "Demian" de Hermann Hesse]
+
+31
+00:02:28,154 --> 00:02:31,724
+[13 días antes]
+
+32
+00:02:32,992 --> 00:02:34,326
+Fórmula cuadrática.
+
+33
+00:02:34,326 --> 00:02:37,629
+Organice los valores desconocidos y las constantes de la izquierda en orden descendente
+
+34
+00:02:37,629 --> 00:02:38,963
+y establece el lado derecho igual a cero.
+
+35
+00:02:38,963 --> 00:02:43,235
+Entonces ax al cuadrado más b al cuadrado más c es igual a cero.
+
+36
+00:02:44,403 --> 00:02:46,004
+Oye, miedo.
+
+37
+00:02:46,004 --> 00:02:47,873
+Muy bien hecho.
+
+38
+00:02:48,607 --> 00:02:50,575
+[Inglés: Comprensión lectora
+de matemáticas: examen simulado de 2021]
+
+39
+00:02:50,576 --> 00:02:51,743
+El motín de Imo
+
+40
+00:02:51,743 --> 00:02:54,179
+En 1882, durante el año 19 del reinado del rey Gojong,
+
+41
+00:02:54,180 --> 00:02:59,282
+El ejército tradicional se sentía discriminado respecto del ejército moderno y no estaba contento por no recibir su salario
+
+42
+00:02:59,282 --> 00:03:01,653
+y se rebelaron contra la reforma militar.
+
+43
+00:03:01,654 --> 00:03:05,790
+Esto devolvió el poder político al padre del rey Gojong...
+
+44
+00:03:07,860 --> 00:03:08,960
+Voz activa.
+
+45
+00:03:08,961 --> 00:03:12,897
+El objeto en una oración activa se convierte en el sujeto en una oración pasiva.
+
+46
+00:03:12,897 --> 00:03:15,200
+Con oraciones verbales ditransitivas, dado que hay dos objetos,
+
+47
+00:03:15,200 --> 00:03:18,403
+Cada objeto puede ser un sujeto en dos oraciones pasivas separadas.
+
+48
+00:03:18,403 --> 00:03:20,172
+[Examen simulado: D-13]
+
+49
+00:03:25,878 --> 00:03:28,413
+[Planificador de estudios de la Academia Daeseong]
+
+50
+00:03:47,333 --> 00:03:48,299
+Muy bien, chicos.
+
+51
+00:03:48,299 --> 00:03:52,103
+Hay dos ganadores de premios en el concurso de matemáticas intraescolar.
+
+52
+00:03:53,239 --> 00:03:56,341
+Yeon Sieun y Jeon Yeongbin pasan al frente.
+
+53
+00:03:57,076 --> 00:03:58,476
+¡Qué bien!
+
+54
+00:04:04,083 --> 00:04:06,217
+"Yeon Sieun, primer lugar."
+
+55
+00:04:06,217 --> 00:04:09,953
+"A este estudiante se le otorga este certificado
+
+56
+00:04:09,953 --> 00:04:13,325
+en reconocimiento a su logro en la competencia intraescolar de matemáticas de 2022".
+
+57
+00:04:13,959 --> 00:04:15,859
+Bien hecho, Sien.
+
+58
+00:04:20,299 --> 00:04:22,734
+"Jeon Yeongbin, tercer lugar."
+
+59
+00:04:22,734 --> 00:04:24,369
+Los detalles son los mismos.
+
+60
+00:04:24,369 --> 00:04:25,870
+Vamos a aplaudir.
+
+61
+00:04:31,077 --> 00:04:34,946
+El examen simulado se realizará en menos de dos semanas.
+
+62
+00:04:34,946 --> 00:04:37,682
+Confío en que todos estéis estudiando mucho.
+
+63
+00:04:37,682 --> 00:04:40,018
+- Sí, señora.
+- Sí, señora.
+
+64
+00:04:41,520 --> 00:04:46,355
+Seguramente te arrepentirás más adelante si no estudias duro ahora.
+
+65
+00:04:47,360 --> 00:04:50,695
+- Puedes hacerlo mejor que eso.
+- Sacúdelo.
+
+66
+00:04:50,695 --> 00:04:52,196
+Muy bien.
+
+67
+00:04:52,865 --> 00:04:54,265
+Lindo.
+
+68
+00:04:54,967 --> 00:04:57,534
+Muy bien. Usa más el trasero.
+
+69
+00:04:58,237 --> 00:05:00,605
+-Sí, eso es.
+-Muy bien.
+
+70
+00:05:00,605 --> 00:05:03,108
+-Baila más sexy que eso.
+-Muévelo.
+
+71
+00:05:04,110 --> 00:05:05,310
+Vamos.
+
+72
+00:05:05,310 --> 00:05:07,979
+Te olvidaste de darte la vuelta, maldito idiota.
+
+73
+00:05:07,980 --> 00:05:10,415
+Maldita sea, eres muy estúpido.
+
+74
+00:05:10,415 --> 00:05:14,319
+Hola. Sabes que a los espectadores les encantan tus videos, ¿verdad?
+
+75
+00:05:14,319 --> 00:05:17,255
+Estás en el camino correcto hacia la fama.
+
+76
+00:05:17,255 --> 00:05:18,956
+Piénsalo.
+
+77
+00:05:18,956 --> 00:05:22,794
+No estudias, no tienes contactos y además eres pobre.
+
+78
+00:05:23,729 --> 00:05:26,164
+Esta es tu mejor oportunidad de ganar dinero.
+
+79
+00:05:27,433 --> 00:05:29,434
+Deberías estar agradecido.
+
+80
+00:05:30,736 --> 00:05:33,236
+Bien. Gracias.
+
+81
+00:05:34,507 --> 00:05:36,908
+¿En serio? Entonces ve a buscarme un Gatorade.
+
+82
+00:05:36,909 --> 00:05:39,210
+-Quiero un Milkis.
+-Tomaré una Coca-Cola Zero.
+
+83
+00:05:39,210 --> 00:05:40,611
+Bueno.
+
+84
+00:05:42,014 --> 00:05:44,149
+No lo golpeamos lo suficientemente fuerte.
+
+85
+00:05:44,149 --> 00:05:46,151
+Necesita una buena paliza.
+
+86
+00:05:47,053 --> 00:05:48,553
+Él es tan insubordinado.
+
+87
+00:05:48,553 --> 00:05:50,254
+¿Yo se, verdad?
+
+88
+00:05:51,323 --> 00:05:52,623
+Ey.
+
+89
+00:05:53,859 --> 00:05:55,359
+Dámelo.
+
+90
+00:05:59,064 --> 00:06:00,520
+¿Qué pasa?
+
+91
+00:06:01,064 --> 00:06:03,068
+- Maldita sea.
+- Ay.
+
+92
+00:06:07,239 --> 00:06:10,742
+Tienes que trabajar en tu puntería. Le diste al pobre tipo.
+
+93
+00:06:10,742 --> 00:06:12,644
+Tiene razón. Hay que trabajar en ello.
+
+94
+00:06:12,645 --> 00:06:14,480
+Vamos.
+
+95
+00:06:15,045 --> 00:06:17,549
+Lo siento mucho por eso. Sigue estudiando.
+
+96
+00:06:18,684 --> 00:06:20,284
+Lo siento.
+
+97
+00:06:22,555 --> 00:06:24,489
+Ten cuidado la próxima vez.
+
+98
+00:06:34,366 --> 00:06:35,967
+Fue un accidente.
+
+99
+00:06:38,437 --> 00:06:40,706
+¿De qué hay que tener cuidado?
+
+100
+00:06:41,373 --> 00:06:44,174
+- Me estás haciendo sentir mal.
+- Asegúrate...
+
+101
+00:06:45,244 --> 00:06:47,612
+No vuelve a suceder.
+
+102
+00:06:50,816 --> 00:06:52,316
+Mierda.
+
+103
+00:06:59,592 --> 00:07:00,892
+Ey.
+
+104
+00:07:01,927 --> 00:07:03,627
+Sabes...
+
+105
+00:07:04,497 --> 00:07:07,065
+¿Que la gente no te soporta?
+
+106
+00:07:08,734 --> 00:07:12,471
+Todo lo que dices me pone de los nervios.
+
+107
+00:07:14,774 --> 00:07:16,674
+¿Qué opinas?
+
+108
+00:07:19,111 --> 00:07:22,412
+- ¿Estás aburrido?
+- ¿Qué?
+
+109
+00:07:22,412 --> 00:07:26,813
+Deja de perder el tiempo y memoriza otra palabra en inglés.
+
+110
+00:07:27,787 --> 00:07:29,587
+¿Me estás tomando el pelo?
+
+111
+00:07:36,028 --> 00:07:38,297
+[Escuela secundaria Byeoksan]
+
+112
+00:07:40,166 --> 00:07:42,200
+¿Quién es An Suho?
+
+113
+00:07:45,371 --> 00:07:47,972
+- Oye, Suho.
+- ¿Qué?
+
+114
+00:07:47,972 --> 00:07:49,573
+¡Seco!
+
+115
+00:07:51,277 --> 00:07:54,679
+¿Qué? ¿Ya es hora de comer?
+
+116
+00:07:55,781 --> 00:07:57,581
+¿Eres Suho?
+
+117
+00:07:57,581 --> 00:07:59,150
+Acaso tú...
+
+118
+00:08:00,119 --> 00:08:02,821
+- ¿Coqueteaste con Naeun?
+- ¿Naeun?
+
+119
+00:08:03,989 --> 00:08:05,589
+¿Lee Naeun?
+
+120
+00:08:06,659 --> 00:08:08,393
+¿Parque Naeun?
+
+121
+00:08:08,393 --> 00:08:10,028
+¡Soy Son Naeun, bastardo!
+
+122
+00:08:10,029 --> 00:08:13,231
+Cierto. Ella me siguió enviando mensajes, así que comimos juntos.
+
+123
+00:08:13,231 --> 00:08:15,867
+No me interesa ella no es mi tipo
+
+124
+00:08:15,867 --> 00:08:17,469
+¿Qué hay para almorzar hoy?
+
+125
+00:08:17,469 --> 00:08:18,770
+Cerdo salteado picante.
+
+126
+00:08:18,771 --> 00:08:21,571
+Eso suena bien. Está lleno de proteínas.
+
+127
+00:08:21,571 --> 00:08:24,242
+-Suena bien.
+-Chicos.
+
+128
+00:08:26,212 --> 00:08:27,712
+Irse.
+
+129
+00:08:31,951 --> 00:08:33,451
+¡Bastardo!
+
+130
+00:08:42,328 --> 00:08:44,028
+- Te asusté.
+- ¡Oye!
+
+131
+00:08:47,767 --> 00:08:49,000
+Maldita sea.
+
+132
+00:08:49,001 --> 00:08:50,501
+¡Ven aquí!
+
+133
+00:08:54,106 --> 00:08:56,107
+Oye, ven aquí.
+
+134
+00:08:56,107 --> 00:08:57,508
+Ey.
+
+135
+00:09:01,347 --> 00:09:02,947
+¡Eres un bastardo!
+
+136
+00:09:05,451 --> 00:09:08,920
+Hola, todos ustedes son deportistas. ¿Qué clase de comportamiento es este?
+
+137
+00:09:08,920 --> 00:09:10,354
+¡Ey!
+
+138
+00:09:12,892 --> 00:09:14,760
+¡Está bien, maldita sea!
+
+139
+00:09:14,794 --> 00:09:16,394
+Mierda.
+
+140
+00:09:19,332 --> 00:09:21,333
+¡Maldito bastardo!
+
+141
+00:09:29,141 --> 00:09:30,909
+Cruzaste la línea.
+
+142
+00:09:31,777 --> 00:09:34,012
+¡Me importa un carajo, bastardo!
+
+143
+00:09:39,385 --> 00:09:41,086
+Llévelo a la enfermería.
+
+144
+00:09:41,086 --> 00:09:42,921
+Estás muerto si mi nombre sale mencionado.
+
+145
+00:09:42,922 --> 00:09:44,623
+- ¿De acuerdo?
+- Maldita sea.
+
+146
+00:09:47,760 --> 00:09:49,580
+Aunque somos mayores que él.
+
+147
+00:09:50,496 --> 00:09:51,663
+Vamos.
+
+148
+00:09:51,663 --> 00:09:53,664
+Salgamos de aquí.
+
+149
+00:09:58,971 --> 00:10:01,206
+¿Yo hice eso?
+
+150
+00:10:02,108 --> 00:10:03,508
+Sí.
+
+151
+00:10:04,910 --> 00:10:06,510
+Culpa mía.
+
+152
+00:10:08,346 --> 00:10:10,015
+Lo lamento.
+
+153
+00:10:11,617 --> 00:10:13,917
+¿Por qué pelearías en un aula?
+
+154
+00:10:21,527 --> 00:10:23,261
+[Certificado de premio]
+[Yeon Sieun]
+
+155
+00:10:23,261 --> 00:10:26,197
+¿Qué sentido tienen todos esos masajes deportivos?
+
+156
+00:10:26,197 --> 00:10:28,298
+Los coreanos necesitan comer arroz para obtener energía.
+
+157
+00:10:28,298 --> 00:10:30,200
+Está bien.
+
+158
+00:10:30,200 --> 00:10:33,872
+Te mataré si te pillan escabulléndote otra vez.
+
+159
+00:10:33,872 --> 00:10:35,306
+¿Entiendo?
+
+160
+00:10:36,008 --> 00:10:38,744
+Está bien, entonces nos vemos luego.
+
+161
+00:10:38,744 --> 00:10:41,079
+Hijo, estás en casa.
+
+162
+00:10:42,414 --> 00:10:45,183
+Sieun, creo que necesito ir al campo de entrenamiento nuevamente.
+
+163
+00:10:45,183 --> 00:10:48,353
+Estaré fuera durante unas dos semanas. Llámame si me necesitas.
+
+164
+00:10:48,353 --> 00:10:49,887
+Bueno.
+
+165
+00:10:51,390 --> 00:10:53,458
+Tu profesor llamó.
+
+166
+00:10:53,458 --> 00:10:55,794
+Escuché que ganaste el concurso de matemáticas.
+
+167
+00:11:07,540 --> 00:11:10,675
+"Yeon Sieun. Primer lugar."
+
+168
+00:11:13,379 --> 00:11:17,182
+Sieun, sabes que vivo para esto, ¿verdad?
+
+169
+00:11:17,950 --> 00:11:19,885
+Gracias, hijo.
+
+170
+00:11:23,256 --> 00:11:24,756
+Seguro.
+
+171
+00:11:29,095 --> 00:11:30,795
+¿Si? ¿Qué es?
+
+172
+00:11:30,795 --> 00:11:34,666
+¿De qué estás hablando? Todo está arreglado.
+
+173
+00:11:36,035 --> 00:11:38,536
+Así es como deberías resolver este problema.
+
+174
+00:11:38,536 --> 00:11:40,372
+Todos lo entendéis, ¿verdad?
+
+175
+00:11:40,372 --> 00:11:44,576
+Para obtener el punto en el que se encuentran, dibuja un gráfico como éste.
+
+176
+00:11:44,576 --> 00:11:48,280
+Luego necesitas encontrar el número de puntos que se cruzan.
+
+177
+00:11:48,280 --> 00:11:50,015
+Ése es el método.
+
+178
+00:11:54,086 --> 00:11:55,921
+¿Sigues en contacto?
+
+179
+00:11:56,856 --> 00:11:59,024
+Solo estoy estudiando.
+
+180
+00:12:00,993 --> 00:12:02,693
+Me voy.
+
+181
+00:12:02,693 --> 00:12:04,863
+-Que tengas un buen viaje.
+-Gracias.
+
+182
+00:12:17,043 --> 00:12:18,810
+¿Entiendes?
+
+183
+00:12:20,112 --> 00:12:25,179
+A todos. Mi hijo es el mejor de su clase.
+
+184
+00:12:25,179 --> 00:12:28,153
+Pero nunca tengo que regañarlo.
+
+185
+00:12:28,154 --> 00:12:31,556
+¿Por qué? Porque le va bien por sí solo.
+
+186
+00:12:31,556 --> 00:12:34,425
+Sé que lo digo mucho, pero estudiar se trata de...
+
+187
+00:12:34,425 --> 00:12:38,430
+[Escuela secundaria Byeoksan]
+
+188
+00:12:55,648 --> 00:12:56,648
+Dios mío.
+
+189
+00:12:59,352 --> 00:13:00,352
+Dios mío.
+
+190
+00:13:22,074 --> 00:13:24,175
+- Ella es muy sexy.
+- ¿Debería presentarte una cita con ella?
+
+191
+00:13:24,176 --> 00:13:25,877
+- ¡Sí!
+- Muéstrame la foto.
+
+192
+00:13:25,878 --> 00:13:29,314
+- Ella es súper sexy. Totalmente mi tipo.
+- ¿Por qué él elige a la sexy?
+
+193
+00:13:29,314 --> 00:13:31,951
+- Deja de decir tonterías.
+- Eres demasiado feo, estúpido.
+
+194
+00:13:31,951 --> 00:13:34,485
+- Eres demasiado flaco, idiota.
+- Tengo músculos.
+
+195
+00:13:34,485 --> 00:13:36,688
+- ¿A eso le llamas bíceps?
+- ¿Cómo serían si no?
+
+196
+00:13:36,689 --> 00:13:40,390
+Oye, tranquilízate. Os la presentaré a los dos.
+
+197
+00:13:41,027 --> 00:13:43,396
+-Retírate.
+-Te la dejaré.
+
+198
+00:13:43,396 --> 00:13:45,797
+¿Qué opinas de mis músculos?
+
+199
+00:13:45,797 --> 00:13:48,900
+- Realmente no me impresiona.
+- ¿Quién tiene músculos más grandes?
+
+200
+00:13:50,469 --> 00:13:52,270
+Oye, ¿quién es más grande?
+
+201
+00:13:53,239 --> 00:13:56,039
+- Responde con cuidado.
+- ¿Qué estás mirando?
+
+202
+00:13:56,039 --> 00:13:58,877
+¿Qué? ¿Has perdido algo?
+
+203
+00:13:59,779 --> 00:14:02,581
+Podría simplemente doblarte por la mitad.
+
+204
+00:14:03,749 --> 00:14:05,383
+Vamos.
+
+205
+00:14:05,383 --> 00:14:06,818
+En serio tengo músculos.
+
+206
+00:14:06,819 --> 00:14:08,354
+Eso no es un bíceps.
+
+207
+00:14:08,354 --> 00:14:10,055
+¿Y luego qué? ¿Qué otra cosa podría ser?
+
+208
+00:14:10,055 --> 00:14:12,958
+Retírate, idiota. Déjate de tonterías.
+
+209
+00:14:25,672 --> 00:14:29,207
+¡Vamos! ¡Sigue adelante!
+
+210
+00:14:35,948 --> 00:14:39,348
+- Son 6 minutos y 12 segundos.
+- Quítale cinco segundos.
+
+211
+00:14:39,348 --> 00:14:42,253
+Suho, deberías especializarte en deportes en la universidad.
+
+212
+00:14:42,253 --> 00:14:43,788
+Definitivamente puedes hacerlo.
+
+213
+00:14:43,788 --> 00:14:46,391
+¿Para qué? No quiero ser deportista.
+
+214
+00:14:46,391 --> 00:14:49,427
+Lo pensaré si mi récord es mejor que el de Bolt.
+
+215
+00:14:49,427 --> 00:14:51,496
+¿Quién es Bolt?
+
+216
+00:14:52,164 --> 00:14:55,633
+Ya conoces a Bolt. Usain Bolt.
+
+217
+00:14:55,633 --> 00:14:58,168
+-Buena clase, señor.-
+Ese punk.
+
+218
+00:15:01,140 --> 00:15:03,780
+- Son 6 minutos y 45 segundos.
+- ¿Qué?
+
+219
+00:15:19,325 --> 00:15:22,193
+Ya no te queda mucho camino por recorrer. Sigue corriendo.
+
+220
+00:15:22,193 --> 00:15:24,262
+Mira a ese idiota corriendo.
+
+221
+00:15:25,631 --> 00:15:28,834
+¿Es un zombi o qué? Mira cómo corre.
+
+222
+00:15:29,769 --> 00:15:31,670
+Bien podría correr así.
+
+223
+00:15:32,571 --> 00:15:34,373
+Eso está muy mal.
+
+224
+00:15:34,974 --> 00:15:39,341
+"Sois unos idiotas." "Esperadme, idiotas."
+
+225
+00:15:44,350 --> 00:15:45,950
+¿Qué carajo?
+
+226
+00:15:49,522 --> 00:15:51,022
+Tráelo aquí.
+
+227
+00:15:53,959 --> 00:15:55,459
+Ignoralo.
+
+228
+00:15:56,262 --> 00:15:58,263
+Vamos, simplemente ignóralo.
+
+229
+00:16:10,443 --> 00:16:12,177
+¿Cuál es tu nombre de nuevo?
+
+230
+00:16:14,280 --> 00:16:16,381
+Soy Lee Jeongchan.
+
+231
+00:16:18,084 --> 00:16:19,584
+Oh sí.
+
+232
+00:16:23,756 --> 00:16:25,790
+No vale la pena pelear con él.
+
+233
+00:16:30,863 --> 00:16:32,743
+Son 9 minutos y 48 segundos.
+
+234
+00:16:34,066 --> 00:16:38,566
+Yeon Sieun, trabaja para aumentar tu resistencia.
+
+235
+00:16:38,566 --> 00:16:41,706
+Necesitas mantenerte saludable para seguir estudiando.
+
+236
+00:16:43,676 --> 00:16:46,544
+Chicos, llévenlo a la enfermería.
+
+237
+00:16:46,544 --> 00:16:49,214
+No, estoy bien.
+
+238
+00:16:50,049 --> 00:16:51,749
+Estoy bien.
+
+239
+00:16:53,519 --> 00:16:55,019
+"Estoy bien."
+
+240
+00:16:55,021 --> 00:16:57,188
+"Estoy bien."
+
+241
+00:16:57,189 --> 00:17:00,458
+Todos podíamos ver que no estaba bien en absoluto.
+
+242
+00:17:00,458 --> 00:17:02,927
+Yeongbin, en serio. Vamos a atacarlo algún día.
+
+243
+00:17:02,927 --> 00:17:04,562
+¿Recuerdas la mirada que te dirigió?
+
+244
+00:17:04,562 --> 00:17:05,930
+- "Ten cuidado la próxima vez."
+- Exactamente.
+
+245
+00:17:05,930 --> 00:17:07,766
+"Asegúrate de que no vuelva a suceder."
+
+246
+00:17:07,767 --> 00:17:09,902
+Maldita sea. Podría haber...
+
+247
+00:17:10,736 --> 00:17:12,536
+Dame un poco.
+
+248
+00:17:18,978 --> 00:17:22,547
+- ¿Qué es este olor?
+- Hueles a sudor.
+
+249
+00:17:22,547 --> 00:17:24,349
+Me dan ganas de vomitar.
+
+250
+00:17:25,484 --> 00:17:27,084
+Simplemente detente.
+
+251
+00:17:27,787 --> 00:17:29,554
+Te lo pido amablemente.
+
+252
+00:17:30,790 --> 00:17:32,157
+¿Qué?
+
+253
+00:17:32,157 --> 00:17:34,492
+Simplemente mantente fuera de mi camino.
+
+254
+00:17:48,908 --> 00:17:51,143
+No sé de qué estás hablando.
+
+255
+00:17:53,946 --> 00:17:55,747
+Ya he dicho mi parte.
+
+256
+00:18:05,891 --> 00:18:07,125
+Mira esto.
+
+257
+00:18:07,125 --> 00:18:10,095
+Él es pura palabrería y nada más.
+
+258
+00:18:10,095 --> 00:18:11,796
+Déjalo ir.
+
+259
+00:18:11,796 --> 00:18:16,265
+No creo que sepas lo que significa pedir amablemente.
+
+260
+00:18:19,038 --> 00:18:21,707
+Inténtalo de nuevo. Esta vez, correctamente.
+
+261
+00:18:22,641 --> 00:18:24,541
+Déjalo ir.
+
+262
+00:18:24,541 --> 00:18:28,546
+-Lo van a matar.
+-¿No deberíamos decírselo a nuestro maestro?
+
+263
+00:18:28,546 --> 00:18:29,915
+Hola, Yeongbin.
+
+264
+00:18:29,916 --> 00:18:31,516
+No lo dejes ir
+
+265
+00:18:32,151 --> 00:18:34,052
+Te mataré si lo haces.
+
+266
+00:18:38,457 --> 00:18:39,858
+¡Ey!
+
+267
+00:18:39,858 --> 00:18:41,726
+¿Qué estás haciendo?
+
+268
+00:18:41,726 --> 00:18:44,796
+No es nada serio. Solo estamos bromeando.
+
+269
+00:18:44,796 --> 00:18:46,597
+¿Estás bien, Sieun?
+
+270
+00:18:50,102 --> 00:18:51,169
+-Han Taehun.
+- ¿Sí?
+
+271
+00:18:51,169 --> 00:18:52,537
+¿Qué está sucediendo?
+
+272
+00:18:52,538 --> 00:18:54,072
+- Oye.
+- Era una broma, señor.
+
+273
+00:18:54,072 --> 00:18:56,074
+No podemos permitirnos problemas.
+
+274
+00:18:56,842 --> 00:18:58,610
+Necesitamos ir a la universidad.
+
+275
+00:18:59,945 --> 00:19:02,747
+Señora, cuénteme qué pasó.
+
+276
+00:19:02,747 --> 00:19:04,683
+¿Fue realmente una broma?
+
+277
+00:19:07,419 --> 00:19:09,854
+Sí, sólo estamos bromeando.
+
+278
+00:19:09,854 --> 00:19:11,489
+No dejes que te atrape otra vez
+
+279
+00:19:11,489 --> 00:19:13,325
+- ¿Entiendes?
+- Sí, señor.
+
+280
+00:19:46,859 --> 00:19:49,295
+¿Cómo llamaban a esos comerciantes?
+
+281
+00:19:49,295 --> 00:19:51,197
+Se les llamaba proveedores de palacio.
+
+282
+00:19:51,197 --> 00:19:52,931
+Y los proveedores de palacio son muy importantes.
+
+283
+00:19:52,931 --> 00:19:55,700
+Entonces, cuando el texto habla del Sistema Dedong,
+
+284
+00:19:55,700 --> 00:19:58,470
+Eso es lo que quieres averiguar a partir de las cinco opciones.
+
+285
+00:19:58,470 --> 00:19:59,838
+También funciona a la inversa.
+
+286
+00:19:59,838 --> 00:20:02,674
+Si ves proveedores de palacio, busca el Sistema Dedong.
+
+287
+00:20:02,674 --> 00:20:06,845
+Para que puedas ver cómo funcionaba el sistema de distribución...
+
+288
+00:20:10,616 --> 00:20:12,416
+¿Quién es?
+
+289
+00:20:12,416 --> 00:20:14,286
+Entrega.
+
+290
+00:20:15,221 --> 00:20:16,754
+No pedí nada
+
+291
+00:20:16,754 --> 00:20:19,591
+Disculpe, este es el apartamento correcto.
+
+292
+00:20:27,266 --> 00:20:29,668
+¿Qué carajo? ¡Ratón de biblioteca!
+
+293
+00:20:29,668 --> 00:20:31,535
+¿Por qué estás aquí?
+
+294
+00:20:33,739 --> 00:20:36,674
+- No pedí nada.
+- ¿Qué?
+
+295
+00:20:36,674 --> 00:20:39,744
+¿No es este el apartamento Dongbaek, edificio 102, unidad 902?
+
+296
+00:20:41,414 --> 00:20:43,181
+Este es el edificio 101.
+
+297
+00:20:44,684 --> 00:20:46,618
+Aquí dice edificio 102.
+
+298
+00:20:49,922 --> 00:20:52,424
+Maldita sea. Fue mi culpa.
+
+299
+00:20:54,960 --> 00:20:56,862
+¿Puedes traerme un poco de agua?
+
+300
+00:20:58,230 --> 00:21:00,832
+- ¿Por qué debería?
+- Vamos. Somos compañeros de clase.
+
+301
+00:21:00,832 --> 00:21:02,534
+- Estás siendo duro.
+- ¿Qué?
+
+302
+00:21:02,534 --> 00:21:05,971
+¿No puedes darle un vaso de agua a un amigo?
+
+303
+00:21:09,642 --> 00:21:13,545
+¿Qué pasa si me desmayo por deshidratación? ¿Qué harás entonces?
+
+304
+00:21:13,545 --> 00:21:16,648
+¿No crees que estás siendo demasiado duro con el agua?
+
+305
+00:21:16,648 --> 00:21:20,619
+Tú simplemente te quedas ahí parado mientras yo estoy muriendo aquí.
+
+306
+00:21:21,988 --> 00:21:24,156
+Mi voz también está ronca.
+
+307
+00:21:39,338 --> 00:21:41,473
+¿Qué sucede contigo?
+
+308
+00:21:44,577 --> 00:21:47,977
+Gracias por eso. Te compraré tres botellas de agua mañana.
+
+309
+00:21:48,948 --> 00:21:51,082
+Estudia mucho
+
+310
+00:21:51,082 --> 00:21:52,650
+Nos vemos mañana.
+
+311
+00:21:54,587 --> 00:21:56,588
+Y sé bueno con tu mamá.
+
+312
+00:21:57,456 --> 00:21:59,356
+¿Es esto correcto?
+
+313
+00:22:14,673 --> 00:22:19,144
+Tenemos un nuevo estudiante transferido. Adelante, preséntate, Beomseok.
+
+314
+00:22:22,414 --> 00:22:25,148
+Bueno...Hola.
+
+315
+00:22:25,148 --> 00:22:27,319
+Mi nombre es Oh Beomseok.
+
+316
+00:22:31,457 --> 00:22:34,800
+Tranquilízate. Trata bien a Beomseok.
+
+317
+00:22:34,800 --> 00:22:37,610
+[Aula 1-6]
+
+318
+00:22:42,435 --> 00:22:45,670
+- Oye, vámonos.
+- Está bien.
+
+319
+00:22:45,670 --> 00:22:47,338
+Vamos.
+
+320
+00:22:51,610 --> 00:22:53,110
+Hola.
+
+321
+00:22:55,414 --> 00:22:56,848
+¿Ah, Beomseok?
+
+322
+00:22:56,848 --> 00:22:58,283
+Sí.
+
+323
+00:22:58,283 --> 00:23:00,385
+¿De dónde eres?
+
+324
+00:23:00,385 --> 00:23:03,188
+Me transferí de la escuela secundaria Moonkang.
+
+325
+00:23:04,190 --> 00:23:06,591
+Él es un niño rico.
+
+326
+00:23:08,027 --> 00:23:09,794
+¿Conoces a Jiwon en Moonkang?
+
+327
+00:23:09,794 --> 00:23:11,830
+Somos mejores amigos.
+
+328
+00:23:13,132 --> 00:23:15,867
+No, realmente no.
+
+329
+00:23:15,867 --> 00:23:17,703
+¿No conoces a Jiwon?
+
+330
+00:23:18,270 --> 00:23:20,305
+¿No conoces a Han Jiwon?
+
+331
+00:23:21,807 --> 00:23:25,777
+Creo que he oído el nombre, pero no estoy muy seguro.
+
+332
+00:23:38,891 --> 00:23:40,291
+Mover.
+
+333
+00:23:42,795 --> 00:23:44,295
+Ese es mi asiento.
+
+334
+00:23:46,265 --> 00:23:48,065
+No quiero.
+
+335
+00:23:56,275 --> 00:23:58,075
+Dije moverse.
+
+336
+00:24:01,013 --> 00:24:03,715
+Debes estar loco, maldita sea.
+
+337
+00:24:13,526 --> 00:24:16,161
+¿Por qué sois todos tan ruidosos estos días?
+
+338
+00:24:16,161 --> 00:24:18,430
+Me despertaste de mi siesta.
+
+339
+00:24:19,298 --> 00:24:21,332
+¿Puedo dormir en paz?
+
+340
+00:24:21,332 --> 00:24:22,834
+¿Por favor?
+
+341
+00:24:26,105 --> 00:24:27,805
+No me presiones
+
+342
+00:24:53,799 --> 00:24:55,701
+- ¡Salud!
+- ¡Salud!
+
+343
+00:24:58,437 --> 00:25:00,472
+Vamos, Yeongbin. Tómate una copa.
+
+344
+00:25:00,472 --> 00:25:02,707
+Tiene razón. ¿Por qué no bebes?
+
+345
+00:25:02,707 --> 00:25:05,677
+Tengo exámenes simulados la semana que viene, idiotas.
+
+346
+00:25:06,412 --> 00:25:10,081
+Estudia mucho y consigue que una gran empresa te contrate.
+
+347
+00:25:11,617 --> 00:25:14,884
+Hola, Yeongbin. ¿No está Sieun actuando de forma loca estos días?
+
+348
+00:25:14,884 --> 00:25:16,621
+Es como si no tuviera miedo.
+
+349
+00:25:16,621 --> 00:25:19,024
+¿Qué iba a hacer con ese bolígrafo?
+
+350
+00:25:19,024 --> 00:25:21,526
+¿Recuerdas cuando nos miraba fijamente la semana pasada?
+
+351
+00:25:21,527 --> 00:25:25,261
+Parecía loco. Casi lo mato.
+
+352
+00:25:25,261 --> 00:25:26,564
+Da igual. No hiciste nada.
+
+353
+00:25:26,565 --> 00:25:29,701
+¡Lo digo en serio! Quería romperle el cuello.
+
+354
+00:25:29,701 --> 00:25:31,937
+¿Qué debemos hacer con Sieun?
+
+355
+00:25:32,538 --> 00:25:35,073
+Nada funciona en él.
+
+356
+00:25:35,841 --> 00:25:40,178
+Nada parece aplastar el alma de ese bastardo.
+
+357
+00:25:43,416 --> 00:25:45,116
+¿Qué pasa con los exámenes?
+
+358
+00:25:46,485 --> 00:25:48,887
+Está obsesionado con sus notas.
+
+359
+00:25:48,887 --> 00:25:51,990
+¿No le destrozaría el alma si nos metiéramos con eso?
+
+360
+00:25:51,990 --> 00:25:53,324
+Es su principal prioridad.
+
+361
+00:25:53,324 --> 00:25:55,761
+¿De qué diablos estás hablando? Cuéntamelo.
+
+362
+00:25:55,761 --> 00:25:58,463
+¿Qué sabrías tú?
+
+363
+00:25:58,463 --> 00:26:02,366
+¿Qué dice esto sobre los sentimientos del sujeto?
+
+364
+00:26:02,366 --> 00:26:04,002
+¿Qué podría ser?
+
+365
+00:26:04,770 --> 00:26:06,705
+Es ansiedad.
+
+366
+00:26:08,874 --> 00:26:10,574
+Se sienten ansiosos.
+
+367
+00:26:11,344 --> 00:26:14,913
+"Incluso una hoja susurrante llega hasta mí".
+
+368
+00:26:21,254 --> 00:26:23,655
+¡Bebamos! ¡Bebamos!
+
+369
+00:26:23,655 --> 00:26:25,023
+Toma, bebe.
+
+370
+00:26:25,023 --> 00:26:27,258
+- Sírveme un poco.
+- Toma.
+
+371
+00:26:27,258 --> 00:26:29,027
+- Hola. Estás aquí.
+- Hola.
+
+372
+00:26:29,027 --> 00:26:30,763
+- Hola.
+- Hola.
+
+373
+00:26:32,097 --> 00:26:33,398
+- Realmente está aquí.
+- Increíble.
+
+374
+00:26:33,398 --> 00:26:36,301
+Es de Cheonan. Son 100.000 wones extra por la distancia.
+
+375
+00:26:36,301 --> 00:26:37,802
+¡Fentanilo! ¡Nuestro salvador!
+
+376
+00:26:37,802 --> 00:26:39,070
+- Paga, Heeji.
+- Es mi primera vez.
+
+377
+00:26:39,070 --> 00:26:40,872
+- Aún no has pagado.
+- Estoy muy emocionada.
+
+378
+00:26:40,872 --> 00:26:42,407
+Hola. Son 100.000 wones extra por el envío.
+
+379
+00:26:42,407 --> 00:26:45,076
+- ¿Eso es todo lo que necesitas?
+- Sí.
+
+380
+00:26:45,076 --> 00:26:46,911
+Simplemente tómalo todo.
+
+381
+00:26:52,118 --> 00:26:55,418
+Aquí, cuéntalo.
+
+382
+00:26:56,789 --> 00:26:58,489
+Confío en ti.
+
+383
+00:26:59,492 --> 00:27:01,393
+Oye, espérame.
+
+384
+00:27:01,393 --> 00:27:03,594
+Tengo una pregunta.
+
+385
+00:27:03,594 --> 00:27:05,997
+Yeongbin, ¿a dónde vas?
+
+386
+00:27:05,997 --> 00:27:08,066
+- Tengo una sesión de tutoría.
+- Maldita sea.
+
+387
+00:27:08,066 --> 00:27:09,667
+Está bien. Déjanos.
+
+388
+00:27:10,670 --> 00:27:11,870
+-Disfrútalo.
+-¡Gracias!
+
+389
+00:27:11,870 --> 00:27:13,137
+- ¿Te vas?
+- ¿En serio?
+
+390
+00:27:13,137 --> 00:27:14,139
+- Oye.
+- ¿En serio?
+
+391
+00:27:14,139 --> 00:27:15,341
+No nos dejes.
+
+392
+00:27:15,341 --> 00:27:17,175
+- ¿Por qué estudia tanto?
+- Déjalo ir.
+
+393
+00:27:17,175 --> 00:27:18,276
+Él siempre fue así.
+
+394
+00:27:18,277 --> 00:27:20,012
+Maldita sea.
+
+395
+00:27:20,012 --> 00:27:21,812
+¿Estas listo?
+
+396
+00:28:10,196 --> 00:28:11,596
+Ey.
+
+397
+00:28:15,601 --> 00:28:17,769
+La tía vino hace poco.
+
+398
+00:28:17,769 --> 00:28:20,105
+Ella dijo que aún no has vuelto a casa.
+
+399
+00:28:20,105 --> 00:28:21,873
+Vaya al grano.
+
+400
+00:28:23,275 --> 00:28:25,543
+La cosa es que...
+
+401
+00:28:25,543 --> 00:28:30,179
+¿Qué pasa si te pones fentanilo en la piel?
+
+402
+00:28:30,179 --> 00:28:32,083
+Como en tu cuello.
+
+403
+00:28:33,819 --> 00:28:36,454
+Definitivamente no es tan potente.
+
+404
+00:28:36,454 --> 00:28:39,157
+Pero es un analgésico, por lo que tu cerebro se volverá confuso.
+
+405
+00:28:40,226 --> 00:28:42,427
+Te vuelves torpe y somnoliento.
+
+406
+00:28:42,427 --> 00:28:45,096
+El vómito es un efecto secundario común.
+
+407
+00:28:45,097 --> 00:28:47,632
+- ¿Por qué lo preguntas?
+- ¿Perdón?
+
+408
+00:28:47,632 --> 00:28:50,702
+Nada. Solo tenía curiosidad.
+
+409
+00:28:53,406 --> 00:28:55,006
+Yoongi.
+
+410
+00:28:55,006 --> 00:28:56,674
+¿Sí?
+
+411
+00:28:56,674 --> 00:28:58,543
+Conozca sus límites.
+
+412
+00:29:00,479 --> 00:29:03,014
+¿De qué estás hablando?
+
+413
+00:29:07,753 --> 00:29:09,153
+Adiós.
+
+414
+00:29:12,124 --> 00:29:15,093
+Ese maldito cabrón. Como si...
+
+415
+00:29:28,207 --> 00:29:30,976
+Hola, Jiwon. ¿Cómo has estado?
+
+416
+00:29:36,682 --> 00:29:39,383
+Esta es la radio 92.9 FM.
+[Papá: ¿Cómo van las cosas?]
+
+417
+00:29:39,383 --> 00:29:42,887
+Hora actual: 11:00. Presentado por JBS.
+
+418
+00:29:42,887 --> 00:29:44,956
+Alto nivel de calidad.
+
+419
+00:29:44,956 --> 00:29:46,057
+[Papá: ¿Cómo van las cosas?]
+
+420
+00:29:46,058 --> 00:29:47,225
+[Bien.]
+
+421
+00:29:47,226 --> 00:29:49,627
+Esta noche, antes de ir a la cama,
+
+422
+00:29:49,627 --> 00:29:53,131
+¿Por qué no llamas a tu familia para demostrarles lo mucho que te importan?
+
+423
+00:29:53,131 --> 00:29:54,732
+Por ahí...
+
+424
+00:30:04,477 --> 00:30:05,977
+Eres...
+
+425
+00:30:07,780 --> 00:30:10,715
+Normalmente nos envían este material a domicilio.
+
+426
+00:30:10,715 --> 00:30:13,163
+No esperes ningún trato directo a partir de ahora.
+
+427
+00:30:16,122 --> 00:30:18,722
+Aquí.
+[Fentanilo]
+
+428
+00:30:19,525 --> 00:30:22,659
+Hola. La persona que compra es una chica.
+
+429
+00:30:26,098 --> 00:30:28,733
+Maldita sea, podría haber estado en grandes problemas.
+
+430
+00:30:30,136 --> 00:30:31,736
+¡Quítate de mi camino!
+
+431
+00:30:33,406 --> 00:30:34,906
+¿Qué?
+
+432
+00:30:35,841 --> 00:30:38,876
+Te dije que te quitaras de mi camino. Estás bloqueando mi camino.
+
+433
+00:30:38,876 --> 00:30:41,246
+Me estás poniendo de los nervios, bastardo.
+
+434
+00:30:41,246 --> 00:30:42,947
+¿Tienes un deseo de muerte?
+
+435
+00:30:43,749 --> 00:30:46,985
+¿Qué estás mirando?
+
+436
+00:30:51,991 --> 00:30:53,391
+Ey.
+
+437
+00:30:54,260 --> 00:30:55,827
+Deja de mirar fijamente.
+
+438
+00:30:58,030 --> 00:31:02,300
+Deja de mirarme antes de que te rompa la cara, bastardo.
+
+439
+00:31:04,070 --> 00:31:05,637
+¿Para qué fue eso?
+
+440
+00:31:06,572 --> 00:31:08,172
+Dejar.
+
+441
+00:31:16,449 --> 00:31:18,517
+Sepa con quién se está metiendo.
+
+442
+00:31:18,517 --> 00:31:20,785
+Estaba a punto de apuñalarte.
+
+443
+00:31:22,355 --> 00:31:24,189
+[Examen simulado: D-1]
+
+444
+00:31:37,703 --> 00:31:39,571
+Oye, estás aquí.
+
+445
+00:31:47,480 --> 00:31:50,448
+Beomseok, nuestro maestro quiere verte.
+
+446
+00:31:51,550 --> 00:31:54,686
+- ¿Qué?
+- Nuestra profesora quiere verte.
+
+447
+00:32:12,271 --> 00:32:13,871
+Bebe esto
+
+448
+00:32:14,740 --> 00:32:16,975
+Está bien, gracias.
+
+449
+00:32:26,418 --> 00:32:31,018
+Por cierto, escuché que lo pasaste bastante mal en Moonkang.
+
+450
+00:32:34,827 --> 00:32:37,329
+Hablé con Jiwon anoche.
+
+451
+00:32:38,731 --> 00:32:40,331
+¿Qué?
+
+452
+00:32:41,133 --> 00:32:43,902
+Dijo que allí te golpeaban todo el tiempo.
+
+453
+00:32:44,403 --> 00:32:45,903
+¡Qué bien!
+
+454
+00:32:48,174 --> 00:32:50,242
+¿Fue por eso que te transfirieron?
+
+455
+00:32:50,242 --> 00:32:52,144
+¿Como un maldito perdedor?
+
+456
+00:32:57,183 --> 00:32:58,983
+No me malinterpretes.
+
+457
+00:32:58,983 --> 00:33:01,753
+No estoy tratando de intimidarte.
+
+458
+00:33:01,753 --> 00:33:03,822
+Sólo digo que deberíamos ser amigos.
+
+459
+00:33:06,459 --> 00:33:08,159
+Tomar el asiento.
+
+460
+00:33:10,363 --> 00:33:11,963
+Bueno.
+
+461
+00:33:18,838 --> 00:33:20,639
+¿No estás agradecido?
+
+462
+00:33:23,676 --> 00:33:27,079
+Guardaré tu secreto y elijo ser tu amigo.
+
+463
+00:33:29,615 --> 00:33:31,515
+Bien.
+
+464
+00:33:31,515 --> 00:33:33,384
+Gracias.
+
+465
+00:33:33,384 --> 00:33:38,120
+Si estás tan agradecido necesito que me hagas un favor.
+
+466
+00:33:42,595 --> 00:33:44,395
+¿Qué es?
+
+467
+00:33:46,999 --> 00:33:48,599
+Tómalo.
+
+468
+00:33:55,508 --> 00:33:58,448
+Ya sabes que la sección de literatura coreana lleva tiempo, ¿verdad?
+
+469
+00:33:58,448 --> 00:33:59,944
+- Sí, señora.
+- Sí, señora.
+
+470
+00:33:59,944 --> 00:34:01,713
+Distribuye bien tu tiempo.
+
+471
+00:34:01,713 --> 00:34:03,615
+- Sí, señora.
+- Sí, señora.
+
+472
+00:34:03,615 --> 00:34:05,517
+Y no hagas trampa.
+
+473
+00:34:05,517 --> 00:34:07,118
+- Sí, señora.
+- Está bien.
+
+474
+00:34:07,118 --> 00:34:09,287
+¡Sí, señora!
+
+475
+00:34:57,269 --> 00:34:59,338
+Había un insecto volando por ahí.
+
+476
+00:35:01,040 --> 00:35:04,307
+Oye. ¿Qué estás haciendo?
+
+477
+00:35:04,307 --> 00:35:06,076
+Ojos hacia adelante.
+
+478
+00:35:21,127 --> 00:35:23,061
+Definitivamente no es tan potente.
+
+479
+00:35:23,061 --> 00:35:25,563
+Pero es un analgésico, por lo que tu cerebro se volverá confuso.
+
+480
+00:35:25,563 --> 00:35:27,966
+Te vuelves torpe y somnoliento.
+
+481
+00:35:27,966 --> 00:35:30,102
+El vómito es un efecto secundario común.
+
+482
+00:35:39,278 --> 00:35:42,647
+En la expresión literaria, el objeto que se expresa puede ser representado
+
+483
+00:35:42,647 --> 00:35:44,849
+por otros objetos o ideas relacionados.
+
+484
+00:35:44,849 --> 00:35:47,485
+Es decir, el atributo del objeto
+
+485
+00:35:47,485 --> 00:35:50,555
+o sólo una parte de un objeto puede representar el todo.
+
+486
+00:35:50,556 --> 00:35:53,592
+Estos diversos métodos de expresión...
+
+487
+00:36:04,303 --> 00:36:07,272
+Oye. ¿A dónde vas?
+
+488
+00:37:19,779 --> 00:37:21,146
+¿Qué fue eso?
+
+489
+00:37:21,146 --> 00:37:22,747
+¿Qué le pasa?
+
+490
+00:37:29,755 --> 00:37:32,590
+¿Qué estás haciendo? ¿Qué pasa?
+
+491
+00:37:45,738 --> 00:37:48,807
+Hola. ¿Qué pasa?
+
+492
+00:37:53,546 --> 00:37:55,146
+No es nada.
+
+493
+00:37:58,060 --> 00:37:58,884
+[Parte en idioma coreano]
+[Respuestas]
+
+494
+00:37:58,884 --> 00:38:00,552
+- Dos.
+- ¡Está bien!
+
+495
+00:38:00,553 --> 00:38:02,353
+- Cinco.
+- ¿Cuántas acertaste?
+
+496
+00:38:02,353 --> 00:38:03,934
+- Tengo tres correctas.
+- Cinco.
+
+497
+00:38:03,934 --> 00:38:06,323
+- Lo siguiente son estudios sociales.
+- Está bien.
+
+498
+00:38:10,296 --> 00:38:13,796
+Uno. Uno.
+
+499
+00:38:13,796 --> 00:38:14,899
+- Cinco.
+- ¿Cinco?
+
+500
+00:38:14,899 --> 00:38:16,600
+Cuatro.
+
+501
+00:38:16,600 --> 00:38:19,669
+Cinco. Cinco.
+
+502
+00:38:19,669 --> 00:38:21,005
+Cuatro.
+
+503
+00:38:21,707 --> 00:38:22,607
+Dos.
+
+504
+00:38:22,607 --> 00:38:24,142
+- ¿Qué? ¿Dos?
+- Vamos.
+
+505
+00:38:24,142 --> 00:38:26,143
+Cinco.
+
+506
+00:38:26,143 --> 00:38:28,145
+Cuatro.
+
+507
+00:38:28,145 --> 00:38:30,047
+Tres.
+
+508
+00:38:30,047 --> 00:38:31,749
+Uno.
+
+509
+00:38:31,751 --> 00:38:32,819
+Cuatro.
+
+510
+00:38:32,819 --> 00:38:34,953
+Confuso, ¿verdad?
+
+511
+00:38:34,953 --> 00:38:36,821
+- No pude entenderlo.
+- Aquí...
+
+512
+00:38:36,821 --> 00:38:38,122
+Ey.
+
+513
+00:38:43,863 --> 00:38:46,731
+- ¿Qué pasa?
+- No lo sé.
+
+514
+00:38:59,545 --> 00:39:01,380
+Miedo, mira...
+
+515
+00:39:02,014 --> 00:39:03,982
+No es lo que piensas
+
+516
+00:39:26,572 --> 00:39:27,972
+Segunda ley de Newton.
+
+517
+00:39:27,972 --> 00:39:30,709
+La fuerza es proporcional a la masa y la aceleración.
+
+518
+00:39:33,145 --> 00:39:37,949
+La fuerza centrífuga sobre un objeto creará una fuerza mayor en el momento del impacto.
+
+519
+00:39:44,890 --> 00:39:46,892
+¡Maldito psicópata!
+
+520
+00:39:54,766 --> 00:39:56,434
+Espera un segundo.
+
+521
+00:40:31,003 --> 00:40:33,138
+Te lo pedí amablemente.
+
+522
+00:40:34,507 --> 00:40:36,241
+Te pedí que pararas.
+
+523
+00:40:48,654 --> 00:40:50,421
+No cruces la línea.
+
+524
+00:40:50,421 --> 00:40:52,257
+Eso es suficiente.
+
+525
+00:40:55,961 --> 00:40:57,761
+- ¿Quién te crees que eres?
+- ¿Yo?
+
+526
+00:40:57,761 --> 00:41:01,533
+Piensen en mí como un ángel guardián que se despertó de una siesta.
+
+527
+00:41:05,604 --> 00:41:07,204
+¿Esto te parece gracioso?
+
+528
+00:41:09,108 --> 00:41:10,842
+Sí, un poquito.
+
+529
+00:41:30,130 --> 00:41:32,310
+♫ Sí ♫
+
+530
+00:41:35,780 --> 00:41:42,380
+♫ Palabra, Nudillo de Bronce, haz la maldita cosa ♫
+
+531
+00:41:42,380 --> 00:41:45,990
+♫ No voy a explicar nada sobre moda, sobre Instagram ♫
+
+532
+00:41:45,990 --> 00:41:48,430
+♫ Sobre el significado de mi nombre en cada entrevista ♫
+
+533
+00:41:48,430 --> 00:41:50,890
+♫ Un estilo que los maestros pueden seguir ♫
+
+534
+00:41:50,890 --> 00:41:53,410
+♫ La diferencia fundamental de un león macho ♫
+
+535
+00:41:53,410 --> 00:41:56,120
+♫ El hermano mayor que se acortó los pantalones del uniforme escolar ♫
+
+536
+00:41:56,120 --> 00:41:58,600
+♫ Nunca se sabe el sabor propio de Dongne ♫
+
+537
+00:41:58,600 --> 00:42:00,860
+♫ Rebelión sin razón, quita tus manos ♫
+
+538
+00:42:00,860 --> 00:42:03,590
+♫ Si no son las dos esposas seleccionadas, es un Rolex ♫
+
+539
+00:42:03,590 --> 00:42:06,130
+♫ Martin Ødegaard, el balón flota sobre sus cabezas ♫
+
+540
+00:42:06,130 --> 00:42:08,120
+♫ Entonces pensé en el próximo giro de Marsella ♫
+
+541
+00:42:08,120 --> 00:42:10,740
+♫ Es bastante simple, las reglas están en el suelo ♫
+
+542
+00:42:10,740 --> 00:42:13,540
+♫ Si no quieres que te pisoteen, demuéstralo todo y avanza ♫
+
+543
+00:42:13,540 --> 00:42:15,950
+♫ Sube al techo, toc-toc, baja las piernas, cruje ♫
+
+544
+00:42:15,950 --> 00:42:18,430
+♫ Salida inesperada para un mochilero ♫
+
+545
+00:42:18,430 --> 00:42:20,620
+♫ Estoy jugando con canicas azules en tu área ♫
+
+546
+00:42:20,620 --> 00:42:23,650
+♫ Es demasiado obvio que te echen, no hay más espacio ♫
+
+547
+00:42:23,650 --> 00:42:28,660
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+548
+00:42:28,660 --> 00:42:30,830
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+549
+00:42:30,830 --> 00:42:33,680
+♫ Una postura que ahora es una pesadilla para algunas personas ♫
+
+550
+00:42:33,680 --> 00:42:38,510
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+551
+00:42:38,510 --> 00:42:40,400
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+552
+00:42:40,400 --> 00:42:42,780
+♫ Un buen chico que se volvió malo ♫
+
+553
+00:42:42,780 --> 00:42:45,220
+♫ He leído todas tus letras, es hora de asumir la responsabilidad ♫
+
+554
+00:42:45,220 --> 00:42:47,830
+♫ Fiebre de ídolos, tengo K2 en la boca ♫
+
+555
+00:42:47,830 --> 00:42:50,300
+♫ Decide dónde estás antes de convertirte en una colmena ♫
+
+556
+00:42:50,300 --> 00:42:52,130
+♫ Miniaturas que se volverán insoportables ♫
+
+557
+00:42:52,130 --> 00:42:54,650
+♫ Si no quieres morderte el cuello, muérdelo ♫
+
+558
+00:42:54,650 --> 00:42:57,190
+♫ Te rompen el cuello, malditos sean ♫
+
+559
+00:42:57,190 --> 00:42:59,660
+♫ La prohibición de acceso aquí es caliente, caliente, caliente ♫
+
+560
+00:42:59,660 --> 00:43:01,970
+♫ Tráelos a todos y ponlos en cámara ♫
+
+561
+00:43:01,970 --> 00:43:05,700
+♫ Huele a espíritu adolescente, ojo por ojo, este cabello es helado ♫
+
+562
+00:43:05,700 --> 00:43:08,050
+♫ Ojos rasgados, piel amarilla, pero ya sabes ♫
+
+563
+00:43:08,050 --> 00:43:10,080
+♫ ¿Por qué te sientas correctamente? ♫
+
+564
+00:43:10,080 --> 00:43:12,500
+♫ Temuchin sobre la línea de fondo del bombo ♫
+
+565
+00:43:12,500 --> 00:43:14,940
+♫ Brass Knuckle, apuesto cada vez que peleo ♫
+
+566
+00:43:14,940 --> 00:43:17,430
+♫ Shawn Michaels, yo soy el rey del estruendo ♫
+
+567
+00:43:17,430 --> 00:43:19,890
+♫ Dulce música de Chin, sobre la cuerda superior ♫
+
+568
+00:43:19,890 --> 00:43:23,040
+♫ Esto es lo que hago todos los días, pero tú no me escuchas ♫
+
+569
+00:43:23,040 --> 00:43:27,950
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+570
+00:43:27,950 --> 00:43:30,110
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+571
+00:43:30,110 --> 00:43:32,990
+♫ Una postura que ahora es una pesadilla para algunas personas ♫
+
+572
+00:43:32,990 --> 00:43:37,920
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+573
+00:43:37,920 --> 00:43:39,830
+♫ Brass Knuckle, haz la maldita cosa ♫
+
+574
+00:43:39,830 --> 00:43:43,070
+♫ Un buen chico que se volvió malo ♫
+
+575
+00:43:43,710 --> 00:43:45,510
+♫ Juego temporal ♫
