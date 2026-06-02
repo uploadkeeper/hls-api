@@ -1,0 +1,4106 @@
+1
+00:00:01,106 --> 00:00:02,649
+[♪ musique entraînante]
+
+2
+00:00:30,427 --> 00:00:34,056
+MÉDECIN AU BORD DU MONDE
+
+3
+00:00:44,149 --> 00:00:46,902
+CECI EST UNE ŒUVRE DE FICTION.
+CERTAINES SCÈNES ONT ÉTÉ GÉNÉRÉES PAR IA.
+
+4
+00:00:46,985 --> 00:00:49,071
+LES ENFANTS ACTEURS ET LES ANIMAUX
+ONT ÉTÉ FILMÉS EN TOUTE SÉCURITÉ
+
+5
+00:00:49,154 --> 00:00:50,364
+[♪ musique de marche]
+
+6
+00:00:50,447 --> 00:00:53,241
+LE BERCEAU DES SOLDATS D'ÉLITE
+
+7
+00:00:57,704 --> 00:00:59,623
+- Compagnie, attention !
+- [Soldats] Attention !
+
+8
+00:01:00,832 --> 00:01:04,586
+[agent 1] Je me fiche de savoir quel genre de
+personnes vous étiez dehors.
+
+9
+00:01:05,379 --> 00:01:09,508
+La seule chose qui m'intéresse,
+c'est de faire de vous de vrais soldats.
+
+10
+00:01:10,092 --> 00:01:12,928
+Alors, donnez le meilleur de vous-même
+à l'entraînement. Compris ?
+
+11
+00:01:13,011 --> 00:01:14,471
+[soldats] Compris, monsieur !
+
+12
+00:01:14,554 --> 00:01:16,640
+C'était pathétique !
+Tout le monde à terre !
+
+13
+00:01:17,391 --> 00:01:19,184
+[Soldats] À terre !
+
+14
+00:01:20,977 --> 00:01:23,980
+[Officier 1] Sur le premier : « Je le ferai. »
+Sur le deuxième : « Chantez plus fort. »
+
+15
+00:01:24,064 --> 00:01:25,941
+-Un !
+-[soldats] Je le ferai !
+
+16
+00:01:26,024 --> 00:01:27,025
+-[officier 1] Deux !
+-Chantez plus fort !
+
+17
+00:01:27,109 --> 00:01:28,694
+[officier 1] C'est tout ce que vous pouvez faire de mieux ?
+
+18
+00:01:28,777 --> 00:01:30,487
+-Un !
+-[soldats] Je le ferai !
+
+19
+00:01:30,570 --> 00:01:32,155
+-Deux !
+-Chantez plus fort !
+
+20
+00:01:32,239 --> 00:01:33,448
+-Un !
+-Je le ferai !
+
+21
+00:01:33,532 --> 00:01:34,908
+-Deux !
+-Chantez plus fort !
+
+22
+00:01:34,991 --> 00:01:36,535
+-Un !
+-Je le ferai !
+
+23
+00:01:36,618 --> 00:01:40,288
+[narrateur] Les hommes coréens ont le devoir
+de servir dans l'armée.
+
+24
+00:01:40,372 --> 00:01:41,373
+[Soldats] Chantez plus fort !
+
+25
+00:01:48,296 --> 00:01:50,632
+[agent 2] Qu'est-ce que vous croyez
+faire, à vous maquiller ?
+
+26
+00:01:50,715 --> 00:01:52,092
+Toutes les troupes, debout !
+
+27
+00:01:53,677 --> 00:01:55,595
+Jusqu'au panneau indicateur et retour !
+
+28
+00:01:55,679 --> 00:01:57,097
+Courir!
+
+29
+00:01:58,807 --> 00:02:00,267
+[officier 3] Plus vite !
+
+30
+00:02:01,143 --> 00:02:02,936
+[narrateur] Notre Credo.
+
+31
+00:02:04,187 --> 00:02:06,648
+Un. Nous défendons la démocratie libérale.
+
+32
+00:02:06,731 --> 00:02:08,150
+et contribuer à la réunification de la nation.
+
+33
+00:02:12,863 --> 00:02:18,326
+Deuxièmement, nous nous entraînons comme en situation de combat réel
+et devenons victorieux dans la guerre terrestre.
+
+34
+00:02:18,410 --> 00:02:19,411
+[soldats] Un !
+
+35
+00:02:20,412 --> 00:02:21,413
+Deux!
+
+36
+00:02:21,913 --> 00:02:23,540
+-[soldats] Trois !
+-[grognements]
+
+37
+00:02:23,623 --> 00:02:24,791
+[soldats] Quatre !
+
+38
+00:02:25,459 --> 00:02:27,294
+[Gémissements] Mais qu'est-ce que c'est que ça ?
+
+39
+00:02:29,004 --> 00:02:30,714
+Monsieur, c'est un rocher !
+
+40
+00:02:30,797 --> 00:02:33,133
+Sans blague, abruti !
+Évidemment que c'est un caillou.
+
+41
+00:02:33,216 --> 00:02:36,136
+-Je crois que je me suis fait mal au dos. Au secours !
+-[soldat 1] Allez, tais-toi.
+
+42
+00:02:36,219 --> 00:02:37,846
+-Au secours !
+-[soldat 2] Hé, mec. Tais-toi !
+
+43
+00:02:37,929 --> 00:02:38,930
+-Pourquoi moi !
+-[officier 3] Deux !
+
+44
+00:02:39,014 --> 00:02:40,015
+Comme ça?
+
+45
+00:02:40,098 --> 00:02:41,600
+-[officier 3] Un !
+-Pourquoi suis-je !
+
+46
+00:02:41,683 --> 00:02:43,101
+-Deux !
+-Comme ça ?
+
+47
+00:02:43,185 --> 00:02:44,561
+-[officier 3] Un !
+-Pourquoi suis-je !
+
+48
+00:02:44,644 --> 00:02:46,188
+-[officier 3] Deux !
+-Comme ça ?
+
+49
+00:02:46,271 --> 00:02:48,440
+-[officier 3] Nous !
+-On peut le faire !
+
+50
+00:02:48,523 --> 00:02:50,525
+-Nous
+pouvons le faire ! -
+
+51
+00:02:50,609 --> 00:02:52,027
+-Pied gauche !
+-[personne 1] Trois.
+
+52
+00:02:52,736 --> 00:02:54,654
+-[officier 3] Pied gauche !
+-[narrateur] Nous respectons le règlement…
+
+53
+00:02:54,738 --> 00:02:56,198
+[officier 3] Il reste trente secondes pour manger !
+
+54
+00:02:56,281 --> 00:02:58,033
+…et obéir aux ordres de nos supérieurs.
+
+55
+00:02:58,116 --> 00:03:00,202
+[Agent 3] Quiconque laissera des restes
+le regrettera. Compris ?
+
+56
+00:03:00,285 --> 00:03:01,369
+[soldats] Oui, monsieur !
+
+57
+00:03:07,292 --> 00:03:09,628
+Je peux… [gémissements, halètements]
+
+58
+00:03:11,129 --> 00:03:12,380
+…fais-le!
+
+59
+00:03:12,964 --> 00:03:15,884
+Je peux… [tendances]
+
+60
+00:03:19,012 --> 00:03:20,013
+Monsieur!
+
+61
+00:03:20,847 --> 00:03:22,974
+S'il vous plaît aidez-moi!
+
+62
+00:03:23,058 --> 00:03:25,727
+Il faudra bien plus que cela
+pour sauver notre nation !
+
+63
+00:03:28,063 --> 00:03:29,648
+[halètement]
+
+64
+00:03:31,816 --> 00:03:35,028
+[narrateur] Je ne peux pas le sauver parce que…
+
+65
+00:03:36,571 --> 00:03:37,906
+Je ne suis pas soldat.
+
+66
+00:03:38,698 --> 00:03:41,201
+[♪ musique de marche]
+
+67
+00:03:41,284 --> 00:03:43,161
+INSTRUCTEUR ADJOINT
+
+68
+00:03:43,245 --> 00:03:46,873
+MUR DE CONFIANCE MUR
+INCLINÉ ÉCHELLE
+
+69
+00:03:53,255 --> 00:03:54,339
+Oh.
+
+70
+00:03:54,422 --> 00:03:56,132
+-[Les deux grognent]
+-[Les soldats s'exclament]
+
+71
+00:03:56,216 --> 00:03:57,926
+-[Craquements d'os]
+-[Halètements des soldats]
+
+72
+00:03:58,009 --> 00:04:00,887
+— Hé ! On n'a pas un médecin ici ?
+— [L'instructeur adjoint gémit]
+
+73
+00:04:03,390 --> 00:04:04,516
+[assistant 1] Bougez !
+
+74
+00:04:05,100 --> 00:04:06,226
+Hé, pousse !
+
+75
+00:04:07,310 --> 00:04:09,062
+Attendez ! Vous ne devriez pas le déplacer comme ça.
+
+76
+00:04:09,145 --> 00:04:10,939
+[L'assistant instructeur gémit]
+STYLE
+::cue()
+
+77
+00:04:14,693 --> 00:04:17,153
+[Respiration haletante] C'est une fracture.
+Y a-t-il des chirurgiens orthopédistes ?
+
+78
+00:04:17,237 --> 00:04:18,863
+[Bégaiement] Je suis chirurgien orthopédiste.
+
+79
+00:04:20,532 --> 00:04:21,825
+-Veuillez jeter un coup d'œil.
+-D'accord.
+
+80
+00:04:21,908 --> 00:04:24,661
+[chirurgien orthopédique]
+Monsieur, je vais appliquer une pression ici.
+
+81
+00:04:24,744 --> 00:04:27,205
+- Ressentez-vous quelque chose ?
+- Comment va le patient ?
+
+82
+00:04:27,289 --> 00:04:29,875
+[soldat 1] Pas de fractures,
+mais la lacération est profonde.
+
+83
+00:04:29,958 --> 00:04:32,544
+Il faut l'irriguer et la suturer
+avant qu'elle ne s'infecte.
+
+84
+00:04:33,920 --> 00:04:36,006
+Avons-nous de l'alcool
+et une solution saline ?
+
+85
+00:04:40,594 --> 00:04:42,721
+Ne froncez pas les sourcils,
+sinon la plaie risque de se rouvrir.
+
+86
+00:04:42,804 --> 00:04:43,805
+Tenez bon.
+
+87
+00:04:43,889 --> 00:04:45,849
+Passez-moi la solution saline. Vite.
+
+88
+00:04:45,932 --> 00:04:47,726
+Veuillez lui maintenir les mains.
+
+89
+00:04:53,690 --> 00:04:56,902
+[narrateur] Je suis médecin de santé publique
+et je dois effectuer un mandat de trois ans.
+
+90
+00:04:57,652 --> 00:05:03,158
+dans les zones médicalement sous-desservies,
+en remplacement du service militaire régulier.
+
+91
+00:05:03,241 --> 00:05:05,535
+MÉDECIN DE SANTÉ PUBLIQUE
+
+92
+00:05:07,495 --> 00:05:09,080
+Il s'agit d'une fracture fermée du bras gauche.
+
+93
+00:05:09,164 --> 00:05:10,582
+D'accord.
+
+94
+00:05:10,665 --> 00:05:14,628
+— Tu sens quelque chose au bout des doigts ?
+— Non, je ne sens rien. [gémissements]
+
+95
+00:05:14,711 --> 00:05:18,214
+Monsieur, cela vous dérangerait-il
+si je suturais cette lacération ?
+
+96
+00:05:18,298 --> 00:05:20,592
+Euh… Vous pourriez faire ça pour moi ?
+
+97
+00:05:25,597 --> 00:05:26,598
+[Patient] Attendez.
+
+98
+00:05:26,681 --> 00:05:27,682
+Oui?
+
+99
+00:05:28,558 --> 00:05:30,393
+Est-ce que cela laisserait une cicatrice sur mon visage ?
+
+100
+00:05:31,269 --> 00:05:32,854
+Je suis un acteur en herbe.
+
+101
+00:05:33,647 --> 00:05:34,898
+Si j'avais une cicatrice sur le visage…
+
+102
+00:05:35,482 --> 00:05:37,150
+Vous n'avez pas à vous en soucier.
+
+103
+00:05:37,233 --> 00:05:39,819
+C'est un chirurgien plasticien certifié, exerçant
+dans un hôpital universitaire.
+
+104
+00:05:39,903 --> 00:05:41,321
+Il fera en sorte qu'il n'y ait aucune cicatrice.
+
+105
+00:05:41,404 --> 00:05:43,031
+[soupirs]
+
+106
+00:05:43,114 --> 00:05:44,908
+-Merci.
+-De rien.
+
+107
+00:05:45,825 --> 00:05:47,744
+-Veuillez tourner un peu la tête.
+-D'accord.
+
+108
+00:05:54,626 --> 00:05:56,628
+[♪ douce musique]
+
+109
+00:07:25,133 --> 00:07:27,051
+Veillez à ne pas y mettre d'eau.
+
+110
+00:07:27,135 --> 00:07:30,138
+Il faudra le panser tous les jours
+jusqu'à ce que les points de suture soient retirés.
+
+111
+00:07:30,889 --> 00:07:34,768
+Honnêtement, je trouvais
+les médecins de PH pitoyables.
+
+112
+00:07:35,518 --> 00:07:38,104
+Je ne pouvais m'empêcher de me demander
+comment ils étaient devenus médecins.
+
+113
+00:07:38,188 --> 00:07:40,190
+alors qu'ils étaient même incapables
+de faire un exercice correctement.
+
+114
+00:07:40,273 --> 00:07:42,567
+[Rires] Eh bien, nous sommes plus habitués
+à étudier à un bureau, alors…
+
+115
+00:07:42,650 --> 00:07:44,444
+Mais je me suis trompé.
+
+116
+00:07:45,069 --> 00:07:48,281
+La façon dont vous avez couru vers nous
+sans la moindre hésitation…
+
+117
+00:07:49,699 --> 00:07:51,326
+Vous étiez comme des super-héros.
+
+118
+00:07:51,409 --> 00:07:54,662
+IL EST DE NOTRE DEVOIR
+DE SAUVER LA VIE DE NOS CAMARADES
+
+119
+00:07:54,746 --> 00:07:55,789
+Merci.
+
+120
+00:07:55,872 --> 00:07:57,540
+CASE PÉNALE DU 2E BATAILLON D'ENTRAÎNEMENT
+
+121
+00:07:57,624 --> 00:07:59,417
+Où comptez-vous postuler ?
+
+122
+00:08:00,418 --> 00:08:02,545
+Bon,
+les choses ne se passeraient pas comme je le voulais.
+
+123
+00:08:02,629 --> 00:08:04,631
+puisque tout dépend du hasard.
+
+124
+00:08:04,714 --> 00:08:05,965
+Je me sens bien partout sauf sur une île.
+
+125
+00:08:06,049 --> 00:08:07,759
+C'est vrai. Les îles sont les pires.
+
+126
+00:08:08,593 --> 00:08:11,471
+Mais si vous finissez par y aller,
+méfiez-vous de trois choses.
+
+127
+00:08:12,889 --> 00:08:15,016
+Trois choses ?
+
+128
+00:08:15,099 --> 00:08:16,476
+Quelles sont ces trois choses ?
+
+129
+00:08:16,559 --> 00:08:17,977
+C'est juste quelque chose que j'ai entendu.
+
+130
+00:08:18,061 --> 00:08:21,064
+On dit qu'il y a trois choses
+qui peuvent transformer votre vie en un véritable enfer.
+
+131
+00:08:21,147 --> 00:08:24,484
+Des incidents, des gens et de l'amour.
+
+132
+00:08:24,567 --> 00:08:27,445
+Et si vous vous laissez prendre aux trois,
+vous n'en sortirez jamais.
+STYLE
+::cue()
+
+133
+00:08:29,697 --> 00:08:34,911
+Incidents, gens et amour ?
+
+134
+00:08:37,956 --> 00:08:39,749
+[officier 4] Recrues !
+
+135
+00:08:39,833 --> 00:08:41,376
+Lequel d'entre vous discutait ?
+
+136
+00:08:41,459 --> 00:08:43,628
+- Je suis désolé, monsieur !
+- Pourquoi êtes-vous habillé comme ça ?
+
+137
+00:08:43,711 --> 00:08:44,796
+Où est ta casquette ?
+
+138
+00:08:44,879 --> 00:08:46,965
+Ma casquette ? Oh, ma casquette…
+
+139
+00:08:47,048 --> 00:08:48,174
+[officier 4] Mais enfin, petit !
+
+140
+00:08:48,258 --> 00:08:50,885
+-À terre !
+-[soldats] À terre !
+
+141
+00:08:52,011 --> 00:08:55,306
+Sur le premier, « Code vestimentaire ».
+Sur le deuxième, « Violation ». Un !
+
+142
+00:08:55,390 --> 00:08:56,516
+[tous] Code vestimentaire !
+
+143
+00:08:56,599 --> 00:08:58,476
+-Deux !
+-Violation !
+
+144
+00:08:58,560 --> 00:09:00,645
+-Un !
+-Code vestimentaire !
+
+145
+00:09:00,728 --> 00:09:02,897
+-Deux !
+-Violation !
+
+146
+00:09:02,981 --> 00:09:04,107
+-Un !
+-Code vestimentaire !
+
+147
+00:09:04,190 --> 00:09:05,191
+[docteur] Impossible.
+
+148
+00:09:06,067 --> 00:09:07,986
+Il n'y a aucune chance que je me retrouve sur une île.
+
+149
+00:09:08,695 --> 00:09:10,864
+Je ne peux pas être aussi malchanceux.
+
+150
+00:09:17,704 --> 00:09:18,830
+JE…
+
+151
+00:09:19,497 --> 00:09:20,707
+Quelle malchance !
+
+152
+00:09:20,790 --> 00:09:22,167
+[sonnerie de corne de brume]
+
+153
+00:09:22,250 --> 00:09:23,626
+TRANSPORT MARIN DE YEOPOONG
+
+154
+00:09:23,710 --> 00:09:29,007
+ÉPISODE 1
+LE MÉDECIN ENVOYÉ SUR L'ÎLE
+
+155
+00:09:29,632 --> 00:09:32,177
+Ah bon ? D'accord.
+
+156
+00:09:32,844 --> 00:09:34,846
+Je suppose que je devrais y aller.
+
+157
+00:09:37,974 --> 00:09:39,601
+Je ne pense vraiment pas pouvoir y arriver.
+
+158
+00:09:39,684 --> 00:09:42,187
+Franchement, je ne pense vraiment pas pouvoir y aller.
+
+159
+00:09:43,021 --> 00:09:44,564
+Tu dois partir, abruti.
+
+160
+00:09:44,647 --> 00:09:46,024
+Que pouvez-vous faire d'autre ?
+
+161
+00:09:48,693 --> 00:09:49,694
+Oh, mec…
+
+162
+00:09:50,195 --> 00:09:53,198
+[le téléphone vibre]
+
+163
+00:09:58,786 --> 00:09:59,787
+Salut, Gangseok.
+
+164
+00:09:59,871 --> 00:10:01,122
+Vous partez maintenant ?
+
+165
+00:10:01,206 --> 00:10:02,415
+[docteur] Oui.
+
+166
+00:10:02,498 --> 00:10:03,750
+Vous allez passer un mauvais quart d'heure.
+
+167
+00:10:04,500 --> 00:10:06,711
+-Et vos médicaments ?
+-Pas encore.
+
+168
+00:10:06,794 --> 00:10:09,756
+Ces médicaments peuvent provoquer des effets secondaires
+tels que des pertes de mémoire, des vertiges,
+
+169
+00:10:09,839 --> 00:10:13,384
+et des hallucinations,
+donc ne pas les prendre serait idéal.
+
+170
+00:10:13,468 --> 00:10:14,469
+Je sais.
+
+171
+00:10:15,220 --> 00:10:18,514
+Vous avez entendu les nouvelles concernant Hwayeong, n'est-ce pas ?
+
+172
+00:10:20,308 --> 00:10:23,519
+Salut, donc rien n'a changé
+entre vous deux ?
+
+173
+00:10:23,603 --> 00:10:25,605
+Cela fait longtemps que Seonu est parti.
+
+174
+00:10:26,689 --> 00:10:28,107
+Tant de temps s'est écoulé…
+
+175
+00:10:28,191 --> 00:10:29,651
+Et alors si le temps a passé ?
+
+176
+00:10:31,110 --> 00:10:33,488
+Les cicatrices ne guérissent pas
+avec le temps.
+
+177
+00:10:34,239 --> 00:10:35,365
+Cicatrices…
+
+178
+00:10:37,325 --> 00:10:38,701
+se guérissent avec de l'argent.
+
+179
+00:10:40,578 --> 00:10:43,373
+Si mes cicatrices vous inquiètent,
+fermez-la et ouvrez votre portefeuille.
+
+180
+00:10:44,290 --> 00:10:46,376
+-[Gangseok] Allô ? Jiui.
+-Ouais.
+
+181
+00:10:46,459 --> 00:10:48,461
+-Bonne chance !
+-Merci, Gangseok.
+
+182
+00:10:48,544 --> 00:10:49,545
+Bien sûr.
+
+183
+00:10:50,672 --> 00:10:52,465
+[Sonnerie du cor de navire]
+
+184
+00:10:53,925 --> 00:10:55,510
+[♪ douce musique]
+
+185
+00:11:17,407 --> 00:11:21,536
+[Annonceur au micro] Le navire à destination de
+Pyeongdongdo est en train de partir.
+
+186
+00:11:21,619 --> 00:11:23,329
+Vas-y. Tu dois y aller, espèce de fou furieux.
+
+187
+00:11:23,413 --> 00:11:27,333
+Tous les passagers restants,
+veuillez embarquer à bord du navire maintenant.
+
+188
+00:11:27,417 --> 00:11:29,043
+[♪ musique étrange]
+
+189
+00:11:29,127 --> 00:11:33,381
+Le navire à destination de Pyeongdongdo
+est en train de partir.
+
+190
+00:11:33,965 --> 00:11:36,092
+Tous les passagers restants…
+
+191
+00:11:40,471 --> 00:11:42,473
+[audio déformé]
+
+192
+00:11:50,481 --> 00:11:52,483
+[respiration lourde]
+
+193
+00:11:55,486 --> 00:11:56,821
+S'il te plaît…
+
+194
+00:11:58,364 --> 00:11:59,615
+[halètement]
+
+195
+00:12:01,159 --> 00:12:03,328
+DO JI UI, M
+ELLMARP
+
+196
+00:12:10,043 --> 00:12:11,586
+[Jiui, normal] Deux heures jusqu'à Pyeondongdo.
+
+197
+00:12:14,964 --> 00:12:16,382
+Il me suffit de m'endormir.
+
+198
+00:12:17,675 --> 00:12:19,093
+Il ne se passera rien.
+
+199
+00:12:20,136 --> 00:12:21,220
+Rien.
+STYLE
+::cue()
+
+200
+00:12:36,194 --> 00:12:40,490
+[Sonnerie du cor de navire]
+
+201
+00:12:52,960 --> 00:12:55,338
+[bavardages des passagers]
+
+202
+00:12:55,421 --> 00:12:57,006
+[passager 1] Nous devons clarifier
+nos chiffres.
+
+203
+00:12:57,090 --> 00:12:58,424
+Excusez-moi, jeune homme.
+
+204
+00:12:58,508 --> 00:12:59,509
+Salut, jeune homme.
+
+205
+00:12:59,592 --> 00:13:01,094
+Hé, ouvre les yeux.
+
+206
+00:13:01,803 --> 00:13:03,888
+[passager 2] Jeune homme !
+
+207
+00:13:03,971 --> 00:13:07,183
+Nous avons une question à vous poser.
+
+208
+00:13:07,266 --> 00:13:09,310
+[voix étouffée] Mon ami ici
+n'avait pas d'argent liquide,
+
+209
+00:13:09,394 --> 00:13:12,105
+Elle a donc accepté de nous rembourser plus tard
+et a emprunté…
+
+210
+00:13:12,188 --> 00:13:13,439
+[dialogue déformé]
+
+211
+00:13:15,441 --> 00:13:17,193
+Il reste donc 3 000 wons, n'est-ce pas ?
+
+212
+00:13:17,276 --> 00:13:18,486
+[respire bruyamment]
+
+213
+00:13:19,570 --> 00:13:20,571
+[grognements]
+
+214
+00:13:21,197 --> 00:13:23,408
+[♪ musique étrange]
+
+215
+00:13:40,967 --> 00:13:41,968
+[normal] C'est…
+
+216
+00:13:43,010 --> 00:13:44,178
+dangereux.
+
+217
+00:13:45,638 --> 00:13:47,431
+[respiration lourde]
+
+218
+00:13:53,187 --> 00:13:54,480
+[gémissements]
+
+219
+00:14:08,578 --> 00:14:10,037
+Excusez-moi.
+
+220
+00:14:13,624 --> 00:14:15,126
+Excusez-moi!
+
+221
+00:14:17,795 --> 00:14:19,589
+C'est dangereux. Descendez de là immédiatement.
+
+222
+00:14:19,672 --> 00:14:21,174
+-[Coup de corne de brume]
+-[Jiui] Oh !
+
+223
+00:14:21,257 --> 00:14:23,176
+N'approchez pas davantage.
+
+224
+00:14:23,259 --> 00:14:25,136
+Ne le fais pas. Descends de là !
+
+225
+00:14:45,740 --> 00:14:46,741
+Hé!
+
+226
+00:14:49,702 --> 00:14:50,828
+Non.
+
+227
+00:14:53,664 --> 00:14:56,125
+[♪ musique sombre]
+
+228
+00:15:12,600 --> 00:15:13,893
+Quelqu'un est tombé à la mer !
+
+229
+00:15:13,976 --> 00:15:15,603
+Arrêtez le bateau !
+
+230
+00:15:17,730 --> 00:15:19,774
+J'ai dit que quelqu'un était tombé à la mer !
+
+231
+00:15:44,715 --> 00:15:46,717
+[♪ musique éthérée en fond sonore]
+
+232
+00:16:18,749 --> 00:16:19,792
+[rires]
+STYLE
+::cue()
+
+233
+00:16:36,934 --> 00:16:40,438
+Faites trois pas dehors,
+et vous trouverez des poissons partout.
+
+234
+00:16:40,521 --> 00:16:42,773
+Alors pourquoi regardez-vous
+les poissons dans un aquarium ?
+
+235
+00:16:42,857 --> 00:16:45,818
+Allons, ces gars-là
+sont différents de ceux-là.
+
+236
+00:16:46,736 --> 00:16:49,655
+Ils sont élevés pour la consommation.
+Ceux-là sont faits pour être observés.
+
+237
+00:16:49,739 --> 00:16:51,866
+Ils sont totalement différents.
+
+238
+00:16:53,034 --> 00:16:55,745
+Pourquoi classer les poissons, au juste ?
+
+239
+00:16:55,828 --> 00:16:58,164
+Qu'ils vivent
+dans l'eau de mer ou dans l'eau du robinet,
+
+240
+00:16:58,247 --> 00:17:00,041
+Ils vivent tous dans l'eau de la même manière.
+
+241
+00:17:00,124 --> 00:17:03,419
+Ah oui, c'est vrai.
+Vous avez vu ma demande de congé, n'est-ce pas ?
+
+242
+00:17:03,502 --> 00:17:07,131
+Hé, je t'avais bien dit de faire tes demandes
+au moins trois jours à l'avance, non ?
+
+243
+00:17:07,214 --> 00:17:10,259
+[Claque la langue] Je vais m'en occuper
+cette fois-ci, mais ne laissez plus cela se reproduire.
+
+244
+00:17:11,302 --> 00:17:13,054
+D'accord. Merci.
+
+245
+00:17:15,389 --> 00:17:16,766
+[infirmière 1] Mamie.
+
+246
+00:17:16,849 --> 00:17:18,017
+-Mamie Sunja.
+-[Sunja] Oui ?
+
+247
+00:17:18,100 --> 00:17:19,769
+-Veuillez entrer.
+-D'accord.
+
+248
+00:17:19,852 --> 00:17:21,312
+- C'est cette pièce ?
+- Oui.
+
+249
+00:17:21,395 --> 00:17:24,231
+[infirmière 1] J'ai ouvert la porte,
+il ne vous reste plus qu'à entrer.
+
+250
+00:17:24,315 --> 00:17:26,859
+[infirmière 2] Nous n'avons pas
+encore eu de nouvelles du nouveau médecin, n'est-ce pas ?
+
+251
+00:17:26,942 --> 00:17:28,986
+Non. Ils ont dit que
+le ferry était déjà arrivé.
+
+252
+00:17:29,070 --> 00:17:31,405
+Mmm. Ça devait être un pédalo.
+
+253
+00:17:31,489 --> 00:17:33,908
+[Ricanement] Vous pensez qu'il s'est perdu ?
+
+254
+00:17:33,991 --> 00:17:36,160
+Un médecin brillant qui se perd ?
+
+255
+00:17:36,243 --> 00:17:39,246
+Sur cette minuscule île ?
+
+256
+00:17:39,330 --> 00:17:41,374
+Je vous le dis,
+il a clairement fait un détour.
+
+257
+00:17:41,999 --> 00:17:43,459
+Devrais-je essayer de l'appeler ?
+
+258
+00:17:43,542 --> 00:17:44,543
+Je le ferai.
+
+259
+00:17:46,128 --> 00:17:49,131
+Je vais lui passer un savon et
+le remettre à sa place. [Il s'éclaircit la gorge]
+
+260
+00:17:49,215 --> 00:17:50,591
+CENTRE DE SANTÉ PUBLIQUE
+
+261
+00:17:50,675 --> 00:17:52,134
+[sonnerie de ligne]
+
+262
+00:17:53,386 --> 00:17:56,806
+[sonnerie de téléphone]
+
+263
+00:17:56,889 --> 00:17:58,808
+[ronflements, grognements]
+
+264
+00:17:58,891 --> 00:17:59,892
+Bon sang.
+
+265
+00:18:05,731 --> 00:18:07,191
+Bonjour?
+
+266
+00:18:07,274 --> 00:18:08,484
+[infirmière 2] Docteur Do Jiui ?
+
+267
+00:18:09,777 --> 00:18:10,986
+Oui, qui est-ce ?
+
+268
+00:18:11,654 --> 00:18:14,115
+J'appelle du
+Centre de santé publique de Pyeondongdo.
+
+269
+00:18:15,491 --> 00:18:17,743
+Qu'est-ce que le
+Centre de santé publique de Pyeondongdo ?
+
+270
+00:18:18,953 --> 00:18:20,705
+[On frappe à la porte]
+
+271
+00:18:22,206 --> 00:18:23,791
+Docteur Do Jiui ?
+
+272
+00:18:24,542 --> 00:18:26,210
+[halète, respire bruyamment]
+
+273
+00:18:29,046 --> 00:18:31,048
+[♪ musique enjouée]
+
+274
+00:18:35,511 --> 00:18:39,181
+Mon Dieu, je n'avais aucune idée
+que vous étiez déjà là.
+
+275
+00:18:39,265 --> 00:18:41,517
+Nous vous avons cherché partout.
+
+276
+00:18:41,600 --> 00:18:42,893
+Pouah.
+
+277
+00:18:45,771 --> 00:18:47,523
+[bégaiement] Que s'est-il passé ?
+
+278
+00:18:47,606 --> 00:18:49,150
+[bégaie] Et cette femme ?
+
+279
+00:18:49,233 --> 00:18:50,735
+Est-elle encore en vie ?
+
+280
+00:18:50,818 --> 00:18:52,027
+De quoi parle-t-il ?
+
+281
+00:18:52,528 --> 00:18:54,947
+[Rires] J'imagine que vous avez dû faire
+un rêve assez fou.
+
+282
+00:18:55,990 --> 00:18:57,199
+-Un rêve ?
+-Oh, mon Dieu.
+
+283
+00:18:57,283 --> 00:18:59,910
+J'ai entendu dire que quelqu'un s'était évanoui sur le ferry.
+
+284
+00:18:59,994 --> 00:19:02,121
+J'ai donc pensé que ça pouvait être
+un touriste ou un pêcheur.
+
+285
+00:19:02,204 --> 00:19:03,789
+qui avait trop bu.
+
+286
+00:19:03,873 --> 00:19:06,917
+Je n'aurais jamais imaginé
+que ce serait notre médecin. [Rires]
+
+287
+00:19:07,960 --> 00:19:09,962
+Attendez, c'était donc vraiment un rêve ?
+
+288
+00:19:10,045 --> 00:19:13,132
+Mmm. Ça suffit.
+Il est temps de te réveiller.
+
+289
+00:19:13,215 --> 00:19:14,800
+Je vais vous montrer le centre de santé.
+
+290
+00:19:14,884 --> 00:19:18,095
+Vous serez ici pendant un an,
+alors vous devriez vous familiariser avec les lieux.
+
+291
+00:19:19,221 --> 00:19:20,681
+-D'accord.
+-Allez.
+
+292
+00:19:24,769 --> 00:19:25,770
+Ici.
+
+293
+00:19:26,437 --> 00:19:29,523
+[Cris] Il arrive pile à l'heure.
+Veuillez vous présenter.
+
+294
+00:19:29,607 --> 00:19:32,401
+Voici le docteur Yong Jucheon
+du service de médecine coréenne.
+
+295
+00:19:32,485 --> 00:19:34,612
+Voici notre nouveau chirurgien, le Dr Do Jiui.
+
+296
+00:19:35,196 --> 00:19:36,197
+Bonjour.
+
+297
+00:19:36,280 --> 00:19:37,573
+Oh !
+
+298
+00:19:37,656 --> 00:19:39,366
+Vous avez été amené plus tôt, n'est-ce pas ?
+
+299
+00:19:39,450 --> 00:19:42,369
+[Rires] Alors vous êtes médecin
+affecté ici, hein ?
+
+300
+00:19:42,453 --> 00:19:43,954
+Nous sommes vraiment ravis de vous accueillir.
+
+301
+00:19:44,038 --> 00:19:45,456
+Attendez.
+
+302
+00:19:45,539 --> 00:19:47,124
+Si vous êtes médecin, ici.
+
+303
+00:19:47,875 --> 00:19:50,419
+-Pardon ?
+-[Jucheon] Je vous demande votre numéro.
+
+304
+00:19:50,503 --> 00:19:54,131
+Il est difficile de s'adapter à la vie ici
+quand on arrive de la ville.
+
+305
+00:19:54,215 --> 00:19:57,301
+Un pour les médecins de santé publique régionaux,
+un pour nous ici, dans notre centre de santé publique,
+
+306
+00:19:57,384 --> 00:19:59,595
+Association de jeunesse, association de femmes…
+
+307
+00:19:59,678 --> 00:20:01,680
+Bref, je t'inviterai
+à toutes les discussions de groupe.
+
+308
+00:20:01,764 --> 00:20:03,974
+Les gens vivent ici
+comme partout ailleurs.
+
+309
+00:20:04,058 --> 00:20:06,018
+En quoi cela pourrait-il être différent ?
+
+310
+00:20:06,101 --> 00:20:09,480
+Arrête d'en faire tout un plat
+et vas-y doucement avec ce genre de choses.
+
+311
+00:20:09,563 --> 00:20:11,524
+Nous ne lui avons même pas encore montré son bureau.
+
+312
+00:20:11,607 --> 00:20:13,734
+Votre bureau est comme ça.
+
+313
+00:20:13,818 --> 00:20:15,152
+Salle d'examen numéro un.
+
+314
+00:20:15,236 --> 00:20:17,196
+Nous vous avons donné la plus grande chambre.
+
+315
+00:20:17,279 --> 00:20:20,241
+Puisque vous êtes spécialiste médical.
+[Rires]
+
+316
+00:20:20,324 --> 00:20:22,910
+Par ici. Vous devriez voir votre chambre.
+
+317
+00:20:25,454 --> 00:20:27,706
+Un sphygmomanomètre à mercure.
+STYLE
+::cue()
+
+318
+00:20:28,999 --> 00:20:31,210
+C'est un peu dépassé, non ? [rires]
+
+319
+00:20:31,877 --> 00:20:35,422
+On en parle chaque année,
+mais rien ne change jamais.
+
+320
+00:20:36,006 --> 00:20:39,260
+Je sais que c'est plutôt médiocre comparé
+aux hôpitaux universitaires de Séoul,
+
+321
+00:20:39,343 --> 00:20:42,179
+Mais je doute que vous rencontriez des problèmes majeurs.
+
+322
+00:20:42,263 --> 00:20:45,349
+Les patients qui visitent notre centre
+
+323
+00:20:45,432 --> 00:20:48,686
+Ne venez pas ici
+pour une raison particulière,
+
+324
+00:20:48,769 --> 00:20:50,479
+mais à cause de maladies chroniques.
+
+325
+00:20:50,563 --> 00:20:51,981
+Tension artérielle, diabète et arthrite.
+
+326
+00:20:52,064 --> 00:20:55,526
+Ils vivent avec ces conditions
+toute leur vie. [rires]
+
+327
+00:20:55,609 --> 00:20:58,821
+Une grand-mère a dit qu'elle avait mal partout
+sauf aux sourcils. [rires]
+
+328
+00:20:59,905 --> 00:21:01,699
+Il nous faudrait quand même un nouveau tensiomètre.
+
+329
+00:21:04,201 --> 00:21:05,619
+Droite.
+
+330
+00:21:13,502 --> 00:21:15,921
+[Il s'éclaircit la gorge] Vous avez
+quasiment tout vu maintenant.
+
+331
+00:21:16,005 --> 00:21:17,756
+Dois-je vous offrir quelque chose à boire ?
+
+332
+00:21:18,340 --> 00:21:20,009
+Non, je veux juste me laver maintenant.
+
+333
+00:21:20,092 --> 00:21:22,845
+Euh. Tenez, votre clé.
+
+334
+00:21:22,928 --> 00:21:24,305
+Droite.
+
+335
+00:21:24,388 --> 00:21:28,309
+Pour accéder à votre chambre,
+montez comme ceci, montez comme ceci,
+
+336
+00:21:28,392 --> 00:21:30,936
+Montez ensuite comme ceci,
+et c'est la première pièce à gauche.
+
+337
+00:21:33,814 --> 00:21:34,815
+[grognements]
+
+338
+00:21:35,691 --> 00:21:37,192
+[Il expire] Ouf, ça va beaucoup mieux.
+
+339
+00:21:38,027 --> 00:21:39,028
+[gazouillis]
+
+340
+00:21:39,111 --> 00:21:41,113
+[♪ musique fantaisiste]
+
+341
+00:21:48,954 --> 00:21:50,372
+[gazouillis]
+
+342
+00:22:00,716 --> 00:22:01,717
+[yelps]
+
+343
+00:22:03,344 --> 00:22:04,887
+[grognements]
+
+344
+00:22:09,683 --> 00:22:11,143
+[halètement]
+
+345
+00:22:15,814 --> 00:22:16,941
+Ce qui s'est passé?
+
+346
+00:22:17,024 --> 00:22:18,567
+Il y avait un mille-pattes de cette taille !
+
+347
+00:22:18,651 --> 00:22:20,569
+C'est tombé sur mon visage et… [haletant]
+
+348
+00:22:20,653 --> 00:22:21,737
+Mon Dieu !
+
+349
+00:22:21,820 --> 00:22:24,281
+Et moi qui pensais
+que c'était quelque chose de grave !
+
+350
+00:22:24,365 --> 00:22:26,408
+Je parie que le mille-pattes
+a été plus surpris que vous.
+
+351
+00:22:26,492 --> 00:22:30,371
+Les mille-pattes ne sont pas les seules créatures présentes.
+Et elles sont inoffensives comparées aux autres.
+
+352
+00:22:30,454 --> 00:22:33,082
+Serpents, scutigères, araignées…
+
+353
+00:22:33,749 --> 00:22:36,418
+Considérez-les comme vos colocataires.
+
+354
+00:22:36,502 --> 00:22:38,170
+SPRAY ANTI-INSECTES
+
+355
+00:22:49,598 --> 00:22:50,849
+[chut]
+
+356
+00:22:51,892 --> 00:22:53,936
+[toux]
+
+357
+00:23:14,999 --> 00:23:17,251
+Oh. Ce n'est pas le mien.
+
+358
+00:23:30,389 --> 00:23:31,390
+Certainement pas.
+
+359
+00:23:32,433 --> 00:23:33,809
+Cette femme avec la bouteille ?
+
+360
+00:23:33,892 --> 00:23:35,144
+[grognement]
+
+361
+00:23:38,856 --> 00:23:40,941
+[halètement]
+
+362
+00:23:45,946 --> 00:23:47,364
+Et maintenant ?
+
+363
+00:23:47,448 --> 00:23:48,699
+Encore un bug ?
+
+364
+00:23:48,782 --> 00:23:49,783
+Non.
+
+365
+00:23:49,867 --> 00:23:52,828
+Je crois que ma valise a été échangée,
+et je ne sais pas quoi faire.
+
+366
+00:23:52,911 --> 00:23:54,747
+Avec ce type, c'est toujours la même chose .
+
+367
+00:23:54,830 --> 00:23:58,042
+Pour cela, vous devrez vous rendre
+à la mairie du village.
+
+368
+00:23:58,125 --> 00:24:00,753
+Si vous le dites
+aux membres de l'Association des jeunes présents,
+
+369
+00:24:00,836 --> 00:24:02,921
+Ils vous aideront
+pour à peu près tout.
+
+370
+00:24:03,005 --> 00:24:04,006
+Allez-y.
+
+371
+00:24:04,089 --> 00:24:06,175
+La salle des fêtes ? D'accord. Merci.
+STYLE
+::cue()
+
+372
+00:24:06,258 --> 00:24:08,260
+[♪ musique amusante]
+
+373
+00:24:09,428 --> 00:24:10,429
+Oh, mec.
+
+374
+00:24:24,902 --> 00:24:27,279
+[Jiui s'exclame]
+
+375
+00:24:27,362 --> 00:24:30,240
+Vous vous moquez de moi ? [tousse]
+
+376
+00:24:33,535 --> 00:24:35,829
+Que fait une voiture comme ça
+sur une île pareille ?
+
+377
+00:24:36,330 --> 00:24:38,540
+CENTRE DE SANTÉ PUBLIQUE
+
+378
+00:24:38,624 --> 00:24:40,501
+-Merci pour votre excellent travail.
+-Bien sûr.
+
+379
+00:24:41,335 --> 00:24:42,669
+Comment s'est déroulée la visite à domicile ?
+
+380
+00:24:43,420 --> 00:24:45,923
+Comment allait la grand-mère ?
+Va-t-elle mieux maintenant ?
+
+381
+00:24:46,006 --> 00:24:47,341
+Oui, elle va mieux maintenant.
+
+382
+00:24:49,468 --> 00:24:53,764
+Madame Hwang, quels
+sont exactement les critères pour les visites à domicile ?
+
+383
+00:24:53,847 --> 00:24:55,182
+Que voulez-vous dire par là ?
+
+384
+00:24:55,766 --> 00:24:58,018
+Je ne trouve pas juste
+que même les patients
+
+385
+00:24:58,102 --> 00:25:00,270
+qui sont parfaitement capables
+de se déplacer
+
+386
+00:25:00,354 --> 00:25:01,730
+pouvoir faire une demande pour des visites à domicile.
+
+387
+00:25:01,814 --> 00:25:02,981
+[Mme Hwang] Ah.
+
+388
+00:25:03,607 --> 00:25:06,610
+Oui, cela peut être injuste.
+
+389
+00:25:06,693 --> 00:25:08,695
+Mais telles sont les affaires humaines.
+
+390
+00:25:08,779 --> 00:25:11,657
+Tout ne peut pas être
+parfaitement juste, vous savez ?
+
+391
+00:25:11,740 --> 00:25:13,033
+Oui.
+
+392
+00:25:14,535 --> 00:25:16,954
+Je refuserai alors les visites à domicile.
+
+393
+00:25:17,621 --> 00:25:18,622
+Quoi?
+
+394
+00:25:18,705 --> 00:25:22,042
+Si j'ai bien compris, les médecins de santé publique
+ne sont pas obligés d'effectuer des visites à domicile.
+
+395
+00:25:30,050 --> 00:25:32,219
+Waouh, ce type…
+
+396
+00:25:32,302 --> 00:25:34,555
+SALLE DU VILLAGE DE PYEONDONGDO
+
+397
+00:25:35,472 --> 00:25:39,309
+Votre valise a donc été mélangée
+avec celle de quelqu'un d'autre sur le ferry ?
+
+398
+00:25:39,393 --> 00:25:41,520
+Oui. Je pense qu'il a été confondu
+avec celui d'une femme.
+
+399
+00:25:41,603 --> 00:25:43,355
+Elle avait les cheveux courts.
+
+400
+00:25:44,898 --> 00:25:46,400
+D'ailleurs,
+
+401
+00:25:46,483 --> 00:25:49,361
+N'y a-t-il pas eu d'accident
+impliquant l'un des passagers ?
+
+402
+00:25:49,444 --> 00:25:51,780
+Comme quelqu'un qui tombe à l'eau ou…
+
+403
+00:25:51,864 --> 00:25:54,449
+Nous n'avons jamais eu d'accidents
+impliquant des passagers.
+
+404
+00:25:54,533 --> 00:25:58,036
+Notre ferry, le Hansol n° 3,
+n'a eu aucun accident depuis 20 ans.
+
+405
+00:25:59,955 --> 00:26:01,248
+Attendez.
+
+406
+00:26:01,331 --> 00:26:04,293
+Il a dû être confondu
+avec celui de la petite-fille de grand-mère Mija.
+
+407
+00:26:05,544 --> 00:26:06,795
+Pardon ? Petite-fille ?
+
+408
+00:26:06,879 --> 00:26:10,424
+Oh là là ! Vous ne
+vous souvenez vraiment pas, Docteur ?
+
+409
+00:26:11,466 --> 00:26:15,429
+Celle qui t'a porté sur son dos
+était la petite-fille de Grand-mère Mija.
+
+410
+00:26:15,512 --> 00:26:17,264
+-Petite-fille ?
+-Enfin bref,
+
+411
+00:26:17,347 --> 00:26:19,683
+Si vous êtes médecin, pourquoi êtes-vous si faible ?
+
+412
+00:26:19,766 --> 00:26:22,394
+Hé, arrête !
+
+413
+00:26:22,477 --> 00:26:24,146
+Voilà comment votre valise s'est retrouvée mélangée.
+
+414
+00:26:24,229 --> 00:26:26,940
+Alors, celle qui m'a portée était une femme ?
+
+415
+00:26:30,694 --> 00:26:33,530
+Je veux dire, toutes ces maisons
+ont des toits rouges.
+
+416
+00:26:34,615 --> 00:26:37,034
+De quel toit rouge parlaient-ils ?
+
+417
+00:26:39,786 --> 00:26:42,331
+Et que
+signifie « suivre la route et aller tout droit » ?
+
+418
+00:26:42,414 --> 00:26:44,041
+J'ai toujours marché droit.
+
+419
+00:26:44,124 --> 00:26:46,627
+[Le passant 1 crie] Au secours !
+
+420
+00:26:47,628 --> 00:26:48,879
+Se déplacer!
+
+421
+00:26:52,216 --> 00:26:53,717
+Courir!
+
+422
+00:26:53,800 --> 00:26:55,260
+[♪ douce musique]
+
+423
+00:26:56,553 --> 00:27:00,474
+[aboiements, grognements]
+STYLE
+::cue()
+
+424
+00:27:40,597 --> 00:27:43,058
+-Vite ! Par ici !
+-Courez !
+
+425
+00:27:47,229 --> 00:27:49,064
+[hurlement]
+
+426
+00:27:49,982 --> 00:27:52,234
+-[criant]
+-Non !
+
+427
+00:28:00,993 --> 00:28:03,620
+Deokgu !
+
+428
+00:28:03,704 --> 00:28:05,998
+Mon Dieu, où es-tu passé ?
+
+429
+00:28:06,081 --> 00:28:08,792
+Oh non, Deokgu !
+
+430
+00:28:08,875 --> 00:28:11,169
+Je suis désolé!
+
+431
+00:28:11,253 --> 00:28:13,171
+Je me demandais où tu étais passé.
+
+432
+00:28:13,255 --> 00:28:15,257
+-Viens ici. Oh là là, je suis désolé.
+-Deokgu ?
+
+433
+00:28:15,340 --> 00:28:17,884
+-Deokgu ?
+-Où étais-tu ?
+
+434
+00:28:18,802 --> 00:28:20,262
+Venez ici.
+
+435
+00:28:20,345 --> 00:28:21,346
+Vilain garçon. Allons-y.
+
+436
+00:28:21,430 --> 00:28:22,848
+-Allez !
+-Tante !
+
+437
+00:28:24,141 --> 00:28:26,685
+[bégaie] Tu es Hari, n'est-ce pas ?
+
+438
+00:28:26,768 --> 00:28:31,523
+-[cris] Tante ! Je suis si heureuse de te voir !
+-Oh, mon Dieu !
+
+439
+00:28:31,606 --> 00:28:33,108
+Vous portez-vous bien ?
+
+440
+00:28:33,191 --> 00:28:34,484
+Que faites-vous ici?
+
+441
+00:28:34,568 --> 00:28:35,569
+[rires]
+
+442
+00:28:36,069 --> 00:28:38,321
+Deokgu a tellement grandi. Salut, Deokgu.
+
+443
+00:28:38,405 --> 00:28:40,282
+-[Hari] Tu es toujours mignon.
+-C'est un chien amical.
+
+444
+00:28:52,002 --> 00:28:53,712
+[grognements] Oh là là, je suis désolé.
+
+445
+00:28:55,714 --> 00:28:58,717
+J'ai dû prendre ta valise
+parce que j'étais complètement ailleurs. [Rires]
+
+446
+00:28:59,384 --> 00:29:00,594
+Vérifiez aussi celui-ci.
+
+447
+00:29:00,677 --> 00:29:02,012
+Je suis sûr que c'est le mien.
+
+448
+00:29:02,095 --> 00:29:03,513
+Vous devriez quand même vérifier.
+
+449
+00:29:03,597 --> 00:29:05,766
+Je l'ai brièvement ouverte.
+Le code de verrouillage était le même.
+
+450
+00:29:05,849 --> 00:29:08,685
+Waouh, alors je suppose
+que nous avons le même anniversaire.
+
+451
+00:29:09,770 --> 00:29:11,271
+Le 6 novembre ?
+
+452
+00:29:11,354 --> 00:29:12,731
+Non, le 16 janvier.
+
+453
+00:29:12,814 --> 00:29:14,232
+Je vois. [Rires]
+
+454
+00:29:28,413 --> 00:29:30,123
+Oh là là. Pourquoi est-ce que…
+
+455
+00:29:34,544 --> 00:29:36,630
+PATCH MÉDICAL
+ANALGÉSIQUE NARCOTIQUE
+
+456
+00:29:36,713 --> 00:29:38,298
+CHAVOXIFÈNE
+CITRATE DE CHAVOXIFÈNE
+
+457
+00:29:38,381 --> 00:29:39,758
+[Jiui] "Chavoxifène" ?
+
+458
+00:29:40,842 --> 00:29:43,804
+C'est un agent ciblé.
+
+459
+00:29:44,679 --> 00:29:46,681
+[♪ musique sombre]
+
+460
+00:29:54,189 --> 00:29:55,899
+On dirait que tout est là.
+
+461
+00:30:00,362 --> 00:30:02,823
+[gazouillis]
+
+462
+00:30:02,906 --> 00:30:04,116
+[s'exclame]
+
+463
+00:30:04,199 --> 00:30:05,826
+-C'est là que c'était.
+-Qu'est-ce qui ne va pas ?
+
+464
+00:30:05,909 --> 00:30:07,828
+— Zut !
+— Quoi ?
+
+465
+00:30:09,246 --> 00:30:11,998
+-Oh là là, laissez-moi vous le chercher.
+-D'accord.
+
+466
+00:30:18,338 --> 00:30:20,006
+Bien. [Rires]
+
+467
+00:30:21,133 --> 00:30:22,217
+Ça va.
+
+468
+00:30:25,345 --> 00:30:26,721
+C'est terminé.
+
+469
+00:30:26,805 --> 00:30:27,806
+Droite.
+
+470
+00:30:28,640 --> 00:30:31,518
+Le mien est en parfait état de marche.
+Tu devrais vérifier le tien, non ?
+
+471
+00:30:33,728 --> 00:30:34,855
+Droite.
+
+472
+00:30:44,948 --> 00:30:47,450
+[♪ douce guitare]
+
+473
+00:30:53,790 --> 00:30:55,041
+Ah oui.
+
+474
+00:30:56,793 --> 00:30:58,503
+Cela vous appartient aussi, n'est-ce pas ?
+
+475
+00:30:58,587 --> 00:31:00,297
+ELLMARP
+
+476
+00:31:00,380 --> 00:31:03,216
+[soupir] Merci.
+STYLE
+::cue()
+
+477
+00:31:05,260 --> 00:31:06,928
+Ne prenez pas ce médicament.
+
+478
+00:31:08,763 --> 00:31:10,932
+Je ne pense pas que cela vous convienne.
+
+479
+00:31:11,016 --> 00:31:13,018
+Vous étiez en grave danger
+sur le ferry tout à l'heure.
+
+480
+00:31:13,685 --> 00:31:14,686
+[ricanement]
+
+481
+00:31:15,604 --> 00:31:16,605
+Attendez…
+
+482
+00:31:17,606 --> 00:31:20,942
+Voilà qui parle d'être en danger !
+
+483
+00:31:21,026 --> 00:31:22,402
+[bégaie] Quoi ?
+
+484
+00:31:22,485 --> 00:31:24,279
+Que faisais-tu là-haut, au juste ?
+
+485
+00:31:24,362 --> 00:31:26,823
+Tentiez-vous de vous suicider ?
+
+486
+00:31:26,907 --> 00:31:27,908
+Moi?
+
+487
+00:31:28,617 --> 00:31:29,618
+Pourquoi diable ferais-je…
+
+488
+00:31:29,701 --> 00:31:32,204
+Je me suis retrouvée dans ce pétrin
+parce que j'ai essayé de te sauver.
+
+489
+00:31:32,787 --> 00:31:35,874
+[Rires] Mais de quoi
+parlez-vous ?
+
+490
+00:31:37,459 --> 00:31:39,461
+[♪ musique intrigante]
+
+491
+00:31:41,254 --> 00:31:43,632
+Madame Mija, c'est tellement joli ici !
+
+492
+00:31:43,715 --> 00:31:45,217
+Regarde l'océan.
+
+493
+00:31:45,300 --> 00:31:49,512
+Bon sang, quelle beauté y a-t-il
+dans quelque chose que je vois tous les jours ?
+
+494
+00:31:49,596 --> 00:31:53,016
+Pour moi, tu es la plus belle chose
+au monde, Hari.
+
+495
+00:31:53,099 --> 00:31:57,020
+[Hari] Hé, je tiens de ma grand-mère.
+Bien sûr que je suis jolie.
+
+496
+00:31:57,103 --> 00:31:58,188
+[gémissant]
+
+497
+00:31:59,189 --> 00:32:00,565
+[Hari] Grand-mère, as-tu déjà mangé ?
+
+498
+00:32:04,778 --> 00:32:06,988
+-Mon cardigan s'est envolé.
+-[Gémissements de Jiui]
+
+499
+00:32:07,072 --> 00:32:09,950
+-[Hari] Je vais devoir en acheter un nouveau.
+-Hé, ne fais pas ça !
+
+500
+00:32:10,617 --> 00:32:11,952
+[Journée Yelps]
+
+501
+00:32:12,035 --> 00:32:14,621
+Non, surtout pas !
+
+502
+00:32:14,704 --> 00:32:15,705
+Quoi?
+
+503
+00:32:15,789 --> 00:32:18,875
+— N'y va pas.
+— Oh non ! Tu dois faire attention.
+
+504
+00:32:18,959 --> 00:32:20,335
+C'est dangereux là-haut !
+
+505
+00:32:20,418 --> 00:32:22,587
+-Par ici !
+-Quoi ?
+
+506
+00:32:22,671 --> 00:32:25,382
+[Jiui] J'ai besoin d'aide ici !
+
+507
+00:32:26,383 --> 00:32:27,467
+Quelqu'un…
+
+508
+00:32:27,550 --> 00:32:29,636
+Quelqu'un est tombé à l'eau !
+
+509
+00:32:29,719 --> 00:32:32,222
+Je crois qu'il faut arrêter le bateau !
+
+510
+00:32:32,305 --> 00:32:33,932
+Qu'est-ce que vous avez dit?
+
+511
+00:32:34,015 --> 00:32:36,851
+— Je… je vais la sauver.
+— [Hari] Attention !
+
+512
+00:32:36,935 --> 00:32:38,979
+— Je vais te sauver !
+— Qui essaies-tu de sauver ?
+
+513
+00:32:40,313 --> 00:32:42,607
+Oh non ! Que faire ?
+
+514
+00:32:42,691 --> 00:32:44,693
+-Je vais te sauver !
+-Attends !
+
+515
+00:32:44,776 --> 00:32:47,028
+-[Jiui] Non… Zut.
+-Attends un peu !
+
+516
+00:33:07,716 --> 00:33:09,009
+[ricanement]
+
+517
+00:33:09,801 --> 00:33:10,927
+[bégaiement] C'est moi qui ai fait ça ?
+
+518
+00:33:11,011 --> 00:33:13,430
+[Sonnerie du cor de navire]
+
+519
+00:33:13,513 --> 00:33:17,017
+[haletant] Je n'aurais pas dû
+l'assommer comme ça.
+
+520
+00:33:17,684 --> 00:33:20,228
+Bon sang, il est vraiment très lourd. [haletant]
+
+521
+00:33:21,938 --> 00:33:25,275
+Excusez-moi, réveillez-vous s'il vous plaît.
+
+522
+00:33:25,358 --> 00:33:27,485
+Vous ne vous souvenez vraiment de rien ?
+
+523
+00:33:30,071 --> 00:33:32,407
+Je ne m'en souviens pas du tout. Pas du tout.
+
+524
+00:33:36,369 --> 00:33:37,912
+Ça va mieux maintenant ?
+
+525
+00:33:37,996 --> 00:33:39,622
+Oh là là. Je suis totalement…
+
+526
+00:33:41,916 --> 00:33:43,585
+-Tu pars ?
+-Bien sûr !
+
+527
+00:33:45,503 --> 00:33:46,504
+[Hari] Prends soin de toi !
+
+528
+00:33:49,549 --> 00:33:50,550
+Oh non.
+
+529
+00:33:58,641 --> 00:33:59,976
+Qu'est-ce qui lui prend à ce type ?
+
+530
+00:34:05,815 --> 00:34:08,068
+[♪ douce musique]
+STYLE
+::cue()
+
+531
+00:34:08,151 --> 00:34:10,236
+-[Mija] Oui, de ce côté-là.
+-[Hari] Oui.
+
+532
+00:34:10,320 --> 00:34:11,738
+[Mija] As-tu rendu sa valise ?
+
+533
+00:34:11,821 --> 00:34:12,822
+[Jour] Ouais.
+
+534
+00:34:13,823 --> 00:34:15,784
+Et il n'a rien dit d'étrange ?
+
+535
+00:34:15,867 --> 00:34:18,244
+Il avait l'air bizarre.
+
+536
+00:34:18,328 --> 00:34:19,662
+Ouais, c'est un vrai cinglé.
+
+537
+00:34:19,746 --> 00:34:22,832
+Tu as dit que tu retournais
+sur le continent demain.
+
+538
+00:34:22,916 --> 00:34:25,210
+Pourquoi as-tu dû déplacer tes bagages aujourd'hui ?
+
+539
+00:34:25,293 --> 00:34:27,295
+et se retrouver mêlée à un type comme ça ?
+
+540
+00:34:27,379 --> 00:34:30,173
+Demain apportera
+son lot de problèmes.
+
+541
+00:34:30,256 --> 00:34:33,676
+Pourquoi êtes-vous revenu
+jusqu'à cette île ?
+
+542
+00:34:33,760 --> 00:34:35,929
+Dépêchons-nous. Papa et maman doivent avoir faim.
+
+543
+00:34:36,012 --> 00:34:38,723
+Regarde-toi. Très bien, faisons ça.
+
+544
+00:34:38,807 --> 00:34:39,808
+On y va.
+
+545
+00:34:43,019 --> 00:34:44,020
+Mais qu'est-ce que c'est que ça ?
+
+546
+00:34:45,397 --> 00:34:47,107
+Pourquoi est-ce que c'est ouvert ?
+
+547
+00:34:49,609 --> 00:34:52,028
+Aucune idée. Je me demande pourquoi c'était ouvert.
+
+548
+00:34:52,112 --> 00:34:54,072
+Tu en as bu, n'est-ce pas ?
+
+549
+00:34:55,156 --> 00:34:56,157
+[bégaiement]
+
+550
+00:34:56,241 --> 00:34:58,785
+Je l'ai fait uniquement parce que j'avais soif.
+
+551
+00:34:58,868 --> 00:35:02,372
+Oh là là ! De qui as-tu eu ça ?
+
+552
+00:35:02,455 --> 00:35:04,416
+Je tiens tout de toi, mamie.
+
+553
+00:35:04,499 --> 00:35:06,459
+-Comment fais-tu pour être aussi mignon(ne) ?
+-[Hari rit]
+
+554
+00:35:06,543 --> 00:35:08,378
+J'ai aussi hérité de tout ça de toi, mamie.
+
+555
+00:35:08,461 --> 00:35:10,380
+Oh là là, tu es si précieux.
+
+556
+00:35:16,594 --> 00:35:19,472
+J'invente des histoires
+juste parce que je ne me souviens pas.
+
+557
+00:35:21,558 --> 00:35:24,018
+Ne se rend-elle pas compte
+que j'en suis arrivé là à cause d'elle ?
+
+558
+00:35:24,102 --> 00:35:25,353
+Franchement, c'est juste…
+
+559
+00:35:28,940 --> 00:35:31,818
+CENTRE DE SANTÉ PUBLIQUE
+
+560
+00:35:31,901 --> 00:35:33,903
+[♪ musique fantaisiste en fond sonore]
+
+561
+00:35:35,113 --> 00:35:36,114
+Quoi…
+
+562
+00:35:36,990 --> 00:35:39,534
+-Que fait cette voiture ici ?
+-[bruit de moteur]
+
+563
+00:35:44,205 --> 00:35:45,290
+[grognements]
+
+564
+00:35:48,168 --> 00:35:49,169
+[gémissements]
+
+565
+00:35:53,214 --> 00:35:54,215
+SALLE DE BAIN
+
+566
+00:35:55,884 --> 00:35:57,886
+[♪ musique sensuelle en fond sonore]
+
+567
+00:36:10,607 --> 00:36:11,983
+[La musique se termine]
+
+568
+00:36:16,529 --> 00:36:19,824
+Je suis désolé. Je croyais
+qu'il n'y avait personne ici…
+
+569
+00:36:21,576 --> 00:36:23,453
+Vous êtes le médecin qui est venu aujourd'hui, n'est-ce pas ?
+
+570
+00:36:24,662 --> 00:36:26,664
+Oui. Je suis Do Jiui.
+
+571
+00:36:28,917 --> 00:36:30,043
+Je suis Hyeon Chiyeon.
+
+572
+00:36:34,631 --> 00:36:36,132
+J'ai entendu dire que vous aviez été transporté jusqu'ici.
+
+573
+00:36:39,594 --> 00:36:40,929
+Je ne me souviens pas de ça.
+
+574
+00:36:42,764 --> 00:36:45,725
+C'est un soulagement.
+Je me réjouis de travailler avec vous.
+
+575
+00:36:51,105 --> 00:36:52,273
+Mais qu'est-ce que c'était que ça ?
+
+576
+00:37:02,283 --> 00:37:03,284
+[grognements]
+
+577
+00:37:06,496 --> 00:37:07,497
+[soupirs]
+
+578
+00:37:12,252 --> 00:37:14,254
+[♪ musique sentimentale en fond sonore]
+
+579
+00:37:24,639 --> 00:37:25,640
+Médecin.
+
+580
+00:37:27,392 --> 00:37:28,560
+Tu n'as pas faim ?
+
+581
+00:37:28,643 --> 00:37:31,396
+Tu devrais nous offrir à tous
+puisque c'est ton premier jour ici.
+STYLE
+::cue()
+
+582
+00:37:33,273 --> 00:37:34,399
+-Moi ?
+-Oui.
+
+583
+00:37:34,482 --> 00:37:36,985
+Le docteur Chiyeon vous attend,
+alors dépêchez-vous et venez dehors.
+
+584
+00:37:40,446 --> 00:37:41,948
+Pourquoi devrais-je les soigner ?
+
+585
+00:37:42,657 --> 00:37:45,702
+Restaurant de poisson cru Cliffside,
+le meilleur restaurant de Pyeondongdo
+
+586
+00:37:45,785 --> 00:37:46,953
+Bonjour.
+
+587
+00:37:48,663 --> 00:37:50,707
+Tante, nous sommes arrivés !
+
+588
+00:37:50,790 --> 00:37:52,250
+[Geumja] Oh, tu es là ?
+
+589
+00:37:53,793 --> 00:37:55,587
+Il fait tellement chaud.
+
+590
+00:37:58,172 --> 00:37:59,799
+-Oh, mon Dieu.
+-Hein ?
+
+591
+00:37:59,883 --> 00:38:01,301
+C'est encore vous.
+
+592
+00:38:02,010 --> 00:38:04,554
+-C'était assez surprenant, n'est-ce pas ?
+-Oui.
+
+593
+00:38:04,637 --> 00:38:06,681
+-Vous vous êtes déjà rencontrés ?
+-Oui.
+
+594
+00:38:06,764 --> 00:38:09,517
+-[bégaie] Il y a eu un petit incident.
+-Ah.
+
+595
+00:38:10,101 --> 00:38:13,062
+Tante, on prendra le plat
+qui a reçu des critiques dithyrambiques dans cette émission télé.
+
+596
+00:38:13,146 --> 00:38:15,481
+— Celle que nous avons commandée à l'avance, s'il vous plaît.
+— Bien sûr.
+
+597
+00:38:15,565 --> 00:38:17,150
+-Donnez-moi juste un instant.
+-[Jucheon] D'accord.
+
+598
+00:38:19,569 --> 00:38:21,404
+Docteur, quelle est votre spécialité ?
+
+599
+00:38:22,322 --> 00:38:25,033
+-Chirurgie plastique.
+-Waouh.
+
+600
+00:38:25,116 --> 00:38:28,328
+Vous avez dû avoir d'excellents résultats scolaires.
+La chirurgie esthétique est tellement populaire.
+
+601
+00:38:28,411 --> 00:38:29,412
+Oui, enfin…
+
+602
+00:38:29,495 --> 00:38:32,165
+Vous n'avez pas
+encore choisi votre spécialité, n'est-ce pas ?
+
+603
+00:38:32,248 --> 00:38:34,000
+-C'est exact.
+-Hmm.
+
+604
+00:38:34,083 --> 00:38:35,543
+Et pourquoi pas une clinique de chirurgie esthétique ?
+
+605
+00:38:35,627 --> 00:38:38,796
+Si vous ouvriez une clinique à Gangnam,
+je parie que les gens feraient la queue pour vous consulter.
+
+606
+00:38:38,880 --> 00:38:41,174
+pour les relooker
+et leur donner votre apparence. [Rires]
+
+607
+00:38:42,425 --> 00:38:43,718
+Hmm.
+
+608
+00:38:43,801 --> 00:38:45,303
+Je ne sais pas.
+
+609
+00:38:45,386 --> 00:38:47,764
+Je ne suis pas une grande fan des chirurgiens plasticiens.
+
+610
+00:38:48,348 --> 00:38:50,141
+Ils donnent simplement l'impression d'être des profiteurs.
+
+611
+00:38:51,643 --> 00:38:52,644
+Qu'est-ce que vous avez dit?
+
+612
+00:38:53,853 --> 00:38:55,939
+Ah. J'ai vraiment faim.
+
+613
+00:38:57,482 --> 00:38:59,108
+En plein dans mon visage ? Vraiment ?
+
+614
+00:38:59,192 --> 00:39:03,071
+Voici notre plat signature.
+
+615
+00:39:04,489 --> 00:39:06,240
+-Te voilà.
+-[Jucheon] Waouh.
+
+616
+00:39:08,701 --> 00:39:10,703
+[♪ musique intrigante en cours]
+
+617
+00:39:16,501 --> 00:39:18,127
+[Geumja soupire]
+
+618
+00:39:20,713 --> 00:39:21,714
+[Geumja s'exclame]
+
+619
+00:39:22,465 --> 00:39:24,050
+-Euh…
+-Ça a l'air tellement bon.
+
+620
+00:39:26,678 --> 00:39:27,679
+[bâillons]
+
+621
+00:39:28,429 --> 00:39:30,056
+— Merci.
+— [Geumja rit doucement]
+
+622
+00:39:32,392 --> 00:39:34,268
+Et en voici une pour vous, Docteur.
+
+623
+00:39:34,352 --> 00:39:35,853
+Dépêche-toi de manger.
+
+624
+00:39:35,937 --> 00:39:38,022
+C'est le seul restaurant
+de Pyeongdongdo.
+
+625
+00:39:38,648 --> 00:39:42,193
+Si vous n'en faites pas la promotion,
+vous mourrez de faim.
+
+626
+00:39:44,112 --> 00:39:45,655
+[Geumja] Voilà.
+
+627
+00:39:46,656 --> 00:39:49,325
+-Oui, merci.
+-[Geumja] Profitez-en.
+
+628
+00:39:51,828 --> 00:39:54,038
+-[Geumja] Ici.
+-[Jucheon] Merci.
+
+629
+00:39:54,789 --> 00:39:59,210
+Je ne sais pas
+si cela vous plaira, Docteur.
+
+630
+00:40:00,294 --> 00:40:01,295
+Dépêchez-vous.
+
+631
+00:40:01,379 --> 00:40:04,590
+Votre unique source de subsistance
+pour toute une année repose sur elle.
+
+632
+00:40:10,179 --> 00:40:11,264
+[soupirs]
+
+633
+00:40:14,475 --> 00:40:15,768
+[Rires] Mange.
+
+634
+00:40:15,852 --> 00:40:18,855
+[♪ musique tendue]
+
+635
+00:40:26,946 --> 00:40:29,449
+-[Jiui s'exclame]
+-Hein ?
+
+636
+00:40:29,532 --> 00:40:31,159
+[Jucheon rit]
+
+637
+00:40:33,161 --> 00:40:34,162
+[sonnerie de téléphone fixe]
+
+638
+00:40:38,750 --> 00:40:40,918
+[Geumja] Oui, c'est Cliffside.
+
+639
+00:40:41,002 --> 00:40:42,003
+Oui.
+
+640
+00:40:42,670 --> 00:40:43,671
+Quoi?
+
+641
+00:40:44,172 --> 00:40:45,882
+Ils sont tous là.
+
+642
+00:40:45,965 --> 00:40:46,966
+D'accord.
+
+643
+00:40:47,800 --> 00:40:50,803
+Le chef demande le
+retour d'un médecin au centre…
+
+644
+00:40:50,887 --> 00:40:52,513
+-J'y vais.
+-[Jucheon] Quoi ?
+
+645
+00:40:52,597 --> 00:40:54,182
+Mais c'est ton premier jour.
+
+646
+00:40:54,265 --> 00:40:57,018
+Que dire ? Je suis un bourreau de travail.
+Je le finirai à mon retour.
+STYLE
+::cue()
+
+647
+00:40:59,562 --> 00:41:01,564
+[Le klaxon du navire retentit au loin]
+
+648
+00:41:07,904 --> 00:41:09,489
+CENTRE DE SANTÉ PUBLIQUE
+
+649
+00:41:11,074 --> 00:41:12,200
+Monsieur Park.
+
+650
+00:41:12,283 --> 00:41:13,284
+FERMÉ
+
+651
+00:41:13,367 --> 00:41:14,619
+Ah !
+
+652
+00:41:14,702 --> 00:41:18,164
+Oh, Docteur. Avez-vous retrouvé votre valise ?
+
+653
+00:41:18,247 --> 00:41:21,501
+Oui, grâce à vous.
+Mais pouvez-vous me dire de quoi vous êtes malade ?
+
+654
+00:41:21,584 --> 00:41:26,631
+[Soupir] Je crois que j'ai une indigestion.
+J'ai vraiment la poitrine congestionnée.
+
+655
+00:41:26,714 --> 00:41:28,883
+Alors, donnez-moi de l'umétazole.
+
+656
+00:41:29,509 --> 00:41:31,344
+-Umétazole ?
+-Ah.
+
+657
+00:41:31,844 --> 00:41:33,638
+Je crois que je souffre d'une forte indigestion.
+
+658
+00:41:33,721 --> 00:41:36,641
+C'était tellement horrible que j'ai vomi
+tout ce que j'avais mangé au petit-déjeuner.
+
+659
+00:41:37,266 --> 00:41:40,436
+J'ai des clients pêcheurs qui arrivent,
+donc je dois me mettre au travail tout de suite.
+
+660
+00:41:40,520 --> 00:41:42,105
+Veuillez vous dépêcher et me le donner.
+
+661
+00:41:42,772 --> 00:41:45,149
+Entrons
+pour que je puisse vous observer d'abord.
+
+662
+00:41:45,233 --> 00:41:46,984
+-Allons à l'intérieur.
+-D'accord.
+
+663
+00:41:47,568 --> 00:41:48,986
+[Chunsik gémit]
+
+664
+00:41:50,238 --> 00:41:52,323
+[renifle] Ici.
+
+665
+00:41:52,406 --> 00:41:53,825
+Le côté gauche.
+
+666
+00:41:53,908 --> 00:41:55,910
+J'ai aussi très mal au bras gauche.
+
+667
+00:41:55,993 --> 00:41:57,620
+Ça me tue.
+
+668
+00:41:57,703 --> 00:41:59,872
+Avez-vous l'impression que quelqu'un vous tord le ventre ?
+
+669
+00:41:59,956 --> 00:42:02,375
+Oui. C'est un peu l'impression que ça donne.
+
+670
+00:42:03,084 --> 00:42:06,087
+Je dois avoir une grave indigestion.
+
+671
+00:42:06,170 --> 00:42:09,507
+Donnez-moi juste de l'umétazole.
+Ça ira mieux après la prise.
+
+672
+00:42:09,590 --> 00:42:12,051
+— J'en ai toujours pris.
+— Permettez-moi de prendre votre tension.
+
+673
+00:42:13,594 --> 00:42:15,138
+Eh, doucement.
+
+674
+00:42:15,221 --> 00:42:18,141
+J'ai une indigestion.
+À quoi bon prendre ma tension ?
+
+675
+00:42:18,224 --> 00:42:20,226
+[respiration lourde]
+
+676
+00:42:34,699 --> 00:42:37,201
+[sifflement de l'air]
+
+677
+00:42:37,910 --> 00:42:39,912
+[♪ musique tendue]
+
+678
+00:42:42,623 --> 00:42:45,376
+[Jiui] Sensation d'oppression dans la poitrine gauche,
+difficultés respiratoires,
+
+679
+00:42:45,960 --> 00:42:49,338
+des douleurs thoraciques donnant l'impression que
+quelqu'un lui tord la poitrine,
+
+680
+00:42:49,422 --> 00:42:54,552
+Hypertension artérielle, nausées
+et même douleurs irradiant dans le bras gauche.
+
+681
+00:42:55,803 --> 00:42:57,180
+Tout indique un infarctus du myocarde.
+
+682
+00:42:57,263 --> 00:42:59,807
+MI : INFARCTUS DU MYOCARDE
+
+683
+00:43:06,522 --> 00:43:08,232
+[Inspire profondément] Attendez ici un instant.
+
+684
+00:43:08,983 --> 00:43:09,984
+[Rires] D'accord.
+
+685
+00:43:28,002 --> 00:43:29,003
+Umétazole
+
+686
+00:43:33,382 --> 00:43:35,760
+-Peux-tu essayer de prendre ça ?
+-Hein ?
+
+687
+00:43:36,969 --> 00:43:39,055
+[Jiui] Mets-le sous ta langue
+et laisse-le fondre.
+
+688
+00:43:40,181 --> 00:43:41,182
+D'accord.
+
+689
+00:43:42,934 --> 00:43:43,935
+[soupirs]
+
+690
+00:43:45,311 --> 00:43:48,648
+[respiration lourde]
+
+691
+00:43:52,360 --> 00:43:53,361
+[expire profondément]
+
+692
+00:43:55,279 --> 00:43:56,697
+[soupirs]
+
+693
+00:44:03,287 --> 00:44:04,747
+[Chunsik gémit]
+
+694
+00:44:05,248 --> 00:44:07,583
+[respire profondément]
+
+695
+00:44:09,293 --> 00:44:10,294
+Quoi…
+
+696
+00:44:11,254 --> 00:44:13,047
+Je me sens déjà mieux.
+
+697
+00:44:13,673 --> 00:44:15,424
+[Jiui] Il n'était pas censé se sentir mieux.
+
+698
+00:44:15,508 --> 00:44:18,844
+Le fait que le NTG ait fonctionné
+en quelques minutes signifie
+
+699
+00:44:19,428 --> 00:44:22,723
+Il y a plus de 80 % de chances qu'il
+s'agisse d'un infarctus du myocarde.
+STYLE
+::cue()
+
+700
+00:44:22,807 --> 00:44:25,393
+DOSSIER PATIENT :
+INFARCTUS DU MYOCARDE, NTG
+
+701
+00:44:25,476 --> 00:44:29,188
+Je te croyais faible
+parce qu'une fille t'a porté jusqu'ici,
+
+702
+00:44:29,272 --> 00:44:31,399
+Mais vous êtes un médecin formidable. [Rires]
+
+703
+00:44:31,482 --> 00:44:34,026
+Pyeondongdo n'a plus rien
+à craindre.
+
+704
+00:44:34,110 --> 00:44:38,614
+Si quoi que ce soit vous dérange pendant votre séjour,
+n'hésitez pas à m'en parler.
+
+705
+00:44:39,365 --> 00:44:42,118
+J'ai des affaires urgentes
+à régler, donc je vais...
+
+706
+00:44:42,201 --> 00:44:44,120
+Non, vous ne devriez pas partir maintenant.
+
+707
+00:44:44,203 --> 00:44:45,579
+Pourquoi?
+
+708
+00:44:45,663 --> 00:44:47,373
+Ce n'était pas un médicament pour la digestion.
+
+709
+00:44:47,456 --> 00:44:49,458
+C'était un médicament
+destiné aux patients souffrant d'infarctus du myocarde.
+
+710
+00:44:50,293 --> 00:44:52,253
+Le fait que votre état se soit amélioré
+
+711
+00:44:52,336 --> 00:44:55,673
+Cela signifie que vous avez plus de 80 % de chances
+de faire une crise cardiaque.
+
+712
+00:44:55,756 --> 00:44:57,425
+Nous devons vous emmener dans un grand hôpital.
+
+713
+00:44:57,508 --> 00:45:01,595
+Oh, allez !
+Je vois que notre nouveau médecin est un vrai angoissé.
+
+714
+00:45:01,679 --> 00:45:04,181
+Un grand hôpital ? S'il vous plaît, je vais bien !
+
+715
+00:45:04,265 --> 00:45:06,309
+Je te le dis, tu dois partir immédiatement !
+
+716
+00:45:06,392 --> 00:45:09,061
+Ne t'inquiète pas. Je connais mon corps mieux que personne.
+
+717
+00:45:09,145 --> 00:45:10,187
+Monsieur Park !
+
+718
+00:45:10,271 --> 00:45:11,605
+Écartez-vous !
+
+719
+00:45:11,689 --> 00:45:14,650
+Si je dois payer des frais pour avoir abandonné,
+en prendrez-vous la responsabilité ?
+
+720
+00:45:14,734 --> 00:45:16,944
+Si tu continues comme ça
+, il va t'arriver quelque chose de grave.
+
+721
+00:45:17,028 --> 00:45:18,362
+Oh là là. [soupir]
+
+722
+00:45:18,446 --> 00:45:22,450
+Docteur, vous avez dit que j'avais 80 % de chances
+de faire une crise cardiaque, n'est-ce pas ?
+
+723
+00:45:22,533 --> 00:45:25,328
+Mais il y a 100% de chances
+que mes clients pêcheurs viennent !
+
+724
+00:45:26,495 --> 00:45:27,872
+-[soupir]
+-Très bien.
+
+725
+00:45:27,955 --> 00:45:31,334
+Je vais juste emmener mes clients en voiture,
+puis aller à l'hôpital, alors bougez-vous.
+
+726
+00:45:31,417 --> 00:45:32,877
+Vous pourriez finir par décéder.
+
+727
+00:45:32,960 --> 00:45:34,170
+Que voulez-vous dire par passer…
+
+728
+00:45:39,925 --> 00:45:40,926
+Et maintenant ?
+
+729
+00:45:42,178 --> 00:45:43,179
+Passer?
+
+730
+00:45:43,888 --> 00:45:44,930
+Oui.
+
+731
+00:45:48,142 --> 00:45:50,519
+[Il expire bruyamment] Ça ne va pas.
+
+732
+00:45:51,729 --> 00:45:52,730
+Que dois-je faire ?
+
+733
+00:45:53,731 --> 00:45:54,732
+Donc…
+
+734
+00:45:55,274 --> 00:45:57,318
+Vous voulez dire que je dois y aller quoi qu'il arrive ?
+
+735
+00:46:03,157 --> 00:46:04,658
+D'accord.
+
+736
+00:46:04,742 --> 00:46:06,619
+Je devrais t'écouter.
+
+737
+00:46:06,702 --> 00:46:09,372
+Installez-vous dehors,
+et je reviens vers vous tout de suite.
+
+738
+00:46:09,455 --> 00:46:12,083
+Je suppose que je vais faire ça.
+
+739
+00:46:22,385 --> 00:46:23,386
+[sonnerie de ligne]
+
+740
+00:46:26,806 --> 00:46:28,891
+Oui, Mme Hwang.
+Nous avons un patient en urgence.
+
+741
+00:46:28,974 --> 00:46:31,018
+Il a été victime d'un infarctus du myocarde.
+Je vais…
+
+742
+00:46:31,602 --> 00:46:33,145
+Quoi ? Un hélicoptère ?
+
+743
+00:46:35,106 --> 00:46:36,690
+Monsieur Park, ils envoient un hélicoptère…
+
+744
+00:46:40,319 --> 00:46:41,320
+Monsieur Park ?
+
+745
+00:46:47,535 --> 00:46:48,536
+Monsieur Park ?
+
+746
+00:46:53,082 --> 00:46:54,417
+Bon sang.
+
+747
+00:46:55,084 --> 00:46:57,586
+Croyez-moi, je connais mon propre corps mieux que quiconque.
+
+748
+00:47:01,006 --> 00:47:03,509
+Mon Dieu, mes clients vont me manquer.
+
+749
+00:47:06,470 --> 00:47:10,266
+Que voulez-vous dire par
+« le patient a disparu » ?
+
+750
+00:47:10,349 --> 00:47:12,518
+Il s'est éclipsé
+pendant que j'étais au téléphone avec toi…
+
+751
+00:47:12,601 --> 00:47:14,728
+-[halète]
+-Et l'hélicoptère ?
+
+752
+00:47:14,812 --> 00:47:17,857
+Si nous appelons un centre sans patient,
+notre centre sera pénalisé.
+
+753
+00:47:17,940 --> 00:47:19,150
+[Jiui] Il va monter dans cet hélicoptère.
+
+754
+00:47:19,233 --> 00:47:23,362
+Compte tenu de sa réaction au NTG,
+il pourrait finir par avoir une crise cardiaque.
+
+755
+00:47:23,446 --> 00:47:25,531
+Alors retrouvons-le au plus vite.
+
+756
+00:47:26,115 --> 00:47:27,950
+Il ne répond pas au téléphone ?
+
+757
+00:47:28,033 --> 00:47:30,035
+Pourquoi ne répond-il pas au téléphone ?
+
+758
+00:47:31,495 --> 00:47:33,581
+-[bégaie] Le bateau de pêche.
+-Quoi ?
+
+759
+00:47:33,664 --> 00:47:35,332
+Il a dit qu'il avait des clients pêcheurs.
+
+760
+00:47:35,416 --> 00:47:36,667
+-Allons-y !
+-Dépêchons-nous.
+
+761
+00:47:37,918 --> 00:47:39,128
+Monsieur Park !
+
+762
+00:47:40,004 --> 00:47:41,088
+Monsieur Park !
+
+763
+00:47:41,172 --> 00:47:42,173
+Monsieur Park !
+
+764
+00:47:44,008 --> 00:47:45,009
+Monsieur Park !
+STYLE
+::cue()
+
+765
+00:47:45,092 --> 00:47:46,135
+Monsieur Park !
+
+766
+00:47:49,054 --> 00:47:52,141
+— Monsieur Park !
+— Monsieur Park, ça va ?
+
+767
+00:47:52,224 --> 00:47:53,851
+Vous devez venir avec nous immédiatement.
+
+768
+00:47:53,934 --> 00:47:55,603
+Qu'est-ce qui vous amène tous ici ?
+
+769
+00:47:55,686 --> 00:47:57,521
+Vous ne vous sentez pas un peu mal à l'aise dans votre corps ?
+
+770
+00:47:57,605 --> 00:48:01,442
+Pourquoi diable m'avez-vous tous suivi jusqu'ici ?
+Je vous ai dit que j'allais bien, non ?
+
+771
+00:48:01,525 --> 00:48:03,402
+Je connais mon corps mieux que quiconque !
+
+772
+00:48:03,486 --> 00:48:06,238
+— Mais vous devriez quand même…
+— Monsieur Park, tout cela est temporaire.
+
+773
+00:48:06,322 --> 00:48:07,531
+— Toi… —
+J’en ai assez entendu.
+
+774
+00:48:07,615 --> 00:48:10,409
+Continuez vos activités. Je vous ai dit, allez-y !
+
+775
+00:48:10,493 --> 00:48:12,453
+-Je suis super occupé, d'accord ?
+-D'accord.
+
+776
+00:48:12,536 --> 00:48:14,038
+Ensuite, juste une petite vérification.
+
+777
+00:48:14,121 --> 00:48:17,166
+Je vais bien ! Vas-y.
+
+778
+00:48:17,249 --> 00:48:19,251
+Bonjour monsieur, par ici.
+
+779
+00:48:19,335 --> 00:48:20,878
+Par ici. Montez à bord.
+
+780
+00:48:20,961 --> 00:48:23,756
+-J'ai dit va-t'en.
+-D'accord.
+
+781
+00:48:23,839 --> 00:48:25,174
+Je vais bien!
+
+782
+00:48:25,257 --> 00:48:26,884
+-D'accord.
+-Tiens, monte.
+
+783
+00:48:26,967 --> 00:48:28,385
+-Celui-ci, n'est-ce pas ?
+-Oui.
+
+784
+00:48:29,345 --> 00:48:31,430
+Dégagez ! Arrêtez de bloquer le passage !
+
+785
+00:48:31,514 --> 00:48:32,806
+Bon sang, on s'en va.
+
+786
+00:48:32,890 --> 00:48:35,601
+Bon sang, je leur avais dit que j'allais bien.
+
+787
+00:48:40,189 --> 00:48:44,360
+Bon sang, ce
+sont sûrement ces accès de colère soudains qui le rendent si combatif.
+
+788
+00:48:44,443 --> 00:48:45,653
+[bruit de boîte]
+
+789
+00:48:48,656 --> 00:48:51,033
+— Monsieur Park !
+— Oh non ! Monsieur Park !
+
+790
+00:48:51,116 --> 00:48:53,702
+Monsieur Park ! Oh mon Dieu, que faire ?
+
+791
+00:48:53,786 --> 00:48:55,663
+Mon Dieu, Monsieur Park.
+
+792
+00:48:55,746 --> 00:48:57,248
+Je vais pratiquer un massage cardiaque.
+
+793
+00:48:58,082 --> 00:48:59,542
+-Veuillez chronométrer.
+-Oh non.
+
+794
+00:48:59,625 --> 00:49:00,626
+Droite.
+
+795
+00:49:06,215 --> 00:49:08,801
+Oui, c'est Pyeongdongdo.
+
+796
+00:49:09,760 --> 00:49:11,428
+L'hélicoptère arrivera bientôt.
+
+797
+00:49:12,513 --> 00:49:14,932
+Mon Dieu, Monsieur Park.
+
+798
+00:49:23,399 --> 00:49:24,608
+[vrombissement d'hélicoptère]
+
+799
+00:49:29,905 --> 00:49:31,949
+HÉLICOPTÈRE MÉDICAL
+
+800
+00:49:49,341 --> 00:49:52,177
+Le patient est un homme de 65 ans.
+Il est arrivé il y a environ 30 minutes.
+
+801
+00:49:52,261 --> 00:49:54,888
+Pensant à une indigestion, elle
+se plaignait de douleurs thoraciques.
+
+802
+00:49:54,972 --> 00:49:58,767
+Je lui ai administré du NTG. Il a refusé d'aller
+à l'hôpital et s'est effondré une heure plus tard.
+
+803
+00:49:58,851 --> 00:50:01,770
+Il était dans un état de stupeur,
+sans pouls, alors je lui ai prodigué un massage cardiaque.
+
+804
+00:50:01,854 --> 00:50:04,231
+Et nous avons obtenu le retour à la circulation spontanée en cinq minutes.
+
+805
+00:50:04,315 --> 00:50:05,899
+Êtes-vous médecin ?
+
+806
+00:50:05,983 --> 00:50:07,693
+Pardon ? Oh oui.
+
+807
+00:50:08,277 --> 00:50:10,529
+Alors venez avec nous. Montez.
+
+808
+00:50:10,613 --> 00:50:12,281
+-Allez.
+-Va-t'en.
+
+809
+00:50:12,364 --> 00:50:14,658
+-Allez !
+-Il faut se dépêcher ! On va être en retard !
+
+810
+00:51:02,539 --> 00:51:04,750
+STYLE HÔPITAL ASONG
+::cue()
+
+811
+00:51:09,254 --> 00:51:12,299
+La cinétique de la paroi ventriculaire est altérée.
+Il faudra procéder à une coronarographie en urgence.
+
+812
+00:51:12,383 --> 00:51:13,384
+Oui, compris.
+
+813
+00:51:13,467 --> 00:51:14,968
+CAG : ANGIOGRAPHIE CORONAIRE
+
+814
+00:51:15,052 --> 00:51:17,554
+ZONE RÉSERVÉE
+
+815
+00:51:20,516 --> 00:51:21,975
+UNITÉ DE SOINS INTENSIFS
+
+816
+00:51:22,059 --> 00:51:23,769
+-[Jiui soupire]
+-[l'ambulancier soupire]
+
+817
+00:51:23,852 --> 00:51:26,313
+-Merci pour l'excellent travail accompli.
+-Merci.
+
+818
+00:51:26,397 --> 00:51:27,398
+Prends soin de toi.
+
+819
+00:51:28,232 --> 00:51:30,401
+-Monsieur, un instant.
+-Oui ?
+
+820
+00:51:31,443 --> 00:51:33,195
+-Et moi alors ?
+-Hein ?
+
+821
+00:51:33,278 --> 00:51:34,363
+-Hein ?
+-Que voulez-vous dire ?
+
+822
+00:51:34,446 --> 00:51:36,073
+Comment puis-je rentrer ?
+
+823
+00:51:36,156 --> 00:51:38,367
+Vous ? Pourquoi me demandez-vous cela ?
+
+824
+00:51:38,450 --> 00:51:40,411
+Je suppose que vous pourriez vous renseigner auprès de votre centre de santé.
+
+825
+00:51:40,953 --> 00:51:42,246
+Je pars maintenant.
+
+826
+00:51:42,329 --> 00:51:43,539
+-Au revoir.
+-D'accord.
+
+827
+00:51:43,622 --> 00:51:45,082
+Bon voyage.
+
+828
+00:51:46,417 --> 00:51:49,336
+Oui, salle de crise.
+Yeopoong One a terminé le transfert…
+
+829
+00:51:49,420 --> 00:51:52,840
+Donc on est censés se
+débrouiller pour rentrer chez nous, hein ?
+
+830
+00:51:55,175 --> 00:51:57,386
+Alors pourquoi diable
+m'a-t-il dit de venir ? Merde.
+
+831
+00:52:00,222 --> 00:52:01,640
+Comment suis-je censé rentrer ?
+
+832
+00:52:02,307 --> 00:52:06,979
+[Mme Hwang] Le dernier ferry est déjà parti
+pour aujourd'hui, alors trouvez un motel, dormez-y,
+
+833
+00:52:07,062 --> 00:52:09,481
+et prenez le premier ferry pour rentrer demain.
+
+834
+00:52:09,565 --> 00:52:10,733
+Ah, un ferry ?
+
+835
+00:52:10,816 --> 00:52:13,152
+[Mme Hwang] Bien sûr, un ferry.
+Que prendriez-vous d'autre ? Un train ?
+
+836
+00:52:13,235 --> 00:52:14,987
+Laissez tomber. Oui, je comprends.
+
+837
+00:52:15,487 --> 00:52:16,739
+[Mme Hwang] Bon travail aujourd'hui.
+
+838
+00:52:16,822 --> 00:52:17,865
+[raccroche]
+
+839
+00:52:19,491 --> 00:52:20,492
+C'est ça?
+
+840
+00:52:22,578 --> 00:52:23,579
+Oh, allez !
+
+841
+00:52:24,955 --> 00:52:25,956
+[soupirs]
+
+842
+00:52:28,500 --> 00:52:29,501
+Je suis tellement épuisé.
+
+843
+00:52:31,128 --> 00:52:32,129
+Je meurs de faim.
+
+844
+00:52:33,756 --> 00:52:35,758
+[♪ musique pop étouffée]
+
+845
+00:52:41,513 --> 00:52:42,848
+[expire profondément]
+
+846
+00:52:46,185 --> 00:52:49,104
+Dire que c'est
+mon premier repas depuis 24 heures…
+
+847
+00:52:51,440 --> 00:52:52,483
+[soupirs]
+
+848
+00:53:01,366 --> 00:53:03,327
+[sonnerie de téléphone]
+
+849
+00:53:05,996 --> 00:53:08,749
+[La sonnerie continue]
+
+850
+00:53:11,960 --> 00:53:14,379
+Applaudissements, applaudissements, applaudissements, bienvenue en enfer.
+
+851
+00:53:14,463 --> 00:53:15,798
+Tu as gagné un billet pour l'enfer !
+
+852
+00:53:15,881 --> 00:53:17,800
+Pyeondongdo, de tous les endroits ?
+
+853
+00:53:17,883 --> 00:53:20,260
+Tenez bon pendant un an,
+puis tentez de rejoindre le continent.
+
+854
+00:53:20,344 --> 00:53:22,721
+Si vous venez d'arriver,
+cela signifie-t-il que vous avez 340 jours ?
+
+855
+00:53:22,805 --> 00:53:25,808
+Jusqu'à ce que vous soyez autorisé à être muté
+dans une autre province ? [rire]
+
+856
+00:53:25,891 --> 00:53:28,435
+[Jiui] « Si vous venez d'arriver,
+cela signifie-t-il que vous avez 340 jours ? »
+
+857
+00:53:28,519 --> 00:53:29,978
+Est-ce que ce type se moque de moi ?
+
+858
+00:53:30,062 --> 00:53:32,815
+C'est parce que vous avez été
+un traître à la nation dans une vie antérieure.
+
+859
+00:53:32,898 --> 00:53:36,026
+J'étais timonier sur le navire tortue !
+Alors pourquoi m'a-t-on envoyé sur une île ?
+
+860
+00:53:36,109 --> 00:53:39,822
+Allez, 340 jours, ça passe
+en un clin d'œil.
+
+861
+00:53:39,905 --> 00:53:42,282
+Le seul inconvénient, c'est que
+vous n'avez pas droit à des congés. [rires]
+
+862
+00:53:42,366 --> 00:53:45,160
+Franchement, ces gens me
+coupent l'appétit.
+
+863
+00:53:48,121 --> 00:53:49,122
+[soupirs]
+
+864
+00:53:49,206 --> 00:53:51,208
+[♪ La musique pop étouffée continue de jouer]
+
+865
+00:54:00,050 --> 00:54:01,051
+[gémissements]
+
+866
+00:54:02,427 --> 00:54:03,554
+[grognements]
+
+867
+00:54:06,682 --> 00:54:09,685
+Je suis si fatigué…
+
+868
+00:54:09,768 --> 00:54:11,770
+[♪ musique de berceuse en cours]
+
+869
+00:54:15,816 --> 00:54:18,443
+Je devrais manger avant de dormir.
+J'ai vraiment faim…
+
+870
+00:54:20,445 --> 00:54:22,364
+Ces ramyeon vont être délicieux.
+
+871
+00:54:29,663 --> 00:54:32,374
+-[bruit de moteur de moto]
+-[sonnerie de téléphone portable]
+
+872
+00:54:34,167 --> 00:54:35,168
+[s'exclame]
+
+873
+00:54:40,424 --> 00:54:41,425
+[grognements]
+
+874
+00:54:43,760 --> 00:54:45,512
+Allô ? [grognements]
+
+875
+00:54:46,179 --> 00:54:47,889
+[Mme Hwang]
+Docteur, pourquoi n'êtes-vous pas encore là ?
+
+876
+00:54:50,809 --> 00:54:52,060
+Je suis encore au…
+
+877
+00:54:52,144 --> 00:54:53,979
+Pourquoi es-tu encore sur le continent ?
+
+878
+00:54:54,062 --> 00:54:56,106
+Tu aurais dû prendre le premier ferry pour rentrer !
+
+879
+00:54:56,189 --> 00:55:00,444
+Avez-vous la moindre idée de l'affluence
+dans un centre de santé publique ?
+
+880
+00:55:00,527 --> 00:55:02,529
+C'est à cause de l'urgence...
+
+881
+00:55:02,613 --> 00:55:04,781
+C'était hier, pas aujourd'hui !
+
+882
+00:55:04,865 --> 00:55:07,117
+Revenez vite
+ou vous serez dénoncé pour désertion.
+
+883
+00:55:07,200 --> 00:55:08,910
+Un avertissement pour avoir abandonné votre poste.
+
+884
+00:55:08,994 --> 00:55:10,120
+Deux avertissements
+
+885
+00:55:10,203 --> 00:55:12,831
+et vous n'êtes pas autorisé
+à transférer des provinces.
+
+886
+00:55:12,914 --> 00:55:15,000
+Tu veux vraiment te retrouver coincé ici
+pendant trois ans, hein ?
+
+887
+00:55:15,083 --> 00:55:19,046
+[Bégaiement] J'y vais !
+Je pars tout de suite.
+
+888
+00:55:19,880 --> 00:55:22,299
+Oh, pour l'amour du ciel !
+STYLE
+::cue()
+
+889
+00:55:26,762 --> 00:55:29,681
+-[cris de mouettes]
+-[sonnerie de corne de brume]
+
+890
+00:55:36,355 --> 00:55:39,566
+TRANSPORT MARIN DE YEOPOONG
+
+891
+00:55:40,359 --> 00:55:41,360
+[soupirs]
+
+892
+00:55:42,819 --> 00:55:43,820
+Ah.
+
+893
+00:55:50,285 --> 00:55:51,745
+[sonnerie de ligne]
+
+894
+00:55:53,914 --> 00:55:56,083
+Tu m'as dit que je pouvais te demander de l'aide
+
+895
+00:55:56,166 --> 00:55:59,920
+si j'avais le moindre problème
+avec quelque chose.
+
+896
+00:56:00,420 --> 00:56:02,005
+Il s'agit de Pyeongdongdo.
+
+897
+00:56:02,089 --> 00:56:04,841
+Existe-t-il un autre moyen de s'y rendre
+que le ferry ?
+
+898
+00:56:04,925 --> 00:56:07,386
+Un hachoir ou quelque chose du genre me conviendrait aussi.
+
+899
+00:56:07,469 --> 00:56:10,389
+[Mme Hwang] Arrêtez de dire des bêtises
+et venez ici !
+
+900
+00:56:10,472 --> 00:56:12,974
+Et désormais,
+si vous rencontrez des difficultés avec quoi que ce soit,
+
+901
+00:56:13,058 --> 00:56:15,519
+Ne m'en parle pas
+et débrouille-toi tout seul.
+
+902
+00:56:15,602 --> 00:56:17,104
+-Je raccroche !
+-Attendez.
+
+903
+00:56:17,187 --> 00:56:18,605
+-[La ligne est coupée]
+-Allô ? Mme Hwang…
+
+904
+00:56:20,023 --> 00:56:21,358
+Vous plaisantez j'espère?
+
+905
+00:56:21,441 --> 00:56:24,111
+[Annonceur au micro]
+Le navire à destination de Pyeongdongdo
+
+906
+00:56:24,194 --> 00:56:25,612
+est en train de partir.
+
+907
+00:56:26,780 --> 00:56:31,076
+Tous les passagers restants,
+veuillez embarquer à bord du navire maintenant.
+
+908
+00:56:39,584 --> 00:56:41,586
+[♪ musique éthérée]
+
+909
+00:57:28,550 --> 00:57:30,302
+[♪ musique éthérée s'estompe]
+
+910
+00:57:30,385 --> 00:57:32,387
+[♪ musique sereine en cours]
+STYLE
+::cue()
+
+911
+00:58:04,252 --> 00:58:08,673
+[Jiui] Les trois choses qu'il faut absolument éviter
+de rencontrer sur une île.
+
+912
+00:58:13,011 --> 00:58:15,388
+-Incidents…
+-Veuillez vous réveiller.
+
+913
+00:58:15,472 --> 00:58:16,932
+Se déplacer!
+
+914
+00:58:17,474 --> 00:58:18,475
+[Le chien aboie]
+
+915
+00:58:23,939 --> 00:58:24,940
+Personnes…
+
+916
+00:58:32,948 --> 00:58:34,199
+C'est terminé.
+
+917
+00:58:39,579 --> 00:58:40,580
+Et…
+
+918
+00:58:47,879 --> 00:58:49,881
+[♪ La musique sereine continue]
+
+919
+00:59:20,871 --> 00:59:25,166
+LES TROIS CHOSES À
+ÉVITER ABSOLUMENT SUR UNE ÎLE
+
+920
+00:59:25,250 --> 00:59:27,168
+INCIDENTS,
+
+921
+00:59:27,252 --> 00:59:29,671
+PERSONNES,
+
+922
+00:59:29,754 --> 00:59:32,299
+ET…
+
+923
+00:59:45,395 --> 00:59:48,315
+"SOLEIL, SORS
+DES NUAGES, S'IL TE PLAÎT"
+
+924
+01:00:00,410 --> 01:00:03,330
+MÉDECIN AU BORD DU MONDE
+
+925
+01:00:03,413 --> 01:00:05,790
+[Hari] Je veux dire, pourquoi est-ce qu'on
+se croise sans arrêt ?
+
+926
+01:00:05,874 --> 01:00:08,001
+[Jiui] Continue ton chemin
+et arrête de franchir la ligne.
+
+927
+01:00:08,084 --> 01:00:09,753
+Regardez-moi. J'ai failli franchir la ligne.
+
+928
+01:00:09,836 --> 01:00:11,296
+Hé!
+
+929
+01:00:13,506 --> 01:00:14,841
+Tu ne te souviens vraiment pas de moi ?
+
+930
+01:00:16,217 --> 01:00:18,803
+[Mme Hwang] Il s'est effectivement rendu au
+bureau du comté pour déposer une plainte.
+
+931
+01:00:18,887 --> 01:00:20,889
+[Jeongbae] Viens par ici
+si tu as envie de mourir.
+
+932
+01:00:21,473 --> 01:00:23,934
+[Hari] Pourquoi se faire opérer
+si c'est pour se comporter comme ça ?
+
+933
+01:00:24,017 --> 01:00:26,478
+J'ai peur ! Allez !
+
+934
+01:00:26,561 --> 01:00:28,146
+Attendons-nous quelqu'un ?
+
+935
+01:00:33,652 --> 01:00:35,654
+Traduction des sous-titres par : Yoon Hyuk Park
